@@ -1025,8 +1025,8 @@
  SAF_GER_autonomy_colony_DEF:0 "Das Reichsland Südafrika"
  SAF_GER_autonomy_dominion_DEF:0 "Südafrika"  
  
- GER_reichscolonie_Südwestafrika:0 "Reichscolonie Südwestafrika"
- GER_reichscolonie_Südwestafrika_DEF:0 "Das Reichscolonie Südwestafrika"
+ GER_reichscolonie_Sudwestafrika:0 "Reichscolonie Südwestafrika"
+ GER_reichscolonie_Sudwestafrika_DEF:0 "Das Reichscolonie Südwestafrika"
  
  NMB_GER_autonomy_reichscolonie:0 "Reichscolonie Südwestafrika"
  NMB_GER_autonomy_reichsprotectorate:0 "Reichsprotektorat Südwestafrika"
