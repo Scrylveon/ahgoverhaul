@@ -1,11 +1,8 @@
 
 state={
-	id=741
-	name="STATE_741"
-	resources={
-		rubber=12.000
-		aluminium=6.000
-	}
+	id=9024
+	name="STATE_9024"
+	
 
 	history={
 		add_core_of = CAM
@@ -14,7 +11,7 @@ state={
 	}
 
 	provinces={
-		1620 4330 7645 10204 12260 
+		7319 7376 7432 10289 10317
 	}
 	manpower=4428321
 	buildings_max_level_factor=1.000

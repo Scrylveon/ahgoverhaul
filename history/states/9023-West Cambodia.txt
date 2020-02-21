@@ -1,12 +1,8 @@
 
 state={
-	id=741
-	name="STATE_741"
-	resources={
-		rubber=12.000
-		aluminium=6.000
-	}
-
+	id=9023
+	name="STATE_9023"
+	
 	history={
 		add_core_of = CAM
 		owner = VIN
@@ -14,7 +10,7 @@ state={
 	}
 
 	provinces={
-		1620 4330 7645 10204 12260 
+		1324 4639 12447 12475 
 	}
 	manpower=4428321
 	buildings_max_level_factor=1.000
