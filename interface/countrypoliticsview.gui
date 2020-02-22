@@ -13,7 +13,8 @@ guiTypes = {
 		show_sound = menu_open_window
 		
 		background = {
-			name = "Background"		
+			name = "Background"	
+			position = { x = -45000 y = 8 }	
 			quadTextureSprite ="GFX_tiled_plain_bg"
 		}
 
@@ -282,7 +283,7 @@ guiTypes = {
 		
 		containerWindowType = {
 			name = "active_goal"
-			position = { x = 179 y = 48 }
+			position = { x = 17900 y = 48 }
 			size = { width = 330 height = 50 }
 			clipping = no
 						
@@ -443,8 +444,8 @@ guiTypes = {
 		
 		containerWindowType = {
 			name = "ideas"
-			position = { x = 0 y = 425 }
-			size = { width=100%% height=100%% }
+			position = { x = 10000 y = 42005 }
+			size = { width=1%% height=1%% }
 			verticalScrollbar = "right_vertical_slider"
 			margin = { top = 14 bottom = 13}
 		
@@ -457,7 +458,7 @@ guiTypes = {
 			
 			gridBoxType = {
 				name = "idea_categories_grid"
-				position = { x = 17 y = 0 }
+				position = { x = 17000 y = 0 }
 				size = { width = 100%% height = 100%% }
 				slotsize = { width = 64 height = 106 }
 				max_slots_horizontal = 1
@@ -498,7 +499,7 @@ guiTypes = {
 		iconType = {
 			name = "rules"
 			spriteType = "GFX_rules_sum_icon"
-			position = { x = 460 y = 7 }
+			position = { x = 46000 y = 7 }
 		}
 
 		buttonType = {
@@ -576,7 +577,7 @@ guiTypes = {
 	
 	containerWindowType = {
 		name = "country_politics_idea_category_entry"
-		position = { x = 0 y = 0 }
+		position = { x = 10000 y = 0 }
 		size = { width=550 height= 100 }
 		clipping = no
 		
@@ -616,7 +617,7 @@ guiTypes = {
 	
 	containerWindowType = {
 		name = "political_ideas_window"
-		position = { x = -356 y = 100 }	
+		position = { x = -35600 y = 100 }	
 		show_position = { x = 544 y = 100 }
 		show_animation_type = decelerated
 		hide_animation_type = accelerated
@@ -697,7 +698,7 @@ guiTypes = {
 	
 	containerWindowType = {
 		name = "idea_group"
-		position = { x = 0 y = 0 }
+		position = { x = 10000 y = 0 }
 		size = { width=500 height=30 }
 		#verticalScrollbar = "right_vertical_slider"
 		#margin = { top = 14 bottom = 12}
@@ -747,7 +748,7 @@ guiTypes = {
 
 		iconType = {
 			name = "idea_alert_glow"
-			position = { x = -14 y = -8 }
+			position = { x = -14000 y = -8 }
 			spriteType = "GFX_ongoing_generic_glow_yellow"
 			scale = 0.65			
 			alwaystransparent = yes
@@ -755,14 +756,14 @@ guiTypes = {
 		
 		buttonType = {
 			name = "add_idea_button"
-			position = { x = 0 y = 0 }
+			position = { x = 10000 y = 0 }
 			spriteType = "GFX_add_pol_idea_button"
 			clicksound = click_default
 		}
 		
 		iconType = {
 			name = "idea_traits"
-			position = { x = 43 y = 46 }
+			position = { x = 43000 y = 46 }
 			spriteType = "GFX_idea_traits_strip"
 			centerposition = yes
 			alwaystransparent = yes
@@ -778,13 +779,13 @@ guiTypes = {
 			
 		background = {
 			name = "idea_entry_bg"
-			position = { x = 3 y = 0 }
+			position = { x = 30000 y = 0 }
 			spriteType = "GFX_idea_entry_bg_2"
 		}
 			
 		iconType = {
 			name = "icon"
-			position = { x = 42 y = 38 }
+			position = { x = 42000 y = 38 }
 			spriteType = "GFX_placeholder_bordered"
 			centerposition = yes
 			alwaystransparent = yes
@@ -792,7 +793,7 @@ guiTypes = {
 
 		iconType = {
 			name = "idea_traits"
-			position = { x = 53 y = 51 }
+			position = { x = 53000 y = 51 }
 			spriteType = "GFX_idea_traits_strip"
 			centerposition = yes
 			alwaystransparent = yes
@@ -813,7 +814,7 @@ guiTypes = {
 		
 		gridboxtype = {
 			name = "traits_grid"
-			position = { x = 90 y = 28 }
+			position = { x = 90000 y = 28 }
 			size = { width = 231 height = 100%% }
 			slotsize = { width = 200 height = 15 }
 			add_horizontal = no
