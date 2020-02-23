@@ -462,8 +462,8 @@ guiTypes = {
 
 	containerWindowType = {
 		name = "error_log_win"
-		position = { x=0 y=-30}	
-		Orientation = lower_left
+		position = { x=-145 y=-30}	
+		Orientation = lower_right
 
 		buttonType = {
 			name = "this_is_dog"
