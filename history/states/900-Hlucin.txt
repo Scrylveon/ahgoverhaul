@@ -11,7 +11,7 @@ state={
 		add_core_of = CZE
 		add_core_of = CZC
 		add_core_of = SIL
-		add_core_of = PRS
+		add_core_of = PRE
 
 		1938.9.30 = {
 			owner = GER

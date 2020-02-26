@@ -292,7 +292,7 @@ set_convoys = 800
 	#	autonomous_state = autonomy_colony
 	#}
 	#set_autonomy = {
-	#	target = SLM
+	#	target = SOL
 	#	autonomous_state = autonomy_colony
 	#}
 	#set_autonomy = {
@@ -376,7 +376,7 @@ set_convoys = 800
 	#	puppet = KIR
 	#	puppet = FIJ
 	#	puppet = PTC
-	#	puppet = SLM
+	#	puppet = SOL
 	#	puppet = NCM
 	#	puppet = SCM
 	#	puppet = WTO

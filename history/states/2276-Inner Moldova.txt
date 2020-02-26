@@ -13,7 +13,7 @@ state={
 
 		add_core_of = ROM
 		add_claim_by = BUK
-		add_claim_by = GLC
+		add_claim_by = GAL
 		add_core_of = MOL
 
 	}

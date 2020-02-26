@@ -1,8 +1,8 @@
-﻿capital = 52
+﻿capital = 64
 
 set_research_slots = 3
 
-oob = "BAV_1936"
+oob = "PRE_1936"
 
 set_technology = {
 	infantry_weapons = 1
@@ -20,17 +20,17 @@ set_technology = {
 
 set_popularities = {
 	democratic 
-		= 10
+		= 0
 	fascism
 		= 30
 	communism
-		= 10
+		= 0
 	neutrality
 		= 0
 	monarchism
-		= 50
-	}
-	
+		= 70
+		}
+
 set_politics = { 
 	ruling_party = monarchism
 	last_election = "1960.1.1"
@@ -39,44 +39,23 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Franz Ritter von Epp"
+	name = "Wilhelm II von Hohenzollern"
 	desc = ""
-	picture = "BAV_Epp.tga"
+	picture = "PRE_WilhelmII.tga"
 	expire = "1960.1.1"
-	ideology = nazism
+	ideology = absolutism
 	traits = {
 		#
 	}
 }
 
 create_country_leader = {
-	name = "Ernst Toller"
+	name = "Hermann Göring"
 	desc = ""
-	picture = "BAV_Toller.tga"
+	picture = "PRE_Goering.tga"
 	expire = "1960.1.1"
-	ideology = stalinism
+	ideology = nazism
 	traits = {
-		
-	}
-}
-
-create_country_leader = {
-	name = "Heinrich Held"
-	desc = ""
-	picture = "BAV_Held.tga"
-	expire = "1960.1.1"
-	ideology = conservatism
-	traits = {
-		
-	}
-}
-
-create_country_leader = {
-	name = "Rupprecht von Wittelsbach"
-	desc = ""
-	picture = "BAV_Rupprecht.tga"
-	expire = "1951.1.1"
-	ideology = absolutism
-	traits = {
+		#
 	}
 }

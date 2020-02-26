@@ -9,7 +9,7 @@ state={
 
 		}
 		add_core_of = ROM
-		add_core_of = GLC
+		add_core_of = GAL
 		add_core_of = BUK
 
 	}

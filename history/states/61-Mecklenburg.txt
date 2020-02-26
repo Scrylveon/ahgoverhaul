@@ -11,15 +11,11 @@ state={
 		buildings = {
 			infrastructure = 6
 			arms_factory = 3
-			321 = {
-				naval_base = 6
-
-			}
 			air_base = 3
 
 		}
 		add_core_of = GER
-		add_core_of = MCK
+		add_core_of = MEK
 		add_core_of = DDR
 
 	}

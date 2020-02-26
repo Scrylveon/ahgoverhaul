@@ -350,7 +350,7 @@ TUV_ENG = {
 	color = rgb { 150 26 10 }
 	color_ui = rgb { 150 26 10 }
 }
-SLM_ENG = {
+SOL_ENG = {
 	color = rgb { 150 26 10 }
 	color_ui = rgb { 150 26 10 }
 }
@@ -1311,7 +1311,7 @@ SIL_CZE = {
 	color = rgb { 65 151 145 }
 	color_ui = rgb { 65 151 145 }
 }
-SCH_DEN = {
+SHL_DEN = {
 	color = rgb { 142 68 62 }
 	color_ui = rgb { 142 68 62 }
 }

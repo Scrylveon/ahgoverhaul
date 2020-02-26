@@ -534,7 +534,7 @@ LIE = {
 	color = rgb { 47  51  132 }
 	color_ui = rgb { 47  51  132 }	
 }
-BAV = {
+BAY = {
 	color = rgb { 120 166 193 }
 	color_ui = rgb { 120 166 193 }	
 }
@@ -562,7 +562,7 @@ MRS = {
 	color = rgb { 68 124 38 }
     color_ui = rgb { 68 123 38 }	
 }
-PRS = {
+PRE = {
 	color = rgb { 78 84 122 }
     color_ui = rgb { 78 84 122 }	
 }
@@ -785,7 +785,7 @@ THU = {
        color = rgb { 130 100 85 }
        color_ui = rgb { 130 100 85 }
 }
-SCH = {
+SHL = {
        color = rgb { 74 76 135 }
        color_ui = rgb { 74 76 135 }
 }
@@ -799,7 +799,7 @@ BDB = {
 	   color = rgb { 158 110 74 }
 	   color_ui = rgb { 153 102 51 }
 }
-MCK = {
+MEK = {
        color = rgb { 108 95 117 }
        color_ui = rgb { 108 95 117 }
 }
@@ -861,7 +861,7 @@ KUR = {
 	color = rgb { 76 117 173 }
 	color_ui = rgb { 76 117 173 }
 }
-GLC = {
+GAL = {
 	color = rgb { 178 49 73 }
 	color_ui = rgb { 178 49 73 }
 }
@@ -1424,7 +1424,7 @@ ATR = {
     color = rgb { 140 63 83 }
     color_ui = rgb { 140 63 83 }
 }
-GAL = {
+GLC = {
     color = rgb { 78 142 201 }
     color_ui = rgb { 78 142 201 }
 }   
@@ -1444,7 +1444,7 @@ ARA = {
     color = rgb { 191 129 36 }
     color_ui = rgb { 191 129 36 }
 }
-ANL = {
+ADU = {
     color = rgb { 117 145 106 }
     color_ui = rgb { 117 145 106 }
 }
@@ -4080,7 +4080,7 @@ TEU = {
 color = rgb { 192 192 192 }
 color_ui = rgb { 192 192 192 }
 }
-BAY = {
+BYR = {
 color = rgb { 192 192 192 }
 color_ui = rgb { 192 192 192 }
 }

@@ -5,7 +5,7 @@ state={
 		
 		owner = POL 
 		add_core_of = POL
-		add_core_of = GLC
+		add_core_of = GAL
 		buildings = {
 			infrastructure = 4
 			

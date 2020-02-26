@@ -7,8 +7,8 @@ state={
 	history={
 		owner = DEN
 		add_core_of = DEN
-		add_core_of = SCH
-		add_core_of = PRS
+		add_core_of = SHL
+		add_core_of = PRE
 	}
 	manpower = 1000
 	state_category = pastoral
