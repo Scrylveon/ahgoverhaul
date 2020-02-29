@@ -1,0 +1,14 @@
+state={
+	id=9037
+	name="STATE_9037"
+	provinces={
+		18328 18329 18330 18331 18333 18334 18335 18336 18338 18340 18342 18343 
+	}
+	history={
+		add_core_of = WTR
+		owner = WTR
+	}
+	state_category=town
+	manpower=1000
+	buildings_max_level_factor=1.000
+}
