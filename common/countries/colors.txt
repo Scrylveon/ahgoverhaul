@@ -4148,3 +4148,7 @@ WTR = {
 color = rgb { 0 43 88 }
 color_ui = rgb { 0 43 88 }
 }
+SLD = {
+color = rgb { 255 47 47 }
+color_ui = rgb { 255 47 47 }
+}
