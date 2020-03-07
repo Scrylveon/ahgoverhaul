@@ -2,7 +2,7 @@ state={
 	id=4169
 	name="STATE_4169"
 	provinces={
-		891 894 3897 9820 14890 
+		891 894 3897 9820 
 	}
 	history={
 		
