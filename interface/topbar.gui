@@ -628,13 +628,13 @@ guiTypes = {
 			iconType = {
 				name ="decision_view_alert_glow"
 				spriteType = "GFX_decisions_glow"	
-				position = { x =-104 y = 1 }
+				position = { x =-104 y = 9999 }
 				alwaystransparent = yes
 			}
 			
 			instantTextBoxType = {
 				name ="decisionview_amount_timeout_items"
-				position = { x= -70 y = 2 }
+				position = { x= -70 y = 9999 }
 				font = "hoi_18mbs"
 				text = "999"
 				format = center
@@ -645,7 +645,7 @@ guiTypes = {
 			
 			instantTextBoxType = {
 				name ="decisionview_amount_to_take_items"
-				position = { x= -70 y = 16 }
+				position = { x= -70 y = 9999 }
 				font = "hoi_18mbs"
 				text = "999"
 				format = center
