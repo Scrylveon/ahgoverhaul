@@ -187,10 +187,5 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 14229;15232;sea;2970;-1;1;-1;1;;USA(7)
 14231;14508;sea;3002;-1;1;-1;1;;USA(8)
 14511;14232;sea;8383;-1;1;-1;1;;USA(9)
-14250;10157;sea;5257;-1;1;-1;1;;USA(10)
-15537;10157;sea;5257;-1;1;-1;1;;USA(11)
-15537;15538;sea;5257;-1;1;-1;1;;USA(12)
-15539;15538;sea;5257;-1;1;-1;1;;USA(13)
-15536;14251;sea;5257;-1;1;-1;1;;Canada(8)
 4269;7385;sea;8751;-1;-1;-1;-1;;Fictional Strait for making the Phillippines' name look prettier
 -1;-1;;-1;-1;-1;-1;-1;-1
