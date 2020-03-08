@@ -2,8 +2,13 @@ state={
 	id=9100
 	name="STATE_9100"
 	provinces={
-		18492 
+		18506
 	}
-	manpower=0
+	history={
+		owner = WTR
+		add_core_of = WTR
+	}
+	state_category=wasteland
+	manpower=1000
 	buildings_max_level_factor=1.000
 }

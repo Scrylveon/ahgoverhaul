@@ -1,0 +1,14 @@
+state={
+	id=9252
+	name="STATE_9252"
+	provinces={
+		880 
+	}
+	history={
+		owner = USA
+		add_core_of = USA
+	}
+	state_category=pastoral
+	manpower=1000
+	buildings_max_level_factor=1.000
+}
