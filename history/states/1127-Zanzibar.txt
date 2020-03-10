@@ -7,10 +7,6 @@ state={
 		owner = ZAN
 		buildings = {
 			infrastructure = 3
-			13312 = {
-				naval_base = 2
-
-			}
 
 		}
 		add_core_of = ZAN
@@ -18,7 +14,7 @@ state={
 	}
 
 	provinces={
-		13312 13635 
+		13312 
 	}
 	manpower=14523
 	buildings_max_level_factor=1.000
