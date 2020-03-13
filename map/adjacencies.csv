@@ -5,19 +5,12 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 12251;10321;sea;8313;-1;-1;-1;-1;;Andaman
 7413;1419;sea;5294;-1;-1;-1;-1;;Moluccas
 10141;1419;sea;5267;-1;-1;-1;-1;;Moluccas
-480;9431;sea;8621;-1;-1;-1;-1;;Netherlands outlier
 8857;2284;sea;7617;1560;1009;1556;1016;PANAMA_CANAL;Panama
 299;211;sea;2282;-1;-1;-1;-1;;Småland-Öland
 14212;6066;sea;990;-1;-1;-1;-1;;Finald-Aland
-6345;6287;sea;2382;-1;-1;-1;-1;;Skåne-Sjaelland
-3260;3325;sea;2408;-1;-1;-1;-1;;Sjaelland-Fyn
-3260;3374;sea;2408;-1;-1;-1;-1;;Sjaelland-SdFyn
 6350;3379;sea;8340;-1;-1;-1;-1;;Ireland to Britain
-3277;3325;sea;2408;-1;-1;-1;-1;;Fyn-Jylland
-11251;3325;sea;2408;2956;1628;2960;1629;;Fyn-SdrJylland
 83;185;sea;1885;-1;-1;-1;-1;;Estonia-Ösel
 185;6201;sea;1885;-1;-1;-1;-1;;Ösel-Dagö
-83;6201;sea;1660;-1;-1;-1;-1;;Dagö-Estonia
 12299;12113;sea;5539;-1;-1;-1;-1;;Singapore-Batam
 7396;1401;sea;5615;-1;-1;-1;-1;;Bangka Belitung-Sumatra
 1342;10279;sea;2737;-1;-1;-1;-1;;Java-Sumatra
@@ -92,7 +85,6 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 9859;3962;sea;5946;-1;-1;-1;-1;;Tsugaru Strait
 10011;7110;sea;2708;-1;-1;-1;-1;;Tushima-Kyushu
 4160;1070;sea;5244;-1;-1;-1;-1;;Hainan-Strait
-1712;12147;sea;8978;-1;-1;-1;-1;;Quebec-Strait
 7259;1393;sea;5257;-1;-1;-1;-1;;Vancouver-Strait
 11047;198;sea;8370;-1;-1;-1;-1;;Barents-Strait
 11157;3145;sea;5792;-1;-1;-1;-1;;Northern-Straits
@@ -109,7 +101,6 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 7683;13225;sea;8642;-1;-1;-1;-1;;Anticosti Island
 7810;12698;sea;2935;-1;-1;-1;-1;;Newfundland
 11064;13224;sea;3195;-1;-1;-1;-1;;Orkney Island
-13287;13288;sea;2871;-1;-1;-1;-1;;Channel Islands
 13302;7463;sea;5960;-1;-1;-1;-1;;Rupat-Sumatra
 13301;1277;sea;5960;-1;-1;-1;-1;;Bengkails Island
 13300;12168;sea;5960;-1;-1;-1;-1;;Rangsang Island
@@ -135,20 +126,8 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 13234;1903;sea;3818;-1;-1;-1;-1;;Nigeria-Fernando Po
 13635;2196;sea;5394;-1;-1;-1;-1;;Zanzibar-Tanzania
 10201;4416;sea;7479;-1;-1;-1;-1;;Ceylon-Raj
-11251;13822;sea;2408;-1;-1;-1;-1;;Danish Islands
-13822;13316;sea;2408;-1;-1;-1;-1;;Danish Islands Again
-13315;6364;sea;2408;-1;-1;-1;-1;;Danish Islands
-13315;3325;sea;2408;-1;-1;-1;-1;;Danish Islands
-3374;13316;sea;2408;-1;-1;-1;-1;;Danish Islands
-13316;3305;sea;2408;-1;-1;-1;-1;;Denmark
-3305;6393;sea;2408;-1;-1;-1;-1;;Denmark
-13852;14203;sea;2408;-1;-1;-1;-1;;Germany but for Denmark
-13852;3305;sea;2408;-1;-1;-1;-1;;Denmark
-13852;13316;sea;2408;-1;-1;-1;-1;;Denmark
-13822;317;sea;2408;-1;-1;-1;-1;;Denmark
 13314;394;sea;2431;-1;-1;-1;-1;;Denmark
 13844;9388;sea;2358;-1;-1;-1;-1;;Rugen
-11278;14214;sea;1211;-1;-1;-1;-1;;Aland-Sweden
 1570;12499;sea;5340;-1;-1;-1;-1;;Australia
 8038;13071;sea;2246;-1;-1;-1;-1;;Canaries
 3373;15976;sea;3590;-1;-1;-1;-1;;Scotland(4)
@@ -158,7 +137,6 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 3083;14211;sea;990;-1;1;-1;1;;Turku
 14212;14213;sea;990;-1;1;-1;1;;Åland(1)
 14212;9228;sea;990;-1;1;-1;1;;Åland(2)
-14213;14214;sea;1211;-1;1;-1;1;;Åland(3)
 13840;4430;sea;8614;-1;1;-1;1;;Canada(3)
 15289;10715;sea;13164;-1;1;-1;1;;Canada(4)
 15293;12698;sea;2935;-1;1;-1;1;;Canada(5)

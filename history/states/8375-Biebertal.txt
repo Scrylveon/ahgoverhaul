@@ -9,6 +9,8 @@ state={
 		add_core_of = GER
         add_core_of = WGR
 		add_core_of = PRS
+		add_core_of = ASB
+		add_core_of = FPR
 		buildings = {
 			infrastructure = 4
 		}

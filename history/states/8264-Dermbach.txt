@@ -8,6 +8,8 @@ state={
 		owner = GER
 		add_core_of = GER
         add_core_of = DDR
+        add_core_of = WRZ
+        add_core_of = BAV
 		buildings = {
 			infrastructure = 4
 		}

@@ -13,8 +13,9 @@ state={
 			11544 10 
 		}
 		add_core_of = GER
-		add_core_of = BAV
 		add_core_of = WGR
+		add_core_of = FPR
+		add_core_of = ASB
 
 	}
 
