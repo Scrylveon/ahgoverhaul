@@ -9,6 +9,9 @@ state={
 
 	history={
 		owner = ENG
+		add_core_of = ENG
+		add_core_of = EGL
+		add_core_of = NUM
 		victory_points = {
 			351 10 
 		}
@@ -23,17 +26,13 @@ state={
 			}
 
 		}
-		add_core_of = ENG
-		add_core_of = EGL
-		add_core_of = NUM
 		
-
 	}
 
 	provinces={
 		219 351 
 	}
-	manpower=2024430
+	manpower=0
 	buildings_max_level_factor=1.000
 	state_category=city
 }

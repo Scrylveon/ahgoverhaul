@@ -3297,8 +3297,8 @@ color = rgb { 61 192 150 }
 color_ui = rgb { 61 192 150 }
 }
 NUM = {
-color = rgb { 0 219 255 }
-color_ui = rgb { 0 219 255 }
+color = rgb { 244 163 11 }
+color_ui = rgb { 244 163 11 }
 }
 SRC = {
 color = rgb { 85 7 148 }
