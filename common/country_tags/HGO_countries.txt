@@ -271,6 +271,10 @@ ZAN = "countries/zanzibar.txt"
 
 ##Special##
 UNC = "countries/Unclaimed.txt"
+ANC = "countries/Anarchy.txt"
+BDT = "countries/Bandits.txt"
+TRB = "countries/Tribes.txt"
+WST = "countries/Wasteland.txt"
 ##France##
 NND = "countries/Normandy.txt"
 PAS = "countries/Paris.txt"
@@ -638,6 +642,7 @@ VCR = "countries/Victoria.txt"
 QNS = "countries/Queensland.txt"
 TAS = "countries/Tasmania.txt"
 ACT = "countries/Canberra.txt"
+NFI = "countries/Norfolk Island.txt"
 SNZ = "countries/New Munster.txt"
 NNZ = "countries/New Ulster.txt"
 NLN = "countries/New Leinster.txt"

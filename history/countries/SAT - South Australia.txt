@@ -1,4 +1,4 @@
-﻿capital = 1024
+﻿capital = 2024
 
 oob = "SAT_1936"
 

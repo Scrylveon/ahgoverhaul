@@ -1,7 +1,7 @@
 
 state={
 	id=2022
-	name="STATE_2022"
+	name="STATE_2022" # Brisbane
 	resources={
 		tungsten=24.000
 	}
@@ -27,9 +27,9 @@ state={
 	}
 
 	provinces={
-		2221 10941 2116 11006 5227 4546 4530 7535 7592 12451 10458 10445 7564 10430 
+		4530 7535 10445 7564 10430
 	}
-	manpower=714600
+	manpower=0
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=pastoral
 }
