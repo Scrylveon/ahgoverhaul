@@ -8,6 +8,7 @@ state={
 	    owner = AUS
         add_core_of = AUS
         add_core_of = BRG
+	add_core_of = EAS
     }	
 	manpower=1000
 	state_category = pastoral
