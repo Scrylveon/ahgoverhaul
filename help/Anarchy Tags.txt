@@ -1,0 +1,41 @@
+HGO includes some simple releasable nations to represent areas without a government.
+If you want more than 1 type of these tags, use the civil war feature from Toolpack to get an extra nation.
+By default, the nations are nonaligned. The other ideologies provide some minor alternatives, with a suggested description of what they mean/should be used for, 
+although its really up to you.
+These tags have cores on Taiwan (specifically, the state containing Taipei). Use toolpack to release them.
+ 
+Anarchy
+    Democratic - Rebels - To represent unorganized people rebelling against a government.
+    Nonaligned - Anarchy - Inhabited land without a real state
+    Fascist - Chaos - A central government might have existed, but cannot maintain order due to widespread rioting etc.
+    Communist - Anarchist Communes - No real government, but small communes exist.
+    Monarchist - Free Zone - an area that is considered part of a state, but that state has been subjugated by another power, leaving the
+                             unoccupied areas (the free zone) in a state of effective anarchy
+ 
+Bandits
+    Democratic - Raiders - Alternative name to bandits. No real difference.
+    Nonaligned - Bandits - An area that lacks a real government, but various unconnected bandit clans have control of most land
+    Fascist - Warlord Cliques - An area ruled by warlords.
+    Communist - Bandit Collective - An area ruled by multiple bandits with semicentralized control. somewhat closer to a real nation.
+    Monarchist - Bandit Kingdom - An area ruled by one bandit with centralized control. closer to a real nation. alternative name.
+ 
+Tribes
+    Democratic - Tribals - alternative name to tribes. no real difference.
+    Nonaligned - Tribes - Loose groups of human tribes. Not technologically advanced and with no real nation.
+    Fascist - Barbarians - Outwardly aggressive, expansionist tribals. Think Gauls
+    Communist - Tribal collective - an area ruled by multiple tribes with semicentralized control. somewhat closer to a real nation.
+    Monarchist - Tribal Chiefdom - an area ruled by one tribe with centralized control. closer to a real nation.
+ 
+Wasteland
+    Democratic - Inhospitable Land - Land that is not generally deadly to human life, but extremely difficult to live on
+    Nonaligned - Wasteland - Land that is generally uninhabitable
+    Fascist - Death Zone - Land that is deadly to human life
+    Communist - Industrial Wasteland - Ruined cities and industrial zones that are largely uninhabited
+    Monarchist - Nuclear Wasteland - Wasteland created by radiation. generally uninhabitable.
+ 
+Nomads
+    Democratic - Nomadic Tribes - More primitive type of nomadic tribe, as opposed to the general, nonaligned definition.
+    Nonaligned - Nomads - An area without a government. Its population live nomadic lifestyles.
+    Fascist - Nomadic Hordes - Outwardly aggressive, expansionist nomads. Think mongols
+    Communist - Horselords - nomads that specifically use horses.
+    Monarchist - Khanates - Nomadic chiefdoms of the Great Steppe region. The area is inhabited by multiple, independent Khanates.

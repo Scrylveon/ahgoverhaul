@@ -1,0 +1,3 @@
+Q: Some nations have no flag.
+A: Some countries did not have a national flag in 1936. These include Ethiopia, Bhutan, and (etc?). Most anarchy releasables also lack a flag deliberately, due to not being
+   countries. If you want a national flag for the nations that historically lacked them, (not added yet:) you can switch them to Monarchism.
