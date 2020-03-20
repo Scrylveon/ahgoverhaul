@@ -78,6 +78,16 @@ create_country_leader = {
 	}
 }
 
+create_country_leader = {
+	name = "Duarte II of Braganza"
+	desc = ""
+	picture = "Portrait_Duarte_II_of_Braganza.dds"
+	expire = "1965.1.1"
+	ideology = absolutism
+	traits = {
+		#
+	}
+}
 
 create_corps_commander = {
 	name = "José Vicente de Freitas"

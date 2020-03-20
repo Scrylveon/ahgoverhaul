@@ -16,9 +16,9 @@ set_convoys = 10
 
 	set_popularities = {
         democratic = 0
-        fascism = 0
-	monarchism = 40
-        neutrality = 60
+        communism = 0
+	fascism = 0
+        neutrality = 100
 
 	}
 	

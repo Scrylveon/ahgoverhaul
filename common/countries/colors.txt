@@ -3296,10 +3296,6 @@ MER = {
 color = rgb { 61 192 150 }
 color_ui = rgb { 61 192 150 }
 }
-NUM = {
-color = rgb { 244 163 11 }
-color_ui = rgb { 244 163 11 }
-}
 SRC = {
 color = rgb { 85 7 148 }
 color_ui = rgb { 85 7 148 }
@@ -4179,4 +4175,8 @@ color_ui = rgb { 158 130 83 }
 NOM = {
 color = rgb { 184 153 46 }
 color_ui = rgb { 184 153 46 }
+}
+NUM = {
+color = rgb { 244 163 11 }
+color_ui = rgb { 244 163 11 }
 }

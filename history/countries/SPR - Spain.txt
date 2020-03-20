@@ -107,6 +107,17 @@ create_country_leader = {
 	}
 }
 
+create_country_leader = {
+	name = "Alfonso XIII of Bourbon"
+	desc = ""
+	picture = "Portrait_Spain_Alfonso_XIII.dds"
+	expire = "1965.1.1"
+	ideology = absolutism
+	traits = {
+		#
+	}
+}
+
 create_field_marshal = {
 	name = "José Asensio Torrado"
 	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_land_2.dds"
