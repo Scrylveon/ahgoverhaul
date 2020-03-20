@@ -4176,3 +4176,7 @@ WST = {
 color = rgb { 158 130 83 }
 color_ui = rgb { 158 130 83 }
 }
+NOM = {
+color = rgb { 184 153 46 }
+color_ui = rgb { 184 153 46 }
+}

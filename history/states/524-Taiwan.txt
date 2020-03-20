@@ -15,6 +15,7 @@ state=
 		add_core_of = BDT
 		add_core_of = TRB
 		add_core_of = WST
+		add_core_of = NOM
 		buildings = {
 			infrastructure = 5
 			arms_factory = 1
