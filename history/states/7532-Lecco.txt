@@ -7,6 +7,8 @@ state={
 	history={
 	    owner = ITA
         add_core_of = ITA
+	add_core_of = VNC
+	add_core_of = LOM
     }	
 	manpower = 1000
 	state_category = pastoral

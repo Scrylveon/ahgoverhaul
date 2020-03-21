@@ -9,6 +9,7 @@ state={
 		add_claim_by = SLV
 		add_core_of = TRS
 		add_core_of = IST
+		add_core_of = VNC
 		victory_points = {
 			13313 5 
 		}
