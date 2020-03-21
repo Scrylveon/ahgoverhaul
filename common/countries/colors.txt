@@ -4180,3 +4180,32 @@ NUM = {
 color = rgb { 244 163 11 }
 color_ui = rgb { 244 163 11 }
 }
+
+TML = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+MAH = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+BIH = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+ORI = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+UTT = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+MAD = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+PSH = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}

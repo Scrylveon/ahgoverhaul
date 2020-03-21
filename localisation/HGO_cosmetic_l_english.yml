@@ -567,6 +567,8 @@
  IBER_neutrality_DEF:0 "The Kingdom of Iberia"
  IBER_fascism:0 "Iberian Empire"
  IBER_fascism_DEF:0 "The Iberian Empire"
+ IBER_monarchism:0 "Iberian Empire"
+ IBER_monarchism_DEF:0 "The Iberian Empire"
  IBER_communism:0 "Union of Iberia"
  IBER_communism_DEF:0 "The Union of Iberia"
  IBER_ADJ:0 "Iberian"
