@@ -12,11 +12,6 @@ state={
 			infrastructure = 6
 			industrial_complex = 1
 			air_base = 1
-			7564 = {
-				naval_base = 2
-				coastal_bunker = 1
-
-			}
 		}
 		add_core_of = AST
 		add_core_of = QNS
@@ -29,7 +24,7 @@ state={
 	provinces={
 		4530 7535 10445 7564 10430
 	}
-	manpower=0
+	manpower=1000
 	buildings_max_level_factor=1.000
 	state_category=pastoral
 }
