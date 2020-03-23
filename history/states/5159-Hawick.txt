@@ -12,7 +12,7 @@ state={
 		owner = ENG
 		add_core_of = ENG
 		add_core_of = SCO
-		add_claim_by = NUM
+		add_claim_by = NUD
 		buildings = {
 			infrastructure = 5
 		}

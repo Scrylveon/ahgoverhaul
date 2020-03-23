@@ -4180,10 +4180,6 @@ NOM = {
 color = rgb { 184 153 46 }
 color_ui = rgb { 184 153 46 }
 }
-NUM = {
-color = rgb { 244 163 11 }
-color_ui = rgb { 244 163 11 }
-}
 TML = {
 color = rgb { 150 150 150 }
 color_ui = rgb { 150 150 150 }
@@ -4211,4 +4207,8 @@ color_ui = rgb { 150 150 150 }
 PSH = {
 color = rgb { 150 150 150 }
 color_ui = rgb { 150 150 150 }
+}
+NUD = {
+color = rgb { 244 163 11 }
+color_ui = rgb { 244 163 11 }
 }

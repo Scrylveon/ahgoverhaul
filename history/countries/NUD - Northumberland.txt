@@ -1,6 +1,6 @@
 ﻿capital = 4941
 
-oob = "NUM_1936"
+oob = "NUD_1936"
 
 # Starting tech
 set_technology = {
@@ -15,10 +15,10 @@ set_convoys = 10
 
 
 	set_popularities = {
-        democratic = 0
-        communism = 0
-	fascism = 0
-        neutrality = 100
+        democratic =  0
+        communism =  0
+        fascism =  0
+        neutrality =  100
 
 	}
 	
@@ -36,6 +36,17 @@ create_country_leader = {
 	picture = "Portrait_Henry_Percy.dds"
 	expire = "1965.1.1"
 	ideology = despotism
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "King Henry II of Percy"
+	desc = ""
+	picture = "Portrait_Henry_Percy.dds"
+	expire = "1965.1.1"
+	ideology = absolutism
 	traits = {
 		#
 	}
