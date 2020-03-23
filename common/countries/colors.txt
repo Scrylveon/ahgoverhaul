@@ -4116,6 +4116,10 @@ LGC = {
 color = rgb { 150 26 10 }
 color_ui = rgb { 150 26 10 }
 }
+SNV = {
+	color = rgb { 124 0 0 }
+	color_ui = rgb { 124 0 0 }
+}
 LGP = {
 color = rgb { 150 26 10 }
 color_ui = rgb { 150 26 10 }
@@ -4180,7 +4184,6 @@ NUM = {
 color = rgb { 244 163 11 }
 color_ui = rgb { 244 163 11 }
 }
-
 TML = {
 color = rgb { 150 150 150 }
 color_ui = rgb { 150 150 150 }
