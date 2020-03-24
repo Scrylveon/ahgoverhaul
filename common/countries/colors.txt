@@ -1165,8 +1165,8 @@ BAR = {
       color_ui = rgb { 16 114 5 }
 }
 TRI = {
-      color = rgb { 16 114 5 }
-      color_ui = rgb { 16 114 5 }
+      color = rgb { 84 104 43 }
+      color_ui = rgb { 84 104 43 }
 }
 BAS = {
       color = rgb { 16 114 5 }
