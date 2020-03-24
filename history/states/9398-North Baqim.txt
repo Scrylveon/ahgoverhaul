@@ -1,15 +1,14 @@
 state={
-	id=6651
-	name="STATE_6651"
+	id=9398
+	name="STATE_9398"
 	provinces={
-		16937 
+		18614 
 	}
 	history={
-	    owner = NOM
-        add_core_of = NOM
+	    owner = SAU
+        add_core_of = SAU
     }	
 	manpower=10
-	impassable = yes
 	state_category = pastoral
 	buildings_max_level_factor=1.000
 }

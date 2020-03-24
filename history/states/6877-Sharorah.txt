@@ -5,10 +5,10 @@ state={
 		17309 
 	}
 	history={
-	    owner = SAU
-        add_core_of = SAU
+	    owner = NOM
+        add_core_of = NOM
     }	
-	manpower=1000
+	manpower=10
 	state_category=pastoral
 	impassable = yes
 	buildings_max_level_factor=1.000

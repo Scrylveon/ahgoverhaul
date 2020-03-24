@@ -6,13 +6,12 @@ state={
 	}
 	history={
 		
-		owner = YEM 
-		add_core_of = YEM
+		owner = NOM 
+		add_core_of = NOM
 	}
 	manpower=1000
 	state_category=pastoral
 	buildings_max_level_factor=1.000
-	state_category = pastoral
 	impassable = yes
-	manpower = 1000
+	manpower = 10
 }

@@ -6,7 +6,7 @@ state={
 	}
 	history = {
 		owner = KEN
-		add_ore_of = KEN
+		add_core_of = KEN
 		add_claim_by = JUB
 		add_claim_by = SOM
 	}

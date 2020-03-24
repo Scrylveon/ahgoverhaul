@@ -1,13 +1,13 @@
 state={
-	id=6630
-	name="STATE_6630"
+	id=9407
+	name="STATE_9407"
 	provinces={
-		16902 
+		18621 
 	}
 	history={
-	    owner = AHL
-        add_core_of = AHL
-        add_core_of = YEM
+	    owner = PAN
+        add_core_of = PAN
+        add_core_of = COS
     }	
 	manpower=1000
 	state_category = pastoral
