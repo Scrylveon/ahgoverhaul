@@ -16,7 +16,7 @@ Bandits
     Democratic - Raiders - Alternative name to bandits. No real difference.
     Nonaligned - Bandits - An area that lacks a real government, but various unconnected bandit clans have control of most land
     Fascist - Warlord Cliques - An area ruled by warlords.
-    Communist - Bandit Collective - An area ruled by multiple bandits with semicentralized control. somewhat closer to a real nation.
+    Communist - Pirates - A coastal area that lacks a real government, but various unconnected pirate crews have control of most of the region.
     Monarchist - Bandit Kingdom - An area ruled by one bandit with centralized control. closer to a real nation. alternative name.
  
 Tribes
