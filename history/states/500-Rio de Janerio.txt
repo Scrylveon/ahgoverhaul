@@ -12,10 +12,6 @@ state={
 			industrial_complex = 4
 			dockyard = 2
 			air_base = 7
-			10980 = {
-				naval_base = 7
-
-			}
 			
 
 		}
@@ -26,7 +22,7 @@ state={
 	}
 
 	provinces={
-		5172 8190 10980 12996 13507 13508 
+		10980
 	}
 	manpower=6665500
 	buildings_max_level_factor=1.000

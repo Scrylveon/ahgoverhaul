@@ -4212,3 +4212,15 @@ NUD = {
 color = rgb { 244 163 11 }
 color_ui = rgb { 244 163 11 }
 }
+TRM = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+PEP = {
+color = rgb { 0 133 202 }
+color_ui = rgb { 0 133 202 }
+}
+CKC = {
+color = rgb { 244 0 0 }
+color_ui = rgb { 244 0 0 }
+}
