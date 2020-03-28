@@ -2130,9 +2130,9 @@
  BOGD_fascism:0 "Great Mongolian State"
  BOGD_fascism_DEF:0 "the Great Mongolian State"
  BOGD_communism:0 "Revolutionary Provisional Government of Mongolia"
- BOGD_communism:0 "the Revolutionary Provisional Government of Mongolia"
- BOGD_communism:0 "Impreial Confederation of Mongolian Khanates"
- BOGD_communism:0 "the Impreial Conederation of Mongolian Khanates"
+ BOGD_communism_DEF:0 "the Revolutionary Provisional Government of Mongolia"
+ BOGD_monarchism:0 "Impreial Confederation of Mongolian Khanates"
+ BOGD_monarchism_DEF:0 "the Impreial Conederation of Mongolian Khanates"
 
  SOV_USS_neutrality:0 "Eurasian Union"
  SOV_USS_neutrality_DEF:0 "the Eurasian Union"
