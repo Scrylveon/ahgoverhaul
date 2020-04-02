@@ -11,6 +11,7 @@ state={
 	history={
 		owner = GRE
 		add_core_of = GRE
+		add_claim_by = BUL
 	}
 	
 	buildings_max_level_factor=1.000
