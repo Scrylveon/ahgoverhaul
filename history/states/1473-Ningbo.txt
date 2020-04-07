@@ -6,6 +6,7 @@ state={
 		owner = CHI
 		add_core_of = CHI
 		add_core_of = PRC
+		add_core_of = CKG
 		victory_points = {
 			9974 4
 		}
