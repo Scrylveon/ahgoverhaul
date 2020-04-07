@@ -4224,3 +4224,435 @@ CKC = {
 color = rgb { 244 0 0 }
 color_ui = rgb { 244 0 0 }
 }
+RDN = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+PRA = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+MTG = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+MGS = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+AMP = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+ROR = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+TCT = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+GOI = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+SPU = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+RDJ = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+ESS = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+BHA = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+CRA = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+RGN = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+PRB = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+PNB = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+AGS = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+SEP = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+PUI = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+MRH = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+PRN = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+IGC = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+BFD = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+SNL = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+CUU = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+DRG = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+BCS = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+NUL = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+TMU = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+ZCT = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+SLP = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+VRC = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+QTR = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+CPC = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+TBS = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+OXC = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+GRR = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+JLS = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+MHC = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+PBL = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+CAU = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+NYR = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+AGC = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+CLM = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+GJR = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+HDL = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+MXS = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+MXC = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+MRL = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+QTA = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+TXC = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+NAV = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+EXD = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+CST = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+LMC = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+MDD = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+SVA = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+CLC = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+BIY = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+NOW = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+PSE = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+VLH = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+LBL = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+KIE = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+VGR = {
+color = rgb { 121 0 0 }
+color_ui = rgb { 121 0 0 }
+}
+WSW = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+LDZ = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+TAP = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+LWO = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+STW = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+WLN = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+MSV = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+ASY = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+ETC = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+WTC = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+SAZ = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+MHB = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+GLN = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+MZD = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+ARL = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+LAR = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+LRS = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+KHO = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+KRM = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+FAS = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+TBR = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+PSC = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+RFC = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+RGC = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+HOA = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+FUK = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+NNK = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+ZGH = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+TNT = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+ANW = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+KWC = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+CIL = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+KGS = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+HPH = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+KNG = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+CKG = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+HNN = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+PKG = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+SGE = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+NIU = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+TKL = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+CKI = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+DGC = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
