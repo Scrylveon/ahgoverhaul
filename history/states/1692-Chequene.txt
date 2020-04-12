@@ -9,7 +9,6 @@ state={
 
 		}
 		add_core_of = COL
-		add_core_of = AMZ
 
 	}
 	

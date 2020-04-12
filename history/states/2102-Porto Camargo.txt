@@ -11,6 +11,8 @@ state={
 
 		}
 		add_core_of = BRA
+		add_core_of = IGC
+		add_core_of = MGS
 
 	}
 	provinces={

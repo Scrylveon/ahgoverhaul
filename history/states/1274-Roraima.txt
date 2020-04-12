@@ -9,7 +9,8 @@ state={
 
 		}
 		add_core_of = BRA
-		add_core_of = AMZ
+		add_core_of = ROR
+		add_claim_by = AMZ
 
 	}
 	
