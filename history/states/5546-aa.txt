@@ -5,6 +5,7 @@ state={
 	history = {
 		owner = POL
 		add_core_of = POL
+		add_core_of = MSV
 		add_core_of = WSW
 	}
 	manpower = 1000

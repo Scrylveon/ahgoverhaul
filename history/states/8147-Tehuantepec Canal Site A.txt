@@ -6,6 +6,7 @@ state={
 	}
 	history={
 		owner = MEX
+		add_core_of = VRC
 		add_core_of = MEX
 	}
 	manpower = 1000

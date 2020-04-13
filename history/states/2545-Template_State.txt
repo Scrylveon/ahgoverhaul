@@ -3,6 +3,7 @@ state={
 	name="STATE_2545"
 	history={
 		owner = NZL 
+		add_core_of = NIU
 		buildings = {
 			infrastructure = 4
 			

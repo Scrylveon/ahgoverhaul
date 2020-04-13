@@ -12,6 +12,7 @@ state={
 			
 		}
 		add_core_of = MEX
+		add_core_of = MXC
 	}
 	manpower = 6900
 	state_category = pastoral
