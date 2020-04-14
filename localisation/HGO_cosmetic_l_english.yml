@@ -1732,10 +1732,10 @@
  
  VNC_GER_autonomy_reichskommissariat:0 "Reichskommissariat Norditalien"
  VNC_GER_autonomy_reichsprotectorate:0 "Reichsprotektorat Norditalien"
- VNC_GER_autonomy_satellite:0 "The First Slovak State"
+ VNC_GER_autonomy_satellite:0 "Norditalien"
  VNC_GER_autonomy_reichskommissariat_DEF:0 "Das Reichskommissariat Norditalien"
  VNC_GER_autonomy_reichsprotectorate_DEF:0 "Das Reichsprotektorat Norditalien"
- VNC_GER_autonomy_satellite_DEF:0 "The First Slovak State"
+ VNC_GER_autonomy_satellite_DEF:0 "Norditalien"
  
  VNC_GER_autonomy_integrated_puppet:0 "Reichskommissariat Norditalien"
  VNC_GER_autonomy_puppet:0 "Reichsprotektorat Norditalien"
@@ -1746,6 +1746,34 @@
  VNC_GER_autonomy_colony_DEF:0 "Das Reichsland Norditalien"
  VNC_GER_autonomy_dominion_DEF:0 "Norditalien"
  
+ CRM_GER_autonomy_reichskommissariat:0 "Reichskommissariat Gotenland"
+ CRM_GER_autonomy_reichsprotectorate:0 "Reichsprotektorat Gotenland"
+ CRM_GER_autonomy_satellite:0 "Gotenland"
+ CRM_GER_autonomy_reichskommissariat_DEF:0 "Das Reichskommissariat Gotenland"
+ CRM_GER_autonomy_reichsprotectorate_DEF:0 "Das Reichsprotektorat Gotenland"
+ CRM_GER_autonomy_satellite_DEF:0 "Gotenland"
+
+ CRM_GER_autonomy_reichskommissariat:0 "Reichskommissariat Gotenland"
+ CRM_GER_autonomy_reichsprotectorate:0 "Reichsprotektorat Gotenland"
+ CRM_GER_autonomy_satellite:0 "Gotenland"
+ CRM_GER_autonomy_reichskommissariat_DEF:0 "Das Reichskommissariat Gotenland"
+ CRM_GER_autonomy_reichsprotectorate_DEF:0 "Das Reichsprotektorat Gotenland"
+ CRM_GER_autonomy_satellite_DEF:0 "Gotenland"
+
+ TSC_GER_autonomy_reichskommissariat:0 "Reichskommissariat Kaukasus"
+ TSC_GER_autonomy_reichsprotectorate:0 "Reichsprotektorat Kaukasus"
+ TSC_GER_autonomy_satellite:0 "Kaukasus"
+ TSC_GER_autonomy_reichskommissariat_DEF:0 "Das Reichskommissariat Kaukasus"
+ TSC_GER_autonomy_reichsprotectorate_DEF:0 "Das Reichsprotektorat Kaukasus"
+ TSC_GER_autonomy_satellite_DEF:0 "Kaukasus"
+ 
+ BNT_GER_autonomy_reichskommissariat:0 "Reichskommissariat Prinz-Eugen Land"
+ BNT_GER_autonomy_reichsprotectorate:0 "Reichsprotektorat Prinz-Eugen Land"
+ BNT_GER_autonomy_satellite:0 "Prinz-Eugen Land"
+ BNT_GER_autonomy_reichskommissariat_DEF:0 "Das Reichskommissariat Prinz-Eugen Land"
+ BNT_GER_autonomy_reichsprotectorate_DEF:0 "Das Reichsprotektorat Prinz-Eugen Land"
+ BNT_GER_autonomy_satellite_DEF:0 "Prinz-Eugen Land"
+
  GER_NFRA:0 "Reichskommissariat Nordfrankreich"
  GER_NFRA_DEF:0 "Das Reichskommissariat Nordfrankreich"
  
