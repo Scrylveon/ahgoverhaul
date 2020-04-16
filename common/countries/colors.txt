@@ -4668,3 +4668,7 @@ WRS = {
 color = rgb { 150 150 150 }
 color_ui = rgb { 150 150 150 }
 }
+LKT = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
