@@ -109,10 +109,10 @@
  
  LBA_ITA_fascism_autonomy_satellite:0 "Kingdom of Libya"
  LBA_ITA_fascism_autonomy_satellite_DEF:0 "The Kingdom of Libya"
- LBA_ITA_fascism_autonomy_reichsprotectorate:0 "Italian Libya"
- LBA_ITA_fascism_autonomy_reichsprotectorate_DEF:0 "Italian Libya"
- LBA_ITA_fascism_autonomy_reichskommissariat:0 "Italian Libya"
- LBA_ITA_fascism_autonomy_reichskommissariat_DEF:0 "Italian Libya"
+ LBA_ITA_fascism_autonomy_reichsprotectorate:0 "Libia Italiana"
+ LBA_ITA_fascism_autonomy_reichsprotectorate_DEF:0 "Libia Italiana"
+ LBA_ITA_fascism_autonomy_reichskommissariat:0 "Libia Italiana"
+ LBA_ITA_fascism_autonomy_reichskommissariat_DEF:0 "Libia Italiana"
  LBA_ITA_neutrality:0 "Italian Libya"
  LBA_ITA_neutrality_DEF:0 "Italian Libya"
 
@@ -120,8 +120,8 @@
  ETH_ITA_fascism_autonomy_satellite_DEF:0 "The Kingdom of Ethiopia"
  ETH_ITA_fascism_autonomy_reichsprotectorate:0 "Governate of Ethiopia"
  ETH_ITA_fascism_autonomy_reichsprotectorate_DEF:0 "The Governate of Ethiopia"
- ETH_ITA_fascism_autonomy_reichskommissariat:0 "Italian East Africa"
- ETH_ITA_fascism_autonomy_reichskommissariat_DEF:0 "Italian East Africa"
+ ETH_ITA_fascism_autonomy_reichskommissariat:0 "Africa Orientale Italiana"
+ ETH_ITA_fascism_autonomy_reichskommissariat_DEF:0 "Africa Orientale Italiana"
  ETH_ITA_neutrality:0 "Italian East Africa"
  ETH_ITA_neutrality_DEF:0 "Italian East Africa"
  
