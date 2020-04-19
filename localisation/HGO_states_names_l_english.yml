@@ -9519,4 +9519,12 @@
  STATE_9518:0 "North Grand Junction"
  STATE_9519:0 "Central North Denver"
  STATE_9520:0 "East Rosarito"
+ STATE_9521:0 "Uzbek -Caspian Drainage -50 meters"
+ STATE_9522:0 "Uzbek -Caspian Drainage -100 meters"
+ STATE_9523:0 "South Uzbek -Caspian Drainage -500 meters"
+ STATE_9524:0 "Uzbek -Caspian Drainage -500 meters"
+ STATE_9525:0 "North Uzbek -Caspian Drainage -500 meters"
+ STATE_9526:0 "Azerbaijani -Caspian Drainage -50 meters"
+ STATE_9527:0 "Azerbaijani -Caspian Drainage -100 meters"
+ STATE_9528:0 "Azerbaijani -Caspian Drainage -500 meters"
  
