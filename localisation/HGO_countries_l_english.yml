@@ -9726,9 +9726,9 @@
  OML_neutrality:0 "Sovereign Military Hospitaller Order of Saint John of Jerusalem, of Rhodes and of Malta"
  OML_neutrality_DEF:0 "The Sovereign Military Hospitaller Order of Saint John of Jerusalem, of Rhodes and of Malta"
  OML_neutrality_ADJ:0 "Hospitaller Maltese"
- OML_monarchism:0 "Order of Malta"
- OML_monarchism_DEF:0 "The Order of Malta"
- OML_monarchism_ADJ:0 "Maltese"
+ OML_monarchism:0 "Sovereign Military Hospitaller Order of Saint John of Jerusalem, of Rhodes and of Malta"
+ OML_monarchism_DEF:0 "The Sovereign Military Hospitaller Order of Saint John of Jerusalem, of Rhodes and of Malta"
+ OML_monarchism_ADJ:0 "Hospitaller Maltese"
  
  NAF_democratic:0 "Republic of New Afrika"
  NAF_democratic_DEF:0 "The Republic of New Afrika"

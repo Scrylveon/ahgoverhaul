@@ -31,16 +31,16 @@ set_convoys = 10
 
 	set_popularities = {
 		democratic 
-			 = 10
+			 = 65
 		fascism
 			 = 23
 		communism
 			 = 2
 		neutrality 
-			 = 65
+			 = 10
 		}
 	set_politics = { 
- ruling_party = neutrality
+ ruling_party = fascism
 	last_election = "1935.6.9"
 	election_frequency = 12
 	elections_allowed = yes # none after offset 1
@@ -81,11 +81,11 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Georgios Kosmidis"
-	desc = "POLITICS_GEORGIOS_KOSMIDIS_DESC"
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_1.dds"
+	name = "Geórgios II tou Glücksburg"
+	desc = ""
+	picture = "Portrait_George_II.dds"
 	expire = "1965.1.1"
-	ideology = nazism
+	ideology = fascism_ideology
 	traits = {
 		#
 	}
