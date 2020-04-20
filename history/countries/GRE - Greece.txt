@@ -30,9 +30,9 @@ set_convoys = 10
 
 
 	set_popularities = {
-		democratic 
+		fascism 
 			 = 65
-		fascism
+		democratic
 			 = 23
 		communism
 			 = 2
