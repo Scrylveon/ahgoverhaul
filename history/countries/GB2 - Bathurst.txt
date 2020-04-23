@@ -23,11 +23,12 @@ set_politics = {
 
 
 create_country_leader = {
-	name = "To Be Added"
+	name = "Arthur Richards"
 	desc = ""
-	picture = "To_be_added.dds"
-	expire = "1965.1.1"
-	ideology = absolutism
+	picture = "Portrait_Arthur_Richards.dds"
+	ideology = moderatism
+	expire = "1978.10.27"
 	traits = {
+		#
 	}
 }

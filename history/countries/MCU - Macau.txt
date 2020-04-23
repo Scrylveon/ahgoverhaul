@@ -21,7 +21,7 @@ set_convoys = 10
 		communism
 			 = 5
 		neutrality 
-			 = 10
+			 = 20
 		}
 	set_politics = { 
  ruling_party = fascism
