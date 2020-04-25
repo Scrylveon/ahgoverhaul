@@ -9437,7 +9437,7 @@
  STATE_9435:0 "South Azerbaijani Caspian Border"
  STATE_9436:0 "West Baku-Bekdas Landbridge Site"
  STATE_9437:0 "Soviet Caspian Border"
- STATE_9438:0 "North Soviet Caspian Border"
+ STATE_9438:0 "Soviet Caspian Drainage -20 meters"
  STATE_9439:0 "Turkmen Caspian Border"
  STATE_9440:0 "Persian Caspian Drainage -50 meters"
  STATE_9441:0 "Persian Caspian Drainage -100 meters"
@@ -9596,4 +9596,6 @@
  STATE_9594:0 "Dagestani Caspian Drainage -100 meters"
  STATE_9595:0 "Dagestani Caspian Drainage -200 meters"
  STATE_9596:0 "Dagestani Caspian Drainage -500 meters"
+ STATE_9597:0 "Soviet Caspian Drainage -50 meters"
+ STATE_9598:0 "Dagestani Caspian Drainage -20 meters"
  
