@@ -9598,4 +9598,13 @@
  STATE_9596:0 "Dagestani Caspian Drainage -500 meters"
  STATE_9597:0 "Soviet Caspian Drainage -50 meters"
  STATE_9598:0 "Dagestani Caspian Drainage -20 meters"
+ STATE_9599:0 "North Turkmen Caspian Drainage -200 meters"
+ STATE_9600:0 "North Turkmen Caspian Drainage -100 meters"
+ STATE_9601:0 "North Turkmen Caspian Drainage -50 meters"
+ STATE_9602:0 "Kazakh Caspian Drainage -50 meters"
+ STATE_9603:0 "Kazakh Caspian Drainage -100 meters"
+ STATE_9604:0 "Kazakh Caspian Drainage -200 meters"
+ STATE_9605:0 "Kazakh Caspian Drainage -500 meters"
+ STATE_9606:0 "-500 meters"
+ 
  
