@@ -9592,4 +9592,8 @@
  STATE_9590:0 "North Azerbaijani Caspian Drainage -100 meters"
  STATE_9591:0 "North Azerbaijani Caspian Drainage -200 meters"
  STATE_9592:0 "North Azerbaijani Caspian Drainage -500 meters"
+ STATE_9593:0 "Dagestani Caspian Drainage -50 meters"
+ STATE_9594:0 "Dagestani Caspian Drainage -100 meters"
+ STATE_9595:0 "Dagestani Caspian Drainage -200 meters"
+ STATE_9596:0 "Dagestani Caspian Drainage -500 meters"
  
