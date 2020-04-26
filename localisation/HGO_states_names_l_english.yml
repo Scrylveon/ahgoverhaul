@@ -9606,5 +9606,8 @@
  STATE_9604:0 "Kazakh Caspian Stage 3 Reclamation Zone"
  STATE_9605:0 "Kazakh Caspian Stage 4 Reclamation Zone"
  STATE_9606:0 "Caspian Stage 4 Reclamation Zone"
- 
+ STATE_9607:0 "West Baku-Bekdas Landbridge Site Stage 3 Reclamation Zone"
+ STATE_9608:0 "East Baku-Bekdas Landbridge Site Stage 2 Reclamation Zone"
+ STATE_9609:0 "East Baku-Bekdas Landbridge Site Stage 3 Reclamation Zone"
+ STATE_9610:0 "East Baku-Bekdas Landbridge Site Stage 4 Reclamation Zone"
  
