@@ -4672,3 +4672,7 @@ LKT = {
 color = rgb { 150 150 150 }
 color_ui = rgb { 150 150 150 }
 }
+CMX = {
+color = rgb { 215 215 255 }
+color_ui = rgb { 215 215 255 }
+}
