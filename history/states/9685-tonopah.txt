@@ -1,8 +1,9 @@
 state={
-	id=2057
-	name="STATE_2057"
-
-
+	id=9685
+	name="STATE_9685"
+	provinces={
+		4521 18917 
+	}
 	history={
 		owner = USA
 		buildings = {
@@ -10,15 +11,10 @@ state={
 
 		}
 		add_core_of = USA
-		add_core_of = CAL
-		
+		add_core_of = NVA	
 
 	}
-
-	provinces={
-		6745 
-	}
-	manpower=534564
+	manpower = 1000
+	state_category = pastoral
 	buildings_max_level_factor=1.000
-	state_category=rural
 }
