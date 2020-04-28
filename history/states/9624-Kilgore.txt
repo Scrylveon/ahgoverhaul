@@ -11,6 +11,8 @@ state={
 	history={
 		owner = USA
 		add_core_of = USA
+		add_core_of = CAS
+		add_core_of = IDH
 		buildings = {
 			infrastructure = 1
 		}
