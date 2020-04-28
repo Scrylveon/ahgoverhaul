@@ -1,8 +1,8 @@
-state={
+	state={
 	id=9692
 	name="STATE_9692"
 	provinces={
-		18920 
+		18920 11658
 	}
 	history={
 		owner = USA
