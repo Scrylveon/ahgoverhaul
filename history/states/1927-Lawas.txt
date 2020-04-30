@@ -9,10 +9,6 @@ state={
 		owner = SRW
 		buildings = {
 			infrastructure = 3
-			7371 = {
-				naval_base = 2
-
-			}
 		}
 		add_core_of = MAL
 		add_core_of = SRW
@@ -21,7 +17,7 @@ state={
 	}
 
 	provinces={
-		7371 10269 
+		7371 
 	}
 	manpower=1
 	buildings_max_level_factor=1.000
