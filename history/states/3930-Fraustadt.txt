@@ -19,6 +19,8 @@ state={
 		add_core_of = DDR
 		add_core_of = PWP
 		add_core_of = POS
+		add_core_of = SIL
+
 
 	}
 	buildings_max_level_factor=1.000
