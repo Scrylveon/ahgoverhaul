@@ -9,6 +9,8 @@ state={
 		add_core_of = ROM
 		add_core_of = DOB
 		add_claim_by = BUL
+		add_core_of = WLC
+		add_core_of = THR
 
 	}
 	manpower = 1
