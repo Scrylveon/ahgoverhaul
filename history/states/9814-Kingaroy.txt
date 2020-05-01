@@ -1,28 +1,19 @@
 
 state={
-	id=2022
-	name="STATE_2022" # Brisbane
-	resources={
-		tungsten=24.000
-	}
-
+	id=9814
+	name="STATE_9814"
 	history={
 		owner = AST
 		buildings = {
 			infrastructure = 6
-			industrial_complex = 1
-			air_base = 1
 		}
 		add_core_of = AST
 		add_core_of = QNS
-		victory_points = {
-			7564 5 
-		}
 
 	}
 
 	provinces={
-		  7564 
+		4530
 	}
 	manpower=1000
 	buildings_max_level_factor=1.000
