@@ -32,7 +32,7 @@ set_convoys = 5
 
 create_country_leader = {
 	
-	name = "To Be Added"
+	name = "António Lopes Mateus"
 	picture = ""
 	expire = "1975.11.22"
 	ideology = fascism_ideology

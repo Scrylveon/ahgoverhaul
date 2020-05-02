@@ -31,7 +31,7 @@ set_cosmetic_tag = GSY_ENG
 
 
 create_country_leader = {
-	name = "To Be Added"
+	name = "Victor Gosselin Carey"
 	desc = ""
 	picture = "To_be_added.dds"
 	expire = "1965.1.1"

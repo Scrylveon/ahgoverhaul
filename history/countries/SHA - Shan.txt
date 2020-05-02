@@ -30,7 +30,7 @@ set_convoys = 10
 
 
 create_country_leader = {
-	name = "To Be Added"
+	name = "John Clague"
 	desc = ""
 	picture = "To_be_added.dds"
 	expire = "1965.1.1"

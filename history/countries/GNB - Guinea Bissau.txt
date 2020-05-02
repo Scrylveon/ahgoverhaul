@@ -33,7 +33,7 @@ set_convoys = 5
 
 create_country_leader = {
 	
-	name = "To Be Added"
+	name = "Luís António de Carvalho Viegas"
 	picture = ""
 	expire = "1975.11.22"
 	ideology = fascism_ideology
