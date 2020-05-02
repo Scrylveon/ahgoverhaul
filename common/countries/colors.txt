@@ -4676,3 +4676,11 @@ CMX = {
 color = rgb { 215 215 255 }
 color_ui = rgb { 215 215 255 }
 }
+MAT = {
+color = rgb { 183 183 0 }
+color_ui = rgb { 183 183 0 }
+}
+LMS = {
+color = rgb { 157 0 0 }
+color_ui = rgb { 157 0 0 }
+}

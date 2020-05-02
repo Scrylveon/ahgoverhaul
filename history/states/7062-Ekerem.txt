@@ -5,7 +5,7 @@ state={
 		12359 
 	}
 	history={
-	    owner = SOV
+	    owner = TMS
         add_core_of = SOV
         add_core_of = TMS
     }	

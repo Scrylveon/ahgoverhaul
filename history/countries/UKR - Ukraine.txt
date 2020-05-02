@@ -2,6 +2,7 @@
 
 oob = "UKR_1936"
 
+set_cosmetic_tag = UKR_SOV
 set_research_slots = 3
 
 # Starting tech
@@ -66,11 +67,11 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Nikita Sergeyevich Khrushchev"
+	name = "Grigory Petrovsky"
 	desc = ""
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_4.dds"
+	picture = "to_be_added.dds"
 	expire = "1953.3.1"
-	ideology = marxism
+	ideology = stalinism
 	traits = {
 		
 	}

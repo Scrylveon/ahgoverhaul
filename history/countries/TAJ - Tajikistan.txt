@@ -58,9 +58,9 @@ set_technology = {
 }
 
 create_country_leader = {
-	name = "Farzin"
+	name = "Shirinsho Shotemur"
 	desc = ""
-	picture = "gfx/leaders/SAU/Portrait_Arabia_Generic_1.dds"
+	picture = "to_be_added.dds"
 	expire = "1960.1.1"
 	ideology = stalinism
 	traits = {

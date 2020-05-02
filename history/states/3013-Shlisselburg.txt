@@ -3,7 +3,7 @@ state={
 	name="STATE_3013"
 	history={
 		
-		owner = SOV 
+		owner = RUS 
 		add_core_of = SOV
 		add_core_of = MSC
 		add_core_of = RUS

@@ -50,6 +50,10 @@ ALW_FRA = {
 	color = rgb { 37 72 155 }
 	color_ui = rgb { 37 72 155 }
 }
+LMS_NEP = {
+	color = rgb { 152 130 191 }
+	color_ui = rgb { 198 169 248 }
+}
 OCEANIA = {
 	color = rgb { 102 15 15 }
 	color_ui = rgb { 102 15 15 }

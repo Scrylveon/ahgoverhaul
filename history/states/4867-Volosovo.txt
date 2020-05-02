@@ -5,7 +5,7 @@ state={
 		181 11080 
 	}
 	history={
-		owner = SOV
+		owner = RUS
 		buildings = {
 			infrastructure = 3
 

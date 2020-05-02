@@ -2,6 +2,7 @@
 
 oob = "BLR_1936"
 
+set_cosmetic_tag = BLR_SOV
 set_research_slots = 3
 
 # Starting tech
@@ -79,9 +80,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-    name = "Panteleimon Ponomarenko"
+    name = "Nikolai Gikalo"
     desc = ""
-    picture = "gfx/leaders/Europe/Portrait_Europe_Generic_1.dds"
+    picture = "to_be_added.dds"
     expire = "1965.1.1"
     ideology = stalinism
     traits = {

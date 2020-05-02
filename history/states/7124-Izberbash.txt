@@ -5,7 +5,7 @@ state={
 		3682 6701 
 	}
 	history={
-	    owner = SOV
+	    owner = RUS
         add_core_of = SOV
         add_core_of = RUS
     }	
