@@ -10,6 +10,7 @@ state={
 		owner = JAP
 		add_core_of = JAP
 		add_core_of = ROJ
+		add_core_of = FKK
 		buildings = {
 			infrastructure = 7
 			air_base = 3

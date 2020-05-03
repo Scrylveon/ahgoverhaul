@@ -9,6 +9,7 @@ state={
 		owner = JAP
 		add_core_of = JAP
 		add_core_of = ROJ
+		add_core_of = HIR
 		buildings = {
 			infrastructure = 7
 			air_base = 3

@@ -12,6 +12,7 @@ state={
 		owner = JAP
 		add_core_of = JAP
 		add_core_of = ROJ
+		add_core_of = HYO
 	}
 	
 	buildings_max_level_factor=1.000

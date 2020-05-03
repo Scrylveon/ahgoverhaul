@@ -3,10 +3,12 @@ state={
 	name="STATE_9755"
 	provinces={
 		10015 19035 19055 19070 19076 
+		10015 19035 19055 19070 19076 
 	}
 	history={
 	    owner = JAP
         add_core_of = JAP
+		add_core_of = NGO
     }	
 	manpower=1000
 	state_category = pastoral

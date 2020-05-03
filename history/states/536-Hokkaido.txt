@@ -11,6 +11,7 @@ state={
 		add_core_of = JAP
 		add_core_of = EZO
 		add_core_of = PRJ
+		add_core_of = HOK
 		buildings = {
 			infrastructure = 3
 		}
