@@ -10,6 +10,7 @@ state={
 		add_core_of = PRS
 		add_core_of = SMA
 		add_core_of = DDR
+		add_core_of = THU
 		buildings = {
 			infrastructure = 5
 		}
