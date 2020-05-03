@@ -1,0 +1,21 @@
+state={
+	id=9844
+	name="STATE_9844"
+	provinces={
+		19190 
+	}
+	history={
+		owner = GRE
+		buildings = {
+			infrastructure = 4
+
+		}
+		add_core_of = GRE
+
+		set_demilitarized_zone = yes
+
+	}
+	manpower=100000
+	buildings_max_level_factor=1.000
+	state_category=small_island
+}
