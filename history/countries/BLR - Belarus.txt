@@ -80,9 +80,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-    name = "Nikolai Gikalo"
+    name = "Aleksandr Grigoryevich Chervyakov"
     desc = ""
-    picture = "to_be_added.dds"
+    picture = "Chervyakov.dds"
     expire = "1965.1.1"
     ideology = stalinism
     traits = {
