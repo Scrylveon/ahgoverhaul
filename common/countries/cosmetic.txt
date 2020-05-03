@@ -1103,6 +1103,10 @@ GEO_SOV = {
 	color = rgb { 125 13 24 }
 	color_ui = rgb { 125 13 24 }
 }
+AFG_SOV = {
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 125 13 24 }
+}
 ARM_SOV = {
 	color = rgb { 125 13 24 }
 	color_ui = rgb { 125 13 24 }

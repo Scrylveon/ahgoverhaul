@@ -2130,6 +2130,10 @@
  TSC_SOV_communism_DEF:0 "The Transcaucasian Socialist Federative Soviet Republic"
  TSC_SOV_communism_ADJ:0 "Transcaucasian" 
  
+ AFG_SOV_communism:0 "Afghan Soviet Socialist Republic"
+ AFG_SOV_communism_DEF:0 "The Afghan Soviet Socialist Republic"
+ AFG_SOV_communism_ADJ:0 "Afghan" 
+ 
  CSS_KUB_fascism:0 "Empire of the Dons"
  CSS_KUB_fascism_DEF:0 "The Empire of the Dons"
  CSS_KUB_democratic:0 "Don-Kuban Union"
