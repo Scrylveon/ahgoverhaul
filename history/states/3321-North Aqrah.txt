@@ -10,9 +10,10 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = TAJ
+		owner = UZB
 		add_core_of = SOV
 		add_core_of = TAJ
+		add_core_of = UZB
 		add_core_of = KOK
 		buildings = {
 			infrastructure = 1

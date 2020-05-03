@@ -5,7 +5,7 @@ state={
 		15920 
 	}
 	history={
-		owner = TAJ
+		owner = UZB
 		buildings = {
 			infrastructure = 3
 
