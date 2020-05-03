@@ -23,7 +23,7 @@ set_politics = {
 
 
 create_country_leader = {
-	name = "Sardar Bahadur Nawab Mir Habibullah Khan Nousherwani"
+	name = "Mir Habibullah Khan Nousherwani"
 	desc = ""
 	picture = "To_be_added.dds"
 	expire = "1965.1.1"
