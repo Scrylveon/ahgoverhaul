@@ -2,6 +2,7 @@
 
 oob = "KAZ_1936"
 
+set_cosmetic_tag = KAZ_SOV
 set_research_slots = 3
 
 # Starting tech

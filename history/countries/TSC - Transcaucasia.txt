@@ -27,9 +27,9 @@ set_convoys = 10
 
 
 create_country_leader = {
-    name = "Filipp Makharadze"
+    name = "Gazanfar Musabekov"
     desc = ""
-    picture = "to_be_added.dds"
+    picture = "Musabekov.dds"
     expire = "1965.1.1"
     ideology = stalinism
     traits = {

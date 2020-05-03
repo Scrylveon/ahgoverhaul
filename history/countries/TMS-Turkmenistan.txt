@@ -57,9 +57,9 @@ set_technology = {
 }
 
 create_country_leader = {
-	name = "Kaikhaziz Atabayev"
+	name = "Nedyrbay Aytakov"
 	desc = ""
-	picture = "to_be_added.dds"
+	picture = "Aytakov.dds"
 	expire = "1960.1.1"
 	ideology = stalinism
 	traits = {

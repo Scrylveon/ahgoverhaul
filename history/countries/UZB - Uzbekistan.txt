@@ -57,9 +57,9 @@ set_technology = {
 }
 
 create_country_leader = {
-	name = "Akmal Ikramov"
+	name = "Yuldash Akhunbabayev"
 	desc = ""
-	picture = "to_be_addeddds"
+	picture = "Yuldash.dds"
 	expire = "1960.1.1"
 	ideology = stalinism
 	traits = {

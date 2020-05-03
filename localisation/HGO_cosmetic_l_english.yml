@@ -2126,6 +2126,14 @@
  RUS_SOV_communism_DEF:0 "The Russian Soviet Federative Socialist Republic"
  RUS_SOV_communism_ADJ:0 "Russian" 
  
+ UKR_SOV_communism:0 "Ukrainian Soviet Socialist Republic"
+ UKR_SOV_communism_DEF:0 "The Ukrainian Soviet Socialist Republic"
+ UKR_SOV_communism_ADJ:0 "Ukrainian" 
+ 
+ BLR_SOV_communism:0 "Byelorussian Soviet Socialist Republic"
+ BLR_SOV_communism_DEF:0 "The Byelorussian Soviet Socialist Republic"
+ BLR_SOV_communism_ADJ:0 "Byelorussian" 
+
  TSC_SOV_communism:0 "Transcaucasian Socialist Federative Soviet Republic"
  TSC_SOV_communism_DEF:0 "The Transcaucasian Socialist Federative Soviet Republic"
  TSC_SOV_communism_ADJ:0 "Transcaucasian" 

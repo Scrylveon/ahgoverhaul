@@ -67,9 +67,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Grigory Petrovsky"
+	name = "Grigory Petrovskiy"
 	desc = ""
-	picture = "to_be_added.dds"
+	picture = "Petrovskiy.dds"
 	expire = "1953.3.1"
 	ideology = stalinism
 	traits = {
