@@ -6,6 +6,11 @@ state={
 	}
 	history={
 		owner = WTR
+		add_core_of = ANC
+		add_core_of = BDT
+		add_core_of = TRB
+		add_core_of = WST
+		add_core_of = NOM
 		add_core_of = WTR
 
 	}

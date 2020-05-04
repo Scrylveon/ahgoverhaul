@@ -5,7 +5,7 @@ state={
 		19101 19102 
 	}
 	history={
-	    owner = JAP
+	    owner = KOR
         add_core_of = KOR
         add_core_of = ROK
     }	
