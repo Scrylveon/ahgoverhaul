@@ -4684,3 +4684,7 @@ LMS = {
 color = rgb { 157 0 0 }
 color_ui = rgb { 157 0 0 }
 }
+KRF = {
+color = rgb { 174 9 71 }
+color_ui = rgb { 174 9 71 }
+}
