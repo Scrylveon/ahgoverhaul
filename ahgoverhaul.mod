@@ -3,6 +3,7 @@ tags={
 	"Fixes"
 	"Events"
 	"Gameplay"
+	"Test"
 }
 name="Historic Geographical Overhaul"
 picture="newhgoverhaulss.jpg"
