@@ -1,0 +1,20 @@
+state={
+	id=9878
+	name="STATE_9878"
+	
+	history={
+		owner = TSC
+		add_core_of = SOV
+		add_core_of = TSC
+		add_core_of = ARM
+		
+
+	}
+
+	provinces={
+		19211 
+	}
+	manpower=80041
+	buildings_max_level_factor=1.000
+	state_category=town
+}

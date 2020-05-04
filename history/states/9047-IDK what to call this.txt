@@ -2,7 +2,7 @@ state={
 	id=9047
 	name="STATE_9047"
 	provinces={
-		18365 
+		19214 
 	}
 	history={
 		add_core_of = WTR

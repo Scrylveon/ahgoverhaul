@@ -1,0 +1,21 @@
+state={
+	id=9882
+	name="STATE_9882"
+	
+	history={
+		owner = TSC
+		add_core_of = SOV
+		add_core_of = TSC
+		add_core_of = GEO
+		add_core_of = SOS
+
+	}
+
+
+	provinces={
+		19225 
+	}
+	manpower=31001
+	buildings_max_level_factor=1.000
+	state_category=enclave
+}
