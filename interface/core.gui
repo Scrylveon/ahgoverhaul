@@ -468,7 +468,7 @@ guiTypes = {
 		buttonType = {
 			name = "this_is_dog"
 			quadTextureSprite = "GFX_dog"
-			position = { x= 10 y = -90 }
+			position = { x= -58 y = -85 }
 			text = ""
 			clicksound = click_dog
 		}
@@ -476,7 +476,7 @@ guiTypes = {
 		buttonType = {
 			name = "error_log_button"
 			quadTextureSprite = "GFX_error_log_button"
-			position = { x= 0 y = 00 }
+			position = { x= 0 y = 5 }
 			text = "ERROR"
 			buttonFont = "hoi_18mbs"
 			Orientation = "LOWER_RIGHT"
