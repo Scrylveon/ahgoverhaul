@@ -16,14 +16,14 @@ set_cosmetic_tag = TWN_JAP
 		democratic 
 			 = 10
 		fascism
-			 = 80
+			 = 30
 		communism
 			 = 5
 		neutrality
-			 = 5
+			 = 55
 	}
 	set_politics = { 
- ruling_party = fascism
+ ruling_party = neutrality
 		last_election = "1938.3.28"
 		election_frequency = 48
 		elections_allowed = no
@@ -45,9 +45,20 @@ create_country_leader = {
 create_country_leader = {
 	name = "Kenzo Nakagawa"
 	desc = ""
-	picture = "gfx/leaders/Japan/Kenzo_Nakagawa.dds"
+	picture = "Nakagawa_Kenzo"
 	expire = "1944.6.26"
 	ideology = fascism_ideology
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Kenzo Nakagawa"
+	desc = ""
+	picture = "Nakagawa_Kenzo"
+	expire = "1944.6.26"
+	ideology = despotism
 	traits = {
 		
 	}

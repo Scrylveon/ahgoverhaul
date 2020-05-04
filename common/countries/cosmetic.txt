@@ -578,6 +578,14 @@ PAC_JAP = {
 	color = rgb { 165 69 117 }
 	color_ui = rgb { 165 69 117 }
 }
+TWN_JAP = {
+	color = rgb { 165 69 117 }
+	color_ui = rgb { 165 69 117 }
+}
+KOR_JAP = {
+	color = rgb { 165 69 117 }
+	color_ui = rgb { 165 69 117 }
+}
 EHC_JAP = {
 	color = rgb { 165 69 117 }
 	color_ui = rgb { 165 69 117 }
