@@ -1,6 +1,7 @@
 Q: What version of the game is this for?
-A: Currently, HGO only works with version 1.8.2. The chance of it working in 1.9 is neglible.
+A: Currently, HGO only works with version 1.8.2.
 
 Q: Some nations have no flag.
-A: Some countries did not have a national flag in 1936. These include Ethiopia, Bhutan, and (etc?). Most anarchy releasables also lack a flag deliberately, due to not being
-   countries. If you want a national flag for the nations that historically lacked them, (not added yet:) you can switch them to Monarchism.
+A: The anarchy releasables lack a flag deliberately due to not being countries. In addition, some newly-added releasables may not have a flag, either due to them not having one
+   or because they have not been added yet. If a country that exists by default has no flag, you may have a missing file or some form of glitch, so you should reinstall the mod
+   before bringing the missing flag to the attention of the developers.
