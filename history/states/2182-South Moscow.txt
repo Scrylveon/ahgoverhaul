@@ -5,7 +5,7 @@ state={
 	state_category=megalopolis
 	
 	history={
-		owner = SOV
+		owner = RUS
 		buildings = {
 			infrastructure = 8
 		}

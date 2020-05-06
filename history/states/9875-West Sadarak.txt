@@ -1,0 +1,17 @@
+state={
+	id=9875
+	name="STATE_9875"
+	provinces={
+		19207 
+	}
+	history={
+	    owner = TSC
+        add_core_of = SOV 
+		add_core_of = TSC
+        add_core_of = ARM
+    }	
+	manpower = 1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}
+

@@ -7,7 +7,6 @@ state={
 	history={
 		owner = ERI
 		add_core_of = ERI
-		add_claim_by = ETH
 
 	}
 	manpower = 1000

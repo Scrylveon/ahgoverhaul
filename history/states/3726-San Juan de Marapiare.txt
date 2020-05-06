@@ -11,7 +11,6 @@ state={
 	history={
 		owner = VEN
 		add_core_of = VEN
-		add_core_of = AMZ
 		buildings = {
 			infrastructure = 1
 		}

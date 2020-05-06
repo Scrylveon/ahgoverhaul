@@ -15,7 +15,7 @@ state={
 		add_core_of = WLC
 		add_core_of = THR
 		add_core_of = DOB
-		add_claim_by = BUL
+		add_core_of = BUL
 	}
 
 	provinces={

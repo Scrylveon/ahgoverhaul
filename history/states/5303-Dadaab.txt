@@ -6,8 +6,9 @@ state={
 	}
 	history = {
 		owner = KEN
-		add_claim_by = KEN
+		add_core_of = KEN
 		add_claim_by = JUB
+		add_claim_by = SOM
 	}
 	manpower=1000
 state_category = pastoral

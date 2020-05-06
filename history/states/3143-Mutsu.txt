@@ -6,13 +6,14 @@ state={
 		owner = JAP 
 		add_core_of = JAP
 		add_core_of = PRJ
+		add_core_of = AOM
 		buildings = {
 			infrastructure = 4
 			
 		}
 	}
 	provinces={
-		9859 
+		19137
 	}
 	manpower=1000 
  state_category = small_island

@@ -56,16 +56,16 @@ if = {
 
 	set_popularities = {
 		democratic 
-			 = 0
+			 = 20
 		fascism 
 			 = 0
 		communism
 			 = 0
-		neutrality
-			 = 100
+		monarchism
+			 = 80
 	}
 	set_politics = { 
- ruling_party = neutrality
+ ruling_party = monarchism
 	last_election = "1934.11.9"	
 	election_frequency = 48
 	elections_allowed = no
@@ -76,7 +76,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_Sulaiman_Badrul_Alam_Shah.dds"
 	expire = "1953.3.1"
-	ideology = despotism
+	ideology = absolutism
 	traits = {
 		
 	}

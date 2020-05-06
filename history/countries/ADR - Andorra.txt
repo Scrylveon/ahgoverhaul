@@ -25,11 +25,11 @@ set_technology = {
 	set_popularities = {
 		democratic 
 			 = 10
-		neutrality
+		monarchism
 			 = 90
 		}
 	set_politics = { 
- ruling_party = neutrality
+ ruling_party = monarchism
 	last_election = "1936.1.1"
 	election_frequency = 50
 	elections_allowed = no
@@ -47,7 +47,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_Justi_Guitart_i_Vilardebo.dds"
 	expire = "1960.1.1"
-	ideology = despotism
+	ideology = absolutism
 	traits = {
 		
 	}

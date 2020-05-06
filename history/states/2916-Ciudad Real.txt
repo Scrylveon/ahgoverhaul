@@ -5,6 +5,8 @@ state={
 		
 		owner = SPR 
 		add_core_of = SPR
+        add_core_of = LMC
+        add_core_of = CST
 		buildings = {
 			infrastructure = 4
 			

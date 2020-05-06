@@ -1,0 +1,22 @@
+state={
+	id=9867
+	name="STATE_9867"
+	provinces={
+		1623 4629 7775 
+	}
+	
+	manpower = 1000
+	
+	state_category = pastoral
+
+	history={
+		owner = UZB
+		add_core_of = SOV
+		add_core_of = UZB
+		add_core_of = KOK
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	buildings_max_level_factor=1.000
+}

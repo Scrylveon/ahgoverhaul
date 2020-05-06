@@ -2,7 +2,7 @@ state={
 	id=4779
 	name="STATE_4779"
 	provinces={
-		15590 
+		15590 18679 18675 
 	}
 	history={
 		
@@ -12,6 +12,7 @@ state={
 			
 		}
 		add_core_of = MEX
+		add_core_of = MXC
 	}
 	manpower = 6900
 	state_category = pastoral

@@ -23,9 +23,9 @@ set_politics = {
 
 
 create_country_leader = {
-	name = "To Be Added"
+	name = "Chote Chaba"
 	desc = ""
-	picture = "To_be_added.dds"
+	picture = "Chote_Chaba.dds"
 	expire = "1965.1.1"
 	ideology = absolutism
 	traits = {

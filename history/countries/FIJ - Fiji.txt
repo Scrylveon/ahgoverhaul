@@ -44,8 +44,8 @@ create_country_leader = {
 
 create_country_leader = {
 	
-	name = "Murchison Fletcher"
-	picture = "gfx/leaders/British Colonial/Murchison_Fletcher.dds"
+	name = "Sir Arthur Murchison Fletcher"
+	picture = "Portrait_Sir_Arthur_Murchison_Fletcher.dds"
 	expire = "1954.7.28"
 	ideology = despotism
 	traits = {

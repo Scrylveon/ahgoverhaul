@@ -1,0 +1,14 @@
+state={
+	id=9221
+	name="STATE_9221"
+	provinces={
+		18418 
+	}
+	history={
+		owner = FEA
+		add_core_of = CHD
+	}
+	state_category=pastoral
+	manpower=1000
+	buildings_max_level_factor=1.000
+}

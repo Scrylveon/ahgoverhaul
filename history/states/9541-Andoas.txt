@@ -1,0 +1,15 @@
+state={
+	id=9541
+	name="STATE_9541"
+	provinces={
+		18799 18800 
+	}
+	history={
+		owner = ECU
+		add_core_of = ECU
+
+	}
+	manpower = 1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

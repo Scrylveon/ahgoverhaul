@@ -1,0 +1,15 @@
+state={
+	id=9840
+	name="STATE_9840"
+	provinces={
+		19172 
+	}
+	history={
+	    owner = NEP
+        add_core_of = NEP
+        add_core_of = RAJ
+    }	
+	manpower=1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

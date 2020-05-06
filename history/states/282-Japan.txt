@@ -10,15 +10,17 @@ state={
 		owner = JAP
 		add_core_of = JAP
 		add_core_of = ROJ
+		add_core_of = IBA
 		buildings = {
 			infrastructure = 8
 			air_base = 5
+
 		}
 
 	}
 
 	provinces={
-		993 1097 1113 4000 4100 4184 4188 7016 11908 
+		4100 19063 19067 19068 19072 19075 19078 19085 19088 
 	}
 	manpower=773000
 	buildings_max_level_factor=1.000

@@ -9,6 +9,8 @@ state={
         add_core_of = YUG
         add_core_of = SER
         add_core_of = MAC
+	add_core_of = EPR
+	add_claim_by = ALB
     }	
 	manpower=1000
 	state_category = pastoral

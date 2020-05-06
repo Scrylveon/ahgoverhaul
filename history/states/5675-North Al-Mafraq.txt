@@ -5,8 +5,9 @@ state={
 		16033 
 	}
 	history={
-	    owner = JOR
-        add_core_of = JOR
+	    owner = JEB
+        add_core_of = JEB
+        add_core_of = SYR
     }
 	manpower = 1000
 	state_category = pastoral

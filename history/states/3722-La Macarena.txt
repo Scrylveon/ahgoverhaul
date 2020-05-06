@@ -2,7 +2,7 @@ state={
 	id=3722
 	name="STATE_3722"
 	provinces={
-		2007 10792 12729 
+		2007 
 	}
 	manpower = 1000
 	
@@ -11,7 +11,6 @@ state={
 	history={
 		owner = COL
 		add_core_of = COL
-		add_core_of = AMZ
 		buildings = {
 			infrastructure = 1
 		}

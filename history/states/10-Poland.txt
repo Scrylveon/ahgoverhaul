@@ -17,6 +17,9 @@ state={
 
 		}
 		add_core_of = POL
+		add_core_of = WSW
+		add_core_of = WRS
+		add_core_of = MSV
 
 	}
 

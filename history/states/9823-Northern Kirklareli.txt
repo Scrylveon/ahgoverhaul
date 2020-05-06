@@ -1,0 +1,16 @@
+state={
+	id=9823
+	name="STATE_9823"
+	provinces={
+		19165 
+	}
+	history={
+		owner = BUL
+		add_core_of = BUL
+		add_core_of = THR
+
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

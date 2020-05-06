@@ -19,7 +19,7 @@ set_convoys = 5
 		communism
 			 = 5
 		neutrality 
-			 = 10
+			 = 20
 		}
 	set_politics = { 
  ruling_party = fascism
@@ -31,7 +31,7 @@ set_convoys = 5
 
 create_country_leader = {
 	
-	name = "To Be Added"
+	name = "José Ricardo Pereira Cabral"
 	picture = ""
 	expire = "1975.11.22"
 	ideology = fascism_ideology

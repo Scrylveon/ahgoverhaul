@@ -35,7 +35,7 @@ set_convoys = 5
 create_country_leader = {
 	
 	name = "Jack Charles Barley"
-	picture = "gfx/leaders/ENG/Portrait_Britain_Generic_navy_2.dds"
+	picture = "Jack_Charles_Barley.dds"
 	expire = "1956.10.30"
 	ideology = despotism
 	traits = {
@@ -43,6 +43,28 @@ create_country_leader = {
 	}
 }
 
+create_country_leader = {
+	
+	name = "Gilbert Gottfried"
+	picture = "Gilbert.dds"
+	expire = "2020.10.30"
+	ideology = marxism
+	traits = {
+		#
+	}
+}
+
+
+create_country_leader = {
+	
+	name = "Gilbert Hitler"
+	picture = "Gilbert2.dds"
+	expire = "2020.10.30"
+	ideology = nazism
+	traits = {
+		#
+	}
+}
 create_country_leader = {
 	
 	name = "Tawata Tiloio"

@@ -9,7 +9,7 @@ state={
 
 		}
 		add_core_of = BRA
-		add_core_of = RIO
+		add_core_of = JUL
 
 	}
 	

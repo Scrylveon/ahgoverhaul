@@ -2,7 +2,7 @@ state={
 	id=6177
 	name="STATE_6177"
 	provinces={
-		16340 
+		16340 18718
 	}
 	manpower = 1000
 	
@@ -11,6 +11,8 @@ state={
 	history={
 		owner = MEX
 		add_core_of = MEX
+		add_core_of = TMU
+		add_core_of = RGA
 	}
 	
 	buildings_max_level_factor=1.000

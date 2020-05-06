@@ -23,7 +23,7 @@ set_politics = {
 
 
 create_country_leader = {
-	name = "To Be Added"
+	name = "Birbar Krishna Chandra Narendra Mahapatra"
 	desc = ""
 	picture = "To_be_added.dds"
 	expire = "1965.1.1"

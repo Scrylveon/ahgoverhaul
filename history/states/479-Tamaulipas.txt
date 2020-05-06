@@ -14,6 +14,7 @@ state={
 		}
 		add_core_of = MEX
 		add_core_of = RGA
+		add_core_of = TMU
 		victory_points = {
 			4956 1 
 		}

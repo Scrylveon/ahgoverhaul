@@ -7,6 +7,8 @@ state={
 	history={
 		owner = USA
 		add_core_of = USA
+		add_core_of = NDA
+		add_core_of = GMA
 	}
 	manpower = 1000
 	state_category = pastoral

@@ -3,6 +3,7 @@ state={
 	name="STATE_2573"
 	history={
 		owner = NZL 
+		add_core_of = CKI
 		buildings = {
 			infrastructure = 4
 			

@@ -12,6 +12,7 @@ state={
 		owner = GRE
 		add_core_of = GRE
 		add_core_of = BUL
+		add_core_of = THR
 	}
 	
 	buildings_max_level_factor=1.000

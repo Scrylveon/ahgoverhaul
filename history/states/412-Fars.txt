@@ -21,9 +21,10 @@ state={
 			infrastructure = 2
 		}
 		add_core_of = PER
+		add_core_of = KRM
 	}
 
 	provinces={
-		4966 8117 10881 12780 12863 
+		10881 12780 12863 
 	}
 }

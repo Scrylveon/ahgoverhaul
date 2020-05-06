@@ -1,0 +1,19 @@
+state={
+	id=9885
+	name="STATE_9885"
+	provinces={
+		19220 
+	}
+	manpower = 1000
+	
+	state_category = pastoral
+
+	history={
+		owner = TSC
+		add_core_of = SOV 
+		add_core_of = TSC
+		add_core_of = GEO
+	}
+	
+	buildings_max_level_factor=1.000
+}

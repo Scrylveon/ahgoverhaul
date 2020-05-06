@@ -3,7 +3,7 @@
 oob = "GOA_1936"
 
 set_convoys = 10
-
+set_cosmetic_tag = GOA_POR
 set_popularities = {
         monarchism = 10
         neutrality = 10
@@ -23,11 +23,11 @@ set_politics = {
 
 
 create_country_leader = {
-	name = "To Be Added"
+	name = "João Carlos Craveiro Lopes"
 	desc = ""
 	picture = "To_be_added.dds"
 	expire = "1965.1.1"
-	ideology = absolutism
+	ideology = fascism_ideology
 	traits = {
 	}
 }

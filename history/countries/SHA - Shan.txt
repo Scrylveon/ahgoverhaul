@@ -14,10 +14,10 @@ set_convoys = 10
 
 
 	set_popularities = {
-        democratic =  25
-        communism =  25
-        fascism =  25
-        neutrality =  25
+        democratic =  15
+        communism =  5
+        fascism =  5
+        neutrality =  75
 
 	}
 	
@@ -28,3 +28,13 @@ set_convoys = 10
 	elections_allowed = no
 }
 
+
+create_country_leader = {
+	name = "John Clague"
+	desc = ""
+	picture = "John_Clague.dds"
+	expire = "1965.1.1"
+	ideology = despotism
+	traits = {
+	}
+}

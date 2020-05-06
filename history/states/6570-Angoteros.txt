@@ -5,7 +5,8 @@ state={
 		16870 
 	}
 	history={
-	    owner = ECU
+	    owner = PRU
+        add_core_of = PRU
         add_core_of = ECU
     }	
 	manpower = 1000

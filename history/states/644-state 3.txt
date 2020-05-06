@@ -6,7 +6,7 @@ state={
 	impassable = yes
 
 	history={
-		owner = SOV
+		owner = RUS
 		buildings = {
 			infrastructure = 0
 

@@ -9,6 +9,8 @@ state={
 
 		}
 		add_core_of = PER
+        add_core_of = MZD
+        add_core_of = TBR
 
 	}
 	

@@ -14,12 +14,12 @@ state={
 		}
 		add_core_of = GRE
 		add_core_of = THR
-		add_claim_by = BUL
+		add_core_of = BUL
 
 	}
 
 	provinces={
-		11774 11905 
+		11774 
 	}
 	manpower=191300
 	buildings_max_level_factor=1.000

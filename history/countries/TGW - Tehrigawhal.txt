@@ -1,7 +1,7 @@
 ﻿capital = 6270
 
 oob = "TGW_1936"
-
+#Garhwal Kingdom
 set_convoys = 10
 
 set_popularities = {
@@ -23,7 +23,7 @@ set_politics = {
 
 
 create_country_leader = {
-	name = "To Be Added"
+	name = "Narendra Shah"
 	desc = ""
 	picture = "To_be_added.dds"
 	expire = "1965.1.1"

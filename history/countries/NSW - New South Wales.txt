@@ -1,4 +1,4 @@
-﻿capital = 285
+﻿capital = 9019
 
 oob = "NSW_1936"
 

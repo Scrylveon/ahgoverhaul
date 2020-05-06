@@ -1,0 +1,137 @@
+﻿capital = 532
+
+set_variable = { var = shogun_support value = 5 }
+set_variable = { var = shogun_total value = 47 }
+set_variable = { var = emperor_support value = 6 }
+set_variable = { var = emperor_support_total value = 47 }
+set_variable = { var = quorum_low value = 39 }
+set_variable = { var = quorum_medium value = 49 }
+set_variable = { var = quorum_high value = 58 }
+
+oob = "JAP_1936"
+set_convoys = 10
+add_ideas = { Extensive_conscription war_economy }
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_support = 1		
+	tech_recon = 1
+	tech_engineers = 1
+	motorised_infantry = 1
+	marines  = 1
+	gw_artillery = 1
+	gwtank = 1
+	basic_light_tank = 1
+	#basic_heavy_tank = 1  # PLACEHOLDER
+	#basic_medium_tank = 1 # PLACEHOLDER
+	cv_early_fighter = 1
+	cv_CAS1 = 1
+	cv_naval_bomber1 = 1
+	early_fighter = 1
+	naval_bomber1 = 1
+	early_bomber = 1
+	CAS1 = 1
+	
+	trench_warfare = 1
+	base_strike = 1
+	fuel_silos = 1
+	synth_oil_experiments = 1
+	fuel_refining = 1
+}
+if = {
+	limit = {
+		has_dlc = "Man the Guns"
+	}
+	set_technology = {
+		basic_naval_mines = 1
+		submarine_mine_laying = 1
+		basic_torpedo = 1
+		basic_battery = 1
+		basic_light_battery = 1
+		basic_heavy_battery = 1
+		basic_medium_battery = 1
+		improved_ship_torpedo_launcher = 1
+		early_ship_hull_submarine = 1
+		basic_ship_hull_submarine = 1
+		early_ship_hull_light = 1
+		early_ship_hull_cruiser = 1
+		basic_ship_hull_cruiser = 1
+		early_ship_hull_heavy = 1
+		basic_ship_hull_heavy = 1
+		early_ship_hull_carrier = 1
+		basic_ship_hull_carrier = 1
+		mtg_transport = 1
+		coastal_defense_ships = 1
+		basic_secondary_battery = 1
+		basic_depth_charges = 1
+		basic_cruiser_armor_scheme = 1
+		cruiser_submarines = 1
+	}
+	set_naval_oob = "JAP_1936_naval"
+}
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+	set_technology = {
+		early_submarine = 1
+		basic_submarine = 1
+		early_destroyer = 1
+		early_light_cruiser = 1
+		basic_light_cruiser = 1
+		early_heavy_cruiser = 1
+		basic_heavy_cruiser = 1
+		early_battleship = 1
+		basic_battleship = 1
+		early_battlecruiser = 1
+		early_carrier = 1
+		basic_carrier = 1
+		transport = 1
+	}
+	set_naval_oob = "JAP_1936_naval_legacy"
+}
+	set_popularities = {
+	democratic = 20
+	neutrality = 20
+	fascism = 60
+	communism = 0
+}
+	set_politics = {
+	ruling_party = fascism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+    set_party_name = {
+    ideology = fascism 
+    long_name = PJAP_party_jap_emperor 
+    name = PJAP_party_jap_emperor 
+}
+    set_party_name = {
+    ideology = democratic 
+    long_name = PJAP_party_jap_han_shogun 
+    name = PJAP_party_jap_han_shogun 
+}
+    set_party_name = {
+    ideology = neutrality 
+    long_name = PJAP_party_jap_daimyo 
+    name = PJAP_party_jap_daimyo 
+}
+    set_party_name = {
+    ideology = communism 
+    long_name = PJAP_party_jap_unrest 
+    name = PJAP_party_jap_unrest 
+}
+create_country_leader = {
+	name = "Masatane Kanda"
+	picture = "gfx/leaders/JAP/Portrait_Japan_Masatane_Kanda.dds"
+    ideology = fascism_ideology
+}
+create_corps_commander = {
+	name = "Masatane Kanda"
+		portrait_path = "gfx/leaders/JAP/Portrait_Japan_Masatane_Kanda.dds"
+	traits = { trait_cautious }
+	skill = 2
+	attack_skill = 2
+	defense_skill = 2
+	planning_skill = 1
+	logistics_skill = 2
+}
