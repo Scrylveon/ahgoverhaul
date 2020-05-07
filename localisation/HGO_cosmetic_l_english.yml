@@ -3688,7 +3688,7 @@
  GEO_SOV_communism_autonomy_colony_DEF:0 "the Georgian Soviet Socialist Republic"
  GEO_SOV_communism_autonomy_puppet_DEF:1 "the Georgian Soviet Socialist Republic"
  GEO_SOV_communism_autonomy_integrated_puppet_DEF:0 "the Georgian Soviet Socialist Republic"
- GEO_SOV_communism_DEF:0 "the Moldavian Soviet Socialist Republic"
+ GEO_SOV_communism_DEF:0 "the Georgian Soviet Socialist Republic"
 
  ARM_SOV_communism:0 "Armenian Soviet Socialist Republic"
  ARM_SOV_communism_autonomy_dominion:0 "Armenian Soviet Socialist Republic"
