@@ -1,6 +1,6 @@
-﻿capital = 2437
+capital = 2437
 
-oob = "RED_1936"
+oob = "RDN_1936"
 
 set_popularities = {
         neutrality = 0
