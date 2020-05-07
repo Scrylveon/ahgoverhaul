@@ -677,8 +677,10 @@
  GER_GGR_democratic_DEF:0 "The Greater German Federation"
  GER_GGR_communism:0 "Greater German Commune"
  GER_GGR_communism_DEF:0 "The Greater German Commune"
- GER_GGR_neutrality:0 "Greater German Kaiserreich"
- GER_GGR_neutrality_DEF:0 "The Greater German Kaiserreich"
+ GER_GGR_neutrality_DEF:0 "Gesamtdeutscher Staat"
+ GER_GGR_neutrality_DEF:0 "Die Gesamtdeutscher Staat"
+ GER_GGR_monarchism:0 "Greater German Kaiserreich"
+ GER_GGR_monarchism_DEF:0 "The Greater German Kaiserreich"
  
  PRC_proclaimed_communism:0 "People's Republic of China"
  PRC_proclaimed_communism_DEF:0 "The People's Republic of China"

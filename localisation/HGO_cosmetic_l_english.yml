@@ -1746,6 +1746,17 @@
  AUSE_communism_DEF:0 "The United Socialist Republics of Greater Austria"
  AUSE_ADJ:0 "Austrian"
 
+ GER_GGC_fascism:0 "Großgermanisches Reich"
+ GER_GGC_fascism_DEF:0 "Das Großgermanisches Reich"
+ GER_GGC_democratic:0 "Greater Germanic Federation"
+ GER_GGC_democratic_DEF:0 "The Greater Germanic Federation"
+ GER_GGC_communism:0 "Greater Germanic Commune"
+ GER_GGC_communism_DEF:0 "The Greater Germanic Commune"
+ GER_GGC_neutrality_DEF:0 "Gesamtgermanischer Staat"
+ GER_GGC_neutrality_DEF:0 "Die Gesamtgermanischer Staat"
+ GER_GGC_monarchism:0 "Greater Germanic Kaiserreich"
+ GER_GGC_monarchism_DEF:0 "The Greater Germanic Kaiserreich"
+ 
  LCC_PIO_communism:0 "Commune of Lucca and Piombino"
  LCC_PIO_communism_DEF:0 "the Commune of Lucca and Piombino"
  LCC_PIO_communism_ADJ:0 "Lucco-Piombinian"
