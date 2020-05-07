@@ -9874,7 +9874,6 @@
  STATE_9872:0 "West Khoy"
  STATE_9873:0 "West Showt"
  STATE_9874:0 "East Maku"
-
  STATE_9875:0 "West Sadarak"
  STATE_9876:0 "East Yerevan"
  STATE_9877:0 "West Gavar"
@@ -9892,3 +9891,6 @@
  STATE_9889:0 "South Sochi Stage 2 Reclamation Zone"
  STATE_9890:0 "South East Black Sea"
  STATE_9891:0 "Northwest Trabzon Stage 3 Reclamation Zone"
+ STATE_9892:0 "Lake Erie Stage 1 Reclamation Zone"
+ STATE_9893:0 "Erie Bay Stage 1 Reclamation Zone"
+ STATE_9894:0 "Buffalo Bay Stage 1 Reclamation Zone"
