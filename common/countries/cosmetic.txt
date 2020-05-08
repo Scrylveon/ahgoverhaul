@@ -514,6 +514,10 @@ SKM_RAJ = {
 	color = rgb { 170 10 10 }
 	color_ui = rgb { 200 10 10 }
 }
+BRX_RAJ = {
+	color = rgb { 170 10 10 }
+	color_ui = rgb { 200 10 10 }
+}
 AJM_RAJ = {
 	color = rgb { 170 10 10 }
 	color_ui = rgb { 200 10 10 }
@@ -567,6 +571,10 @@ PAC_JAP = {
 	color_ui = rgb { 165 69 117 }
 }
 KOR_JAP = {
+	color = rgb { 165 69 117 }
+	color_ui = rgb { 165 69 117 }
+}
+TWN_JAP = {
 	color = rgb { 165 69 117 }
 	color_ui = rgb { 165 69 117 }
 }
