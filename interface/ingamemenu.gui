@@ -49,11 +49,11 @@ guiTypes = {
 			name = "menu_wiki_button"
 			position = { x = 16 y = 138}
 			quadTextureSprite ="GFX_main_lobby_button"	
-			buttonText = "MENU_BAR_GAME_WIKI"
+			buttonText = "HGO Discord"
 			buttonFont = "hoi_24header"
 			clicksound = click_default
 			oversound = ui_menu_over
-			web_link = ""
+			web_link = "https://discord.gg/8HSP3dR"
 		}
 		
 		buttonType = {
