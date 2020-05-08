@@ -11,9 +11,8 @@ state={
 
 		}
 		add_core_of = POL
-		add_core_of = GLC
+		add_core_of = GAL
 		add_core_of = WUK
-		add_core_of = LWO
 
 	}
 	manpower=1000 

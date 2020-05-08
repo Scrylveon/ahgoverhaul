@@ -586,7 +586,7 @@ MRS = {
 	color = rgb { 68 124 38 }
     color_ui = rgb { 68 123 38 }	
 }
-PRS = {
+PRE = {
 	color = rgb { 78 84 122 }
     color_ui = rgb { 78 84 122 }	
 }

@@ -6,9 +6,9 @@ state={
 	}
 	manpower=1000
 	history={
-		owner = BRI
+		owner = BRX
 		add_core_of = RAJ
-		add_core_of = BRI
+		add_core_of = BRX
 	}
  
 	state_category=pastoral

@@ -50,10 +50,6 @@ ALW_FRA = {
 	color = rgb { 37 72 155 }
 	color_ui = rgb { 37 72 155 }
 }
-LMS_NEP = {
-	color = rgb { 152 130 191 }
-	color_ui = rgb { 198 169 248 }
-}
 OCEANIA = {
 	color = rgb { 102 15 15 }
 	color_ui = rgb { 102 15 15 }
@@ -354,7 +350,7 @@ TUV_ENG = {
 	color = rgb { 150 26 10 }
 	color_ui = rgb { 150 26 10 }
 }
-SLM_ENG = {
+SOL_ENG = {
 	color = rgb { 150 26 10 }
 	color_ui = rgb { 150 26 10 }
 }
@@ -506,23 +502,19 @@ PTC_ENG = {
 	color = rgb { 170 10 10 }
 	color_ui = rgb { 200 10 10 }
 }
+TRM_ENG = {
+	color = rgb { 170 10 10 }
+	color_ui = rgb { 200 10 10 }
+}
 FIJ_ENG = {
 	color = rgb { 170 10 10 }
 	color_ui = rgb { 200 10 10 }
 }
-MNX_ENG = {
-	color = rgb { 170 10 10 }
-	color_ui = rgb { 200 10 10 }
-}
-GSY_ENG = {
-	color = rgb { 170 10 10 }
-	color_ui = rgb { 200 10 10 }
-}
-JSY_ENG = {
-	color = rgb { 170 10 10 }
-	color_ui = rgb { 200 10 10 }
-}
 SKM_RAJ = {
+	color = rgb { 170 10 10 }
+	color_ui = rgb { 200 10 10 }
+}
+BRX_RAJ = {
 	color = rgb { 170 10 10 }
 	color_ui = rgb { 200 10 10 }
 }
@@ -578,11 +570,11 @@ PAC_JAP = {
 	color = rgb { 165 69 117 }
 	color_ui = rgb { 165 69 117 }
 }
-TWN_JAP = {
+KOR_JAP = {
 	color = rgb { 165 69 117 }
 	color_ui = rgb { 165 69 117 }
 }
-KOR_JAP = {
+TWN_JAP = {
 	color = rgb { 165 69 117 }
 	color_ui = rgb { 165 69 117 }
 }
@@ -1111,10 +1103,6 @@ GEO_SOV = {
 	color = rgb { 125 13 24 }
 	color_ui = rgb { 125 13 24 }
 }
-AFG_SOV = {
-	color = rgb { 125 13 24 }
-	color_ui = rgb { 125 13 24 }
-}
 ARM_SOV = {
 	color = rgb { 125 13 24 }
 	color_ui = rgb { 125 13 24 }
@@ -1339,7 +1327,7 @@ SIL_CZE = {
 	color = rgb { 65 151 145 }
 	color_ui = rgb { 65 151 145 }
 }
-SCH_DEN = {
+SHL_DEN = {
 	color = rgb { 142 68 62 }
 	color_ui = rgb { 142 68 62 }
 }

@@ -14,7 +14,7 @@ state={
 			6488 20 
 		}
 		add_core_of = GER
-		add_core_of = PRS
+		add_core_of = PRE
 		add_core_of = NSU
 		add_core_of = HEN
 		add_core_of = WGR

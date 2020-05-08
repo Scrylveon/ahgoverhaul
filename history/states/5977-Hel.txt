@@ -11,10 +11,9 @@ state={
 	history={
 		owner = POL
 		add_core_of = POL
-		add_core_of = PRS
+		add_core_of = PRE
 		add_core_of = POM
 		add_core_of = KSH
-		add_core_of = WPR
 	}
 	
 	buildings_max_level_factor=1.000

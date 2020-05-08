@@ -11,10 +11,9 @@ state={
 
 		}
 		add_core_of = POL
-		add_core_of = GLC
+		add_core_of = GAL
 		add_core_of = LMK
 		add_core_of = WUK
-		add_core_of = KRW
 	}
 	manpower=1000 
  	state_category=rural

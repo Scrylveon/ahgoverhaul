@@ -12,6 +12,7 @@ set_popularities = {
         neutrality = 10
 
 }
+set_cosmetic_tag = TRM_ENG
 
 set_politics = {
 	

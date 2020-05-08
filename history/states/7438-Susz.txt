@@ -8,9 +8,7 @@ state={
 	    owner = POL
         add_core_of = POL
         add_core_of = KON
-        add_core_of = PRS
-	add_core_of = WPR
-		add_core_of = POM
+        add_core_of = PRE
     }	
 	manpower=1000
 	state_category = pastoral

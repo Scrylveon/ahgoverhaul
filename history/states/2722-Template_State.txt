@@ -4,7 +4,7 @@ state={
 	history={
 		
 		owner = PAC 
-		add_core_of = MIC
+		add_core_of = FSM
 		add_core_of = PAC
 		buildings = {
 			infrastructure = 4
