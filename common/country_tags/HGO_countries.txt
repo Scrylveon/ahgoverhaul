@@ -321,7 +321,7 @@ SSO = "countries/Schwarzburg-Sondershausen.txt"
 WAP = "countries/Waldeck-Pyrmont.txt"
 
 LIM = "countries/Limburg.txt"
-NVI = "countries/North Vietnam.txt" #not implemented yet
+NVI = "countries/North Vietnam.txt"
 MRN = "countries/Moresnet.txt"
 DOB = "countries/Dobrogea.txt"
 BUK = "countries/Bukovina.txt"

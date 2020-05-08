@@ -22,6 +22,10 @@ ALA_USA = {
 	color = rgb { 53 105 165 }
 	color_ui = rgb { 53 105 165 }
 }
+LMS_NEP = {
+	color = rgb { 152 130 191 }
+	color_ui = rgb { 198 169 248 }
+}
 HAW_USA = {
 	color = rgb { 53 105 165 }
 	color_ui = rgb { 53 105 165 }
@@ -499,6 +503,18 @@ KIR_ENG = {
 	color_ui = rgb { 200 10 10 }
 }
 PTC_ENG = {
+	color = rgb { 170 10 10 }
+	color_ui = rgb { 200 10 10 }
+}
+MNX_ENG = {
+	color = rgb { 170 10 10 }
+	color_ui = rgb { 200 10 10 }
+}
+GSY_ENG = {
+	color = rgb { 170 10 10 }
+	color_ui = rgb { 200 10 10 }
+}
+JSY_ENG = {
 	color = rgb { 170 10 10 }
 	color_ui = rgb { 200 10 10 }
 }
@@ -1128,6 +1144,10 @@ TAJ_SOV = {
 	color_ui = rgb { 125 13 24 }
 }
 KYR_SOV = {
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 125 13 24 }
+}
+AFG_SOV = {
 	color = rgb { 125 13 24 }
 	color_ui = rgb { 125 13 24 }
 }
