@@ -122,13 +122,6 @@ scripted_gui = {
 						set_country_flag = tpt_actor
 					}
 				}
-				if = {
-					limit = { has_government = monarchism }
-					every_country = {
-						limit = { has_government = monarchism }
-						set_country_flag = tpt_actor
-					}
-				}
 			}
 ### RESEARCH ###
 
@@ -370,191 +363,7 @@ scripted_gui = {
 					}
 				}
 			}
-			tpt_dec_rs_speed_click = {
-				if = {
-					limit = {
-						all_country = {
-							NOT = { has_country_flag = tpt_actor }
-						}
-					}
-					tpt_dec_rs_speed = yes
-					subtract_from_variable = {
-						tpt_research_speed = 5
-					}
-					clamp_variable = {
-						var = tpt_research_speed
-						min = -100
-						max = 100
-					}
-				}
-				if = {
-					limit = {
-						any_country = { has_country_flag = tpt_actor }
-					}
-					every_country = {
-						limit = { has_country_flag = tpt_actor }
-						tpt_dec_rs_speed = yes
-						subtract_from_variable = {
-							tpt_research_speed = 5
-						}
-						clamp_variable = {
-							var = tpt_research_speed
-							min = -100
-							max = 100
-						}
-					}
-				}
-			}
-			tpt_dec_rs_speed_shift_click = {
-				if = {
-					limit = {
-						all_country = {
-							NOT = { has_country_flag = tpt_actor }
-						}
-					}
-					tpt_dec_rs_speed_shift = yes
-					subtract_from_variable = {
-						tpt_research_speed = 10
-					}
-					clamp_variable = {
-						var = tpt_research_speed
-						min = -100
-						max = 100
-					}
-				}
-				if = {
-					limit = {
-						any_country = { has_country_flag = tpt_actor }
-					}
-					every_country = {
-						limit = { has_country_flag = tpt_actor }
-						tpt_dec_rs_speed_shift = yes
-						subtract_from_variable = {
-							tpt_research_speed = 10
-						}
-						clamp_variable = {
-							var = tpt_research_speed
-							min = -100
-							max = 100
-						}
-					}
-				}
-			}
-			tpt_inc_rs_speed_click = {
-				if = {
-					limit = {
-						all_country = {
-							NOT = { has_country_flag = tpt_actor }
-						}
-					}
-					tpt_inc_rs_speed = yes
-					add_to_variable = {
-						tpt_research_speed = 5
-					}
-					clamp_variable = {
-						var = tpt_research_speed
-						min = -100
-						max = 100
-					}
-				}
-				if = {
-					limit = {
-						any_country = { has_country_flag = tpt_actor }
-					}
-					every_country = {
-						limit = { has_country_flag = tpt_actor }
-						tpt_inc_rs_speed = yes
-						add_to_variable = {
-							tpt_research_speed = 5
-						}
-						clamp_variable = {
-							var = tpt_research_speed
-							min = -100
-							max = 100
-						}
-					}
-				}
-			}
-			tpt_inc_rs_speed_shift_click = {
-				if = {
-					limit = {
-						all_country = {
-							NOT = { has_country_flag = tpt_actor }
-						}
-					}
-					tpt_inc_rs_speed_shift = yes
-					add_to_variable = {
-						tpt_research_speed = 10
-					}
-					clamp_variable = {
-						var = tpt_research_speed
-						min = -100
-						max = 100
-					}
-				}
-				if = {
-					limit = {
-						any_country = { has_country_flag = tpt_actor }
-					}
-					every_country = {
-						limit = { has_country_flag = tpt_actor }
-						tpt_inc_rs_speed_shift = yes
-						add_to_variable = {
-							tpt_research_speed = 10
-						}
-						clamp_variable = {
-							var = tpt_research_speed
-							min = -100
-							max = 100
-						}
-					}
-				}
-			}
 ### COUNTRY ###
-			tpt_retire_leader_click = {
-				if = {
-					limit = {
-						all_country = {
-							NOT = { has_country_flag = tpt_actor }
-						}
-					}
-					retire_country_leader = yes
-				}
-				if = {
-					limit = {
-						any_country = { has_country_flag = tpt_actor }
-					}
-					every_country = {
-						limit = {
-							has_country_flag = tpt_actor
-						}
-						retire_country_leader = yes
-						clr_country_flag = tpt_actor
-					}
-				}
-			}
-			tpt_kill_leader_click = {
-				if = {
-					limit = {
-						all_country = {
-							NOT = { has_country_flag = tpt_actor }
-						}
-					}
-					kill_country_leader = yes
-				}
-				if = {
-					limit = {
-						any_country = { has_country_flag = tpt_actor }
-					}
-					every_country = {
-						limit = {
-							has_country_flag = tpt_actor
-						}
-						kill_country_leader = yes
-						clr_country_flag = tpt_actor
-					}
-				}
-			}
 			tpt_add_fascism_click = {
 				if = {
 					limit = {
@@ -574,47 +383,18 @@ scripted_gui = {
 					limit = {
 						any_country = { has_country_flag = tpt_actor }
 					}
-					if = {
+					every_country = {
 						limit = {
-							any_country = {
-								has_country_flag = tpt_actor
-								NOT = { has_idea = tp_fascist_nation }
-							}
+							has_country_flag = tpt_actor
+							NOT = { has_idea = tp_fascist_nation }
 						}
-						every_country = {
-							limit = {
-								has_country_flag = tpt_actor
-								NOT = { has_idea = tp_fascist_nation }
-							}
-							add_ideas = tp_fascist_nation
-							every_other_country = {
-								limit = {
-									has_country_flag = tpt_actor
-									has_idea = tp_fascist_nation
-								}
-								remove_ideas = tp_fascist_nation
-								clr_country_flag = tpt_actor
-							}
+						add_ideas = tp_fascist_nation
+						every_other_country = {
+							limit = { has_country_flag = tpt_actor }
+							remove_ideas = tp_fascist_nation
 							clr_country_flag = tpt_actor
 						}
-						else = {
-							every_country = {
-								limit = {
-									has_country_flag = tpt_actor
-									has_idea = tp_fascist_nation
-								}
-								remove_ideas = tp_fascist_nation
-								every_other_country = {
-									limit = {
-										NOT = { has_idea = tp_fascist_nation }
-										has_country_flag = tpt_actor
-									}
-									add_ideas = tp_fascist_nation
-									clr_country_flag = tpt_actor
-								}
-								clr_country_flag = tpt_actor
-							}
-						}
+						clr_country_flag = tpt_actor
 					}
 				}
 			}
@@ -637,47 +417,18 @@ scripted_gui = {
 					limit = {
 						any_country = { has_country_flag = tpt_actor }
 					}
-					if = {
+					every_country = {
 						limit = {
-							any_country = {
-								has_country_flag = tpt_actor
-								NOT = { has_idea = tp_fascism_banned }
-							}
+							has_country_flag = tpt_actor
+							NOT = { has_idea = tp_fascism_banned }
 						}
-						every_country = {
-							limit = {
-								has_country_flag = tpt_actor
-								NOT = { has_idea = tp_fascism_banned }
-							}
-							add_ideas = tp_fascism_banned
-							every_other_country = {
-								limit = {
-									has_country_flag = tpt_actor
-									has_idea = tp_fascism_banned
-								}
-								remove_ideas = tp_fascism_banned
-								clr_country_flag = tpt_actor
-							}
+						add_ideas = tp_fascism_banned
+						every_other_country = {
+							limit = { has_country_flag = tpt_actor }
+							remove_ideas = tp_fascism_banned
 							clr_country_flag = tpt_actor
 						}
-						else = {
-							every_country = {
-								limit = {
-									has_country_flag = tpt_actor
-									has_idea = tp_fascism_banned
-								}
-								remove_ideas = tp_fascism_banned
-								every_other_country = {
-									limit = {
-										NOT = { has_idea = tp_fascism_banned }
-										has_country_flag = tpt_actor
-									}
-									add_ideas = tp_fascism_banned
-									clr_country_flag = tpt_actor
-								}
-								clr_country_flag = tpt_actor
-							}
-						}
+						clr_country_flag = tpt_actor
 					}
 				}
 			}
@@ -700,47 +451,18 @@ scripted_gui = {
 					limit = {
 						any_country = { has_country_flag = tpt_actor }
 					}
-					if = {
+					every_country = {
 						limit = {
-							any_country = {
-								has_country_flag = tpt_actor
-								NOT = { has_idea = tp_communist_nation }
-							}
+							has_country_flag = tpt_actor
+							NOT = { has_idea = tp_communist_nation }
 						}
-						every_country = {
-							limit = {
-								has_country_flag = tpt_actor
-								NOT = { has_idea = tp_communist_nation }
-							}
-							add_ideas = tp_communist_nation
-							every_other_country = {
-								limit = {
-									has_country_flag = tpt_actor
-									has_idea = tp_communist_nation
-								}
-								remove_ideas = tp_communist_nation
-								clr_country_flag = tpt_actor
-							}
+						add_ideas = tp_communist_nation
+						every_other_country = {
+							limit = { has_country_flag = tpt_actor }
+							remove_ideas = tp_communist_nation
 							clr_country_flag = tpt_actor
 						}
-						else = {
-							every_country = {
-								limit = {
-									has_country_flag = tpt_actor
-									has_idea = tp_communist_nation
-								}
-								remove_ideas = tp_communist_nation
-								every_other_country = {
-									limit = {
-										NOT = { has_idea = tp_communist_nation }
-										has_country_flag = tpt_actor
-									}
-									add_ideas = tp_communist_nation
-									clr_country_flag = tpt_actor
-								}
-								clr_country_flag = tpt_actor
-							}
-						}
+						clr_country_flag = tpt_actor
 					}
 				}
 			}
@@ -763,47 +485,18 @@ scripted_gui = {
 					limit = {
 						any_country = { has_country_flag = tpt_actor }
 					}
-					if = {
+					every_country = {
 						limit = {
-							any_country = {
-								has_country_flag = tpt_actor
-								NOT = { has_idea = tp_communism_banned }
-							}
+							has_country_flag = tpt_actor
+							NOT = { has_idea = tp_communism_banned }
 						}
-						every_country = {
-							limit = {
-								has_country_flag = tpt_actor
-								NOT = { has_idea = tp_communism_banned }
-							}
-							add_ideas = tp_communism_banned
-							every_other_country = {
-								limit = {
-									has_country_flag = tpt_actor
-									has_idea = tp_communism_banned
-								}
-								remove_ideas = tp_communism_banned
-								clr_country_flag = tpt_actor
-							}
+						add_ideas = tp_communism_banned
+						every_other_country = {
+							limit = { has_country_flag = tpt_actor }
+							remove_ideas = tp_communism_banned
 							clr_country_flag = tpt_actor
 						}
-						else = {
-							every_country = {
-								limit = {
-									has_country_flag = tpt_actor
-									has_idea = tp_communism_banned
-								}
-								remove_ideas = tp_communism_banned
-								every_other_country = {
-									limit = {
-										NOT = { has_idea = tp_communism_banned }
-										has_country_flag = tpt_actor
-									}
-									add_ideas = tp_communism_banned
-									clr_country_flag = tpt_actor
-								}
-								clr_country_flag = tpt_actor
-							}
-						}
+						clr_country_flag = tpt_actor
 					}
 				}
 			}
@@ -826,47 +519,18 @@ scripted_gui = {
 					limit = {
 						any_country = { has_country_flag = tpt_actor }
 					}
-					if = {
+					every_country = {
 						limit = {
-							any_country = {
-								has_country_flag = tpt_actor
-								NOT = { has_idea = tp_democratic_nation }
-							}
+							has_country_flag = tpt_actor
+							NOT = { has_idea = tp_democratic_nation }
 						}
-						every_country = {
-							limit = {
-								has_country_flag = tpt_actor
-								NOT = { has_idea = tp_democratic_nation }
-							}
-							add_ideas = tp_democratic_nation
-							every_other_country = {
-								limit = {
-									has_country_flag = tpt_actor
-									has_idea = tp_democratic_nation
-								}
-								remove_ideas = tp_democratic_nation
-								clr_country_flag = tpt_actor
-							}
+						add_ideas = tp_democratic_nation
+						every_other_country = {
+							limit = { has_country_flag = tpt_actor }
+							remove_ideas = tp_democratic_nation
 							clr_country_flag = tpt_actor
 						}
-						else = {
-							every_country = {
-								limit = {
-									has_country_flag = tpt_actor
-									has_idea = tp_democratic_nation
-								}
-								remove_ideas = tp_democratic_nation
-								every_other_country = {
-									limit = {
-										NOT = { has_idea = tp_democratic_nation }
-										has_country_flag = tpt_actor
-									}
-									add_ideas = tp_democratic_nation
-									clr_country_flag = tpt_actor
-								}
-								clr_country_flag = tpt_actor
-							}
-						}
+						clr_country_flag = tpt_actor
 					}
 				}
 			}
@@ -889,47 +553,18 @@ scripted_gui = {
 					limit = {
 						any_country = { has_country_flag = tpt_actor }
 					}
-					if = {
+					every_country = {
 						limit = {
-							any_country = {
-								has_country_flag = tpt_actor
-								NOT = { has_idea = tp_democratic_banned }
-							}
+							has_country_flag = tpt_actor
+							NOT = { has_idea = tp_democratic_banned }
 						}
-						every_country = {
-							limit = {
-								has_country_flag = tpt_actor
-								NOT = { has_idea = tp_democratic_banned }
-							}
-							add_ideas = tp_democratic_banned
-							every_other_country = {
-								limit = {
-									has_country_flag = tpt_actor
-									has_idea = tp_democratic_banned
-								}
-								remove_ideas = tp_democratic_banned
-								clr_country_flag = tpt_actor
-							}
+						add_ideas = tp_democratic_banned
+						every_other_country = {
+							limit = { has_country_flag = tpt_actor }
+							remove_ideas = tp_democratic_banned
 							clr_country_flag = tpt_actor
 						}
-						else = {
-							every_country = {
-								limit = {
-									has_country_flag = tpt_actor
-									has_idea = tp_democratic_banned
-								}
-								remove_ideas = tp_democratic_banned
-								every_other_country = {
-									limit = {
-										NOT = { has_idea = tp_democratic_banned }
-										has_country_flag = tpt_actor
-									}
-									add_ideas = tp_democratic_banned
-									clr_country_flag = tpt_actor
-								}
-								clr_country_flag = tpt_actor
-							}
-						}
+						clr_country_flag = tpt_actor
 					}
 				}
 			}
@@ -952,47 +587,18 @@ scripted_gui = {
 					limit = {
 						any_country = { has_country_flag = tpt_actor }
 					}
-					if = {
+					every_country = {
 						limit = {
-							any_country = {
-								has_country_flag = tpt_actor
-								NOT = { has_idea = tp_neutral_nation }
-							}
+							has_country_flag = tpt_actor
+							NOT = { has_idea = tp_neutral_nation }
 						}
-						every_country = {
-							limit = {
-								has_country_flag = tpt_actor
-								NOT = { has_idea = tp_neutral_nation }
-							}
-							add_ideas = tp_neutral_nation
-							every_other_country = {
-								limit = {
-									has_country_flag = tpt_actor
-									has_idea = tp_neutral_nation
-								}
-								remove_ideas = tp_neutral_nation
-								clr_country_flag = tpt_actor
-							}
+						add_ideas = tp_neutral_nation
+						every_other_country = {
+							limit = { has_country_flag = tpt_actor }
+							remove_ideas = tp_neutral_nation
 							clr_country_flag = tpt_actor
 						}
-						else = {
-							every_country = {
-								limit = {
-									has_country_flag = tpt_actor
-									has_idea = tp_neutral_nation
-								}
-								remove_ideas = tp_neutral_nation
-								every_other_country = {
-									limit = {
-										NOT = { has_idea = tp_neutral_nation }
-										has_country_flag = tpt_actor
-									}
-									add_ideas = tp_neutral_nation
-									clr_country_flag = tpt_actor
-								}
-								clr_country_flag = tpt_actor
-							}
-						}
+						clr_country_flag = tpt_actor
 					}
 				}
 			}
@@ -1015,173 +621,18 @@ scripted_gui = {
 					limit = {
 						any_country = { has_country_flag = tpt_actor }
 					}
-					if = {
+					every_country = {
 						limit = {
-							any_country = {
-								has_country_flag = tpt_actor
-								NOT = { has_idea = tp_neutrality_banned }
-							}
+							has_country_flag = tpt_actor
+							NOT = { has_idea = tp_neutrality_banned }
 						}
-						every_country = {
-							limit = {
-								has_country_flag = tpt_actor
-								NOT = { has_idea = tp_neutrality_banned }
-							}
-							add_ideas = tp_neutrality_banned
-							every_other_country = {
-								limit = {
-									has_country_flag = tpt_actor
-									has_idea = tp_neutrality_banned
-								}
-								remove_ideas = tp_neutrality_banned
-								clr_country_flag = tpt_actor
-							}
+						add_ideas = tp_neutrality_banned
+						every_other_country = {
+							limit = { has_country_flag = tpt_actor }
+							remove_ideas = tp_neutrality_banned
 							clr_country_flag = tpt_actor
 						}
-						else = {
-							every_country = {
-								limit = {
-									has_country_flag = tpt_actor
-									has_idea = tp_neutrality_banned
-								}
-								remove_ideas = tp_neutrality_banned
-								every_other_country = {
-									limit = {
-										NOT = { has_idea = tp_neutrality_banned }
-										has_country_flag = tpt_actor
-									}
-									add_ideas = tp_neutrality_banned
-									clr_country_flag = tpt_actor
-								}
-								clr_country_flag = tpt_actor
-							}
-						}
-					}
-				}
-			}
-			tpt_add_monarchism_click = {
-				if = {
-					limit = {
-						all_country = {
-							NOT = { has_country_flag = tpt_actor }
-						}
-					}
-					if = {
-						limit = {
-							NOT = { has_idea = tp_monarchist_nation }
-						}
-						add_ideas = tp_monarchist_nation
-						else = { remove_ideas = tp_monarchist_nation }
-					}
-				}
-				if = {
-					limit = {
-						any_country = { has_country_flag = tpt_actor }
-					}
-					if = {
-						limit = {
-							any_country = {
-								has_country_flag = tpt_actor
-								NOT = { has_idea = tp_monarchist_nation }
-							}
-						}
-						every_country = {
-							limit = {
-								has_country_flag = tpt_actor
-								NOT = { has_idea = tp_monarchist_nation }
-							}
-							add_ideas = tp_monarchist_nation
-							every_other_country = {
-								limit = {
-									has_country_flag = tpt_actor
-									has_idea = tp_monarchist_nation
-								}
-								remove_ideas = tp_monarchist_nation
-								clr_country_flag = tpt_actor
-							}
-							clr_country_flag = tpt_actor
-						}
-						else = {
-							every_country = {
-								limit = {
-									has_country_flag = tpt_actor
-									has_idea = tp_monarchist_nation
-								}
-								remove_ideas = tp_monarchist_nation
-								every_other_country = {
-									limit = {
-										NOT = { has_idea = tp_monarchist_nation }
-										has_country_flag = tpt_actor
-									}
-									add_ideas = tp_monarchist_nation
-									clr_country_flag = tpt_actor
-								}
-								clr_country_flag = tpt_actor
-							}
-						}
-					}
-				}
-			}
-			tpt_ban_monarchism_click = {
-				if = {
-					limit = {
-						all_country = {
-							NOT = { has_country_flag = tpt_actor }
-						}
-					}
-					if = {
-						limit = {
-							NOT = { has_idea = tp_monarchism_banned }
-						}
-						add_ideas = tp_monarchism_banned
-						else = { remove_ideas = tp_monarchism_banned }
-					}
-				}
-				if = {
-					limit = {
-						any_country = { has_country_flag = tpt_actor }
-					}
-					if = {
-						limit = {
-							any_country = {
-								has_country_flag = tpt_actor
-								NOT = { has_idea = tp_monarchism_banned }
-							}
-						}
-						every_country = {
-							limit = {
-								has_country_flag = tpt_actor
-								NOT = { has_idea = tp_monarchism_banned }
-							}
-							add_ideas = tp_monarchism_banned
-							every_other_country = {
-								limit = {
-									has_country_flag = tpt_actor
-									has_idea = tp_monarchism_banned
-								}
-								remove_ideas = tp_monarchism_banned
-								clr_country_flag = tpt_actor
-							}
-							clr_country_flag = tpt_actor
-						}
-						else = {
-							every_country = {
-								limit = {
-									has_country_flag = tpt_actor
-									has_idea = tp_monarchism_banned
-								}
-								remove_ideas = tp_monarchism_banned
-								every_other_country = {
-									limit = {
-										NOT = { has_idea = tp_monarchism_banned }
-										has_country_flag = tpt_actor
-									}
-									add_ideas = tp_monarchism_banned
-									clr_country_flag = tpt_actor
-								}
-								clr_country_flag = tpt_actor
-							}
-						}
+						clr_country_flag = tpt_actor
 					}
 				}
 			}
@@ -1208,12 +659,6 @@ scripted_gui = {
 			}
 			tpt_neutral_off_click = {
 				clr_global_flag = tpt_neutral
-			}
-			tpt_monarchist_on_click = {
-				set_global_flag = tpt_monarchist
-			}
-			tpt_monarchist_off_click = {
-				clr_global_flag = tpt_monarchist
 			}
 			tpt_enable_elections_click = {
 				if = {
@@ -1298,12 +743,6 @@ scripted_gui = {
 						}
 						set_politics = { ruling_party = neutrality }
 					}
-					if = {
-						limit = {
-							has_global_flag = tpt_monarchist
-						}
-						set_politics = { ruling_party = monarchism }
-					}
 				}
 				if = {
 					limit = {
@@ -1382,15 +821,6 @@ scripted_gui = {
 							popularity = 0.05
 						}
 					}
-					if = {
-						limit = {
-							has_global_flag = tpt_monarchist
-						}
-						add_popularity = {
-							ideology = monarchism
-							popularity = 0.05
-						}
-					}
 				}
 				if = {
 					limit = {
@@ -1434,15 +864,7 @@ scripted_gui = {
 								popularity = 0.05
 							}
 						}
-						if = {
-							limit = {
-								has_global_flag = tpt_monarchist
-							}
-							add_popularity = {
-								ideology = monarchism
-								popularity = 0.05
-							}
-						}
+						clr_country_flag = tpt_actor
 					}
 				}
 			}
@@ -1489,15 +911,6 @@ scripted_gui = {
 							popularity = -0.05
 						}
 					}
-					if = {
-						limit = {
-							has_global_flag = tpt_monarchist
-						}
-						add_popularity = {
-							ideology = monarchism
-							popularity = -0.05
-						}
-					}
 				}
 				if = {
 					limit = {
@@ -1541,15 +954,7 @@ scripted_gui = {
 								popularity = -0.05
 							}
 						}
-						if = {
-							limit = {
-								has_global_flag = tpt_monarchist
-							}
-							add_popularity = {
-								ideology = monarchism
-								popularity = -0.05
-							}
-						}
+						clr_country_flag = tpt_actor
 					}
 				}
 			}
@@ -1596,15 +1001,6 @@ scripted_gui = {
 							popularity = 0.10
 						}
 					}
-					if = {
-						limit = {
-							has_global_flag = tpt_monarchist
-						}
-						add_popularity = {
-							ideology = monarchism
-							popularity = 0.10
-						}
-					}
 				}
 				if = {
 					limit = {
@@ -1648,15 +1044,7 @@ scripted_gui = {
 								popularity = 0.10
 							}
 						}
-						if = {
-							limit = {
-								has_global_flag = tpt_monarchist
-							}
-							add_popularity = {
-								ideology = monarchism
-								popularity = 0.10
-							}
-						}
+						clr_country_flag = tpt_actor
 					}
 				}
 			}
@@ -1703,15 +1091,6 @@ scripted_gui = {
 							popularity = -0.10
 						}
 					}
-					if = {
-						limit = {
-							has_global_flag = tpt_monarchist
-						}
-						add_popularity = {
-							ideology = monarchism
-							popularity = -0.10
-						}
-					}
 				}
 				if = {
 					limit = {
@@ -1755,15 +1134,7 @@ scripted_gui = {
 								popularity = -0.10
 							}
 						}
-						if = {
-							limit = {
-								has_global_flag = tpt_monarchist
-							}
-							add_popularity = {
-								ideology = monarchism
-								popularity = -0.10
-							}
-						}
+						clr_country_flag = tpt_actor
 					}
 				}
 			}
@@ -1810,15 +1181,6 @@ scripted_gui = {
 							popularity = 0.50
 						}
 					}
-					if = {
-						limit = {
-							has_global_flag = tpt_monarchist
-						}
-						add_popularity = {
-							ideology = monarchism
-							popularity = 0.50
-						}
-					}
 				}
 				if = {
 					limit = {
@@ -1862,15 +1224,7 @@ scripted_gui = {
 								popularity = 0.50
 							}
 						}
-						if = {
-							limit = {
-								has_global_flag = tpt_monarchist
-							}
-							add_popularity = {
-								ideology = monarchism
-								popularity = 0.50
-							}
-						}
+						clr_country_flag = tpt_actor
 					}
 				}
 			}
@@ -1917,15 +1271,6 @@ scripted_gui = {
 							popularity = -0.50
 						}
 					}
-					if = {
-						limit = {
-							has_global_flag = tpt_monarchist
-						}
-						add_popularity = {
-							ideology = monarchism
-							popularity = -0.50
-						}
-					}
 				}
 				if = {
 					limit = {
@@ -1969,15 +1314,7 @@ scripted_gui = {
 								popularity = -0.50
 							}
 						}
-						if = {
-							limit = {
-								has_global_flag = tpt_monarchist
-							}
-							add_popularity = {
-								ideology = monarchism
-								popularity = -0.50
-							}
-						}
+						clr_country_flag = tpt_actor
 					}
 				}
 			}
@@ -2330,14 +1667,6 @@ scripted_gui = {
 								size = 0.5
 							}
 						}
-						if = {
-							limit = { has_global_flag = tpt_cw_monarchist }
-							start_civil_war = {
-								ruling_party = democratic
-								ideology = monarchism
-								size = 0.5
-							}
-						}
 					}
 					if = {
 						limit = { has_government = fascism }
@@ -2362,14 +1691,6 @@ scripted_gui = {
 							start_civil_war = {
 								ruling_party = fascism
 								ideology = neutrality
-								size = 0.5
-							}
-						}
-						if = {
-							limit = { has_global_flag = tpt_cw_monarchist }
-							start_civil_war = {
-								ruling_party = fascism
-								ideology = monarchism
 								size = 0.5
 							}
 						}
@@ -2400,14 +1721,6 @@ scripted_gui = {
 								size = 0.5
 							}
 						}
-						if = {
-							limit = { has_global_flag = tpt_cw_monarchist }
-							start_civil_war = {
-								ruling_party = communism
-								ideology = monarchism
-								size = 0.5
-							}
-						}
 					}
 					if = {
 						limit = { has_government = neutrality }
@@ -2432,49 +1745,6 @@ scripted_gui = {
 							start_civil_war = {
 								ruling_party = neutrality
 								ideology = democratic
-								size = 0.5
-							}
-						}
-						if = {
-							limit = { has_global_flag = tpt_cw_monarchist }
-							start_civil_war = {
-								ruling_party = neutrality
-								ideology = monarchism
-								size = 0.5
-							}
-						}
-					}
-					if = {
-						limit = { has_government = monarchism }
-						if = {
-							limit = { has_global_flag = tpt_cw_fascist }
-							start_civil_war = {
-								ruling_party = monarchism
-								ideology = fascism
-								size = 0.5
-							}
-						}
-						if = {
-							limit = { has_global_flag = tpt_cw_communist }
-							start_civil_war = {
-								ruling_party = monarchism
-								ideology = communism
-								size = 0.5
-							}
-						}
-						if = {
-							limit = { has_global_flag = tpt_cw_democratic }
-							start_civil_war = {
-								ruling_party = monarchism
-								ideology = democratic
-								size = 0.5
-							}
-						}
-						if = {
-							limit = { has_global_flag = tpt_cw_neutral }
-							start_civil_war = {
-								ruling_party = monarchism
-								ideology = neutrality
 								size = 0.5
 							}
 						}
@@ -2513,14 +1783,6 @@ scripted_gui = {
 									size = 0.5
 								}
 							}
-							if = {
-								limit = { has_global_flag = tpt_cw_monarchist }
-								start_civil_war = {
-									ruling_party = democratic
-									ideology = monarchism
-									size = 0.5
-								}
-							}
 						}
 						if = {
 							limit = { has_government = fascism }
@@ -2545,14 +1807,6 @@ scripted_gui = {
 								start_civil_war = {
 									ruling_party = fascism
 									ideology = neutrality
-									size = 0.5
-								}
-							}
-							if = {
-								limit = { has_global_flag = tpt_cw_monarchist }
-								start_civil_war = {
-									ruling_party = fascism
-									ideology = monarchism
 									size = 0.5
 								}
 							}
@@ -2583,14 +1837,6 @@ scripted_gui = {
 									size = 0.5
 								}
 							}
-							if = {
-								limit = { has_global_flag = tpt_cw_monarchist }
-								start_civil_war = {
-									ruling_party = communism
-									ideology = monarchism
-									size = 0.5
-								}
-							}
 						}
 						if = {
 							limit = { has_government = neutrality }
@@ -2615,49 +1861,6 @@ scripted_gui = {
 								start_civil_war = {
 									ruling_party = neutrality
 									ideology = democratic
-									size = 0.5
-								}
-							}
-							if = {
-								limit = { has_global_flag = tpt_cw_monarchist }
-								start_civil_war = {
-									ruling_party = neutrality
-									ideology = monarchism
-									size = 0.5
-								}
-							}
-						}
-						if = {
-							limit = { has_government = monarchism }
-							if = {
-								limit = { has_global_flag = tpt_cw_fascist }
-								start_civil_war = {
-									ruling_party = monarchism
-									ideology = fascism
-									size = 0.5
-								}
-							}
-							if = {
-								limit = { has_global_flag = tpt_cw_communist }
-								start_civil_war = {
-									ruling_party = monarchism
-									ideology = communism
-									size = 0.5
-								}
-							}
-							if = {
-								limit = { has_global_flag = tpt_cw_democratic }
-								start_civil_war = {
-									ruling_party = monarchism
-									ideology = democratic
-									size = 0.5
-								}
-							}
-							if = {
-								limit = { has_global_flag = tpt_cw_neutral }
-								start_civil_war = {
-									ruling_party = monarchism
-									ideology = neutrality
 									size = 0.5
 								}
 							}
@@ -3673,71 +2876,7 @@ scripted_gui = {
 					}
 				}
 			}
-			tpt_dec_rs_speed_visible = {
-				has_global_flag = tpt_window_e
-			}
-			tpt_dec_rs_speed_click_enabled = {
-				check_variable = {
-					tpt_research_speed > -100
-				}
-				OR = {
-					AND = {
-						any_country = {
-							has_country_flag = tpt_actor
-							check_variable = {
-								tpt_research_speed > -100
-							}
-						}
-					}
-					AND = {
-						all_country = {
-							NOT = { has_country_flag = tpt_actor }
-						}
-						check_variable = {
-							tpt_research_speed > -100
-						}
-					}
-				}
-			}
-			tpt_inc_rs_speed_visible = {
-				has_global_flag = tpt_window_e
-			}
-			tpt_inc_rs_speed_click_enabled = {
-				OR = {
-					AND = {
-						any_country = {
-							has_country_flag = tpt_actor
-							check_variable = {
-								tpt_research_speed < 100
-							}
-						}
-					}
-					AND = {
-						all_country = {
-							NOT = { has_country_flag = tpt_actor }
-						}
-						check_variable = {
-							tpt_research_speed < 100
-						}
-					}
-				}
-			}
-			tpt_rs_speed_value_visible = {
-				has_global_flag = tpt_window_e
-			}
-			tpt_rs_speed_text_visible = {
-				has_global_flag = tpt_window_e
-			}
 ### IDEOLOGY ###
-			tpt_retire_leader_visible = {
-				has_global_flag = tpt_window_a
-			}
-			tpt_retire_leader_click_enabled = {
-				always = no
-			}
-			tpt_kill_leader_visible = {
-				has_global_flag = tpt_window_a
-			}
 			tpt_add_fascism_visible = {
 				has_global_flag = tpt_window_a
 			}
@@ -3760,12 +2899,6 @@ scripted_gui = {
 				has_global_flag = tpt_window_a
 			}
 			tpt_ban_neutrality_visible = {
-				has_global_flag = tpt_window_a
-			}
-			tpt_add_monarchism_visible = {
-				has_global_flag = tpt_window_a
-			}
-			tpt_ban_monarchism_visible = {
 				has_global_flag = tpt_window_a
 			}
 			tpt_fascist_on_visible = {
@@ -3800,21 +2933,12 @@ scripted_gui = {
 				has_global_flag = tpt_window_a
 				has_global_flag = tpt_neutral
 			}
-			tpt_monarchist_on_visible = {
-				has_global_flag = tpt_window_a
-				NOT = { has_global_flag = tpt_monarchist }
-			}
-			tpt_monarchist_off_visible = {
-				has_global_flag = tpt_window_a
-				has_global_flag = tpt_monarchist
-			}
 			tpt_add_5_click_enabled = {
 				OR = {
 					has_global_flag = tpt_fascist
 					has_global_flag = tpt_communist
 					has_global_flag = tpt_democratic
 					has_global_flag = tpt_neutral
-					has_global_flag = tpt_monarchist
 				}
 			}
 			tpt_add_5_visible = {
@@ -3826,7 +2950,6 @@ scripted_gui = {
 					has_global_flag = tpt_communist
 					has_global_flag = tpt_democratic
 					has_global_flag = tpt_neutral
-					has_global_flag = tpt_monarchist
 				}
 			}
 			tpt_subtract_5_visible = {
@@ -3838,7 +2961,6 @@ scripted_gui = {
 					has_global_flag = tpt_communist
 					has_global_flag = tpt_democratic
 					has_global_flag = tpt_neutral
-					has_global_flag = tpt_monarchist
 				}
 			}
 			tpt_add_10_visible = {
@@ -3850,7 +2972,6 @@ scripted_gui = {
 					has_global_flag = tpt_communist
 					has_global_flag = tpt_democratic
 					has_global_flag = tpt_neutral
-					has_global_flag = tpt_monarchist
 				}
 			}
 			tpt_subtract_10_visible = {
@@ -3862,7 +2983,6 @@ scripted_gui = {
 					has_global_flag = tpt_communist
 					has_global_flag = tpt_democratic
 					has_global_flag = tpt_neutral
-					has_global_flag = tpt_monarchist
 				}
 			}
 			tpt_add_50_visible = {
@@ -3874,7 +2994,6 @@ scripted_gui = {
 					has_global_flag = tpt_communist
 					has_global_flag = tpt_democratic
 					has_global_flag = tpt_neutral
-					has_global_flag = tpt_monarchist
 				}
 			}
 			tpt_subtract_50_visible = {
@@ -3887,35 +3006,24 @@ scripted_gui = {
 						NOT = { has_global_flag = tpt_communist }
 						NOT = { has_global_flag = tpt_democratic }
 						NOT = { has_global_flag = tpt_neutral }
-						NOT = { has_global_flag = tpt_monarchist }
 					}
 					AND = {
 						has_global_flag = tpt_communist
 						NOT = { has_global_flag = tpt_fascist }
 						NOT = { has_global_flag = tpt_democratic }
 						NOT = { has_global_flag = tpt_neutral }
-						NOT = { has_global_flag = tpt_monarchist }
 					}
 					AND = {
 						has_global_flag = tpt_democratic
 						NOT = { has_global_flag = tpt_fascist }
 						NOT = { has_global_flag = tpt_communist }
 						NOT = { has_global_flag = tpt_neutral }
-						NOT = { has_global_flag = tpt_monarchist }
 					}
 					AND = {
 						has_global_flag = tpt_neutral
 						NOT = { has_global_flag = tpt_fascist }
 						NOT = { has_global_flag = tpt_communist }
 						NOT = { has_global_flag = tpt_democratic }
-						NOT = { has_global_flag = tpt_monarchist }
-					}
-					AND = {
-						NOT = { has_global_flag = tpt_fascist }
-						NOT = { has_global_flag = tpt_communist }
-						NOT = { has_global_flag = tpt_democratic }
-						NOT = { has_global_flag = tpt_neutral }
-						has_global_flag = tpt_monarchist
 					}
 				}
 			}
@@ -3941,12 +3049,6 @@ scripted_gui = {
 				has_global_flag = tpt_window_a
 			}
 			tpt_neutral_number_visible = {
-				has_global_flag = tpt_window_a
-			}
-			tpt_monarchist_text_visible = {
-				has_global_flag = tpt_window_a
-			}
-			tpt_monarchist_number_visible = {
 				has_global_flag = tpt_window_a
 			}
 			tpt_change_visible = {
@@ -8534,7 +7636,6 @@ scripted_gui = {
 				clr_global_flag = tpt_cw_communist
 				clr_global_flag = tpt_cw_democratic
 				clr_global_flag = tpt_cw_neutral
-				clr_global_flag = tpt_cw_monarchist
 			}
 			tpt_cw_fascist_off_click = {
 				clr_global_flag = tpt_cw_fascist
@@ -8544,7 +7645,6 @@ scripted_gui = {
 				clr_global_flag = tpt_cw_fascist
 				clr_global_flag = tpt_cw_democratic
 				clr_global_flag = tpt_cw_neutral
-				clr_global_flag = tpt_cw_monarchist
 			}
 			tpt_cw_communist_off_click = {
 				clr_global_flag = tpt_cw_communist
@@ -8554,7 +7654,6 @@ scripted_gui = {
 				clr_global_flag = tpt_cw_communist
 				clr_global_flag = tpt_cw_fascist
 				clr_global_flag = tpt_cw_neutral
-				clr_global_flag = tpt_cw_monarchist
 			}
 			tpt_cw_democratic_off_click = {
 				clr_global_flag = tpt_cw_democratic
@@ -8564,20 +7663,9 @@ scripted_gui = {
 				clr_global_flag = tpt_cw_communist
 				clr_global_flag = tpt_cw_fascist
 				clr_global_flag = tpt_cw_democratic
-				clr_global_flag = tpt_cw_monarchist
 			}
 			tpt_cw_neutral_off_click = {
 				clr_global_flag = tpt_cw_neutral
-			}
-			tpt_cw_monarchist_on_click = {
-				set_global_flag = tpt_cw_monarchist
-				clr_global_flag = tpt_cw_communist
-				clr_global_flag = tpt_cw_fascist
-				clr_global_flag = tpt_cw_democratic
-				clr_global_flag = tpt_cw_neutral
-			}
-			tpt_cw_monarchist_off_click = {
-				clr_global_flag = tpt_cw_monarchist
 			}
 		}
 
@@ -8605,12 +7693,6 @@ scripted_gui = {
 			}
 			tpt_cw_neutral_off_visible = {
 				has_global_flag = tpt_cw_neutral
-			}
-			tpt_cw_monarchist_on_visible = {
-				NOT = { has_global_flag = tpt_cw_monarchist }
-			}
-			tpt_cw_monarchist_off_visible = {
-				has_global_flag = tpt_cw_monarchist
 			}
 		}
 	}
