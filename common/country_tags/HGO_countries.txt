@@ -563,7 +563,7 @@ SGO = "countries/Samogitia.txt"
 AMZ = "countries/Amazonas.txt"
 SIN = "countries/Sinai.txt"
 ACR = "countries/Acre.txt"
-##Finnic niggas
+##Finnic nations
 VOT = "countries/Votia.txt"
 VEP = "countries/Vepsia.txt"
 IZH = "countries/Izhoria.txt"
