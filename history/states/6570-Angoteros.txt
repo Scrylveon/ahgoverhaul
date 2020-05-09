@@ -5,7 +5,7 @@ state={
 		16870 
 	}
 	history={
-	    owner = PRU
+	    owner = ECU
         add_core_of = PRU
         add_core_of = ECU
     }	
