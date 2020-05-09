@@ -1,5 +1,5 @@
 Q: What version of the game is this for?
-A: Currently, HGO only works with version 1.8.2.
+A: HGO works for 1.9(.2) now.
 
 Q: Some nations have no flag.
 A: The anarchy releasables lack a flag deliberately due to not being countries. In addition, some newly-added releasables may not have a flag, either due to them not having one
