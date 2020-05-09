@@ -5,7 +5,7 @@ state={
 		18419 
 	}
 	history={
-		owner = FWA
+		owner = NGA
 		add_core_of = NGA
 	}
 	state_category=pastoral

@@ -131,6 +131,7 @@ bookmarks = {
 			minor = yes
 			history = "WARLORDS_GATHERING_STORM_DESC"
 			ideology = fascism
+		}
 		"XSM"={
 			minor = yes
 			history = "WARLORDS_GATHERING_STORM_DESC"
