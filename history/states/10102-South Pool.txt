@@ -1,12 +1,12 @@
 state={
-	id=10036
-	name="STATE_10036"
+	id=10102
+	name="STATE_10102"
 	provinces={
-		19299 16744
+		19432
 	}
 	history={
-	    owner = COG
-        add_core_of = COG
+	    owner = FEA
+        add_core_of = RCG
     }	
 	manpower=1000
 	state_category = pastoral
