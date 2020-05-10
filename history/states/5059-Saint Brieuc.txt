@@ -11,7 +11,7 @@ state={
 
 		}
 		add_core_of = FRA
-		add_core_of = BRT
+		add_core_of = BRI
 
 	}
 	manpower=1030

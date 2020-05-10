@@ -901,8 +901,8 @@ guiTypes = {
 	containerWindowType = {
 		name = "select_occupation_setting_container"
 		
-		position = { x = 400 y = 120}	
-		show_position = { x = 539 y = 120 }
+		position = { x = 4000 y = 120}	
+		show_position = { x = 5390 y = 120 }
 		show_animation_type = decelerated
 		hide_animation_type = accelerated
 		animation_time = 300	
