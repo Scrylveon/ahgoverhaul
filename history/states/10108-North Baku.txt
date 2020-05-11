@@ -2,9 +2,6 @@
 state={
 	id=10108
 	name="STATE_10108"
-	provinces={
-		19446 
-	}
 	
 	history={
 		owner = TSC

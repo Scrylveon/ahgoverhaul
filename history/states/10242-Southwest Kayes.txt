@@ -1,0 +1,14 @@
+state={
+	id=10242
+	name="STATE_10242"
+	provinces={
+		19509 
+	}
+	history={
+	    owner = FWA
+        add_core_of = MLI
+    }	
+	manpower=1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}
