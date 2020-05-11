@@ -30,9 +30,9 @@ set_convoys = 10
 }
 
 create_country_leader = {
-	name = "Alexander Countanche"
+	name = "Alexander Coutanche"
 	desc = ""
-	picture = "To_be_added.dds"
+	picture = "Coutanche.dds"
 	expire = "1965.1.1"
 	ideology = liberalism
 	traits = {

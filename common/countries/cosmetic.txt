@@ -2,6 +2,10 @@ TUN_FRA = {
 	color = rgb { 37 72 155 }
 	color_ui = rgb { 37 72 155 }
 }
+ALN_FIN = {
+	color = rgb { 205 212 228 }
+	color_ui = rgb { 255 255 255 }
+}
 MEN_ECA = {
 	color = rgb { 165 69 117 }
 	color_ui = rgb { 165 69 117 }
@@ -1088,6 +1092,10 @@ FRA_GER = {
 	color_ui = rgb { 115 115 115 }
 }
 TSC_SOV = {
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 125 13 24 }
+}
+ALN_SOV = {
 	color = rgb { 125 13 24 }
 	color_ui = rgb { 125 13 24 }
 }

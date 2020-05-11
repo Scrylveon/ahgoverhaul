@@ -28,3 +28,14 @@ set_popularities = {
 	elections_allowed = no
 }
 
+
+create_country_leader = {
+	name = "MacGillivray Milne"
+	desc = ""
+	picture = "MacGillivray.dds"
+	expire = "1965.1.1"
+	ideology = liberalism
+	traits = {
+		#
+	}
+}
