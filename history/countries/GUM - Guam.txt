@@ -29,3 +29,14 @@ set_popularities = {
 	elections_allowed = no
 }
 
+
+create_country_leader = {
+	name = "George Andrew Alexander"
+	desc = ""
+	picture = "George_Alexander.dds"
+	expire = "1965.1.1"
+	ideology = liberalism
+	traits = {
+		#
+	}
+}
