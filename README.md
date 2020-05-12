@@ -1,4 +1,4 @@
-How install this trainwreck - presented by Ainsley (and modified by Skylar)
+How install this trainwreck - presented by the HGO team
 1) Download the mod, check your download directory (usually ThisPC/Downloads)
 2) Unzip the modfile. Make sure the folder name is still ahgoverhaul, and if isn't rename it.
 3) Enter the folder, Take out the .MOD file (the file called ahgoverhaul.mod) and put it outside the folder into whatever directory you downloaded the mod into.
