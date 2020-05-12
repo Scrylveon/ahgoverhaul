@@ -958,12 +958,12 @@ guiTypes = {
 			name = "mapmode_day_night_toggle_bg"
 			quadTextureSprite = "GFX_mapmode_button_depressed"
 			alwaysTransparent = no
-			position = { x=604 y=198 }
+			position = { x=606 y=195 }
 		}
 
 		buttonType = {
 			name = "day_night_toggle"
-			position = { x=604 y=198 }
+			position = { x=608 y=195 }
 			quadTextureSprite ="GFX_day_night_toggle"
 			shortcut = "n"
 			clicksound = click_default
@@ -1043,12 +1043,12 @@ guiTypes = {
 			name = "mapmode_button_fog_bg"
 			quadTextureSprite = "GFX_mapmode_button_depressed"
 			alwaysTransparent = no
-			position = { x=604 y=220 }
+			position = { x=606 y=217 }
 		}
 
 		buttonType = {
 			name = "button_fog"
-			position = { x=604 y=220 }
+			position = { x=606 y=217 }
 			quadTextureSprite ="GFX_button_fog_of_war"
 			clicksound = click_default
 			pdx_tooltip = "TOGGLE_FOG_OF_WAR"
