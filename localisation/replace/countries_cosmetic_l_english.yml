@@ -246,10 +246,12 @@
  SCAN_fascism:0 "Scandinavian Empire"
  SCAN_democratic:0 "Scandinavia"
  SCAN_communism:0 "Scandinavian Socialist State"
+ SCAN_monarchism:0 "Kalmar Union"
  SCAN_neutrality_DEF:0 "The Kingdom of Scandinavia"
  SCAN_fascism_DEF:0 "The Scandinavian Empire"
  SCAN_communism_DEF:0 "The Scandinavian Socialist State"
  SCAN_democratic_DEF:0 "Scandinavia"
+ SCAN_monarchism_DEF:0 "The Kalmar Union"
  SCAN_ADJ:0 "Scandinavian"
  
  NDC_UNIFIED_neutrality:1 "Nordic League"

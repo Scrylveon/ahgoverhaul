@@ -2318,6 +2318,8 @@
  DEN_NOR_neutrality_DEF:0 "Denmark-Norway"
  DEN_NOR_communism:0 "Socialist Union of Denmark and Norway"
  DEN_NOR_communism_DEF:0 "the Socialist Union of Denmark and Norway"
+ DEN_NOR_monarchism:0 "Dano-Norwegian Realm" 
+ DEN_NOR_monarchism_DEF:0 "The Dano-Norwegian Realm" 
  DEN_NOR_ADJ:0 "Dano-Norwegian"
 
  SWE_NOR_fascism:0 "Empire of Sweden-Norway"
@@ -2328,6 +2330,8 @@
  SWE_NOR_neutrality_DEF:0 "Sweden-Norway"
  SWE_NOR_communism:0 "Socialist Union of Sweden and Norway"
  SWE_NOR_communism_DEF:0 "the Socialist Union of Sweden and Norway"
+ SWE_NOR_monarchism:0 "United Kingdoms of Sweden and Norway" 
+ SWE_NOR_monarchism_DEF:0 "The United Kingdoms of Sweden and Norway" 
  SWE_NOR_ADJ:0 "Swedo-Norwegian"
 
  EUR_GAUCHE_democratic:0 "Gauche"
