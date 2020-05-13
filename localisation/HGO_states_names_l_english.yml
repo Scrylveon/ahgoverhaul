@@ -10253,3 +10253,8 @@
  STATE_10254:0 "Lake Ontario Stage 1 Reclamation Zone"
  STATE_10255:0 "Lake Ontario Stage 2 Reclamation Zone"
  STATE_10256:0 "Georgian Bay Stage 1 Reclamation Zone"
+ STATE_10257:0 "London Bay Stage 1 Reclamation Zone"
+ STATE_10258:0 "East London Bay Stage 1 Reclamation Zone"
+ STATE_10259:0 "Lake Huron Stage 1 Reclamation Zone"
+ STATE_10260:0 "East Lake Huron Stage 1 Reclamation Zone"
+ STATE_10261:0 "North Lake Huron Stage 1 Reclamation Zone"
