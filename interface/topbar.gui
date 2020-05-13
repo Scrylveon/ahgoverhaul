@@ -618,7 +618,7 @@ guiTypes = {
 			buttonType = {
 				name = "decisionview_button"
 				quadTextureSprite ="GFX_topbar_decisionview_button"
-				position = { x= -88 y = 0 }
+				position = { x= -95 y = -2 }
 				Orientation = "UPPER_LEFT"
 				clicksound = click_close
 				oversound = ui_menu_over
@@ -654,14 +654,14 @@ guiTypes = {
 			iconType = {
 				name = "decisionview_amount_to_take_bg"
 				spriteType = "GFX_topbar_alert_bg"
-				position = { x = -99 y = 20}
+				position = { x = -9900 y = 20}
 				alwaystransparent = yes
 				frame = 1
 			}
 
 			instantTextBoxType = {
 				name ="decisionview_amount_to_take_items"
-				position = { x= -101 y = 20 }
+				position = { x= -10100 y = 20 }
 				font = "hoi_16mbs"
 				text = "999"
 				format = center
@@ -736,8 +736,7 @@ guiTypes = {
 				buttonType = {
 					name = "diplomacy_button"
 					quadTextureSprite ="GFX_topbar_diplomacy"
-					position = { x= -31 y = 0 }
-					position = { x= -31 y = 0 }
+					position = { x= -38 y = -2 }
 					Orientation = "UPPER_LEFT"
 					shortcut = "e"
 					clicksound = click_close
