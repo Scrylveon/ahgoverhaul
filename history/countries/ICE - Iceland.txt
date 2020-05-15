@@ -30,14 +30,14 @@ set_stability = 0.75
 
 	set_popularities = {
 		democratic 
-			 = 96
+			 = 49
 		fascism
-			 = 2
-		communism
-			 = 2
+			 = 1
+		monarchism
+			 = 50
 		}
 	set_politics = { 
- ruling_party = democratic
+ ruling_party = monarchism
 	last_election = "1933.10.16"
 	election_frequency = 36
 	elections_allowed = yes
@@ -83,6 +83,17 @@ create_country_leader = {
 	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_5.dds"
 	expire = "1965.1.1"
 	ideology = marxism
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Kristján X of Glücksburg"
+	desc = ""
+	picture = "Portrait_Christian_X.dds"
+	expire = "1965.1.1"
+	ideology = absolutism
 	traits = {
 		#
 	}
