@@ -618,6 +618,27 @@ guiTypes = {
 				format = left	
 			}
 			
+			buttonType = {
+				name = "SPECIAL28_button"
+				position = { x = 10 y = 675 }
+				spriteType = "GFX_button_typeA_1"
+				frame = 1
+				
+				buttonFont = "hoi_16mbs"
+				buttonText = "apply_apply"
+			}
+			
+			instantTextboxType = {
+				name = "SPECIAL28_desc"
+				position = { x = 72 y = 675 }
+				font = "hoi_18mbs"
+				borderSize = {x = 0 y = 0}
+				text = "SPECIAL28_desc"
+				maxWidth = 240
+				maxHeight = 20
+				format = left	
+			}
+			
 		}
 		
 		#Info
