@@ -11,11 +11,6 @@ state={
 		}
 		add_core_of = ETH
 		add_core_of = DRV
-		1936.6.1 = {
-			owner = ITA
-			controller = ITA
-
-		}
 
 	}
 

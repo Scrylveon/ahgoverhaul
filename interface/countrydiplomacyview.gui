@@ -16,12 +16,14 @@ guiTypes = {
 		
 		background = {
 			name = "Background"		
+			size = { width = 1%% height = 1%% }
+			position = { x = 1000 y = 1000}	
 			spriteType ="GFX_tiled_bg"
 		}
 		
 		containerWindowType = {
 			name = "country_info"
-			position = { x = 0 y = 50}	
+			position = { x = -10 y = 5}	
 			size = { width = 530 height = 100%% }
 
 			iconType = {
@@ -220,7 +222,7 @@ guiTypes = {
 					
 			containerWindowType = {
 				name = "diplomacy_tab_top"
-				position = { x=0 y= 110 }
+				position = { x=0 y= 63 }
 					
 				iconType = {
 					name = "leader_portrait"
@@ -349,11 +351,10 @@ guiTypes = {
 			
 			containerWindowType = {
 				name = "relations_info"
-				position = { x = 11 y = 355 }
+				position = { x = 11000 y = 355 }
 				size = { width = 268 height = -50 }
 				margin = { top = 8 bottom = 8}	
 				
-				verticalScrollbar = "right_vertical_slider"
 
 				background = {
 					name = "Background"
@@ -375,16 +376,17 @@ guiTypes = {
 				name = "diplomatic_actions"
 				position = { x = 272 y = 355 }
 				size = { width = 265 height = -50 }
-				verticalScrollbar = "right_vertical_slider"
 				
 				background = {
 					name = "Background"
+					position = { x = 8000 y= 6 }
+					size = { width=1%% height=1%% }
 					spriteType ="GFX_tiled_window_1b_thin_border"
 				}
 
 				iconType = {
 					name = "win_header_short"
-					position = { x = 8 y= 6 }
+					position = { x = 8000 y= 6 }
 					spriteType = "GFX_win_header_short"
 				}
 				
@@ -712,13 +714,13 @@ guiTypes = {
 			iconType ={
 				name ="diplomacy_bottom"
 				spriteType = "GFX_main_screens_bottom"
-				position = { x = 3 y = -55 }
+				position = { x = 30000 y = -55 }
 				Orientation = "LOWER_LEFT"
 			}
 			
 			buttonType = {
 				name = "back_button"
-				position = { x = 165 y = -48 }
+				position = { x = 275 y = -822 }
 				clicksound = click_close
 				quadTextureSprite ="GFX_button_221x34"
 				buttonFont = "hoi_16mbs"
@@ -731,13 +733,13 @@ guiTypes = {
 		iconType ={
 			name ="production_header_bg"
 			spriteType = "GFX_header_bg"
-			position = { x= 5 y = 07 }
+			position = { x= 5000 y = 07 }
 			Orientation = "UPPER_LEFT"
 		}
 		
 		containerWindowType = {
 			name = "player_info_box"
-			position = { x = 280 y = 11 }	
+			position = { x = 28000 y = 11 }	
 			size = { width = 270 height = 40 }
 
 			iconType ={
@@ -772,7 +774,7 @@ guiTypes = {
 		
 		instantTextboxType = {
 			name = "diplomacy_title"
-			position = { x = 45 y = 8 }
+			position = { x = 45000 y = 8 }
 			textureFile = ""
 			font = "hoi_36header"
 			borderSize = {x = 0 y = 0}
@@ -789,8 +791,8 @@ guiTypes = {
 			
 			containerWindowType = {
 				name = "top_filter_window"
-				position = { x = 3 y = -10 }	
-				size = { width = 545 height = 135 }
+				position = { x = -303 y = -10 }	
+				size = { width = 1 height = 1 }
 				verticalScrollbar = "right_vertical_slider"
 				margin = { top = 14 bottom = 14 }
 			
@@ -808,7 +810,7 @@ guiTypes = {
 				gridboxtype = {
 					name = "filters_grid"
 					position = { x = 105 y = 1 }
-					size = { width = 100%% height = 100%% }
+					size = { width = 1%% height = 1%% }
 					slotsize = { width = 105 height = 35 }
 					max_slots_horizontal = 4
 					format = "UPPER_LEFT"
@@ -817,7 +819,7 @@ guiTypes = {
 			
 			containerWindowType = {
 				name = "filters"
-				position = { x = 3 y = 125 }	
+				position = { x = 50000 y = -40000 }	
 				size = { width = 542 height = 35 }
 				clipping = no
 			
@@ -861,7 +863,7 @@ guiTypes = {
 			
 			containerWindowType = {
 				name = "countries"
-				position = { x = 0 y = 155 }	
+				position = { x = 0 y = -90 }	
 				size = { width = 545 height = -5 }
 				margin = { top = 8 bottom = 8 }
 				verticalScrollbar = "right_vertical_slider"
@@ -892,7 +894,7 @@ guiTypes = {
 
 		buttonType = {
 			name = "close_button"
-			position = { x = -43 y = 9 }
+			position = { x = -58 y = 1 }
 			quadTextureSprite ="GFX_closebutton"
 			buttonFont = "hoi_16mbs"
 			shortcut = "ESCAPE"
@@ -928,7 +930,7 @@ guiTypes = {
 	
 	containerWindowType = {
 		name = "diplomacy_action_entry"
-		position = { x=0 y=0}	
+		position = { x=10000 y=0}	
 		size = { width = 228 height = 28 }
 		clipping = no
 		
@@ -941,7 +943,7 @@ guiTypes = {
 		
 		instantTextboxType = {
 			name = "name"
-			position = { x = 8 y = 4 }
+			position = { x = 8000 y = 4 }
 			textureFile = ""
 			font = "hoi_18mbs"
 			borderSize = { x = 0 y = 0 }
@@ -955,7 +957,7 @@ guiTypes = {
 		
 		instantTextboxType = {
 			name = "cost"
-			position = { x = 125 y = 5 }
+			position = { x = 12500 y = 5 }
 			textureFile = ""
 			font = "hoi_16mbs"
 			borderSize = { x = 0 y = 0 }
@@ -967,7 +969,7 @@ guiTypes = {
 		
 		iconType = {
 			name = "accept_icon"
-			position = { x = 204 y = 4 }
+			position = { x = 204 y = 4000 }
 			spriteType ="GFX_accept_decline_icon"
 		}
 	}

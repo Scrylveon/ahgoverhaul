@@ -540,7 +540,7 @@ guiTypes = {
 			
 			buttonType = {
 				name = "mapmode_button_1"
-				position = { x=564 y=62 }	
+				position = { x=564 y=10 }	
 				quadTextureSprite ="GFX_mapmode_buttons_deselected_big"
 				#shortcut = "q"
 				clicksound = land_mapmode
@@ -554,7 +554,7 @@ guiTypes = {
 			}
 			buttonType = {
 				name = "mapmode_button_1_s"
-				position = { x=564 y=45 }	
+				position = { x=564 y=63 }	
 				quadTextureSprite ="GFX_mapmode_buttons_selected_big"
 				#shortcut = "q"
 				shortcut = "F1"
