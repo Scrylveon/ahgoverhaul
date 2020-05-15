@@ -14,6 +14,7 @@ state={
 		add_core_of = KGR
 		add_claim_by = SWI
 		add_core_of = LOM
+		add_core_of = RSI
 		
 
 	}
