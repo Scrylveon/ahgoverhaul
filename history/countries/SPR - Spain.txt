@@ -24,7 +24,6 @@ set_technology = {
 	early_battleship = 1
 	transport = 1
 }
-give_guarantee = TGR
 
 
 set_popularities = {
@@ -45,23 +44,23 @@ set_politics = {
 
 set_convoys = 150
 set_stability = 0.5
-if = {
-	limit = {
-		has_dlc = "Together for Victory"
-	}
-	set_autonomy = {
-		target = EQG
-		autonomous_state = autonomy_colony
-	}
-	set_autonomy = {
-		target = RIF
-		autonomous_state = autonomy_colony
-	}
-	else = {
-		puppet = EQG
-		puppet = RIF
-	}
-}
+#if = {
+#	limit = {
+#		has_dlc = "Together for Victory"
+#	}
+#	set_autonomy = {
+#		target = EQG
+#		autonomous_state = autonomy_colony
+#	}
+#	set_autonomy = {
+#		target = RIF
+#		autonomous_state = autonomy_colony
+#	}
+#	else = {
+#		puppet = EQG
+#		puppet = RIF
+#	}
+#}
 
 create_country_leader = {
 	name = "Niceto Alcalá-Zamora"

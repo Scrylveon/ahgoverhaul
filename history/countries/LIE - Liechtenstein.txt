@@ -36,7 +36,6 @@ add_ideas = {
 }
 
 set_stability = 0.75
-give_guarantee = SWI
 
 create_country_leader = {
 	name = "Franz Josef II von Liechtenstein"

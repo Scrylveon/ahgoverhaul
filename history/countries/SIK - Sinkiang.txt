@@ -2,9 +2,6 @@
 
 oob = "SIK_1936"
 
-SOV = {
-give_military_access = SIK
-}
 
 set_technology = {
 	infantry_weapons = 1

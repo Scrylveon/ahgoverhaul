@@ -5,8 +5,6 @@ oob = "FRA_1936"
 set_research_slots = 3
 set_stability = 0.5
 set_war_support = 0.15
-give_guarantee = TGR
-give_guarantee = VAN
 
 # Starting tech
 set_technology = {
@@ -148,8 +146,6 @@ add_ideas = {
 	FRA_protected_by_the_maginot_line
 	limited_conscription
 }
-
-#give_guarantee = CZE
 
 #Order matters here Daladier will start as leaders because added last
 create_country_leader = {

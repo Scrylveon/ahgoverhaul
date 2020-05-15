@@ -44,8 +44,7 @@ set_technology = {
 	radio = 1
 	radio_detection = 1
 }
-give_guarantee = SHH
-give_guarantee = VAN
+
 add_ideas = {
 	stiff_upper_lip
 	ENG_the_war_to_end_all_wars
@@ -425,8 +424,6 @@ if = {
 }
 
 
-
-#give_guarantee = CZE
 
 # Order matters - here Chamberlain becomes starting leader
 

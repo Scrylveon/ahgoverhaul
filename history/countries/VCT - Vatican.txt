@@ -2,7 +2,6 @@
 
 oob = "VCT_1936"
 
-give_military_access = SWI
 
 set_research_slots = 3
 
