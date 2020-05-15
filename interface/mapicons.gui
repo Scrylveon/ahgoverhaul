@@ -474,7 +474,7 @@ guiTypes = {
 			position = { x=26 y=5 }
 			font = "hoi_20bs"
 			text = ""
-			maxWidth = 149
+			maxWidth = 230
 			maxHeight = 30
 			format = left
 			alwaystransparent = yes
@@ -501,7 +501,7 @@ guiTypes = {
 			position = { x=26 y=5 }
 			font = "hoi_20bs"
 			text = ""
-			maxWidth = 149
+			maxWidth = 230
 			maxHeight = 30
 			format = left
 			alwaystransparent = yes
