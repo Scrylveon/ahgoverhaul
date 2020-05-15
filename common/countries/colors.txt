@@ -4692,3 +4692,11 @@ RSI = {
 color = rgb { 185 122 87 }
 color_ui = rgb { 185 122 87 }
 }
+SCH = {
+color = rgb { 142 68 62 }
+color_ui = rgb { 142 68 62 }
+}
+HLS = {
+color = rgb { 142 68 62 }
+color_ui = rgb { 142 68 62 }
+}

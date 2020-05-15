@@ -181,4 +181,6 @@ WST = "countries/Wasteland.txt"
 WSW = "countries/Warsaw.txt"
 WTC = "countries/West Turcomania.txt"
 ZCT = "countries/Zacatecas.txt"
-ZGH = "countries/Jungaria.txt
+ZGH = "countries/Jungaria.txt"
+SCH = "countries/Schleswig.txt"
+HLS = "countries/Holstein.txt"
