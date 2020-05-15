@@ -37,7 +37,7 @@ set_stability = 0.75
 			 = 50
 		}
 	set_politics = { 
- ruling_party = monarchism
+ ruling_party = democratic
 	last_election = "1933.10.16"
 	election_frequency = 36
 	elections_allowed = yes
