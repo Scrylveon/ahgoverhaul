@@ -1653,7 +1653,7 @@ BUL_GREEN = {
 
 POR_GREEN = {
 	color = rgb { 39 116 70 }
-	#color = rgb { 0 122 122 }
+	color_ui = rgb { 51 151 91 }
 }
 
 BRA_GREEN = {
