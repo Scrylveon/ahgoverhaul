@@ -67,9 +67,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Haraldur Gudmunsson"
+	name = "Sveinn_Björnsson"
 	desc = ""
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_3.dds"
+	picture = "Portrait_Sveinn_Bjornsson.dds"
 	expire = "1965.1.1"
 	ideology = centrism
 	traits = {
