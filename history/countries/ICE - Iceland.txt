@@ -67,7 +67,7 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Sveinn_Björnsson"
+	name = "Sveinn Björnsson"
 	desc = ""
 	picture = "Portrait_Sveinn_Bjornsson.dds"
 	expire = "1965.1.1"
