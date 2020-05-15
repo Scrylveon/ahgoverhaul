@@ -539,12 +539,12 @@
  
  PER_UNIFIED_neutrality:0 "Persia"
  PER_UNIFIED_fascism:0 "Persian Empire"
- PER_UNIFIED_democratic:0 "Cyric Union"
- PER_UNIFIED_communism:0 "Middle Eastern Socialist Republic"
+ PER_UNIFIED_democratic:0 "Imperial Persian Federation"
+ PER_UNIFIED_communism:0 "Persian Socialist Republic"
  PER_UNIFIED_neutrality_DEF:0 "Persia"
  PER_UNIFIED_fascism_DEF:0 "The Persian Empire"
- PER_UNIFIED_democratic_DEF:0 "The Cyric Union"
- PER_UNIFIED_communism_DEF:0 "The Middle Eastern Socialist Republic"
+ PER_UNIFIED_democratic_DEF:0 "The Imperial Persian Federation"
+ PER_UNIFIED_communism_DEF:0 "The Persian Socialist Republic"
  
  BYZ_UNIFIED_neutrality:0 "Byzantium"
  BYZ_UNIFIED_fascism:0 "Byzantine Empire"
