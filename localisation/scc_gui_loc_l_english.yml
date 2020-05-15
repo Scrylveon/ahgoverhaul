@@ -4,11 +4,11 @@
 
 #scc_gui_1_main
 
-title_1:0 "Colorize your country"
+title_1:0 "Colourise your country"
 
 #scc_gui_2_colorgorups
 
-title_colorgroups:0   "Pick a color group"
+title_colorgroups:0   "Pick a colour group"
 colorgoup_selection:0 "Open selection"
 colorgoup_special:0   "Special"
 colorgoup_random:0    "Random"
@@ -20,30 +20,30 @@ cg_green:0    "- Green"
 cg_yellow:0   "- Yellow"
 cg_bc:0       "- BC"
 cg_special:0  "- Some special styles"
-cg_random:0   "- Randomize all colors"
+cg_random:0   "- Randomize all colours"
 
-cg_default:0  "Default Color"
+cg_default:0  "Default Colour"
 cg_reset:0    "Reset All"
 
 #Randomize Colors
 
 warning_random_1:0 "§RWARNING§!"
-warning_random_1_desc:0 "§YDo you really want to randomize all country colors?§!"
+warning_random_1_desc:0 "§YDo you really want to randomise all country colours?§!"
 
 yes_random:0 "§MYES§!"
 no_random:0 "§RNO§!"
 
-warning_tipps_1:0 "All countries will be randomly colored, except yours."
+warning_tipps_1:0 "All countries will be randomly coloured, except yours."
 warning_tipps_2:0 "The lags during colouring are normal and inevitable."
-warning_tipps_3:0 "Press ''Reset All'' to reset all rendomized colors."
+warning_tipps_3:0 "Press ''Reset All'' to reset all randomised colours."
 
-whyy:0 "§HThe AI does not select the colors wisely!§!"
+whyy:0 "§HThe AI does not select the colours wisely!§!"
 
 #
 #scc_gui_3
 #
 
-title_colors_1:0 "Colors of the mod ''Better Colors''"
+title_colors_1:0 "Colors of the mod ''Better Colours''"
 title_colors_2:0 "Shades of blue"
 title_colors_3:0 "Shades of green"
 title_colors_4:0 "Shades of grey"
