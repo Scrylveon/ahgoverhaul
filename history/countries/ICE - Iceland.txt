@@ -30,11 +30,11 @@ set_stability = 0.75
 
 	set_popularities = {
 		democratic 
-			 = 49
+			 = 79
 		fascism
 			 = 1
 		monarchism
-			 = 50
+			 = 20
 		}
 	set_politics = { 
  ruling_party = democratic
