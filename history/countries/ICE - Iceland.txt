@@ -30,14 +30,14 @@ set_stability = 0.75
 
 	set_popularities = {
 		democratic 
-			 = 49
+			 = 79
 		fascism
 			 = 1
 		monarchism
-			 = 50
+			 = 20
 		}
 	set_politics = { 
- ruling_party = monarchism
+ ruling_party = democratic
 	last_election = "1933.10.16"
 	election_frequency = 36
 	elections_allowed = yes
@@ -67,7 +67,7 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Sveinn_Björnsson"
+	name = "Sveinn Björnsson"
 	desc = ""
 	picture = "Portrait_Sveinn_Bjornsson.dds"
 	expire = "1965.1.1"
