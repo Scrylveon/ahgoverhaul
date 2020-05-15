@@ -618,8 +618,8 @@
  CAL_democratic_ADJ:0 "Californian"
  CAL_neutrality_ADJ:0 "Californian"
  CAL_communism_ADJ:0 "Californian"
- CAL_monarchism:0 "Kingdom of California"
- CAL_monarchism_DEF:0 "The Kingdom of California"
+ CAL_monarchism:0 "Californian Empire"
+ CAL_monarchism_DEF:0 "The Empire of California"
  CAL_monarchism_ADJ:0 "Californian"
  
  MRT_fascism:0 "Greater Mauritania"
