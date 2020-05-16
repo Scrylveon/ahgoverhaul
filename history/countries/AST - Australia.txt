@@ -85,6 +85,17 @@ create_country_leader = {
 }
 
 create_country_leader = {
+	name = "Prince Henry of Windsor"
+	desc = ""
+	picture = "Portrait_Prince_Henry.dds"
+	expire = "1965.1.1"
+	ideology = absolutism
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
 	name = "Eric Campbell"
 	desc = "POLITICS_ERIC_CAMPBELL_DESC"
 	picture = "GFX_AST_eric_campbell"
@@ -93,6 +104,7 @@ create_country_leader = {
 	traits = {
 		#
 	}
+
 }
 
 create_country_leader = {

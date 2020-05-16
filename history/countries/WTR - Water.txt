@@ -41,9 +41,9 @@ create_country_leader = {
 	}
 }
 create_country_leader = {
-	name = "No Leader"
+	name = "Harolt Holt"
 	desc = ""
-	picture = "To_be_added.dds"
+	picture = "Portrait_Harold_Holt.dds"
 	expire = "1965.1.1"
 	ideology = liberalism
 	traits = {
