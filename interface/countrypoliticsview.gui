@@ -79,13 +79,13 @@ guiTypes = {
 			iconType = {
 				name = "chart"
 				spriteType = "GFX_political_chart"
-				position = { x = -13 y = -227}
+				position = { x = -13 y = -200}
 			}
 			
 			iconType ={
 				name ="pol_view_bg"
 				spriteType = "GFX_pol_piechart_overlay_63x63"
-				position = { x= -92 y = -235 }
+				position = { x= -92 y = -208 }
 			}
 		}
 
@@ -136,7 +136,7 @@ guiTypes = {
 		
 		containerWindowType = {
 			name = "ruling_party_info"
-			position = { x = 88 y = 300 }
+			position = { x = 88 y = 290 }
 			size = { width = 255 height = 60 }
 			clipping = no
 					
@@ -169,7 +169,7 @@ guiTypes = {
 			
 			instantTextboxType = {
 				name = "faction_name"
-				position = { x = 103 y = -40 }
+				position = { x = 179 y = 35 }
 				font = "hoi_18mbs"
 				text = "faction"
 				maxWidth = 193
@@ -179,7 +179,7 @@ guiTypes = {
 			
 			buttonType = {
 				name = "dismantle_faction"
-				position = { x = 302 y = -50 }
+				position = { x = 380 y = 32 }
 				quadTextureSprite = "GFX_dismantle_faction_button"
 				#buttonFont = "hoi_16mbs"
 				#buttonText = "DIPLOMACY_DISMANTLE_FACTION_TITLE"
