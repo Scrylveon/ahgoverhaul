@@ -125,27 +125,28 @@ set_convoys = 300
 #}
 
 
-	set_popularities = {
-		democratic 
-			 = 69
-		fascism
-			 = 1
-		communism
-			 = 30
-		}
-	set_politics = { 
- ruling_party = democratic
+set_popularities = {
+	democratic 
+		= 43
+	socialism_ideology
+		= 23
+	communism
+		= 34
+}
+
+set_politics = { 
+	ruling_party = democratic
 	last_election = "1932.5.1"
 	election_frequency = 48
 	elections_allowed = yes
 }
 
-add_ideas = {
-	FRA_victors_of_wwi
-	FRA_disjointed_government
-	FRA_protected_by_the_maginot_line
-	limited_conscription
-}
+#add_ideas = {
+#	FRA_victors_of_wwi
+#	FRA_disjointed_government
+#	FRA_protected_by_the_maginot_line
+#	limited_conscription
+#}
 
 #Order matters here Daladier will start as leaders because added last
 create_country_leader = {
