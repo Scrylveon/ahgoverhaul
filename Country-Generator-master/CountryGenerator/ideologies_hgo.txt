@@ -1,0 +1,12 @@
+neutrality|State of [NAME]
+monarchism|Kingdom of [NAME]
+democratic|Republic of [NAME]
+communism|People's Republic of [NAME]
+fascism|State of [NAME]
+anarchism_ideology|Free Territory of [NAME]
+socialism_ideology|Socialist Republic of [NAME]
+democratic_monarchism|Kingdom of [NAME]
+stratocratic|[ADJ] Military Junta
+authoritarian_monarchism|Kingdom of [NAME]
+republican_fascism|[ADJ] State
+national_socialism|[ADJ] State

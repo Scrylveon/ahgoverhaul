@@ -1,5 +1,0 @@
-neutrality|[NAME]
-monarchism|Kingdom of [NAME]
-democratic|Republic of [NAME]
-communism|Soviet Republic of [NAME]
-fascism|[ADJ] State

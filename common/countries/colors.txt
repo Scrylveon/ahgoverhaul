@@ -4700,3 +4700,11 @@ HLS = {
 color = rgb { 142 68 62 }
 color_ui = rgb { 142 68 62 }
 }
+LCH = {
+color = rgb { 99 128 152 }
+color_ui = rgb { 99 128 152 }
+}
+LCN = {
+color = rgb { 99 128 152 }
+color_ui = rgb { 99 128 152 }
+}
