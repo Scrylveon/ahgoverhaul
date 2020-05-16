@@ -5,7 +5,7 @@ state={
 		18927 
 	}
 	history={
-		owner = ERI
+		owner = ETH
 		buildings = {
 			infrastructure = 3
 

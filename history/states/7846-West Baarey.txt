@@ -5,7 +5,7 @@ state={
 		17615 
 	}
 	history={
-		owner = ETH
+		owner = SOM
 		add_core_of = ETH
 
 	}
