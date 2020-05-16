@@ -1,7 +1,27 @@
 Q: What version of the game is this for?
 A: HGO works for 1.9(.2) now.
 
+Q: How do I play this?
+A: You don't. HGO is designed as a mapping tool, and is not unpausable.
+
 Q: Some nations have no flag.
 A: The anarchy releasables lack a flag deliberately due to not being countries. In addition, some newly-added releasables may not have a flag, either due to them not having one
    or because they have not been added yet. If a country that exists by default has no flag, you may have a missing file or some form of glitch, so you should reinstall the mod
    before bringing the missing flag to the attention of the developers.
+
+Q: What do all the ideologies mean?
+A: See this list:
+	Anarchism - No real government.
+	Communism - Self-explanatory.
+	Socialism - Non-communist socialism, such as democratic socialism and Titoism.
+	Liberal Republicanism - A Democratic Republic with an elected head of state. This country is led by a liberal government.
+	Conservative Republicanism - A Democratic Republic with an elected head of state. This country is led by a conservative government.
+	Liberal Monarchism - A Democratic country with a constitutional monarch in a largely ceremonial role as head of state. This country is led by a conservative government.
+	Conservative Monarchism - A Democratic country with a constitutional monarch in a largely ceremonial role as head of state. This country is led by 
+	Authoritarian Democracy - Countries that claim to be democratic, but aren't really. Examples include inter-war Poland or Salazarian Portugal.
+	Stratocracy - Military dictatorships.
+	Authoritarian Monarchist - Countries where the monarch has more power than a constitutional monarch, but is not an absolute monarch, like the German Empire. Also includes countries run by an authoritarian regime with a figurehead monarch.
+	Fascist - Fascism where the monarch remains, like fascist Italy.
+	Republican Fascism - Fascism where there is no monarch, like the Italian Social Republic or Francoist Spain in the 1940s.
+	National Socialist - Self-explanatory.
+	Theocracy - Countries ruled by a religious leader.
