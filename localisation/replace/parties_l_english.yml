@@ -1,7 +1,10 @@
 ﻿l_english:
- communism:0 "Communism"
- communism_noun:0 "Communist"
- communism_desc:0 "Communist People's Republic"
+ vanguardism:0 "Vanguardism"
+ vanguardism_noun:0 "Vanguardist"
+ vanguardism_desc:0 "Communist People's Republic"
+ communism:0 "Collectivism"
+ communism_noun:0 "Collectivist"
+ communism_desc:0 "People's Republic"
  democratic:0 "Conservative Republicanism"
  democratic_noun:0 "Conservative Republican"
  democratic_desc:0 "Conservative Republic"
