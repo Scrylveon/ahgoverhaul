@@ -16,7 +16,7 @@ ideologies = {
 			"FACTION_NAME_COMMUNIST_5"
 		}
 		
-		color = { 0 0 0 }
+		color = { 117 21 21 }
 		
 		war_impact_on_world_tension = 0.75		#Commie less threatening
 		faction_impact_on_world_tension = 0.5
@@ -54,7 +54,7 @@ ideologies = {
 			"FACTION_NAME_COMMUNIST_5"
 		}
 		
-		color = { 117 21 21 }
+		color = { 150 0 0 }
 		
 		war_impact_on_world_tension = 0.75		#Commie less threatening
 		faction_impact_on_world_tension = 0.5
@@ -142,7 +142,7 @@ ideologies = {
 			"FACTION_NAME_DEMOCRATIC_6"
 		}
 		
-		color = { 235 124 224 }
+		color = { 250 160 200 }
 		
 		rules = {
 			can_declare_war_on_same_ideology = no
@@ -190,8 +190,8 @@ ideologies = {
 			"FACTION_NAME_DEMOCRATIC_6"
 		}
 		
-		color = { 0 0 255 }
-		
+		color = { 68 105 166 }
+
 		rules = {
 			can_declare_war_on_same_ideology = no
 			can_force_government = yes
@@ -245,7 +245,7 @@ ideologies = {
 			"FACTION_NAME_DEMOCRATIC_6"
 		}
 		
-		color = { 0 0 143 }
+		color = { 0 0 255 }
 		
 		rules = {
 			can_declare_war_on_same_ideology = no
@@ -282,7 +282,7 @@ ideologies = {
 	#liberal monarchism
 		types = {
 			
-			constitutionalism = {
+			liberal_constitutionalism = {
 			}
 		}
 		dynamic_faction_names = {
@@ -294,7 +294,8 @@ ideologies = {
 			"FACTION_NAME_DEMOCRATIC_6"
 		}
 		
-		color = { 130 69 209 }
+		#color = { 130 69 209 } #<-Old Liberal Monarch Colour
+		color = { 51 78 122}
 		
 		rules = {
 			can_declare_war_on_same_ideology = no
@@ -331,7 +332,7 @@ ideologies = {
 	
 		types = {
 			
-			constitutionalism = {
+			conservative_constitutionalism = {
 			}
 		}
 		dynamic_faction_names = {
@@ -343,8 +344,9 @@ ideologies = {
 			"FACTION_NAME_DEMOCRATIC_6"
 		}
 		
-		color = { 55 26 92 }
-		
+		color = { 0 0 143 }
+		#color = { 55 26 92 } #<-Old Con Mon colour that I want to use for something else
+
 		rules = {
 			can_declare_war_on_same_ideology = no
 			can_force_government = yes
@@ -439,7 +441,7 @@ ideologies = {
 			"FACTION_NAME_NONALIGNED_5"
 		}
 		
-		color = { 144 148 106 }
+		color = { 83 99 65 }
 		
 		
 		war_impact_on_world_tension = 0.25		#no major danger
@@ -497,43 +499,6 @@ ideologies = {
 
 		ai_neutral = yes # 
 	}
-	theocratic = {
-	
-		types = {
-		
-			christian  = {
-			}
-		}
-
-		dynamic_faction_names = {
-			"FACTION_NAME_NONALIGNED_1"
-			"FACTION_NAME_NONALIGNED_2"
-			"FACTION_NAME_NONALIGNED_3"
-			"FACTION_NAME_NONALIGNED_4"
-			"FACTION_NAME_NONALIGNED_5"
-		}
-		
-		color = { 255 255 84 }
-		
-		
-		war_impact_on_world_tension = 0.25		#no major danger
-		faction_impact_on_world_tension = 0.1
-		
-		rules = {
-			can_force_government = yes
-			can_puppet = yes
-			can_send_volunteers = yes
-		}
-		
-		
-		faction_modifiers = {
-		}
-
-		can_be_boosted = yes
-		can_collaborate = yes
-
-		ai_neutral = yes # 
-	}
 	monarchism = {
 	
 		types = {
@@ -569,6 +534,43 @@ ideologies = {
 
 		ai_neutral = yes # 
 	}
+	theocratic = {
+	
+		types = {
+		
+			christian  = {
+			}
+		}
+
+		dynamic_faction_names = {
+			"FACTION_NAME_NONALIGNED_1"
+			"FACTION_NAME_NONALIGNED_2"
+			"FACTION_NAME_NONALIGNED_3"
+			"FACTION_NAME_NONALIGNED_4"
+			"FACTION_NAME_NONALIGNED_5"
+		}
+		
+		color = { 237 236 187 }
+		
+		
+		war_impact_on_world_tension = 0.25		#no major danger
+		faction_impact_on_world_tension = 0.1
+		
+		rules = {
+			can_force_government = yes
+			can_puppet = yes
+			can_send_volunteers = yes
+		}
+		
+		
+		faction_modifiers = {
+		}
+
+		can_be_boosted = yes
+		can_collaborate = yes
+
+		ai_neutral = yes # 
+	}
 	fascism = {
 	
 		types = {
@@ -594,7 +596,7 @@ ideologies = {
 			"FACTION_NAME_FASCIST_5"
 		}
 		
-		color = { 150 75 0 }
+		color = { 237 205 76 }
 		
 		war_impact_on_world_tension = 1.0			#evil!
 		faction_impact_on_world_tension = 1.0
@@ -627,7 +629,7 @@ ideologies = {
 			"FACTION_NAME_FASCIST_5"
 		}
 		
-		color = { 214 192 84 }
+		color = { 150 75 0 }
 		
 		war_impact_on_world_tension = 1.0			#evil!
 		faction_impact_on_world_tension = 1.0
