@@ -17,7 +17,7 @@ guiTypes = {
 		background = {
 			name = "Background"		
 			size = { width = 1%% height = 1%% }
-			position = { x = 1000 y = 1000}	
+			position = { x = 10000 y = 10000}	
 			spriteType ="GFX_tiled_bg"
 		}
 		
@@ -720,7 +720,7 @@ guiTypes = {
 			
 			buttonType = {
 				name = "back_button"
-				position = { x = 275 y = -822 }
+				position = { x = 275 y = -845 }
 				clicksound = click_close
 				quadTextureSprite ="GFX_button_221x34"
 				buttonFont = "hoi_16mbs"
