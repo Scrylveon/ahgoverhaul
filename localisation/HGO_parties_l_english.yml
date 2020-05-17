@@ -83,6 +83,8 @@
  FRA_anarchism_ideology_party_long:0 "Union Anarchiste"
  FRA_socialism_ideology_party:0 "SFIO"
  FRA_socialism_ideology_party_long:0 "Section Française de l'Internationale Ouvrière"
+ FRA_liberal_republic_party:0 "PRRRS"
+ FRA_liberal_republic_pary_long:0 "Parti Républicain, Radical et Radical-Socialiste"
  FRA_democratic_monarchism_party:0 "AF"
  FRA_democratic_monarchism_party_long:0 "Action Française"
  FRA_neutrality_party:0 "PSF"
