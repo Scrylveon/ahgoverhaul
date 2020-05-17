@@ -34,6 +34,7 @@ set_popularities = {
 	 	= 5
 	democratic
 	 	= 13
+	neutrality
 	 	= 27
 	monarchism
 		= 3
