@@ -134,6 +134,10 @@ WTO_ENG = {
 	color = rgb { 150 26 10 }
 	color_ui = rgb { 150 26 10 }
 }
+DGC_ENG = {
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
+}
 HSL_ENG = {
 	color = rgb { 150 26 10 }
 	color_ui = rgb { 150 26 10 }

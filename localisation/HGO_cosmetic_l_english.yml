@@ -99,6 +99,10 @@
  GB2_ENG_monarchism:0 "Gambia Colony"
  GB2_ENG_monarchism_DEF:0 "The Gambia Colony"
  GB2_ENG_monarchism_ADJ:0 "Gambian"
+ 
+ DGC_ENG:0 "British Indian Ocean Territory"
+ DGC_ENG_DEF:0 "British Indian Ocean Territory"
+ DGC_ENG_ADJ:0 "British Indian Ocean Territory"
 
  OMN_RAJ_fascism:0 "Omani Caliphate"
  OMN_RAJ_fascism_DEF:0 "The Omani Caliphate"
