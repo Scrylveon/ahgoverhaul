@@ -10320,3 +10320,7 @@
  STATE_10321:0 "West Campeche Bank Stage 1 Reclamation Zone"
  STATE_10322:0 "Campeche Bank Stage 1 Reclamation Zone"
  STATE_10323:0 "East Campeche Bank Stage 1 Reclamation Zone"
+ STATE_10324:0 "South Mexican Shelf Stage 1 Reclamation Zone"
+ STATE_10325:0 "North Mexican Shelf Stage 1 Reclamation Zone"
+ STATE_10326:0 "West Texas-Louisiana Shelf Stage 1 Reclamation Zone"
+ STATE_10327:0 "East Texas-Louisiana Shelf Stage 1 Reclamation Zone"
