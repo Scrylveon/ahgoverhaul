@@ -127,13 +127,17 @@ set_convoys = 300
 
 set_popularities = {
 	democratic 
-		= 43
+		= 38
 	liberal_republic
 		= 14
 	socialism_ideology
-		= 28
+		= 27
 	communism
 		= 15
+	republican_fascism
+		= 5
+	national_socialism
+		= 1
 }
 
 set_politics = { 
