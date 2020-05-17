@@ -25,14 +25,20 @@ set_technology = {
 	transport = 1
 }
 
-
 set_popularities = {
-	democratic 
-		= 47
-	fascism
-		= 46
-	communism
-		= 7
+	socialism_ideology
+		= 21
+	liberal_republic
+	 	= 29
+	vanguardism
+	 	= 5
+	democratic
+	 	= 13
+	 	= 27
+	monarchism
+		= 3
+	authoritarian_monarchism
+		= 2
 }
 	
 set_politics = { 
