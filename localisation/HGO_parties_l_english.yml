@@ -89,6 +89,8 @@
  FRA_democratic_monarchism_party_long:0 "Action Française"
  FRA_neutrality_party:0 "PSF"
  FRA_neutrality_party_long:0 "Parti Social Français"
+ FRA_theocratic_party:0 "ECF"
+ FRA_theocratic_party_long:0 "Église Catholique en France"
  FRA_stratocratic_party:0 "AdT"
  FRA_stratocratic_party_long:0 "Armée de Terre"
  FRA_authoritarian_monarchism_party:0 "Bourbon"
