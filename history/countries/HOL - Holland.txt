@@ -23,14 +23,14 @@ set_technology = {
 }
 
 # disabled for quality of life reasons
-if = {
-	limit = {
-		has_dlc = "Together for Victory"
-	}
-	set_autonomy = {
-		target = INS
-		autonomous_state = autonomy_integrated_puppet
-	}
+#if = {
+#	limit = {
+#		has_dlc = "Together for Victory"
+#	}
+#	set_autonomy = {
+#		target = INS
+#		autonomous_state = autonomy_integrated_puppet
+#	}
 #	set_autonomy = {
 #		target = SUR
 #		autonomous_state = autonomy_colony
@@ -39,23 +39,32 @@ if = {
 #		target = CRC
 #		autonomous_state = autonomy_colony
 #	}
-	else = {
-		puppet = INS
+#	else = {
+#		puppet = INS
 #		puppet = SUR
 #		puppet = CRC
-	}
+#	}
+#}
+
+set_popularities = {
+	neutrality
+		= 30
+	socialism_ideology
+		= 23
+	conservative_monarchism
+		= 33
+	democratic_monarchism
+		= 6
+	republican_fascism
+		= 4
+	vanguardism
+		= 3
+	communism
+		= 1
 }
 
-	set_popularities = {
-		democratic 
-			 = 93
-		fascism
-			 = 4
-		communism
-			 = 3
-		}
-	set_politics = { 
- ruling_party = democratic
+set_politics = { 
+	ruling_party = conservative_monarchism
 	last_election = "1933.4.26"
 	election_frequency = 48
 	elections_allowed = yes
@@ -69,7 +78,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_Wilhelmina.dds"
 	expire = "1947.1.1"
-	ideology = conservatism
+	ideology = conservative_constitutionalism
 	traits = {
 		#
 	}

@@ -37,23 +37,29 @@ set_technology = {
 #	}
 #}
 
+set_popularities = {
+	socialism 
+		= 32
+	conservative_monarchism
+		= 30
+	democratic_monarchism
+		= 12
+	fascism
+		= 11
+	republican_fascism
+		= 7
+	vanguardism
+		= 4
+	communism
+		= 4
+}
 
-
-	set_popularities = {
-		democratic 
-			 = 83
-		fascism
-			 = 11
-		communism
-			 = 6
-		}
-	set_politics = { 
- ruling_party = democratic
+set_politics = { 
+	ruling_party = conservative_monarchism
 	last_election = "1932.11.27"
 	election_frequency = 48
 	elections_allowed = yes
 }
-
 
 set_convoys = 80
 set_stability = 0.75
