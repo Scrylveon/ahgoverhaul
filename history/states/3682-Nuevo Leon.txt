@@ -12,7 +12,7 @@ state={
 		owner = MEX
 		add_core_of = MEX
 		add_core_of = RGA
-		add_core_of = NUL
+		add_core_of = NLE
 		buildings = {
 			infrastructure = 1
 		}

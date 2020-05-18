@@ -1832,7 +1832,7 @@ GRG = {
 	color = rgb { 239 131 88 }
 	color_ui = rgb { 239 131 88 }
 }
-CON = {
+CNC = {
 	color = rgb { 175 43 7 }
 	color_ui = rgb { 175 43 7  }
 }
@@ -4304,7 +4304,7 @@ MRH = {
 color = rgb { 150 150 150 }
 color_ui = rgb { 150 150 150 }
 }
-PRN = {
+PR2 = {
 color = rgb { 150 150 150 }
 color_ui = rgb { 150 150 150 }
 }
@@ -4332,7 +4332,7 @@ BCS = {
 color = rgb { 150 150 150 }
 color_ui = rgb { 150 150 150 }
 }
-NUL = {
+NLE = {
 color = rgb { 150 150 150 }
 color_ui = rgb { 150 150 150 }
 }

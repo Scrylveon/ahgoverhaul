@@ -1,7 +1,7 @@
 ﻿capital = 912 
 # new state
 
-oob = CON_1936
+oob = CNC_1936
 
 set_research_slots = 3
 set_technology = {

@@ -1,6 +1,6 @@
-﻿capital = 1656
+﻿capital = 3682
 
-oob = "PRN_1936"
+oob = "NLE_1936"
 
 set_popularities = {
         neutrality = 70
