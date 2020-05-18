@@ -11,6 +11,8 @@ set_popularities = {
 
 }
 
+set_cosmetic_tag = DGC_ENG 
+
 set_politics = {
 	
 	ruling_party = neutrality

@@ -53,10 +53,10 @@ add_ideas = {
 
 set_convoys = 800
 # DIPLOMACY
-#if = {
-	#limit = {
-	#	has_dlc = "Together for Victory"
-	#}
+if = {
+	limit = {
+		has_dlc = "Together for Victory"
+	}
 	#set_autonomy = {
 	#	target = PLS
 	#	autonomous_state = autonomy_puppet
@@ -87,10 +87,10 @@ set_convoys = 800
 	#	autonomous_state = autonomy_puppet
 	#	freedom_level = 0.2
 	#  }
-	#set_autonomy = {
-	#	target = MAL
-	#	autonomous_state = autonomy_dominion
-	#}
+	set_autonomy = {
+		target = MAL
+		autonomous_state = autonomy_dominion
+	}
 	#set_autonomy = {
 	#	target = RAJ
 	#	autonomous_state = autonomy_colony
@@ -334,8 +334,8 @@ set_convoys = 800
 	#	target = FAL
 	#	autonomous_state = autonomy_colony
 	#}
-	#else = {
-	#	puppet = MAL
+	else = {
+		puppet = MAL
 	#	puppet = RAJ
 	#	puppet = PAL
 	#	puppet = JOR
@@ -395,8 +395,8 @@ set_convoys = 800
 	#	puppet = KEL
 	#	puppet = JOH
 	#	puppet = KED
-	#}
-#}
+	}
+}
 
 
 if = {
