@@ -4,15 +4,12 @@ state={
 	provinces={
 		19205 
 	}
-	manpower = 1000
-	
-	state_category = pastoral
-
 	history={
-		owner = PER
-		add_core_of = PER
-        add_core_of = SAZ
-	}
-	
+	    owner = FWA
+        add_core_of = MRT
+    }	
+	manpower=1000
+	impassable = yes
+	state_category=pastoral
 	buildings_max_level_factor=1.000
 }

@@ -5,17 +5,10 @@ state={
 		19199 
 	}
 	history={
-		owner = IRQ
-		buildings = {
-			infrastructure = 3
-
-		}
-		add_core_of = IRQ
-		add_core_of = KUR
-        add_core_of = ASY
-
-	}
-	manpower=1030
+	    owner = FWA
+        add_core_of = MRT
+    }	
+	manpower=1000
 	state_category=pastoral
 	buildings_max_level_factor=1.000
 }

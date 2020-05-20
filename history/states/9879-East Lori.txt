@@ -2,20 +2,17 @@ state={
 	id=9879
 	name="STATE_9879"
 	
-	history={
-		owner = TSC
-		add_core_of = ARM
-		add_core_of = TSC
-		add_core_of = GEO
-		add_core_of = SOV
-
-	}
-	
 	provinces={
 		19212 
 	}
-	manpower=200000
-	buildings_max_level_factor=1.000
+	history={
+	    owner = SGR
+        add_core_of = SGR
+        add_core_of = ALG
+    }	
+	manpower=1000
+	state_category = pastoral
+	impassable = yes
 	state_category=rural
 }
 

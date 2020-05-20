@@ -5,12 +5,11 @@ state={
 		19221 
 	}
 	history={
-	    owner = TSC
-        add_core_of = SOV 
-		add_core_of = TSC
-        add_core_of = GEO
-    }	
-	manpower = 1000
-	state_category = pastoral
+		owner = EGY
+		add_core_of = EGY
+		add_core_of = SIN
+	}
+	
+	manpower=15359
 	buildings_max_level_factor=1.000
 }

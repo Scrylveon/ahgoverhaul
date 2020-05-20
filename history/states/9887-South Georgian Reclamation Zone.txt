@@ -5,10 +5,12 @@ state={
 		19215 
 	}
 	history={
-		add_core_of = WTR
-		owner = WTR
+		owner = SUD
+		add_core_of = SUD
 	}
-	state_category=town
-	manpower=1000
+	
+	manpower=1030
+	state_category=pastoral
+	impassable = yes
 	buildings_max_level_factor=1.000
 }
