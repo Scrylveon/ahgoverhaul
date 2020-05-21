@@ -1,4 +1,4 @@
-﻿capital = 3416
+﻿capital = 9880
 
 oob = "TSC_1936"
 set_cosmetic_tag = TSC_SOV
