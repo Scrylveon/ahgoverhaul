@@ -5,7 +5,8 @@ state={
 		2059 
 	}
 	history={
-		owner = OMN 
+		owner = IMO 
+		add_core_of = IMO
 		add_core_of = OMN
 	}
 	state_category = pastoral

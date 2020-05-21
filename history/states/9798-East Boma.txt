@@ -5,7 +5,8 @@ state={
 		18938 
 	}
 	history={
-	    owner = SUD
+	    owner = TNA
+        add_core_of = TNA
         add_core_of = SUD
         add_core_of = SSU
     }	

@@ -5,8 +5,9 @@ state={
 		8020 
 	}
 	history={
-		owner = OMN 
+		owner = IMO 
 		add_core_of = OMN
+		add_core_of = IMO
 	}
 	state_category = pastoral
 	manpower = 1000

@@ -5,7 +5,8 @@ state={
 		16923 16939 
 	}
 	history={
-	    owner = OMN
+		owner = IMO 
+		add_core_of = IMO
         add_core_of = OMN
     }	
 	manpower=1000

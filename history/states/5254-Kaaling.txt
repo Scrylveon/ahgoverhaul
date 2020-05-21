@@ -5,7 +5,8 @@ state={
 		15740 
 	}
 	history = {
-		owner = KEN
+	    owner = TNA
+        add_core_of = TNA
 		add_core_of = KEN
 		add_core_of = SUD
 	}

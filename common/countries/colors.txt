@@ -4712,3 +4712,11 @@ KGG = {
 color = rgb { 210 156 26 }
 color_ui = rgb { 210 156 26 }
 }
+IMO = {
+color = rgb { 164 121 34 }
+color_ui = rgb { 164 121 34 }
+}
+TNA = {
+color = rgb { 90 46 46 }
+color_ui = rgb { 90 46 46 }
+}

@@ -5,8 +5,9 @@ state={
 		18638 
 	}
 	history={
-	    owner = OMN
+	    owner = IMO
         add_core_of = OMN
+		add_core_of = IMO
         add_core_of = MHA
         add_core_of = YEM
     }	
