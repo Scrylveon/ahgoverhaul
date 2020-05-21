@@ -78,7 +78,7 @@ ideologies = {
 	}
 	
 	communism = {
-		
+		#collectivism
 		types = {
 			marxism = {
 			}
@@ -373,7 +373,7 @@ ideologies = {
 		ai_democratic = yes # uses the democratic AI behaviour
 	}
 	neutrality = {
-	
+	#auth dem
 		types = {
 		
 			despotism  = {

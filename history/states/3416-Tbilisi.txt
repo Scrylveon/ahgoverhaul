@@ -10,13 +10,8 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = TSC
-		add_core_of = SOV
-		add_core_of = TSC
-		add_core_of = GEO
-		buildings = {
-			infrastructure = 1
-		}
+		owner = WTR
+		add_core_of = WTR
 	}
 	buildings_max_level_factor=1.000
 }

@@ -4708,3 +4708,7 @@ LCN = {
 color = rgb { 99 128 152 }
 color_ui = rgb { 99 128 152 }
 }
+KGG = {
+color = rgb { 210 156 26 }
+color_ui = rgb { 210 156 26 }
+}

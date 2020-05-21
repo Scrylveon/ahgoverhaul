@@ -3,7 +3,7 @@ state={
 	name="STATE_9855"
 	provinces={
 		19186 
-	
+	}
 	history={
 	    owner = FWA
         add_core_of = NGR

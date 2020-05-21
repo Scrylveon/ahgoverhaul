@@ -5,10 +5,9 @@ state={
 		19157 
 	}
 	history={
-		owner = GRE
-		add_core_of = GRE
-		add_core_of = THR
-		add_core_of = BUL
+		owner = EGY
+		add_core_of = EGY
+		add_core_of = SIN
 
 	}
 	manpower=1000
