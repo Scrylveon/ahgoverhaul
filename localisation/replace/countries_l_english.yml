@@ -1,6 +1,8 @@
 ﻿l_english:
  GER_fascism:0 "Deutsches Reich"
  GER_fascism_DEF:0 "Das Deutsche Reich"
+ GER_national_socialism:0 "Deutsches Reich"
+ GER_national_socialism_DEF:0 "Das Deutsche Reich"
  GER_democratic:0 "German Republic"
  GER_democratic_DEF:0 "The German Republic"
  GER_neutrality:1 "State of Germany"
@@ -31,6 +33,8 @@
  ENG_fascism_DEF:0 "The British Empire"
  ENG_democratic:0 "United Kingdom of Great Britain and Northern Ireland"
  ENG_democratic_DEF:0 "The United Kingdom of Great Britain and Northern Ireland"
+ ENG_conservative_monarchism:0 "United Kingdom of Great Britain and Northern Ireland"
+ ENG_conservative_monarchism_DEF:0 "The United Kingdom of Great Britain and Northern Ireland"
  ENG_neutrality:0 "Britannia"
  ENG_neutrality_DEF:0 "Britannia"
  ENG_communism:0 "Union of Britain"
