@@ -1,7 +1,6 @@
-﻿capital = 444
+capital = 3635
 
-oob = "BLO_1936"
-set_cosmetic_tag = BLO_KAL
+oob = "KPU_1936"
 # Starting tech
 set_technology = {
 	infantry_weapons = 1
@@ -9,8 +8,8 @@ set_technology = {
 	early_fighter = 1
 }
 
-
 set_convoys = 10
+set_cosmetic_tag = KPU_RAJ
 
 
 
@@ -23,8 +22,20 @@ set_convoys = 10
 	}
 	
 	set_politics = { 
- ruling_party = democratic
+ ruling_party = monarchism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
+}
+
+
+create_country_leader = {
+	name = "Mir Faiz Muhammad Khan Talpur II"
+	desc = ""
+	picture = "gfx/leaders/Princely/khairpur.dds"
+	expire = "1965.1.1"
+	ideology = absolutism
+	traits = {
+		#
+	}
 }

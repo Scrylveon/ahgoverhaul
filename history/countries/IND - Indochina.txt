@@ -1,6 +1,6 @@
-﻿capital = 671 #Hanoi
+capital = 671 #Hanoi
 
-oob = "VIN_1936"
+oob = "IND_1936"
 
 set_research_slots = 3
 
@@ -40,6 +40,7 @@ set_technology = {
 	fleet_in_being = 1
 }
 
+set_cosmetic_tag = IND_FRA
 
 	set_popularities = {
 		democratic 
@@ -59,40 +60,13 @@ set_technology = {
 	elections_allowed = yes
 }
 
-#NOTICE# please watch out for spelling, im using Vietnamese names as they spell them, game might not support these characters!
-
 create_country_leader = {
-	name = "Phan Bôi Châu" 
+	name = "Eugène Jean Louis René Robin"
 	desc = ""
-	picture = "gfx/leaders/Asia/Portrait_Asia_Generic_warlord2.dds"
+	picture = "Portrait_Eugene_Jean_Louis_Rene_Robin.dds"
 	expire = "1953.3.1"
-	ideology = fascism_ideology 
+	ideology = conservatism
 	traits = {
 		
 	}
 }
-
-create_country_leader = {
-	name = "Ho Chí Minh" 
-	desc = ""
-	picture = "gfx/leaders/Asia/Portrait_Asia_Generic_communism.dds"
-	expire = "1953.3.1"
-	ideology = marxism
-	traits = {
-		
-	}
-}
-
-create_country_leader = {
-	name = "Nguyen Tuong Tam"
-	desc = ""
-	picture = "gfx/leaders/Asia/Portrait_Asia_Generic_3.dds"
-	expire = "1953.3.1"
-	ideology = moderatism
-	traits = {
-		
-	}
-}
-
-
-
