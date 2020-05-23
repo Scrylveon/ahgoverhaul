@@ -11,6 +11,7 @@ state={
 	history={
 		owner = ROM
 		add_core_of = ROM
+        add_core_of = MLV
 		add_core_of = BUK
 		add_core_of = TRV
 		buildings = {
