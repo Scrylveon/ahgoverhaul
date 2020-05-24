@@ -94,7 +94,7 @@ TOG_FRA = {
 	color = rgb { 37 72 155 }
 	color_ui = rgb { 37 72 155 }
 }
-VIN_FRA = {
+IND_FRA = {
 	color = rgb { 37 72 155 }
 	color_ui = rgb { 37 72 155 }
 }
@@ -470,11 +470,11 @@ KAS_RAJ = {
 	color = rgb { 170 10 10 }
 	color_ui = rgb { 200 10 10 }
 }
-BLO_KAL = {
+KLA_RAJ = {
 	color = rgb { 170 10 10 }
 	color_ui = rgb { 200 10 10 }
 }
-SND_KHR = {
+KPU_RAJ = {
 	color = rgb { 170 10 10 }
 	color_ui = rgb { 200 10 10 }
 }
@@ -1187,7 +1187,7 @@ SIA_JAP = {
 	color = rgb { 142 59 80 }
 	color_ui = rgb { 125 13 24 }
 }
-VIN_JAP = {
+IND_JAP = {
 	color = rgb { 165 69 117 }
 	color_ui = rgb { 165 69 117 }
 }
@@ -1300,6 +1300,10 @@ NAP_SIC = {
 	color_ui = rgb { 98 120 119 }
 }
 FIN_GER = {
+	color = rgb { 54 54 54 }
+	color_ui = rgb { 115 115 115 }
+}
+IND_GER = {
 	color = rgb { 54 54 54 }
 	color_ui = rgb { 115 115 115 }
 }

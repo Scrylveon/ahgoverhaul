@@ -5,11 +5,12 @@ state={
 		8098
 	}
 	history={
-		owner = BLO
+		owner = KLA
 		buildings = {
 			infrastructure = 3
 			air_base = 4
 		}
+		add_core_of = KLA
 		add_core_of = PAK
 		add_core_of = BLO
 	}
