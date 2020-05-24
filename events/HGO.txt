@@ -16,9 +16,11 @@ country_event = { #Yeet the princely states
 
 		hidden_effect = {
 		RAJ = {
-			annex_country = { target = SND }
+			annex_country = { target = KPU }
 			annex_country = { target = SHA }
-			annex_country = { target = BLO }
+			annex_country = { target = BHU }
+			annex_country = { target = SKM }
+			annex_country = { target = KLA }
 			annex_country = { target = KAS }
 			annex_country = { target = JJA }
 			annex_country = { target = JAF }
@@ -146,7 +148,7 @@ country_event = { #Yeet the princely states
 			annex_country = { target = KHD }
 			annex_country = { target = SMT }
 			annex_country = { target = CKH }
-			annex_country = { target = BRI }
+			annex_country = { target = BRX }
 			annex_country = { target = BAO }
 			annex_country = { target = PNA }
 			annex_country = { target = CHH }
