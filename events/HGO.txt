@@ -18,8 +18,6 @@ country_event = { #Yeet the princely states
 		RAJ = {
 			annex_country = { target = KPU }
 			annex_country = { target = SHA }
-			annex_country = { target = BHU }
-			annex_country = { target = SKM }
 			annex_country = { target = KLA }
 			annex_country = { target = KAS }
 			annex_country = { target = JJA }

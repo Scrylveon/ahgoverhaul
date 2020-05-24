@@ -716,7 +716,7 @@ JAP_showa_restoration = {
 	color_ui = rgb { 230 230 230 }
 }
 GER_GGR = {
-	color = rgb { 54 54 54 }
+	color = rgb { 63 63 63 }
 	color_ui = rgb { 63 63 63 }
 }
 CHI_warlord_PRC = {
@@ -968,7 +968,7 @@ BAN_PAK = {
 	color_ui = rgb { 44 81 48 }
 }
 UKR_GER = {
-	color = rgb { 54 54 54 }
+	color = rgb { 63 63 63 }
 	color_ui = rgb { 115 115 115 }
 }
 LIV_GER = {
@@ -976,127 +976,127 @@ LIV_GER = {
 	color_ui = rgb { 63 63 63 }
 }
 BLR_GER = {
-	color = rgb { 54 54 54 }
+	color = rgb { 63 63 63 }
 	color_ui = rgb { 115 115 115 }
 }
 RUS_GER = {
-	color = rgb { 54 54 54 }
+	color = rgb { 63 63 63 }
 	color_ui = rgb { 115 115 115 }
 }
 GEO_GER = {
-	color = rgb { 54 54 54 }
+	color = rgb { 63 63 63 }
 	color_ui = rgb { 115 115 115 }
 }
 POL_GER = {
-	color = rgb { 54 54 54 }
+	color = rgb { 63 63 63 }
 	color_ui = rgb { 115 115 115 }
 }
 CZE_GER = {
-	color = rgb { 54 54 54 }
+	color = rgb { 63 63 63 }
 	color_ui = rgb { 115 115 115 }
 }
 BRT_GER = {
-	color = rgb { 54 54 54 }
+	color = rgb { 63 63 63 }
 	color_ui = rgb { 115 115 115 }
 }
 SCAN_GER = {
-	color = rgb { 54 54 54 }
+	color = rgb { 63 63 63 }
 	color_ui = rgb { 115 115 115 }
 }
 BALT_GER = {
-	color = rgb { 54 54 54 }
+	color = rgb { 63 63 63 }
 	color_ui = rgb { 115 115 115 }
 }
 UNL_GER = {
-	color = rgb { 54 54 54 }
+	color = rgb { 63 63 63 }
 	color_ui = rgb { 115 115 115 }
 }
 ZIM_GER = {
-	color = rgb { 54 54 54 }
+	color = rgb { 63 63 63 }
 	color_ui = rgb { 115 115 115 }
 }
 ZAM_GER = {
-	color = rgb { 54 54 54 }
+	color = rgb { 63 63 63 }
 	color_ui = rgb { 115 115 115 }
 }
 NAM_GER = {
-	color = rgb { 54 54 54 }
+	color = rgb { 63 63 63 }
 	color_ui = rgb { 115 115 115 }
 }
 COG_GER = {
-	color = rgb { 54 54 54 }
+	color = rgb { 63 63 63 }
 	color_ui = rgb { 115 115 115 }
 }
 CMR_GER = {
-	color = rgb { 54 54 54 }
+	color = rgb { 63 63 63 }
 	color_ui = rgb { 115 115 115 }
 }
 FEA_GER = {
-	color = rgb { 54 54 54 }
+	color = rgb { 63 63 63 }
 	color_ui = rgb { 115 115 115 }
 }
 FWA_GER = {
-	color = rgb { 54 54 54 }
+	color = rgb { 63 63 63 }
 	color_ui = rgb { 115 115 115 }
 }
 HOL_GER = {
-	color = rgb { 54 54 54 }
+	color = rgb { 63 63 63 }
 	color_ui = rgb { 115 115 115 }
 }
 BEL_GER = {
-	color = rgb { 54 54 54 }
+	color = rgb { 63 63 63 }
 	color_ui = rgb { 115 115 115 }
 }
 BGN_GER = {
-	color = rgb { 54 54 54 }
+	color = rgb { 63 63 63 }
 	color_ui = rgb { 115 115 115 }
 }
 URL_GER = {
-	color = rgb { 54 54 54 }
+	color = rgb { 63 63 63 }
 	color_ui = rgb { 115 115 115 }
 }
 SBR_GER = {
-	color = rgb { 54 54 54 }
+	color = rgb { 63 63 63 }
 	color_ui = rgb { 115 115 115 }
 }
 NMB_GER = {
-	color = rgb { 54 54 54 }
+	color = rgb { 63 63 63 }
 	color_ui = rgb { 115 115 115 }
 }
 KEN_GER = {
-	color = rgb { 54 54 54 }
+	color = rgb { 63 63 63 }
 	color_ui = rgb { 115 115 115 }
 }
 KAZ_GER = {
-	color = rgb { 54 54 54 }
+	color = rgb { 63 63 63 }
 	color_ui = rgb { 115 115 115 }
 }
 EST_GER = {
-	color = rgb { 54 54 54 }
+	color = rgb { 63 63 63 }
 	color_ui = rgb { 115 115 115 }
 }
 LAT_GER = {
-	color = rgb { 54 54 54 }
+	color = rgb { 63 63 63 }
 	color_ui = rgb { 115 115 115 }
 }
 LIT_GER = {
-	color = rgb { 54 54 54 }
+	color = rgb { 63 63 63 }
 	color_ui = rgb { 115 115 115 }
 }
 LBA_GER = {
-	color = rgb { 54 54 54 }
+	color = rgb { 63 63 63 }
 	color_ui = rgb { 115 115 115 }
 }
 NOR_GER = {
-	color = rgb { 54 54 54 }
+	color = rgb { 63 63 63 }
 	color_ui = rgb { 115 115 115 }
 }
 NND_GER = {
-	color = rgb { 54 54 54 }
+	color = rgb { 63 63 63 }
 	color_ui = rgb { 115 115 115 }
 }
 FRA_GER = {
-	color = rgb { 54 54 54 }
+	color = rgb { 63 63 63 }
 	color_ui = rgb { 115 115 115 }
 }
 TSC_SOV = {
@@ -1300,59 +1300,59 @@ NAP_SIC = {
 	color_ui = rgb { 98 120 119 }
 }
 FIN_GER = {
-	color = rgb { 54 54 54 }
+	color = rgb { 63 63 63 }
 	color_ui = rgb { 115 115 115 }
 }
 IND_GER = {
-	color = rgb { 54 54 54 }
+	color = rgb { 63 63 63 }
 	color_ui = rgb { 115 115 115 }
 }
 SWE_GER = {
-	color = rgb { 54 54 54 }
+	color = rgb { 63 63 63 }
 	color_ui = rgb { 115 115 115 }
 }
 DEN_GER = {
-	color = rgb { 54 54 54 }
+	color = rgb { 63 63 63 }
 	color_ui = rgb { 115 115 115 }
 }
 GRN_GER = {
-	color = rgb { 54 54 54 }
+	color = rgb { 63 63 63 }
 	color_ui = rgb { 115 115 115 }
 }
 ICE_GER = {
-	color = rgb { 54 54 54 }
+	color = rgb { 63 63 63 }
 	color_ui = rgb { 115 115 115 }
 }
 ENG_GER = {
-	color = rgb { 54 54 54 }
+	color = rgb { 63 63 63 }
 	color_ui = rgb { 115 115 115 }
 }
 SCO_GER = {
-	color = rgb { 54 54 54 }
+	color = rgb { 63 63 63 }
 	color_ui = rgb { 115 115 115 }
 }
 WLS_GER = {
-	color = rgb { 54 54 54 }
+	color = rgb { 63 63 63 }
 	color_ui = rgb { 115 115 115 }
 }
-COR_GER = {
-	color = rgb { 54 54 54 }
+CRN_GER = {
+	color = rgb { 63 63 63 }
 	color_ui = rgb { 115 115 115 }
 }
 IRE_GER = {
-	color = rgb { 54 54 54 }
+	color = rgb { 63 63 63 }
 	color_ui = rgb { 115 115 115 }
 }
 ENG_ALL_GER = {
-	color = rgb { 54 54 54 }
+	color = rgb { 63 63 63 }
 	color_ui = rgb { 115 115 115 }
 }
 SLO_GER = {
-	color = rgb { 54 54 54 }
+	color = rgb { 63 63 63 }
 	color_ui = rgb { 115 115 115 }
 }
 FRA_GER = {
-	color = rgb { 54 54 54 }
+	color = rgb { 63 63 63 }
 	color_ui = rgb { 115 115 115 }
 }
 SOV_USS = {
