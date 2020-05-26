@@ -12,7 +12,8 @@ A: The anarchy releasables lack a flag deliberately due to not being countries. 
 Q: What do all the ideologies mean?
 A: See this list:
 	Anarchism - No real government.
-	Communism - Self-explanatory.
+	Vanguardism - Authoritarian communism, such as Stalinism and Maoism.
+	Collectivism - Less authoritarian communism.
 	Socialism - Non-communist socialism, such as democratic socialism and Titoism.
 	Liberal Republicanism - A Democratic Republic with an elected head of state. This country is led by a liberal government.
 	Conservative Republicanism - A Democratic Republic with an elected head of state. This country is led by a conservative government.

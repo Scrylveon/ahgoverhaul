@@ -140,6 +140,17 @@ create_country_leader = {
 	}
 }
 
+create_country_leader = {
+	name = "Sir Isaac Isaacs"
+	desc = ""
+	picture = "Portrait_Sir_Isaac_Isaacs.dds"
+	expire = "1965.1.1"
+	ideology = authmon
+	traits = {
+		#
+	}
+}
+
 set_convoys = 100
 
 create_corps_commander = {
