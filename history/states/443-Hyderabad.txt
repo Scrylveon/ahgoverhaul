@@ -10,7 +10,8 @@ state={
 
 		}
 		add_core_of = PAK
-		add_claim_by = SND
+		add_core_of = SND 
+		add_core_of = MAH
 
 	}
 

@@ -29,3 +29,5 @@ set_convoys = 10
 	elections_allowed = no
 }
 
+set_cosmetic_tag = KHL_RAJ
+

@@ -5,11 +5,7 @@ state={
 
 	history={
 		owner = RAJ
-		buildings = {
-			infrastructure = 4
-
-		}
-
+		add_core_of = MAH
 	}
 
 	provinces={

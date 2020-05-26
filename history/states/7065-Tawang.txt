@@ -5,7 +5,8 @@ state={
 		17338 
 	}
 	history={
-	    owner = RAJ
+	    owner = RAJ 
+		add_core_of = ASM
         add_core_of = RAJ
     }	
 	manpower=1000

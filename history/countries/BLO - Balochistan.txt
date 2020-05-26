@@ -28,3 +28,4 @@ set_convoys = 10
 	election_frequency = 48
 	elections_allowed = no
 }
+set_cosmetic_tag = BLO_RAJ

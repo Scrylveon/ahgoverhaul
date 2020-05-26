@@ -1,4 +1,24 @@
 ﻿l_english:
+
+ DLH:0 "Delhi"
+ DLH_DEF:0 "Delhi"
+ DLH_ADJ:0 "Delhiite"
+ DLH_monarchism:0 "Delhi Sultanate"
+ DLH_monarchism_DEF:0 "The Delhi Sultanate"
+ DLH_monarchism_ADJ:0 "Delhiite"
+ 
+ AND:0 "Andaman and Nicobar Islands"
+ AND_DEF:0 "The Andaman and Nicobar Islands"
+ AND_ADJ:0 "Andamanian"
+ 
+ AJR:0 "Ajmer"
+ AJR_DEF:0 "Ajmer"
+ AJR_ADJ:0 "Ajmeri"
+ 
+ PTH:0 "Panth Piploda"
+ PTH_DEF:0 "Panth Piploda"
+ PTH_ADJ:0 "Panth Piplodan"
+ 
  LCH_anarchism_ideology:0 "Lake Chad"
  LCH_anarchism_ideology_DEF:0 "Lake Chad"
  LCH_vanguardism:0 "Lake Chad"

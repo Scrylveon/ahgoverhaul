@@ -5,7 +5,8 @@ state={
 		8022 10173
 	}
 	history={
-		owner = RAJ
+		owner = RAJ 
+		add_core_of = PSH
 		buildings = {
 			infrastructure = 5
 

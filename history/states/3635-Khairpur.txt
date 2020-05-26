@@ -12,7 +12,8 @@ state={
 		owner = KPU
 		add_core_of = PAK
 		add_core_of = KPU
-		add_core_of = SND
+		add_core_of = SND 
+		add_core_of = MAH
 		buildings = {
 			infrastructure = 1
 		}

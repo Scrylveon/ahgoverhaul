@@ -3,13 +3,9 @@ state={
 	name="STATE_3179"
 	history={
 		
-		owner = RAJ 
+		owner = RAJ  
 		add_core_of = PAK
-		add_claim_by = BLO
-		buildings = {
-			infrastructure = 4
-			
-		}
+		add_core_of = BLO
 	}
 	provinces={
 		5075 

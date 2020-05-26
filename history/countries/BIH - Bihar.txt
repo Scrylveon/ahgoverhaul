@@ -30,3 +30,5 @@ create_country_leader = {
 	traits = {
 	}
 }
+
+set_cosmetic_tag = BIH_RAJ

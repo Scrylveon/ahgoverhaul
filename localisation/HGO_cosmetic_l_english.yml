@@ -120,14 +120,21 @@
  OMN_RAJ_monarchism_DEF:0 "The Sultanate of Muscat and Oman"
  OMN_RAJ_monarchism_ADJ:0 "Oman"
 
- BUR_subject:0 "$OVERLORDADJ$ Burma"
- BUR_ENG_subject:0 "Burma"
- BUR_ENG_democratic:0 "Burma"
- BUR_ENG_democratic_DEF:0 "Burma"
- BUR_ENG_neutrality:0 "Burma"
- BUR_ENG_neutrality_DEF:0 "Burma"
- BUR_ENG_communism:0 "Burma"
- BUR_ENG_communism_DEF:0 "Burma" 
+ BRM_subject:0 "$OVERLORDADJ$ Burma"
+ BRM_ENG_subject:0 "Burma"
+ BRM_ENG_democratic:0 "Burma"
+ BRM_ENG_democratic_DEF:0 "Burma"
+ BRM_ENG_neutrality:0 "Burma"
+ BRM_ENG_neutrality_DEF:0 "Burma"
+ BRM_ENG_communism:0 "Burma"
+ BRM_ENG_communism_DEF:0 "Burma" 
+ 
+ BRM_RAJ_democratic:0 "Burma Province"
+ BRM_RAJ_democratic_DEF:0 "Burma Province"
+ BRM_RAJ_neutrality:0 "Burma Province"
+ BRM_RAJ_neutrality_DEF:0 "The Burma Province"
+ BRM_RAJ_communism:0 "Burma Province"
+ BRM_RAJ_communism_DEF:0 "The Burma Province"
 
  #FRA colonies
  SYR_FRA_democratic:0 "Mandatory Syrian Republic"
@@ -645,14 +652,14 @@
  NEAF_ITA_ADJ:0 "Northeast African"
 
  #JAP colonies
- BUR_JAP_democratic:0 "State of Burma"
- BUR_JAP_democratic_DEF:0 "The State of Burma"
- BUR_JAP_neutrality:0 "State of Burma"
- BUR_JAP_neutrality_DEF:0 "The State of Burma"
- BUR_JAP_fascism:0 "State of Burma"
- BUR_JAP_fascism_DEF:0 "The State of Burma"
- BUR_JAP_communism:0 "State of Burma"
- BUR_JAP_communism_DEF:0 "The State of Burma"
+ BRM_JAP_democratic:0 "State of Burma"
+ BRM_JAP_democratic_DEF:0 "The State of Burma"
+ BRM_JAP_neutrality:0 "State of Burma"
+ BRM_JAP_neutrality_DEF:0 "The State of Burma"
+ BRM_JAP_fascism:0 "State of Burma"
+ BRM_JAP_fascism_DEF:0 "The State of Burma"
+ BRM_JAP_communism:0 "State of Burma"
+ BRM_JAP_communism_DEF:0 "The State of Burma"
 
  KOR_JAP_fascism:0 "Colony of Korea"
  KOR_JAP_fascism_DEF:0 "Colony of Korea"
@@ -787,10 +794,10 @@
  PHI_JAP_fascism:0 "Second Republic of The Philippines" 
  PHI_JAP_fascism_DEF:0 "The Second Republic of The Philippines"
 
- BUR_JAP_neutrality:0 "State of Burma"
- BUR_JAP_neutrality_DEF:0 "The State of Burma"
- BUR_JAP_fascism:0 "State of Burma"
- BUR_JAP_fascism_DEF:0 "The State of Burma"
+ BRM_JAP_neutrality:0 "State of Burma"
+ BRM_JAP_neutrality_DEF:0 "The State of Burma"
+ BRM_JAP_fascism:0 "State of Burma"
+ BRM_JAP_fascism_DEF:0 "The State of Burma"
 
  PNG_JAP_neutrality:0 "Governorate of New Guinea" 
  PNG_JAP_neutrality_DEF:0 "The Governorate of New Guinea"
@@ -4781,3 +4788,59 @@
  ALN_SOV_monarchism:0 "Duchy of Åland"
  ALN_SOV_monarchism_DEF:0 "The Duchy of Åland"
  ALN_SOV_monarchism_ADJ:0 "Ålandic"
+ 
+ AJR_RAJ:0 "Ajmer-Merwara Province"
+ AJR_RAJ_DEF:0 "The Ajmer-Merwara Province"
+ AJR_RAJ_ADJ:0 "Ajmer-Merwari"
+ 
+ AND_RAJ:0 "Andaman and Nicobar Islands Provinces"
+ AND_RAJ_DEF:0 "Andaman and Nicobar Islands Provinces"
+ AND_RAJ_ADJ:0 "Andamanian"
+ 
+ ASM_RAJ:0 "Assam Province"
+ ASM_RAJ_DEF:0 "The Assam Province"
+ ASM_RAJ_ADJ:0 "Assamese"
+ 
+ BLO_RAJ:0 "British Balochistan Province"
+ BLO_RAJ_DEF:0 "The British Balochistan Province"
+ BLO_RAJ_ADJ:0 "Balochi"
+ 
+ BAN_RAJ:0 "Bengal Presidency"
+ BAN_RAJ_DEF:0 "The Bengal Presidency"
+ BAN_RAJ_ADJ:0 "Bengali"
+ 
+ BIH_RAJ:0 "Bihar and Orissa Provinces"
+ BIH_RAJ_DEF:0 "The Bihar and Orissa Provinces"
+ BIH_RAJ_ADJ:0 "Bihari"
+ 
+ MAH_RAJ:0 "Bombay Presidency"
+ MAH_RAJ_DEF:0 "The Bombay Presidency"
+ MAH_RAJ_ADJ:0 "Bombayite"
+ 
+ CRG_RAJ:0 "Coorg Province"
+ CRG_RAJ_DEF:0 "The Coorg Province"
+ CRG_RAJ_ADJ:0 "Coorgi"
+ 
+ TML_RAJ:0 "Madras Presidency"
+ TML_RAJ_DEF:0 "The Madras Presidency"
+ TML_RAJ_ADJ:0 "Madrasi"
+ 
+ PSH_RAJ:0 "Northwest Frontier Provinces"
+ PSH_RAJ_DEF:0 "The NWFP"
+ PSH_RAJ_ADJ:0 "Pashtuni"
+ 
+ PTH_RAJ:0 "Panth-Piploda Province"
+ PTH_RAJ_DEF:0 "The Panth-Piploda Province"
+ PTH_RAJ_ADJ:0 "Panth-Piplodi"
+ 
+ KHL_RAJ:0 "Punjab Province"
+ KHL_RAJ_DEF:0 "The Punjab Province"
+ KHL_RAJ_ADJ:0 "Punjabi"
+ 
+ UTT_RAJ:0 "United Provinces"
+ UTT_RAJ_DEF:0 "The United Provinces"
+ UTT_RAJ_ADJ:0 "Oudhi"
+ 
+ MDP_RAJ:0 "Central Provinces"
+ MDP_RAJ_DEF:0 "The Central Provinces"
+ MDP_RAJ_ADJ:0 "Central"

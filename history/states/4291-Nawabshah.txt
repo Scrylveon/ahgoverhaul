@@ -13,6 +13,8 @@ state={
 		buildings = {
 			infrastructure = 1
 		}
+		add_core_of = SND 
+		add_core_of = MAH
 		add_core_of = PAK
 	}
 	buildings_max_level_factor=1.000

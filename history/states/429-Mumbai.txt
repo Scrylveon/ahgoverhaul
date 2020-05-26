@@ -8,16 +8,7 @@ state={
 
 	history={
 		owner = RAJ
-		buildings = {
-			infrastructure = 4
-			industrial_complex = 1
-			air_base = 2
-			1349 = {
-				naval_base = 6
-
-			}
-
-		}
+		add_core_of = MAH
 		victory_points = {
 			1349 10 
 		}

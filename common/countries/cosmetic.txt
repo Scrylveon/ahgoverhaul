@@ -446,6 +446,78 @@ FWA_FRA = {
 	color = rgb { 37 72 155 }
 	color_ui = rgb { 37 72 155 }
 }
+BRM_RAJ = {
+	color = rgb { 170 10 10 }
+	color_ui = rgb { 200 10 10 }
+}
+ASM_RAJ = {
+	color = rgb { 170 10 10 }
+	color_ui = rgb { 200 10 10 }
+}
+BAN_RAJ = {
+	color = rgb { 170 10 10 }
+	color_ui = rgb { 200 10 10 }
+}
+AJR_RAJ = {
+	color = rgb { 170 10 10 }
+	color_ui = rgb { 200 10 10 }
+}
+CRG_RAJ = {
+	color = rgb { 170 10 10 }
+	color_ui = rgb { 200 10 10 }
+}
+BIH_RAJ = {
+	color = rgb { 170 10 10 }
+	color_ui = rgb { 200 10 10 }
+}
+UTT_RAJ = {
+	color = rgb { 170 10 10 }
+	color_ui = rgb { 200 10 10 }
+}
+DLH_RAJ = {
+	color = rgb { 170 10 10 }
+	color_ui = rgb { 200 10 10 }
+}
+PAN_RAJ = {
+	color = rgb { 170 10 10 }
+	color_ui = rgb { 200 10 10 }
+}
+PSH_RAJ = {
+	color = rgb { 170 10 10 }
+	color_ui = rgb { 200 10 10 }
+}
+BLO_RAJ = {
+	color = rgb { 170 10 10 }
+	color_ui = rgb { 200 10 10 }
+}
+SND_RAJ = {
+	color = rgb { 170 10 10 }
+	color_ui = rgb { 200 10 10 }
+}
+MDP_RAJ = {
+	color = rgb { 170 10 10 }
+	color_ui = rgb { 200 10 10 }
+}
+MAH_RAJ = {
+	color = rgb { 170 10 10 }
+	color_ui = rgb { 200 10 10 }
+}
+TML_RAJ = {
+	color = rgb { 170 10 10 }
+	color_ui = rgb { 200 10 10 }
+}
+AJM_RAJ = {
+	color = rgb { 170 10 10 }
+	color_ui = rgb { 200 10 10 }
+}
+PTH_RAJ = {
+	color = rgb { 170 10 10 }
+	color_ui = rgb { 200 10 10 }
+}
+AND_RAJ = {
+	color = rgb { 170 10 10 }
+	color_ui = rgb { 200 10 10 }
+}
 BHU_RAJ = {
 	color = rgb { 170 10 10 }
 	color_ui = rgb { 200 10 10 }
@@ -1199,7 +1271,7 @@ LAO_JAP = {
 	color = rgb { 165 69 117 }
 	color_ui = rgb { 165 69 117 }
 }
-BUR_JAP = {
+BRM_JAP = {
 	color = rgb { 165 69 117 }
 	color_ui = rgb { 165 69 117 }
 }
