@@ -10,7 +10,6 @@ state={
 
 	history={
 		owner = RAJ 
-		add_core_of = PSH
 		add_core_of = BLO
 		add_core_of = PAK
 	}
