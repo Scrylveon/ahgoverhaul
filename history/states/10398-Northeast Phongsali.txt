@@ -1,0 +1,15 @@
+state={
+	id=10398
+	name="STATE_10398"
+	provinces={
+		19738 
+	}
+	history={
+	    owner = IND
+        add_core_of = IND
+        add_core_of = LAO
+    }	
+	manpower=1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

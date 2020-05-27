@@ -1,0 +1,18 @@
+state={
+	id=10392
+	name="STATE_10392"
+	provinces={
+		10413 10776
+	}
+	manpower = 1000
+	
+	state_category = pastoral
+
+	history={
+		owner = YUN
+		add_core_of = YUN
+		add_core_of = CHI
+		add_core_of = PRC
+	}
+	buildings_max_level_factor=1.000
+}
