@@ -11,3 +11,16 @@ Extra notes:
 
 - the reason why you have to rename the folder to ahgoverhaul is because the game won't read the mod folder if it isn't the same name as the .MOD file.
 - don't expect every version to not be a buggy mess. as OCD-pleasing the mod may be, it's not bug-pleasing.
+---------------
+Credits:
+The HGO team: Skylar129, Faaz Noushad, Ainsley, Luminisenc, scrylveon, birdirdirbirb/ReiFly/GardenGnostic, and Kels.
+Former Devs: MihalRacovita, TrueSoviet, Holy Doggo, Generalis, JoshyFlip, crasher925, SamFan2, blue69982, Gindisi, and K0rhan.
+- gerrade, for letting us build off of his mod, Beautiful States.
+- Cifotis and MrLukeNL for their work on Oceania.
+- ChaosRobie for his work on Antarctica.
+- Chupachu for his Country Generator Tool, which has helped us greatly.
+- the Toolpack team for allowing us to include it directly in our mod!
+- Kai for allowing us to include a modified Country Colour and Skin Changer Tool!
+- Supermob1 for his extensive work on both the map and the (currently non-functional) scripted GUI.
+- Natt and the EYWOR team for their work on Asia.
+- PinkPanzer and the TNO team for their Atlantropa map.
