@@ -27,14 +27,14 @@ set_convoys = 50
 		democratic
 			 = 0
 		fascism
-			 = 90
+			 = 5
 		communism
 			 = 5
 		neutrality
-			 = 5
+			 = 90
 		}
 	set_politics = { 
- ruling_party = fascism
+ ruling_party = neutrality
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = yes
@@ -46,9 +46,9 @@ set_stability = 0.75
 
 
 create_country_leader = {
-	name = "António de Oliveira Salazar"
-	desc = "POLITICS_ANTÓNIO_DE_OLIVEIRA_SALAZAR_DESC"
-	picture = "Portrait_Portugal_Antonio_de_Oliveira_Salazar.dds"
+	name = "Antonio Óscar Fragoso Carmona"
+	desc = ""
+	picture = "Portrait_Oscar_Carmona.dds"
 	expire = "1965.1.1"
 	ideology = despotism
 	traits = {
@@ -62,17 +62,6 @@ create_country_leader = {
 	picture = "gfx/leaders/South America/Portrait_South_America_Generic_land_5.dds"
 	expire = "1965.1.1"
 	ideology = marxism
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "Óscar Carmona"
-	desc = ""
-	picture = "Portrait_Oscar_Carmona.dds"
-	expire = "1965.1.1"
-	ideology = fascism_ideology
 	traits = {
 		#
 	}
