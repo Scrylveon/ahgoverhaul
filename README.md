@@ -14,7 +14,10 @@ Extra notes:
 ---------------
 Credits:
 The HGO team: Skylar129, Faaz Noushad, Ainsley, Luminisenc, scrylveon, birdirdirbirb/ReiFly/GardenGnostic, and Kels.
+
 Former Devs: MihalRacovita, TrueSoviet, Holy Doggo, Generalis, JoshyFlip, crasher925, SamFan2, blue69982, Gindisi, and K0rhan.
+
+Special Thanks to:
 - gerrade, for letting us build off of his mod, Beautiful States.
 - Cifotis and MrLukeNL for their work on Oceania.
 - ChaosRobie for his work on Antarctica.
