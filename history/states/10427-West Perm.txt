@@ -1,0 +1,21 @@
+
+state={
+	id=10427
+	name="STATE_10427"
+	provinces={
+		123 390 1336 1365 3127 4326 6025 6162 7346 9283 11111 11352 12175 
+	}
+	history={
+		owner = RUS
+		buildings = {
+			infrastructure = 8
+
+		}
+		add_core_of = SOV
+		add_core_of = RUS
+
+	}
+	manpower = 1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

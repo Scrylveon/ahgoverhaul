@@ -20,9 +20,9 @@ state={
 	}
 
 	provinces={
-		12502 
+		11098 12502 19934 
 	}
 	manpower=48831
 	buildings_max_level_factor=1.000
-	state_category=wasteland
+	state_category=pastoral
 }

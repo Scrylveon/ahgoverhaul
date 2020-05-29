@@ -1,15 +1,19 @@
+
 state={
 	id=7011
 	name="STATE_7011"
-	provinces={
-		9647 
-	}
+
 	history={
-	    owner = RUS
-        add_core_of = RUS
-        add_core_of = SOV
-    }	
-	manpower = 1000
-	state_category = pastoral
+		owner = RUS
+		add_core_of = RUS
+		add_core_of = SOV
+
+	}
+
+	provinces={
+		9647 19755 
+	}
+	manpower=1000
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

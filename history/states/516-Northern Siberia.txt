@@ -1,24 +1,24 @@
 
 state={
 	id=516
-	name="STATE_516" # Northwestern Siberia
-	manpower = 43948
-
-	impassable = yes
-	
-	state_category = wasteland
+	name="STATE_516"
 
 	history={
 		owner = RUS
 		buildings = {
 			infrastructure = 0
+
 		}
 		add_core_of = SOV
 		add_core_of = RUS
 		add_core_of = SBR
+
 	}
 
 	provinces={
-		2900 2923 2972 4692 4812 4859 9224 10607 11122 11261 11328 12643 12687 13064 13065 
+		2900 2923 2972 4692 4859 11122 11261 11328 13064 19943 19944 19950 19951 19952 19955 19959 19963 
 	}
+	manpower=43948
+	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

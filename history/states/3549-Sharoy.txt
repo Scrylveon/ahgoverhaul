@@ -1,9 +1,8 @@
+
 state={
 	id=3549
 	name="STATE_3549"
-	provinces={
-		13741
-	}
+
 	history={
 		owner = RUS
 		buildings = {
@@ -17,7 +16,11 @@ state={
 		add_claim_by = GEO
 
 	}
-	manpower=1000 
- state_category=small_island
+
+	provinces={
+		1455 13741 
+	}
+	manpower=1000
 	buildings_max_level_factor=1.000
+	state_category=small_island
 }
