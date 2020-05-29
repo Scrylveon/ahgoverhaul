@@ -27,3 +27,4 @@ Special Thanks to:
 - Supermob1 for his extensive work on both the map and the (currently non-functional) scripted GUI.
 - Natt and the EYWOR team for their work on Asia.
 - PinkPanzer and the TNO team for their Atlantropa map.
+- The Kaiserreich team for the States and Victory Points Renaming System's code.

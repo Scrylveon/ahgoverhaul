@@ -1,0 +1,101 @@
+###################################################################################################################################
+### Credits to the Kaiserreich Team for the code                                                                                ###
+###################################################################################################################################
+on_actions = {
+	#ROOT is new controller #FROM is old controller #FROM.FROM is state ID
+	on_state_control_changed = {
+		effect = {
+			FROM.FROM = {
+
+					### GER ###
+					if = {
+						limit = {
+							ROOT = {OR = {
+										tag = GER
+										tag = AUS
+									}}
+						}
+						do_german_renames = yes
+					}
+
+					### POL ###
+					if = {
+						limit = {
+							ROOT = {OR = {
+										tag = POL
+										tag = GAL
+									}}
+						}
+						do_polish_renames = yes
+					}
+
+					### CZE ###
+					if = {
+						limit = {
+							ROOT = {OR = {
+										tag = CZE
+										tag = CZC
+									}}
+						}
+						do_czech_renames = yes
+					}
+
+					### LIT ###
+					if = {
+						limit = {
+							ROOT = {tag = LIT}
+						}
+						do_lithuanian_renames = yes
+					}
+
+					### LAT ###
+					if = {
+						limit = {
+							ROOT = {tag = LAT}
+						}
+						do_latvian_renames = yes
+					}
+
+					### EST ###
+					if = {
+						limit = {
+							ROOT = {tag = EST}
+						}
+						do_estonian_renames = yes
+					}
+
+					### YUG ###
+					if = {
+						limit = {
+							ROOT = {tag = YUG}
+						}
+						do_yugoslavian_renames = yes
+					}
+
+					### ITA ###
+					if = {
+						limit = {
+							ROOT = {tag = ITA}
+						}
+						do_italian_renames = yes
+					}
+
+					### FRA ###
+					if = {
+						limit = {
+							ROOT = {tag = FRA}
+						}
+						do_french_renames = yes
+					}
+
+					### LUX ###
+					if = {
+						limit = {
+							ROOT = {tag = LUX}
+						}
+						do_luxembourgish_renames = yes
+					}
+				}
+			}
+		}
+	}

@@ -1,0 +1,730 @@
+###################################################################################################################################
+### NOTE - FOR THE LOVE OF GOD PLEASE READ BEFORE MAKING CHANGES                                                                ###
+### Just because the name shows up in the map, doesn't mean the localisation will display in the UI (e.g. peace deal windows)   ###
+### Characters confirmed NOT to display right: ă č ı ő ō ş ū ż                                                                  ###
+### This applied to bother lower and upper case versions of these characters                                                    ###
+###################################################################################################################################
+### Credits to the Kaiserreich Team for the code                                                                                ###
+###################################################################################################################################
+do_german_renames = {
+	if = {
+		limit = {
+			state = 86
+		}		
+		set_province_name = {
+			id = 6558
+			name = "Posen"
+		}
+	}
+	if = {
+		limit = {
+			state = 3492
+		}		
+		set_province_name = {
+			id = 9508
+			name = "Lodsch"
+		}
+	}
+	if = {
+		limit = {
+			state = 88
+		}		
+		set_province_name = {
+			id = 9427
+			name = "Krakau"
+		}
+	}
+	if = {
+		limit = {
+			state = 10
+		}		
+		set_province_name = {
+			id = 3544
+			name = "Warschau"
+		}
+	}
+	if = {
+		limit = {
+			state = 91
+		}		
+		set_province_name = {
+			id = 11479
+			name = "Lemberg"
+		}
+	}
+	if = {
+		limit = {
+			state = 4023
+		}		
+		set_province_name = {
+			id = 3392
+			name = "Brest-Litowsk"
+		}
+	}
+	if = {
+		limit = {
+			state = 1086
+		}		
+		set_province_name = {
+			id = 3393
+			name = "Garten"
+		}
+	}
+	if = {
+		limit = {
+			state = 96
+		}		
+		set_province_name = {
+			id = 3320
+			name = "Wilna"
+		}
+	}
+	if = {
+		limit = {
+			state = 4046
+		}		
+		set_province_name = {
+			id = 9263
+			name = "Gotenhafen"
+		}
+	}
+	if = {
+		limit = {
+			state = 11
+		}		
+		set_province_name = {
+			id = 6296
+			name = "Kauen"
+		}
+	}
+	if = {
+		limit = {
+			state = 990
+		}		
+		set_province_name = {
+			id = 6314
+			name = "Memel"
+		}
+	}
+	if = {
+		limit = {
+			state = 189
+		}		
+		set_province_name = {
+			id = 9483
+			name = "Schaulen"
+		}
+	}
+	if = {
+		limit = {
+			state = 991
+		}		
+		set_province_name = {
+			id = 9438
+			name = "Ponewesch"
+		}
+	}
+	if = {
+		limit = {
+			state = 3466
+		}		
+		set_province_name = {
+			id = 6418
+			name = "Pilsen"
+		}
+	}
+	if = {
+		limit = {
+			state = 9
+		}		
+		set_province_name = {
+			id = 11542
+			name = "Prag"
+		}
+	}
+	if = {
+		limit = {
+			state = 3464
+		}		
+		set_province_name = {
+			id = 11542
+			name = "Brunn"
+		}
+	}
+	if = {
+		limit = {
+			state = 74
+		}		
+		set_province_name = {
+			id = 3583
+			name = "Ostrau"
+		}
+	}
+	if = {
+		limit = {
+			state = 2329
+		}		
+		set_province_name = {
+			id = 13854
+			name = "Preßburg"
+		}
+	}
+	if = {
+		limit = {
+			state = 664
+		}		
+		set_province_name = {
+			id = 6573
+			name = "Kaschau"
+		}
+	}
+	if = {
+		limit = {
+			state = 190
+		}		
+		set_province_name = {
+			id = 9262
+			name = "Libau"
+		}
+	}
+	if = {
+		limit = {
+			state = 4843
+		}		
+		set_province_name = {
+			id = 3296
+			name = "Windau"
+		}
+	}
+	if = {
+		limit = {
+			state = 4845
+		}		
+		set_province_name = {
+			id = 3194
+			name = "Talsen"
+		}
+	}
+	if = {
+		limit = {
+			state = 7763
+		}		
+		set_province_name = {
+			id = 17591
+			name = "Mitau"
+		}
+	}
+	if = {
+		limit = {
+			state = 993
+		}		
+		set_province_name = {
+			id = 11358
+			name = "Subbath"
+		}
+	}
+	if = {
+		limit = {
+			state = 3542
+		}		
+		set_province_name = {
+			id = 310
+			name = "Dünaburg"
+		}
+	}
+	if = {
+		limit = {
+			state = 992
+		}		
+		set_province_name = {
+			id = 341
+			name = "Rositten"
+		}
+	}
+	if = {
+		limit = {
+			state = 1081
+		}		
+		set_province_name = {
+			id = 415
+			name = "Petschur"
+		}
+	}
+	if = {
+		limit = {
+			state = 191
+		}		
+		set_province_name = {
+			id = 9221
+			name = "Dorpat"
+		}
+	}
+	if = {
+		limit = {
+			state = 13
+		}		
+		set_province_name = {
+			id = 3152
+			name = "Reval"
+		}
+	}
+	if = {
+		limit = {
+			state = 995
+		}		
+		set_province_name = {
+			id = 185
+			name = "Arensburg"
+		}
+	}
+	if = {
+		limit = {
+			state = 7371
+		}		
+		set_province_name = {
+			id = 9627
+			name = "Laibach"
+		}
+	}
+	if = {
+		limit = {
+			state = 1157
+		}		
+		set_province_name = {
+			id = 13313
+			name = "Triest"
+		}
+	}
+	if = {
+		limit = {
+			state = 2265
+		}		
+		set_province_name = {
+			id = 13858
+			name = "Ruwein"
+		}
+	}
+	if = {
+		limit = {
+			state = 5129
+		}		
+		set_province_name = {
+			id = 678
+			name = "Mülhausen"
+		}
+	}
+	if = {
+		limit = {
+			state = 5539
+		}		
+		set_province_name = {
+			id = 1346
+			name = "Straßburg"
+		}
+	}
+	if = {
+		limit = {
+			state = 8
+		}		
+		set_province_name = {
+			id = 6583
+			name = "Luxemburg"
+		}
+	}
+}
+do_polish_renames = {
+	if = {
+		limit = {
+			state = 86
+		}		
+		set_province_name = {
+			id = 6558
+			name = "Poznan"
+		}
+	}
+	if = {
+		limit = {
+			state = 3492
+		}		
+		set_province_name = {
+			id = 9508
+			name = "Łódź"
+		}
+	}
+	if = {
+		limit = {
+			state = 88
+		}		
+		set_province_name = {
+			id = 9427
+			name = "Kraków"
+		}
+	}
+	if = {
+		limit = {
+			state = 10
+		}		
+		set_province_name = {
+			id = 3544
+			name = "Warszawa"
+		}
+	}
+	if = {
+		limit = {
+			state = 91
+		}		
+		set_province_name = {
+			id = 11479
+			name = "Lwów"
+		}
+	}
+	if = {
+		limit = {
+			state = 4023
+		}		
+		set_province_name = {
+			id = 3392
+			name = "Brzesc nad Bugiem"
+		}
+	}
+	if = {
+		limit = {
+			state = 1086
+		}		
+		set_province_name = {
+			id = 3393
+			name = "Grodno"
+		}
+	}
+	if = {
+		limit = {
+			state = 96
+		}		
+		set_province_name = {
+			id = 3320
+			name = "Wilno"
+		}
+	}
+	if = {
+		limit = {
+			state = 4046
+		}		
+		set_province_name = {
+			id = 9263
+			name = "Gdynia"
+		}
+	}
+	if = {
+		limit = {
+			state = 11
+		}		
+		set_province_name = {
+			id = 6296
+			name = "Kowno"
+		}
+	}
+}
+do_lithuanian_renames = {
+	if = {
+		limit = {
+			state = 11
+		}		
+		set_province_name = {
+			id = 6296
+			name = "Kaunas"
+		}
+	}
+	if = {
+		limit = {
+			state = 990
+		}		
+		set_province_name = {
+			id = 6314
+			name = "Klaipeda"
+		}
+	}
+	if = {
+		limit = {
+			state = 189
+		}		
+		set_province_name = {
+			id = 9483
+			name = "Siauliai"
+		}
+	}
+	if = {
+		limit = {
+			state = 991
+		}		
+		set_province_name = {
+			id = 9438
+			name = "Panevežys"
+		}
+	}
+}
+do_czech_renames = {
+	if = {
+		limit = {
+			state = 3466
+		}		
+		set_province_name = {
+			id = 6418
+			name = "Plzen"
+		}
+	}
+	if = {
+		limit = {
+			state = 9
+		}		
+		set_province_name = {
+			id = 11542
+			name = "Praha"
+		}
+	}
+	if = {
+		limit = {
+			state = 3464
+		}		
+		set_province_name = {
+			id = 11542
+			name = "Brno"
+		}
+	}
+	if = {
+		limit = {
+			state = 74
+		}		
+		set_province_name = {
+			id = 3583
+			name = "Ostrava"
+		}
+	}
+	if = {
+		limit = {
+			state = 2329
+		}		
+		set_province_name = {
+			id = 13854
+			name = "Bratislava"
+		}
+	}
+	if = {
+		limit = {
+			state = 664
+		}		
+		set_province_name = {
+			id = 6573
+			name = "Košice"
+		}
+	}
+}
+do_latvian_renames = {
+	if = {
+		limit = {
+			state = 190
+		}		
+		set_province_name = {
+			id = 9262
+			name = "Liepaja"
+		}
+	}
+	if = {
+		limit = {
+			state = 4843
+		}		
+		set_province_name = {
+			id = 3296
+			name = "Ventspils"
+		}
+	}
+	if = {
+		limit = {
+			state = 4845
+		}		
+		set_province_name = {
+			id = 3194
+			name = "Talsi"
+		}
+	}
+	if = {
+		limit = {
+			state = 7763
+		}		
+		set_province_name = {
+			id = 17591
+			name = "Jelgava"
+		}
+	}
+	if = {
+		limit = {
+			state = 993
+		}		
+		set_province_name = {
+			id = 11358
+			name = "Subate"
+		}
+	}
+	if = {
+		limit = {
+			state = 3542
+		}		
+		set_province_name = {
+			id = 310
+			name = "Daugavpils"
+		}
+	}
+	if = {
+		limit = {
+			state = 992
+		}		
+		set_province_name = {
+			id = 341
+			name = "Rezekne"
+		}
+	}
+}
+do_estonian_renames = {
+	if = {
+		limit = {
+			state = 1081
+		}		
+		set_province_name = {
+			id = 415
+			name = "Petseri"
+		}
+	}
+	if = {
+		limit = {
+			state = 191
+		}		
+		set_province_name = {
+			id = 9221
+			name = "Tartu"
+		}
+	}
+	if = {
+		limit = {
+			state = 13
+		}		
+		set_province_name = {
+			id = 3152
+			name = "Tallinn"
+		}
+	}
+	if = {
+		limit = {
+			state = 995
+		}		
+		set_province_name = {
+			id = 185
+			name = "Kuressaare"
+		}
+	}
+}
+do_yugoslavian_renames = {
+	if = {
+		limit = {
+			state = 7371
+		}		
+		set_province_name = {
+			id = 9627
+			name = "Ljubljana"
+		}
+	}
+	if = {
+		limit = {
+			state = 2265
+		}		
+		set_province_name = {
+			id = 13858
+			name = "Rovinj"
+		}
+	}
+	if = {
+		limit = {
+			state = 1157
+		}		
+		set_province_name = {
+			id = 13313
+			name = "Trst"
+		}
+	}
+	if = {
+		limit = {
+			state = 736
+		}		
+		set_province_name = {
+			id = 11735
+			name = "Pula"
+		}
+	}
+}
+do_italian_renames = {
+	if = {
+		limit = {
+			state = 1157
+		}		
+		set_province_name = {
+			id = 13313
+			name = "Trieste"
+		}
+	}
+	if = {
+		limit = {
+			state = 2265
+		}		
+		set_province_name = {
+			id = 13858
+			name = "Rovigno"
+		}
+	}
+	if = {
+		limit = {
+			state = 736
+		}		
+		set_province_name = {
+			id = 11735
+			name = "Pola"
+		}
+	}
+}
+do_french_renames = {
+	if = {
+		limit = {
+			state = 5129
+		}		
+		set_province_name = {
+			id = 678
+			name = "Mulhouse"
+		}
+	}
+	if = {
+		limit = {
+			state = 5539
+		}		
+		set_province_name = {
+			id = 1346
+			name = "Strassbourg"
+		}
+	}
+	if = {
+		limit = {
+			state = 8
+		}		
+		set_province_name = {
+			id = 6583
+			name = "Luxembourg"
+		}
+	}
+}
+do_luxembourgish_renames = {
+	if = {
+		limit = {
+			state = 8
+		}		
+		set_province_name = {
+			id = 6583
+			name = "Lëtzebuerg"
+		}
+	}
+}
