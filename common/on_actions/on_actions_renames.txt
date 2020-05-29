@@ -12,7 +12,9 @@ on_actions = {
 						limit = {
 							ROOT = {OR = {
 										tag = GER
+										is_subject_of = GER
 										tag = AUS
+										is_subject_of = AUS
 									}}
 						}
 						do_german_renames = yes
@@ -94,6 +96,30 @@ on_actions = {
 							ROOT = {tag = LUX}
 						}
 						do_luxembourgish_renames = yes
+					}
+
+					### HOL ###
+					if = {
+						limit = {
+							ROOT = {tag = HOL}
+						}
+						do_dutch_renames = yes
+					}
+
+					### BEL ###
+					if = {
+						limit = {
+							ROOT = {tag = BEL}
+						}
+						do_belgian_renames = yes
+					}
+
+					### HUN ###
+					if = {
+						limit = {
+							ROOT = {tag = HUN}
+						}
+						do_hungarian_renames = yes
 					}
 				}
 			}
