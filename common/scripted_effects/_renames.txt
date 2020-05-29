@@ -147,7 +147,7 @@ do_german_renames = {
 			state = 3464
 		}		
 		set_province_name = {
-			id = 11542
+			id = 3569
 			name = "Brunn"
 		}
 	}
@@ -318,7 +318,7 @@ do_german_renames = {
 			state = 5539
 		}		
 		set_province_name = {
-			id = 1346
+			id = 9503
 			name = "Straßburg"
 		}
 	}
@@ -486,7 +486,7 @@ do_czech_renames = {
 			state = 3464
 		}		
 		set_province_name = {
-			id = 11542
+			id = 3569
 			name = "Brno"
 		}
 	}
@@ -703,7 +703,7 @@ do_french_renames = {
 			state = 5539
 		}		
 		set_province_name = {
-			id = 1346
+			id = 9503
 			name = "Strassbourg"
 		}
 	}
