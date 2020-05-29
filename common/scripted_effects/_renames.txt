@@ -704,7 +704,7 @@ do_french_renames = {
 		}		
 		set_province_name = {
 			id = 9503
-			name = "Strassbourg"
+			name = "Strasbourg"
 		}
 	}
 	if = {
