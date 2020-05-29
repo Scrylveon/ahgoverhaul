@@ -315,7 +315,7 @@ do_german_renames = {
 	}
 	if = {
 		limit = {
-			state = 5539
+			state = 5359
 		}		
 		set_province_name = {
 			id = 9503
@@ -700,7 +700,7 @@ do_french_renames = {
 	}
 	if = {
 		limit = {
-			state = 5539
+			state = 5359
 		}		
 		set_province_name = {
 			id = 9503
