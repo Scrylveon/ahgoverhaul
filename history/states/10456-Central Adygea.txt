@@ -1,15 +1,15 @@
 state={
-	id=3503
-	name="STATE_3503"
+	id=10456
+	name="STATE_10456"
 	provinces={
-		 6738 
+		 6721
 	}
 	manpower = 1000
 	
 	state_category = pastoral
 
 	history={
-		owner = ADY
+		owner = RUS
 		add_core_of = SOV
 		add_core_of = RUS
 		add_core_of = ADY
