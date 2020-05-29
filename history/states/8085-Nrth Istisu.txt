@@ -5,10 +5,11 @@ state={
 		17860 
 	}
 	history={
-		owner = TSC
+		owner = NGK
 		add_core_of = SOV 
 		add_core_of = TSC
 		add_core_of = AZR
+		add_core_of = NGK
 	}
 	manpower = 1000
 	state_category = pastoral

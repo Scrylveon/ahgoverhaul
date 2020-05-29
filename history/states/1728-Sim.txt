@@ -4,7 +4,7 @@ state={
 	
 
 	history={
-		owner = RUS
+		owner = BSH
 		buildings = {
 			infrastructure = 8
 

@@ -2,16 +2,17 @@ state={
 	id=10437
 	name="STATE_10437"
 	provinces={
-		4733 10635 12643 19922 
+		4733 10635 12643 19922 19912
 	}
 	history={
-		owner = RUS
+		owner = KMK
 		buildings = {
 			infrastructure = 8
 
 		}
 		add_core_of = SOV
 		add_core_of = RUS
+		add_core_of = KMK
 
 	}
 	manpower = 1000

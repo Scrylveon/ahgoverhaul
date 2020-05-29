@@ -5,9 +5,10 @@ state={
 		9628 
 	}
 	history={
-	    owner = RUS
+	    owner = NOS
         add_core_of = RUS
         add_core_of = SOV
+        add_core_of = NOS
     }	
 	manpower = 1000
 	state_category = pastoral

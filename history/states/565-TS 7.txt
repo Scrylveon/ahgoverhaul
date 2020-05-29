@@ -8,7 +8,7 @@ state={
 	}
 
 	history={
-		owner = RUS
+		owner = BML
 		buildings = {
 			infrastructure = 1
 
@@ -16,11 +16,12 @@ state={
 		add_core_of = SOV
 		add_core_of = RUS
 		add_core_of = SBR
+		add_core_of = BML
 
 	}
 
 	provinces={
-		1761 4716 4835 7736 7854 12506 12575 17694 19799 19807 19822 19828 19829 19830 19838 
+		1761 4716 4835 7736 7854 12506 12575 17694 19799 19807 19822 19829 19830 19838 
 	}
 	manpower=195325
 	buildings_max_level_factor=1.000

@@ -5,7 +5,7 @@ state={
 		9626 
 	}
 	history={
-	    owner = TSC
+	    owner = SOS
         add_core_of = SOV 
 		add_core_of = TSC
         add_core_of = GEO

@@ -9,7 +9,7 @@ state={
 
 		}
 		add_core_of = AFG
-		add_core_of = PMR
+		add_claim_by = PMR
 
 	}
 

@@ -5,7 +5,7 @@ state={
 		6704 9677
 	}
 	history={
-		owner = RUS
+		owner = CRM
 		buildings = {
 			infrastructure = 5
 		}

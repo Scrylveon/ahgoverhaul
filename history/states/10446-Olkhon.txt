@@ -5,13 +5,15 @@ state={
 		19775 19787 
 	}
 	history={
-		owner = RUS
+		owner = BML
 		buildings = {
 			infrastructure = 8
 
 		}
 		add_core_of = SOV
 		add_core_of = RUS
+		add_core_of = BML
+		add_core_of = UBM
 
 	}
 	manpower = 1000

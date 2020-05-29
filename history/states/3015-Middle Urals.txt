@@ -4,10 +4,11 @@ state={
 	name="STATE_3015"
 
 	history={
-		owner = RUS
+		owner = KTM
 		add_core_of = SOV
 		add_core_of = RUS
 		add_core_of = URL
+		add_core_of = KTM
 		buildings = {
 			infrastructure = 4
 

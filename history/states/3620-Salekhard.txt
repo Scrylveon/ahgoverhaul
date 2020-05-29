@@ -4,10 +4,11 @@ state={
 	name="STATE_3620"
 
 	history={
-		owner = RUS
+		owner = YML
 		add_core_of = RUS
 		add_core_of = URL
 		add_core_of = SOV
+		add_core_of = YML
 		buildings = {
 			infrastructure = 1
 

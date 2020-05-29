@@ -5,7 +5,7 @@ state={
 		712 728 19458 
 	}
 	history={
-	    owner = RUS
+	    owner = DAG
         add_core_of = RUS
         add_core_of = SOV
         add_core_of = DAG

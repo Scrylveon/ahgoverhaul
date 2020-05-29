@@ -4,16 +4,11 @@ state={
 	name="STATE_2033"
 
 	history={
-		owner = TSC
+		owner = ADJ
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 2
 			air_base = 3
-			3653 = {
-				naval_base = 2
-				coastal_bunker = 1
-
-			}
 
 		}
 		add_core_of = SOV

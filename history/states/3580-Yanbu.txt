@@ -9,7 +9,7 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = TAJ
+		owner = PMR
 		buildings = {
 			infrastructure = 0
 

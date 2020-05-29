@@ -5,7 +5,7 @@ state={
 		7624
 	}
 	history={
-		owner = RUS
+		owner = DAG
 		buildings = {
 			infrastructure = 4
 

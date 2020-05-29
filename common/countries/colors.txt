@@ -4720,3 +4720,71 @@ TNA = {
 color = rgb { 90 46 46 }
 color_ui = rgb { 90 46 46 }
 }
+KPY = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+YKT = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+MRE = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+MRD = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+TTR = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+CCI = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+KYK = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+ABM = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+BML = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+KKS = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+KTM = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+TMY = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+EVK = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+VMO = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+UBM = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+UDM = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+CVS = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}

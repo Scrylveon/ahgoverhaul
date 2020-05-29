@@ -2,10 +2,11 @@ state={
 	id=2677
 	name="STATE_2677"
 	history={
-		owner = RUS 
+		owner = KYK 
 		add_core_of = SOV
 		add_core_of = RUS
 		add_core_of = SBR
+		add_core_of = KYK
 		buildings = {
 			infrastructure = 4
 			
