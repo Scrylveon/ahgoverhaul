@@ -1519,6 +1519,466 @@ do_italian_renames = {
 			name = "Rodi"
 		}
 	}
+		
+	if = {
+		limit = {
+			state = 838
+		}		
+		set_province_name = {
+			id = 9909
+			name = "Nizza"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 5148
+		}		
+		set_province_name = {
+			id = 3768
+			name = "Granopoli"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 1
+		}		
+		set_province_name = {
+			id = 3838
+			name = "Aiaccio"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 5149
+		}		
+		set_province_name = {
+			id = 911
+			name = "Tolone"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 21
+		}		
+		set_province_name = {
+			id = 11834
+			name = "Marsiglia"
+		}
+	}
+	if = {
+		limit = {
+			state = 20
+		}		
+		set_province_name = {
+			id = 6613
+			name = "Lione"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 22
+		}		
+		set_province_name = {
+			id = 9898
+			name = "Mompelleri"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 906
+		}		
+		set_province_name = {
+			id = 9853
+			name = "Perpignano"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 763
+		}		
+		set_province_name = {
+			id = 13213
+			name = "Andorra la Vecchia"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 31
+		}		
+		set_province_name = {
+			id = 6766
+			name = "Tolosa"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 1762
+		}		
+		set_province_name = {
+			id = 9737
+			name = "Bordea"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 165
+		}		
+		set_province_name = {
+			id = 9764
+			name = "Barcellona"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 167
+		}		
+		set_province_name = {
+			id = 6906
+			name = "Valenza"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 166
+		}		
+		set_province_name = {
+			id = 3816
+			name = "Saragozza"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2914
+		}		
+		set_province_name = {
+			id = 875
+			name = "Cordova"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 173
+		}		
+		set_province_name = {
+			id = 9979
+			name = "Malaga"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 118
+		}		
+		set_province_name = {
+			id = 4135
+			name = "Gibilterra"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 169
+		}		
+		set_province_name = {
+			id = 1048
+			name = "Cadice"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2882
+		}		
+		set_province_name = {
+			id = 7183
+			name = "Siviglia"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 41
+		}		
+		set_province_name = {
+			id = 3938
+			name = "Madridi"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 1197
+		}		
+		set_province_name = {
+			id = 13348
+			name = "Olivenza"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 112
+		}		
+		set_province_name = {
+			id = 11805
+			name = "Lisbona"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 180
+		}		
+		set_province_name = {
+			id = 9817
+			name = "Oporto"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 849
+		}		
+		set_province_name = {
+			id = 9945
+			name = "Cetta"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2141
+		}		
+		set_province_name = {
+			id = 7069
+			name = "Casa Bianca"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 1775
+		}		
+		set_state_name = Tangeri
+	}
+}
+do_portuguese_renames = {
+		
+	if = {
+		limit = {
+			state = 180
+		}		
+		set_province_name = {
+			id = 9817
+			name = "Porto"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 1197
+		}		
+		set_province_name = {
+			id = 13348
+			name = "Olivença"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 112
+		}		
+		set_province_name = {
+			id = 11805
+			name = "Lisboa"
+		}
+	}
+}
+do_catalonian_renames = {
+		
+	if = {
+		limit = {
+			state = 763
+		}		
+		set_province_name = {
+			id = 13213
+			name = "Andorra la Vella"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 165
+		}		
+		set_province_name = {
+			id = 9764
+			name = "Barcelona"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 167
+		}		
+		set_province_name = {
+			id = 6906
+			name = "València"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 166
+		}		
+		set_province_name = {
+			id = 3816
+			name = "Saragossa"
+		}
+	}
+}
+do_spanish_renames = {
+		
+	if = {
+		limit = {
+			state = 180
+		}		
+		set_province_name = {
+			id = 9817
+			name = "Oporto"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 849
+		}		
+		set_province_name = {
+			id = 9945
+			name = "Ceuta"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 1775
+	        }		
+		set_province_name = Tánger
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 165
+		}		
+		set_province_name = {
+			id = 9764
+			name = "Barcelona"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 41
+		}		
+		set_province_name = {
+			id = 3938
+			name = "Madrid"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 1197
+		}		
+		set_province_name = {
+			id = 13348
+			name = "Olivenza"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2882
+		}		
+		set_province_name = {
+			id = 7183
+			name = "Sevilla"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 169
+		}		
+		set_province_name = {
+			id = 1048
+			name = "Cádiz"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 118
+		}		
+		set_province_name = {
+			id = 4135
+			name = "Gibraltar"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 166
+		}		
+		set_province_name = {
+			id = 3816
+			name = "Zaragoza"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 167
+		}		
+		set_province_name = {
+			id = 6906
+			name = "Valencia"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2914
+		}		
+		set_province_name = {
+			id = 875
+			name = "Córdoba"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 173
+		}		
+		set_province_name = {
+			id = 9979
+			name = "Málaga"
+		}
+	}
 }
 do_french_renames = {
 	if = {
@@ -1528,6 +1988,31 @@ do_french_renames = {
 		set_province_name = {
 			id = 678
 			name = "Mulhouse"
+		}
+	}		
+	if = {
+		limit = {
+			state = 1762
+		}		
+		set_province_name = {
+			id = 9737
+			name = "Bordeaux"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 1775
+		}		
+		set_province_name = Tanger
+	}
+	if = {
+		limit = {
+			state = 2141
+		}		
+		set_province_name = {
+			id = 7069
+			name = "Casablanca"
 		}
 	}
 	if = {
@@ -1727,6 +2212,46 @@ do_french_renames = {
 		set_province_name = {
 			id = 9898
 			name = "Montpellier"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 1
+		}		
+		set_province_name = {
+			id = 3838
+			name = "Ajáccio"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 5149
+		}		
+		set_province_name = {
+			id = 911
+			name = "Toulon"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 906
+		}		
+		set_province_name = {
+			id = 9853
+			name = "Perpignan"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 31
+		}		
+		set_province_name = {
+			id = 6766
+			name = "Toulouse"
 		}
 	}
 }
