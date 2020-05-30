@@ -3711,16 +3711,15 @@
  AFG_SOV_communism_DEF:0 "the Afghan Soviet Socialist Republic"
  AFG_SOV_communism_ADJ:0 "Afghan" 
 
- MOL_SOV_communism:0 "Moldovan Soviet Socialist Republic"
- MOL_SOV_communism_autonomy_dominion:0 "Moldovan Soviet Socialist Republic"
- MOL_SOV_communism_autonomy_colony:0 "Moldovan Soviet Socialist Republic"
- MOL_SOV_communism_autonomy_puppet:1 "Moldovan Soviet Socialist Republic"
- MOL_SOV_communism_autonomy_integrated_puppet:0 "Moldovan Soviet Socialist Republic"
- MOL_SOV_communism_DEF:0 "the Moldovan Soviet Socialist Republic"
- MOL_SOV_communism_autonomy_dominion_DEF:0 "the Moldovan Soviet Socialist Republic"
- MOL_SOV_communism_autonomy_colony_DEF:0 "the Moldovan Soviet Socialist Republic"
- MOL_SOV_communism_autonomy_puppet_DEF:1 "the Moldovan Soviet Socialist Republic"
- MOL_SOV_communism_autonomy_integrated_puppet_DEF:0 "the Moldovan Soviet Socialist Republic"
+ MOL_SOV_autonomy_dominion:0 "Moldavian Autonomous Soviet Socialist Republic"
+ MOL_SOV_autonomy_colony:0 "Moldavian Autonomous Soviet Socialist Republic"
+ MOL_SOV_autonomy_puppet:1 "Moldavian Autonomous Soviet Socialist Republic"
+ MOL_SOV_autonomy_integrated_puppet:0 "Moldavian Autonomous Soviet Socialist Republic"
+ MOL_SOV_DEF:0 "the Moldavian Autonomous Soviet Socialist Republic"
+ MOL_SOV_autonomy_dominion_DEF:0 "the Moldavian Autonomous Soviet Socialist Republic"
+ MOL_SOV_autonomy_colony_DEF:0 "the Moldavian Autonomous Soviet Socialist Republic"
+ MOL_SOV_autonomy_puppet_DEF:1 "the Moldavian Autonomous Soviet Socialist Republic"
+ MOL_SOV_autonomy_integrated_puppet_DEF:0 "the Moldavian Autonomous Soviet Socialist Republic"
 
  GEO_SOV_communism:0 "Georgian Soviet Socialist Republic"
  GEO_SOV_communism_autonomy_dominion:0 "Georgian Soviet Socialist Republic"
@@ -3755,16 +3754,16 @@
  AZR_SOV_communism_autonomy_integrated_puppet_DEF:0 "the Azerbaijan Soviet Socialist Republic"
  AZR_SOV_communism_DEF:0 "the Azerbaijan Soviet Socialist Republic"
 
- KAZ_SOV_communism:0 "Kazakh Soviet Socialist Republic"
- KAZ_SOV_communism_autonomy_dominion:0 "Kazakh Soviet Socialist Republic"
- KAZ_SOV_communism_autonomy_colony:0 "Kazakh Soviet Socialist Republic"
- KAZ_SOV_communism_autonomy_puppet:1 "Kazakh Soviet Socialist Republic"
- KAZ_SOV_communism_autonomy_integrated_puppet:0 "Kazakh Soviet Socialist Republic"
- KAZ_SOV_communism_autonomy_dominion_DEF:0 "the Kazakh Soviet Socialist Republic"
- KAZ_SOV_communism_autonomy_colony_DEF:0 "the Kazakh Soviet Socialist Republic"
- KAZ_SOV_communism_autonomy_puppet_DEF:1 "the Kazakh Soviet Socialist Republic"
- KAZ_SOV_communism_autonomy_integrated_puppet_DEF:0 "the Kazakh Soviet Socialist Republic"
- KAZ_SOV_communism_DEF:0 "the Kazakh Soviet Socialist Republic"
+ KAZ_SOV:0 "Kazak Autonomous Soviet Socialist Republic"
+ KAZ_SOV_autonomy_dominion:0 "Kazak Autonomous Soviet Socialist Republic"
+ KAZ_SOV_autonomy_colony:0 "Kazak Autonomous Soviet Socialist Republic"
+ KAZ_SOV_autonomy_puppet:1 "Kazak Autonomous Soviet Socialist Republic"
+ KAZ_SOV_autonomy_integrated_puppet:0 "Kazak Autonomous Soviet Socialist Republic"
+ KAZ_SOV_DEF:0 "the Kazak Autonomous Soviet Socialist Republic"
+ KAZ_SOV_autonomy_dominion_DEF:0 "the Kazak Autonomous Soviet Socialist Republic"
+ KAZ_SOV_autonomy_colony_DEF:0 "the Kazak Autonomous Soviet Socialist Republic"
+ KAZ_SOV_autonomy_puppet_DEF:1 "the Kazak Autonomous Soviet Socialist Republic"
+ KAZ_SOV_autonomy_integrated_puppet_DEF:0 "the Kazak Autonomous Soviet Socialist Republic"
 
  UZB_SOV_communism:0 "Uzbek Soviet Socialist Republic" 
  UZB_SOV_communism_autonomy_dominion:0 "Uzbek Soviet Socialist Republic"
@@ -3799,16 +3798,16 @@
  TAJ_SOV_communism_autonomy_integrated_puppet_DEF:0 "the Tajik Soviet Socialist Republic"
  TAJ_SOV_communism_DEF:0 "the Tajik Soviet Socialist Republic"
 
- KYR_SOV_communism:0 "Kirghiz Soviet Socialist Republic"   
- KYR_SOV_communism_autonomy_dominion:0 "Kirghiz Soviet Socialist Republic"
- KYR_SOV_communism_autonomy_colony:0 "Kirghiz Soviet Socialist Republic"
- KYR_SOV_communism_autonomy_puppet:1 "Kirghiz Soviet Socialist Republic"
- KYR_SOV_communism_autonomy_integrated_puppet:0 "Kirghiz Soviet Socialist Republic"
- KYR_SOV_communism_autonomy_dominion_DEF:0 "the Kirghiz Soviet Socialist Republic"
- KYR_SOV_communism_autonomy_colony_DEF:0 "the Kirghiz Soviet Socialist Republic"
- KYR_SOV_communism_autonomy_puppet_DEF:1 "the Kirghiz Soviet Socialist Republic"
- KYR_SOV_communism_autonomy_integrated_puppet_DEF:0 "the Kirghiz Soviet Socialist Republic"
- KYR_SOV_communism_DEF:0 "the Kirghiz Soviet Socialist Republic"
+ KYR_SOV:0 "Kirghiz Autonomous Soviet Socialist Republic"
+ KYR_SOV_autonomy_dominion:0 "Kirghiz Autonomous Soviet Socialist Republic"
+ KYR_SOV_autonomy_colony:0 "Kirghiz Autonomous Soviet Socialist Republic"
+ KYR_SOV_autonomy_puppet:1 "Kirghiz Autonomous Soviet Socialist Republic"
+ KYR_SOV_autonomy_integrated_puppet:0 "Kirghiz Autonomous Soviet Socialist Republic"
+ KYR_SOV_DEF:0 "the Kirghiz Autonomous Soviet Socialist Republic"
+ KYR_SOV_autonomy_dominion_DEF:0 "the Kirghiz Autonomous Soviet Socialist Republic"
+ KYR_SOV_autonomy_colony_DEF:0 "the Kirghiz Autonomous Soviet Socialist Republic"
+ KYR_SOV_autonomy_puppet_DEF:1 "the Kirghiz Autonomous Soviet Socialist Republic"
+ KYR_SOV_autonomy_integrated_puppet_DEF:0 "the Kirghiz Autonomous Soviet Socialist Republic"
 
  POL_SOV_communism:0 "Polish Soviet Socialist Republic"
  POL_SOV_communism_autonomy_dominion:0 "Polish Soviet Socialist Republic"
@@ -3821,16 +3820,16 @@
  POL_SOV_communism_autonomy_integrated_puppet_DEF:0 "the Polish Soviet Socialist Republic"
  POL_SOV_communism_DEF:0 "the Polish Soviet Socialist Republic"
 
- KAR_SOV_communism:0 "Karelo-Finnish Soviet Socialist Republic" 
- KAR_SOV_communism_autonomy_dominion:0 "Karelo-Finnish Soviet Socialist Republic"
- KAR_SOV_communism_autonomy_colony:0 "Karelo-Finnish Soviet Socialist Republic"
- KAR_SOV_communism_autonomy_puppet:1 "Karelo-Finnish Soviet Socialist Republic"
- KAR_SOV_communism_autonomy_integrated_puppet:0 "Karelo-Finnish Soviet Socialist Republic"
- KAR_SOV_communism_autonomy_dominion_DEF:0 "the Karelo-Finnish Soviet Socialist Republic"
- KAR_SOV_communism_autonomy_colony_DEF:0 "the Karelo-Finnish Soviet Socialist Republic"
- KAR_SOV_communism_autonomy_puppet_DEF:1 "the Karelo-Finnish Soviet Socialist Republic"
- KAR_SOV_communism_autonomy_integrated_puppet_DEF:0 "the Karelo-Finnish Soviet Socialist Republic"
- KAR_SOV_communism_DEF:0 "the Karelo-Finnish Soviet Socialist Republic"
+ KAR_SOV:0 "Karelian Autonomous Soviet Socialist Republic" 
+ KAR_SOV_autonomy_dominion:0 "Karelian Autonomous Soviet Socialist Republic"
+ KAR_SOV_autonomy_colony:0 "Karelian Autonomous Soviet Socialist Republic"
+ KAR_SOV_autonomy_puppet:1 "Karelian Autonomous Soviet Socialist Republic"
+ KAR_SOV_autonomy_integrated_puppet:0 "Karelian Autonomous Soviet Socialist Republic"
+ KAR_SOV_autonomy_dominion_DEF:0 "the Karelian Autonomous Soviet Socialist Republic"
+ KAR_SOV_autonomy_colony_DEF:0 "the Karelian Autonomous Soviet Socialist Republic"
+ KAR_SOV_autonomy_puppet_DEF:1 "the Karelian Autonomous Soviet Socialist Republic"
+ KAR_SOV_autonomy_integrated_puppet_DEF:0 "the Karelian Autonomous Soviet Socialist Republic"
+ KAR_SOV_DEF:0 "the Karelian Autonomous Soviet Socialist Republic"
 
  EST_SOV_communism:0 "Estonian Soviet Socialist Republic"
  EST_SOV_communism_autonomy_dominion:0 "Estonian Soviet Socialist Republic"
@@ -4805,6 +4804,159 @@
  ALN_SOV_monarchism_DEF:0 "The Duchy of Åland"
  ALN_SOV_monarchism_ADJ:0 "Ålandic"
  
+ BML_SOV:0 “Buryat-Mongol Autonomous Soviet Socialist Republic”
+ BML_SOV_DEF:0 “The Buryat-Mongol Autonomous Soviet Socialist Republic”
+ BML_SOV_ADJ:0 “Buryat-Mongol”
+
+ UDM_SOV:0 “Udmurt Autonomous Soviet Socialist Republic”
+ UDM_SOV_DEF:0 “The Udmurt Autonomous Soviet Socialist Republic”
+ UDM_SOV_ADJ:0 “Udmurt”
+
+ CVS_SOV:0 “Chuvash Autonomous Soviet Socialist Republic”
+ CVS_SOV_DEF:0 “The Chuvash Autonomous Soviet Socialist Republic”
+ CVS_SOV_ADJ:0 “Chuvash”
+
+ TTR_SOV:0 “Tatar Autonomous Soviet Socialist Republic”
+ TTR_SOV_DEF:0 “The Tatar Autonomous Soviet Socialist Republic”
+ TTR_SOV_ADJ:0 “Tatar”
+
+ MRD_SOV:0 “Mordovian Autonomous Soviet Socialist Republic”
+ MRD_SOV_DEF:0 “The Mordovian Autonomous Soviet Socialist Republic”
+ MRD_SOV_ADJ:0 “Mordovian”
+
+ YKT_SOV:0 “Yakut Autonomous Soviet Socialist Republic”
+ YKT_SOV_DEF:0 “The Yakut Autonomous Soviet Socialist Republic”
+ YKT_SOV_ADJ:0 “Yakut”
+
+ KPY_SOV:0 “Komi-Permyak National Okrug”
+ KPY_SOV_DEF:0 “the Komi-Permyak National Okrug”
+ KPY_SOV_ADJ:0 “Komi-Permyak”
+
+ TMY_SOV:0 “Taymyr National Okrug”
+ TMY_SOV_DEF:0 “the Taymyr National Okrug”
+ TMY_SOV_ADJ:0 “Taymyr”
+
+ KTM_SOV:0 “Ostyak-Vogul National Okrug”
+ KTM_SOV_DEF:0 “the Ostyak-Vogul National Okrug”
+ KTM_SOV_ADJ:0 “Ostyak-Vogul”
+
+ EVK_SOV:0 “Evenk National Okrug”
+ EVK_SOV_DEF:0 “the Evenk National Okrug”
+ EVK_SOV_ADJ:0 “Evenk”
+
+ CCI_SOV:0 “Chukotka National Okrug”
+ CCI_SOV_DEF:0 “the Chukotka National Okrug”
+ CCI_SOV_ADJ:0 “Chukotka”
+
+ KYK_SOV:0 “Koryak National Okrug”
+ KYK_SOV_DEF:0 “the Koryak National Okrug”
+ KYK_SOV_ADJ:0 “Koryak”
+
+ VMO_SOV:0 “Vitim-Olekminsk National Okrug”
+ VMO_SOV_DEF:0 “the Vitim-Olekminsk National Okrug”
+ VMO_SOV_ADJ:0 “Vitim-Olekminsk”
+
+ UBM_SOV:0 “Ust-Orda Buryat-Mongol National Okrug”
+ UBM_SOV_DEF:0 “the Ust-Orda Buryat-Mongol National Okrug”
+ UBM_SOV_ADJ:0 “Ust-Orda Buryat-Mongol”
+
+ ABM_SOV:0 “Agin Buryat-Mongol National Okrug”
+ ABM_SOV_DEF:0 “the Agin Buryat-Mongol National Okrug”
+ ABM_SOV_ADJ:0 “Agin Buryat-Mongol”
+
+ MRE_SOV:0 “Mari Autonomous Oblast”
+ MRE_SOV_DEF:0 “the Mari Autonomous Oblast”
+ MRE_SOV_ADJ:0 “Mari”
+
+ KKS_SOV:0 “Khakas Autonomous Oblast”
+ KKS_SOV_DEF:0 “the Khakas Autonomous Oblast”
+ KKS_SOV_ADJ:0 “Khakas”
+
+ KMK_SOV:0 “Kalmyk Autonomous Soviet Socialist Republic”
+ KMK_SOV_DEF:0 “the Kalmyk Autonomous Soviet Socialist Republic”
+ KMK_SOV_ADJ:0 “Kalmyk”
+
+ DAG_SOV:0 “Dagestan Autonomous Soviet Socialist Republic”
+ DAG_SOV_DEF:0 “the Dagestan Autonomous Soviet Socialist Republic”
+ DAG_SOV_ADJ:0 “Dagestan”
+
+ ABK_SOV:0 “Abkhaz Autonomous Soviet Socialist Republic”
+ ABK_SOV_DEF:0 “the Abkhaz Autonomous Soviet Socialist Republic”
+ ABK_SOV_ADJ:0 “Abkhaz”
+
+ BSH_SOV:0 “Bashkir Autonomous Soviet Socialist Republic”
+ BSH_SOV_DEF:0 “the Bashkir Autonomous Soviet Socialist Republic”
+ BSH_SOV_ADJ:0 “Bashkir”
+
+ ADJ_SOV:0 “Adjar Autonomous Soviet Socialist Republic”
+ ADJ_SOV_DEF:0 “the Adjar Autonomous Soviet Socialist Republic”
+ ADJ_SOV_ADJ:0 “Adjar”
+
+ CRM_SOV:0 “Crimean Autonomous Soviet Socialist Republic”
+ CRM_SOV_DEF:0 “the Crimean Autonomous Soviet Socialist Republic”
+ CRM_SOV_ADJ:0 “Crimean”
+
+ NAK_SOV:0 “Nakhichevan Autonomous Soviet Socialist Republic”
+ NAK_SOV_DEF:0 “the Nakhichevan Autonomous Soviet Socialist Republic”
+ NAK_SOV_ADJ:0 “Nakhichevan”
+
+ NOS_SOV:0 “North Ossetian Autonomous Oblast”
+ NOS_SOV_DEF:0 “the North Ossetian Autonomous Oblast”
+ NOS_SOV_ADJ:0 “North Ossetian”
+
+ SOS_SOV:0 “South Ossetian Autonomous Oblast”
+ SOS_SOV_DEF:0 “the South Ossetian Autonomous Oblast”
+ SOS_SOV_ADJ:0 “South Ossetian”
+
+ NGK_SOV:0 “Nagorno-Karabakh Autonomous Oblast”
+ NGK_SOV_DEF:0 “the Nagorno-Karabakh Autonomous Oblast”
+ NGK_SOV_ADJ:0 “Nagorno-Karabakh”
+
+ ADY_SOV:0 “Adyghe Autonomous Oblast”
+ ADY_SOV_DEF:0 “the Adyghe Autonomous Oblast”
+ ADY_SOV_ADJ:0 “Adyghe”
+
+ KRC_SOV:0 “Karachay Autonomous Oblast”
+ KRC_SOV_DEF:0 “the Karachay Autonomous Oblast”
+ KRC_SOV_ADJ:0 “Karachay”
+
+ CHR_SOV:0 “Cherkess Autonomous Oblast”
+ CHR_SOV_DEF:0 “the Cherkess Autonomous Oblast”
+ CHR_SOV_ADJ:0 “Cherkess”
+
+ KBK_SOV:0 “Kabardino-Balkarian Autonomous Oblast”
+ KBK_SOV_DEF:0 “the Kabardino-Balkarian Autonomous Oblast”
+ KBK_SOV_ADJ:0 “Kabardino-Balkarian”
+
+ CHE_SOV:0 “Chechen-Ingush Autonomous Oblast”
+ CHE_SOV_DEF:0 “the Chechen-Ingush Autonomous Oblast”
+ CHE_SOV_ADJ:0 “Chechen-Ingush”
+
+ KMI_SOV:0 “Komi-Zyryan Autonomous Oblast”
+ KMI_SOV_DEF:0 “the Komi-Zyryan Autonomous Oblast”
+ KMI_SOV_ADJ:0 “Komi-Zyryan”
+
+ JAO_SOV:0 “Jewish Autonomous Oblast”
+ JAO_SOV_DEF:0 “the Jewish Autonomous Oblast”
+ JAO_SOV_ADJ:0 “Jewish"
+
+ ALI_SOV:0 “Oryot Autonomous Oblast”
+ ALI_SOV_DEF:0 “the Oryot Autonomous Oblast”
+ ALI_SOV_ADJ:0 “Oryot”
+
+ PMR_SOV:0 “Gorno-Badakhshan Autonomous Oblast”
+ PMR_SOV_DEF:0 “the Gorno-Badakhshan Autonomous Oblast”
+ PMR_SOV_ADJ:0 “Gorno-Badakhshan”
+
+ PCR_SOV:0 “Nenets National Okrug”
+ PCR_SOV_DEF:0 “the Nenets National Okrug”
+ PCR_SOV_ADJ:0 “Nenets”
+
+ YML_SOV:0 “Yamal National Okrug”
+ YML_SOV_DEF:0 “the Yamal National Okrug”
+ YML_SOV_ADJ:0 “Yamal”
+ #raj provinces
+
  AJR_RAJ:0 "Ajmer-Merwara Province"
  AJR_RAJ_DEF:0 "The Ajmer-Merwara Province"
  AJR_RAJ_ADJ:0 "Ajmer-Merwari"
