@@ -656,6 +656,296 @@ do_german_renames = {
 			name = "Fünfkirchen"
 		}
 	}
+	if = {
+		limit = {
+			state = 2176
+		}		
+		set_province_name = {
+			id = 11572
+			name = "Senitza"
+		}
+	}
+	if = {
+		limit = {
+			state = 2264
+		}		
+		set_province_name = {
+			id = 13857
+			name = "Bertschko"
+		}
+	}
+	if = {
+		limit = {
+			state = 2267
+		}		
+		set_province_name = {
+			id = 11899
+			name = "Sarajewo"
+		}
+	}
+	if = {
+		limit = {
+			state = 2263
+		}		
+		set_province_name = {
+			id = 11741
+			name = "Ost-Sarajewo"
+		}
+	}
+	if = {
+		limit = {
+			state = 107
+		}		
+		set_province_name = {
+			id = 11586
+			name = "Belgrad"
+		}
+	}
+	if = {
+		limit = {
+			state = 2058
+		}		
+		set_province_name = {
+			id = 746
+			name = "Marmaroschsiget"
+		}
+	}
+	if = {
+		limit = {
+			state = 1218
+		}		
+		set_province_name = {
+			id = 3696
+			name = "Großwardein"
+		}
+	}
+	if = {
+		limit = {
+			state = 2272
+		}		
+		set_province_name = {
+			id = 9606
+			name = "Temeschwar"
+		}
+	}
+	if = {
+		limit = {
+			state = 1217
+		}		
+		set_province_name = {
+			id = 6711
+			name = "Klausemberg"
+		}
+	}
+	if = {
+		limit = {
+			state = 1216
+		}		
+		set_province_name = {
+			id = 3665
+			name = "Eisenmarkt"
+		}
+	}
+	if = {
+		limit = {
+			state = 76
+		}		
+		set_province_name = {
+			id = 9670
+			name = "Neumarkt am Mieresch"
+		}
+	}
+	if = {
+		limit = {
+			state = 84
+		}		
+		set_province_name = {
+			id = 690
+			name = "Kronstadt"
+		}
+	}
+	if = {
+		limit = {
+			state = 80
+		}		
+		set_province_name = {
+			id = 9548
+			name = "Czernowitz"
+		}
+	}
+	if = {
+		limit = {
+			state = 812
+		}		
+		set_province_name = {
+			id = 13270
+			name = "Prischtina"
+		}
+	}
+	if = {
+		limit = {
+			state = 48
+		}		
+		set_province_name = {
+			id = 949
+			name = "Sofia"
+		}
+	}
+	if = {
+		limit = {
+			state = 212
+		}		
+		set_province_name = {
+			id = 6923
+			name = "Plowdiw"
+		}
+	}
+	if = {
+		limit = {
+			state = 1231
+		}		
+		set_province_name = {
+			id = 9783
+			name = "Warna"
+		}
+	}
+	if = {
+		limit = {
+			state = 816
+		}		
+		set_province_name = {
+			id = 11887
+			name = "Nisch"
+		}
+	}
+	if = {
+		limit = {
+			state = 81
+		}		
+		set_province_name = {
+			id = 6652
+			name = "Krajowa"
+		}
+	}
+	if = {
+		limit = {
+			state = 3615
+		}		
+		set_province_name = {
+			id = 3663
+			name = "Ploresch"
+		}
+	}
+	if = {
+		limit = {
+			state = 46
+		}		
+		set_province_name = {
+			id = 9617
+			name = "Bukarest"
+		}
+	}
+	if = {
+		limit = {
+			state = 5343
+		}		
+		set_province_name = {
+			id = 9635
+			name = "Konstanza"
+		}
+	}
+	if = {
+		limit = {
+			state = 79
+		}		
+		set_province_name = {
+			id = 6706
+			name = "Galatz"
+		}
+	}
+	if = {
+		limit = {
+			state = 3472
+		}		
+		set_province_name = {
+			id = 9716
+			name = "Jassenmarkt"
+		}
+	}
+	if = {
+		limit = {
+			state = 78
+		}		
+		set_province_name = {
+			id = 3707
+			name = "Kischinau"
+		}
+	}
+	if = {
+		limit = {
+			state = 791
+		}		
+		set_province_name = {
+			id = 6727
+			name = "Weißenburg"
+		}
+	}
+	if = {
+		limit = {
+			state = 4390
+		}		
+		set_province_name = {
+			id = 11818
+			name = "Saloniki"
+		}
+	}
+	if = {
+		limit = {
+			state = 1225
+		}		
+		set_province_name = {
+			id = 13724
+			name = "Athen"
+		}
+	}
+	if = {
+		limit = {
+			state = 182
+		}		
+		set_province_name = {
+			id = 9940
+			name = "Iraklio"
+		}
+	}
+	if = {
+		limit = {
+			state = 341
+		}		
+		set_province_name = {
+			id = 9833
+			name = "Konstantinopel"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 164
+		}		
+		set_province_name = {
+			id = 10007
+			name = "Rhodos"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 44
+		}		
+		set_province_name = {
+			id = 9914
+			name = "Tirana"
+		}
+	}
 }
 do_polish_renames = {
 	if = {
@@ -746,6 +1036,15 @@ do_polish_renames = {
 		set_province_name = {
 			id = 6296
 			name = "Kowno"
+		}
+	}
+	if = {
+		limit = {
+			state = 80
+		}		
+		set_province_name = {
+			id = 9548
+			name = "Czernowice"
 		}
 	}
 }
@@ -992,6 +1291,96 @@ do_yugoslavian_renames = {
 			name = "Zagreb"
 		}
 	}
+	if = {
+		limit = {
+			state = 2176
+		}		
+		set_province_name = {
+			id = 11572
+			name = "Zenica"
+		}
+	}
+	if = {
+		limit = {
+			state = 2264
+		}		
+		set_province_name = {
+			id = 13857
+			name = "Brčko"
+		}
+	}
+	if = {
+		limit = {
+			state = 2267
+		}		
+		set_province_name = {
+			id = 11899
+			name = "Sarajevo"
+		}
+	}
+	if = {
+		limit = {
+			state = 2263
+		}		
+		set_province_name = {
+			id = 11741
+			name = "Istočno Sarajevo"
+		}
+	}
+	if = {
+		limit = {
+			state = 812
+		}		
+		set_province_name = {
+			id = 13270
+			name = "Prishtinë"
+		}
+	}
+	if = {
+		limit = {
+			state = 107
+		}		
+		set_province_name = {
+			id = 11586
+			name = "Beograd"
+		}
+	}
+	if = {
+		limit = {
+			state = 816
+		}		
+		set_province_name = {
+			id = 11887
+			name = "Niš"
+		}
+	}
+	if = {
+		limit = {
+			state = 4390
+		}		
+		set_province_name = {
+			id = 11818
+			name = "Solun"
+		}
+	}
+	if = {
+		limit = {
+			state = 1225
+		}		
+		set_province_name = {
+			id = 13724
+			name = "Atina"
+		}
+	}
+	if = {
+		limit = {
+			state = 182
+		}		
+		set_province_name = {
+			id = 9940
+			name = "Irákleio"
+		}
+	}
 }
 do_italian_renames = {
 	if = {
@@ -1118,6 +1507,16 @@ do_italian_renames = {
 		set_province_name = {
 			id = 11837
 			name = "Taranto"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 164
+		}		
+		set_province_name = {
+			id = 10007
+			name = "Rodi"
 		}
 	}
 }
@@ -1309,7 +1708,8 @@ do_french_renames = {
 		set_province_name = {
 			id = 9909
 			name = "Nice"
-		
+		}
+	}	
 	if = {
 		limit = {
 			state = 21
@@ -1533,6 +1933,281 @@ do_hungarian_renames = {
 		set_province_name = {
 			id = 11610
 			name = "Pécs"
+		}
+	}
+}
+do_romanian_renames = {
+	if = {
+		limit = {
+			state = 2058
+		}		
+		set_province_name = {
+			id = 746
+			name = "Sighetu Marmaţiei"
+		}
+	}
+	if = {
+		limit = {
+			state = 1218
+		}		
+		set_province_name = {
+			id = 3696
+			name = "Oradea"
+		}
+	}
+	if = {
+		limit = {
+			state = 2272
+		}		
+		set_province_name = {
+			id = 9606
+			name = "Timişoara"
+		}
+	}
+	if = {
+		limit = {
+			state = 1217
+		}		
+		set_province_name = {
+			id = 6711
+			name = "Cluj"
+		}
+	}
+	if = {
+		limit = {
+			state = 1216
+		}		
+		set_province_name = {
+			id = 3665
+			name = "Hunedoara"
+		}
+	}
+	if = {
+		limit = {
+			state = 76
+		}		
+		set_province_name = {
+			id = 9670
+			name = "Târgu Mureș"
+		}
+	}
+	if = {
+		limit = {
+			state = 84
+		}		
+		set_province_name = {
+			id = 690
+			name = "Brașov"
+		}
+	}
+	if = {
+		limit = {
+			state = 80
+		}		
+		set_province_name = {
+			id = 9548
+			name = "Cernăuți"
+		}
+	}
+	if = {
+		limit = {
+			state = 81
+		}		
+		set_province_name = {
+			id = 6652
+			name = "Craiova"
+		}
+	}
+	if = {
+		limit = {
+			state = 3615
+		}		
+		set_province_name = {
+			id = 3663
+			name = "Ploieşti"
+		}
+	}
+	if = {
+		limit = {
+			state = 46
+		}		
+		set_province_name = {
+			id = 9617
+			name = "Bucureşti"
+		}
+	}
+	if = {
+		limit = {
+			state = 5343
+		}		
+		set_province_name = {
+			id = 9635
+			name = "Constanța"
+		}
+	}
+	if = {
+		limit = {
+			state = 79
+		}		
+		set_province_name = {
+			id = 6706
+			name = "Galați"
+		}
+	}
+	if = {
+		limit = {
+			state = 3472
+		}		
+		set_province_name = {
+			id = 9716
+			name = "Iași"
+		}
+	}
+	if = {
+		limit = {
+			state = 78
+		}		
+		set_province_name = {
+			id = 3707
+			name = "Chişinău"
+		}
+	}
+	if = {
+		limit = {
+			state = 791
+		}		
+		set_province_name = {
+			id = 6727
+			name = "Cetatea Albă"
+		}
+	}
+	if = {
+		limit = {
+			state = 4390
+		}		
+		set_province_name = {
+			id = 11818
+			name = "Salonic"
+		}
+	}
+}
+do_bulgarian_renames = {
+	if = {
+		limit = {
+			state = 48
+		}		
+		set_province_name = {
+			id = 949
+			name = "Sofiya"
+		}
+	}
+	if = {
+		limit = {
+			state = 212
+		}		
+		set_province_name = {
+			id = 6923
+			name = "Plovdiv"
+		}
+	}
+	if = {
+		limit = {
+			state = 1231
+		}		
+		set_province_name = {
+			id = 9783
+			name = "Varna"
+		}
+	}
+	if = {
+		limit = {
+			state = 4390
+		}		
+		set_province_name = {
+			id = 11818
+			name = "Solun"
+		}
+	}
+	if = {
+		limit = {
+			state = 1225
+		}		
+		set_province_name = {
+			id = 13724
+			name = "Atina"
+		}
+	}
+}
+do_greek_renames = {
+	if = {
+		limit = {
+			state = 4390
+		}		
+		set_province_name = {
+			id = 11818
+			name = "Thessaloniki"
+		}
+	}
+	if = {
+		limit = {
+			state = 1225
+		}		
+		set_province_name = {
+			id = 13724
+			name = "Athina"
+		}
+	}
+	if = {
+		limit = {
+			state = 341
+		}		
+		set_province_name = {
+			id = 9833
+			name = "Kōnstantinoúpolis"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 164
+		}		
+		set_province_name = {
+			id = 10007
+			name = "Ródos"
+		}
+	}
+}
+
+do_turkish_renames = {
+	if = {
+		limit = {
+			state = 341
+		}		
+		set_province_name = {
+			id = 9833
+			name = "Istanbul"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 164
+		}		
+		set_province_name = {
+			id = 10007
+			name = "Rodos"
+		}
+	}
+}
+do_albanian_renames = {
+
+	if = {
+		limit = {
+			state = 44
+		}
+		set_province_name = {
+			id = 9914
+			name = "Tiranë"
 		}
 	}
 }

@@ -74,14 +74,6 @@ on_actions = {
 						do_yugoslavian_renames = yes
 					}
 
-					### ITA ###
-					if = {
-						limit = {
-							ROOT = {tag = ITA}
-						}
-						do_italian_renames = yes
-					}
-
 					### FRA ###
 					if = {
 						limit = {
@@ -120,6 +112,54 @@ on_actions = {
 							ROOT = {tag = HUN}
 						}
 						do_hungarian_renames = yes
+					}
+
+					### ROM ###
+					if = {
+						limit = {
+							ROOT = {tag = ROM}
+						}
+						do_romanian_renames = yes
+					}
+
+					### BUL ###
+					if = {
+						limit = {
+							ROOT = {tag = BUL}
+						}
+						do_bulgarian_renames = yes
+					}
+
+					### GRE ###
+					if = {
+						limit = {
+							ROOT = {tag = GRE}
+						}
+						do_greek_renames = yes
+					}
+
+					### TUR ###
+					if = {
+						limit = {
+							ROOT = {tag = TUR}
+						}
+						do_turkish_renames = yes
+					}
+
+					### ALB ###
+					if = {
+						limit = {
+							ROOT = {tag = ALB}
+						}
+						do_albanian_renames = yes
+					}
+
+					### ITA ###
+					if = {
+						limit = {
+							ROOT = {tag = ITA}
+						}
+						do_italian_renames = yes
 					}
 				}
 			}
