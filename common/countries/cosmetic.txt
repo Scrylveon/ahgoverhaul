@@ -694,23 +694,23 @@ SCAN = {
 	color = rgb { 0 102 204 }
 	color_ui = rgb { 0 102 204 }
 }
-NDC_UNIFIED = {
+NORD = {
 	color = rgb { 0 76 153 }
 	color_ui = rgb { 0 76 153 }
 }
-GCO_UNIFIED = {
+GCO; = {
 	color = rgb { 255 255 51 }
 	color_ui = rgb { 255 255 51 }
 }
-PLC_UNIFIED = {
+PLCW = {
 	color = rgb { 255 125 160 }
 	color_ui = rgb { 255 125 160 }
 }
-UNL = {
+UNDL = {
 	color = rgb { 255 128 0 }
 	color_ui = rgb { 255 128 0 }
 }
-USC_UNIFIED = {
+USCA = {
 	color = rgb { 103 204 255 }
 	color_ui = rgb { 103 204 255 }
 }
@@ -718,44 +718,44 @@ BALT = {
 	color = rgb { 0 102 102 }
 	color_ui = rgb { 0 102 102 }
 }
-OTT_UNIFIED = {
+OTTO = {
 	#color = rgb { 178 255 102 }
 	color = rgb { 99 20 17 }
 	color_ui = rgb { 99 20 17 }
 }
-EUR_UNIFIED = {
+EURO = {
 	color = rgb { 0 51 153 }
 	color_ui = rgb { 0 51 153 }
 }
-MUT_UNIFIED = {
+MUTA = {
 	color = rgb { 153 153 0 }
 	color_ui = rgb { 153 153 0 }
 }
-SPQR_UNIFIED = {
+SPQR = {
 	color = rgb { 153 0 0 }
 	color_ui = rgb { 153 0 0 }
 }
-PER_UNIFIED = {
+PERS = {
 	color = rgb { 255 215 0 }
 	color_ui = rgb { 255 215 0 }
 }
-BYZ_UNIFIED = {
+BYZA = {
 	color = rgb { 143 12 125 }
 	color_ui = rgb { 143 12 125 }
 }
-ARA_UNIFIED = {
+ARAB = {
 	color = rgb { 85 102 0 }
 	color_ui = rgb { 85 102 0 }
 }
-MAJ_UNIFIED = {
+MAJA = {
 	color = rgb { 255 51 51 }
 	color_ui = rgb { 255 51 51 }
 }
-RAT_UNIFIED = {
+RATT = {
 	color = rgb { 255 255 51 }
 	color_ui = rgb { 255 255 51 }
 }
-HRE_UNIFIED = {
+HLRE = {
 	color = rgb { 128 128 128 }
 	color_ui = rgb { 128 128 128 }
 }
