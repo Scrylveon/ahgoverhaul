@@ -10,8 +10,8 @@ set_technology = {
 }
 
 set_convoys = 10
-
-
+	
+set_cosmetic_tag = KPK_SOV
 
 	set_popularities = {
         democratic =  25

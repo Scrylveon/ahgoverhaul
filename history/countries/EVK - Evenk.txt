@@ -21,6 +21,8 @@ set_popularities = {
         theocratic = 0
 
 }
+	
+set_cosmetic_tag = EVK_SOV
 
 set_politics = {
 	

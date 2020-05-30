@@ -1,3 +1,7 @@
+CAT_SPR = {
+	color = rgb { 224 198 94 }
+	color_ui = rgb { 224 198 94 }
+}
 TUN_FRA = {
 	color = rgb { 37 72 155 }
 	color_ui = rgb { 37 72 155 }
@@ -698,7 +702,7 @@ NORD = {
 	color = rgb { 0 76 153 }
 	color_ui = rgb { 0 76 153 }
 }
-GCO; = {
+GCOL = {
 	color = rgb { 255 255 51 }
 	color_ui = rgb { 255 255 51 }
 }
@@ -1257,6 +1261,16 @@ RUS_SOV = {
 }
 
 BML_SOV = {
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 125 13 24 }
+}
+
+KPK_SOV = {
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 125 13 24 }
+}
+
+VGR_SOV = {
 	color = rgb { 125 13 24 }
 	color_ui = rgb { 125 13 24 }
 }

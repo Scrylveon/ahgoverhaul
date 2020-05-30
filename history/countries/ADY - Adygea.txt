@@ -10,6 +10,8 @@ set_technology = {
 }
 
 
+set_cosmetic_tag = ADY_SOV
+
 set_convoys = 10
 
 

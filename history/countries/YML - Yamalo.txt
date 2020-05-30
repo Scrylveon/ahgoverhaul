@@ -18,7 +18,7 @@ set_technology = {
 	transport = 1
 }
 
-
+set_cosmetic_tag = YML_SOV
 
 	set_popularities = {
 		democratic 

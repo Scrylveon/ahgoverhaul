@@ -19,6 +19,8 @@ set_popularities = {
         neutrality = 70
 
 }
+	
+set_cosmetic_tag = JAO_SOV
 
 set_politics = {
 	

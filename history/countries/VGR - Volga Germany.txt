@@ -10,6 +10,8 @@ set_popularities = {
         fascism = 5
 
 }
+	
+set_cosmetic_tag = VGR_SOV
 
 set_politics = {
 	

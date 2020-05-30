@@ -22,6 +22,8 @@ set_convoys = 10
 
 	}
 	
+set_cosmetic_tag = KRC_SOV
+	
 	set_politics = { 
  ruling_party = vanguardism
 	last_election = "1936.1.1"

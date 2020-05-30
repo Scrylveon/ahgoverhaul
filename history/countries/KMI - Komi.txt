@@ -21,6 +21,8 @@ set_popularities = {
         neutrality = 55
 
 }
+	
+set_cosmetic_tag = KMI_SOV
 
 set_politics = {
 	
