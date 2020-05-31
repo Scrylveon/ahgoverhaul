@@ -1410,15 +1410,6 @@ do_italian_renames = {
 			name = "Pola"
 		}
 	}
-	if = {
-		limit = {
-			state = 838
-		}		
-		set_province_name = {
-			id = 9909
-			name = "Nizza"
-		}
-	}
 		
 	if = {
 		limit = {
@@ -1774,6 +1765,127 @@ do_italian_renames = {
 			state = 1775
 		}		
 		set_state_name = Tangeri
+	}
+
+	if = {
+		limit = {
+			state = 7371
+		}		
+		set_province_name = {
+			id = 9627
+			name = "Lubiana"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 109
+		}		
+		set_province_name = {
+			id = 11581
+			name = "Zagrabia"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1232
+		}		
+		set_province_name = {
+			id = 3924
+			name = "Spalato"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 107
+		}		
+		set_province_name = {
+			id = 11586
+			name = "Belgrado"
+		}
+	}
+
+
+	if = {
+		limit = {
+			state = 816
+		}		
+		set_province_name = {
+			id = 11887
+			name = "Naisso"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 212
+		}		
+		set_province_name = {
+			id = 6923
+			name = "Filippopoli"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 46
+		}		
+		set_province_name = {
+			id = 9617
+			name = "Bucarest"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5343
+		}		
+		set_province_name = {
+			id = 9635
+			name = "Constanza"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1218
+		}		
+		set_province_name = {
+			id = 3696
+			name = "Gran Varadino"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4390
+		}		
+		set_province_name = {
+			id = 11818
+			name = "Salonicco"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1123
+		}		
+		set_province_name = {
+			id = 9620
+			name = "Berna"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 151
+		}		
+		set_province_name = {
+			id = 663
+			name = "Zurigo"
+		}
 	}
 }
 do_portuguese_renames = {
