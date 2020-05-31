@@ -140,6 +140,56 @@ do_german_renames = {
 
 	if = {
 		limit = {
+			state = 1385
+		}		
+		set_province_name = {
+			id = 13424
+			name = "Wien"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1110
+		}		
+		set_province_name = {
+			id = 732
+			name = "Linz"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 794
+		}		
+		set_province_name = {
+			id = 9648
+			name = "Graz"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 795
+		}		
+		set_province_name = {
+			id = 688
+			name = "Salzburg"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5171
+		}		
+		set_province_name = {
+			id = 673
+			name = "Innsbruck"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 765
 		}		
 		set_province_name = {
@@ -1111,11 +1161,221 @@ do_latin_renames = {
 
 	if = {
 		limit = {
+			state = 1217
+		}		
+		set_province_name = {
+			id = 6711
+			name = "Claudiopolis"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 154
+		}		
+		set_province_name = {
+			id = 11659
+			name = "Debrecinum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 800
+		}		
+		set_province_name = {
+			id = 11610
+			name = "Quinque Ecclesiae"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5610
+		}		
+		set_province_name = {
+			id = 9660
+			name = "Budapestinium"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1385
+		}		
+		set_province_name = {
+			id = 13424
+			name = "Vindobona"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1110
+		}		
+		set_province_name = {
+			id = 732
+			name = "Lentia"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 794
+		}		
+		set_province_name = {
+			id = 9648
+			name = "Graecium"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 795
+		}		
+		set_province_name = {
+			id = 688
+			name = "Salisburgum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 341
+		}		
+		set_province_name = {
+			id = 9833
+			name = "Constantinopolis"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5171
+		}		
+		set_province_name = {
+			id = 673
+			name = "Pons Aeni"
+		}
+	}
+
+
+	if = {
+		limit = {
+			state = 1231
+		}		
+		set_province_name = {
+			id = 9783
+			name = "Odessus"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 212
+		}		
+		set_province_name = {
+			id = 6923
+			name = "Philippopolis"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 48
+		}		
+		set_province_name = {
+			id = 949
+			name = "Serdica"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 816
+		}		
+		set_province_name = {
+			id = 11887
+			name = "Naissus"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2264
+		}		
+		set_province_name = {
+			id = 13857
+			name = "Breucus"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2263
+		}		
+		set_province_name = {
+			id = 11741
+			name = "Seraium Orientis"
+		}
+	}
+	if = {
+		limit = {
+			state = 2267
+		}		
+		set_province_name = {
+			id = 11899
+			name = "Seraium"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2176
+		}		
+		set_province_name = {
+			id = 11572
+			name = "Bistuae"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 109
+		}		
+		set_province_name = {
+			id = 11581
+			name = "Zagrabia"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 164
+		}		
+		set_province_name = {
+			id = 10007
+			name = "Rhodus"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 1123
 		}		
 		set_province_name = {
 			id = 9620
 			name = "Berna"
+		}
+	}	
+
+	if = {
+		limit = {
+			state = 1312
+		}		
+		set_province_name = {
+			id = 6973
+			name = "Spedia"
 		}
 	}	
 
@@ -1181,7 +1441,7 @@ do_latin_renames = {
 
 	if = {
 		limit = {
-			state = 186
+			state = 106
 		}		
 		set_province_name = {
 			id = 3882
@@ -1801,7 +2061,7 @@ do_yugoslavian_renames = {
 
 	if = {
 		limit = {
-			state = 186
+			state = 106
 		}		
 		set_province_name = {
 			id = 3882
@@ -1978,6 +2238,16 @@ do_italian_renames = {
 
 	if = {
 		limit = {
+			state = 1312
+		}		
+		set_province_name = {
+			id = 6973
+			name = "La Spezia"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 1123
 		}		
 		set_province_name = {
@@ -1998,7 +2268,7 @@ do_italian_renames = {
 
 	if = {
 		limit = {
-			state = 186
+			state = 106
 		}		
 		set_province_name = {
 			id = 3882

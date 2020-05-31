@@ -536,6 +536,9 @@
  SPQR_democratic_DEF:0 "Res Publica Romana"
  SPQR_communism:0 "Communitas Proletariique Romani"
  SPQR_communism_DEF:0 "Communitas Proletariique Romani"
+ SPQR:0 "Senatus Popiulusque Romanus"
+ SPQR_DEF:0 "SPQR"
+ SPQR_ADJ:0 "Roman"
  
  PERS_neutrality:0 "Persia"
  PERS_fascism:0 "Persian Empire"
