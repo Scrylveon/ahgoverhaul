@@ -2736,3 +2736,179 @@ do_albanian_renames = {
 		}
 	}
 }
+
+do_latin_renames = {
+
+	if = {
+		limit = {
+			state = 3448
+		}
+		set_province_name = {
+			id = 11773
+			name = "Caralis"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1
+		}		
+		set_province_name = {
+			id = 3838
+			name = "Adjacium"
+		}
+	}
+
+
+	if = {
+		limit = {
+			state = 116
+		}		
+		set_province_name = {
+			id = 12003
+			name = "Civitas Humilissima"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 115
+		}		
+		set_province_name = {
+			id = 10074
+			name = "Panormus"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 115
+		}		
+		set_province_name = {
+			id = 4159
+			name = "Messana"
+		}
+	}
+
+
+	if = {
+		limit = {
+			state = 847
+		}		
+		set_province_name = {
+			id = 11837
+			name = "Tarentum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4927
+		}		
+		set_province_name = {
+			id = 819
+			name = "Neapolis"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4118
+		}		
+		set_province_name = {
+			id = 9907
+			name = "Florentia"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1113
+		}		
+		set_province_name = {
+			id = 6606
+			name = "Bononia"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1301
+		}		
+		set_province_name = {
+			id = 6788
+			name = "Genua"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 159
+		}		
+		set_province_name = {
+			id = 3780
+			name = "Mediolanum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5605
+		}		
+		set_province_name = {
+			id = 6780
+			name = "Augusta Taurinorum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1157
+		}		
+		set_province_name = {
+			id = 13313
+			name = "Tergeste"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 7371
+		}		
+		set_province_name = {
+			id = 9627
+			name = "Labacum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1232
+		}		
+		set_province_name = {
+			id = 3924
+			name = "Spalatum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 107
+		}		
+		set_province_name = {
+			id = 11586
+			name = "Singidunum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 816
+		}		
+		set_province_name = {
+			id = 11887
+			name = "Naissus"
+		}
+	}
+
+}

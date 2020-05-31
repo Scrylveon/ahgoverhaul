@@ -177,6 +177,15 @@ on_actions = {
 						}
 						do_portuguese_renames = yes
 					}
+
+					### VCT ###
+					if = {
+						limit = {
+							ROOT = {tag = VCT}
+						}
+						do_latin_renames = yes
+					}
+
 				}
 			}
 		}
