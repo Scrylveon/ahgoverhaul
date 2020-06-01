@@ -109,14 +109,6 @@ on_actions = {
 						do_hungarian_renames = yes
 					}
 
-					### ROM ###
-					if = {
-						limit = {
-							ROOT = {OR = { tag = ROM tag = MOL }}
-						}
-						do_romanian_renames = yes
-					}
-
 					### BUL ###
 					if = {
 						limit = {
@@ -208,9 +200,17 @@ on_actions = {
 					### IRQ ###
 					if = {
 						limit = {
-							ROOT = {OR = { tag = EGY tag = SUD tag = IRQ tag = KUW tag = PAL tag = JOR }}
+							ROOT = {OR = { tag = EGY tag = ALG tag = SGR tag = SUD tag = IRQ tag = KUW tag = PAL tag = JOR }}
 						}
 						do_iraqi_renames = yes
+					}
+
+					### ROM ###
+					if = {
+						limit = {
+							ROOT = {OR = { tag = ROM tag = MOL }}
+						}
+						do_romanian_renames = yes
 					}
 			}
 		}
