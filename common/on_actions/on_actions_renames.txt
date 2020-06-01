@@ -71,7 +71,8 @@ on_actions = {
 					### FRA ###
 					if = {
 						limit = {
-							ROOT = {tag = FRA}
+							ROOT = {OR = {tag = FRA
+								  		  is_subject_of = FRA}}
 						}
 						do_french_renames = yes
 					}
@@ -111,7 +112,7 @@ on_actions = {
 					### ROM ###
 					if = {
 						limit = {
-							ROOT = {tag = ROM}
+							ROOT = {OR = { tag = ROM tag = MOL }}
 						}
 						do_romanian_renames = yes
 					}
@@ -186,6 +187,30 @@ on_actions = {
 							ROOT = {tag = VCT}
 						}
 						do_latin_renames = yes
+					}
+
+					### UKR ###
+					if = {
+						limit = {
+							ROOT = {tag = UKR}
+						}
+						do_ukrainian_renames = yes
+					}
+
+					### RUS ###
+					if = {
+						limit = {
+							ROOT = {OR = { tag = SOV tag = RUS }}
+						}
+						do_russian_renames = yes
+					}
+					
+					### IRQ ###
+					if = {
+						limit = {
+							ROOT = {OR = { tag = EGY tag = SUD tag = IRQ tag = KUW tag = PAL tag = JOR }}
+						}
+						do_iraqi_renames = yes
 					}
 			}
 		}

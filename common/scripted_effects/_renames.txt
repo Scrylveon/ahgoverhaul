@@ -1096,7 +1096,7 @@ do_german_renames = {
 		}		
 		set_province_name = {
 			id = 6727
-			name = "Weißenburg"
+			name = "Walachisch Weißenburg"
 		}
 	}
 	if = {
@@ -1157,7 +1157,678 @@ do_german_renames = {
 	}
 }
 
+do_ukrainian_renames = {
+
+	if = {
+		limit = {
+			state = 198
+		}		
+		set_province_name = {
+			id = 476
+			name = "Vinntcia"
+		}
+	}
+}
+
+do_russian_renames = {
+
+	if = {
+		limit = {
+			state = 2357
+		}		
+		set_province_name = {
+			id = 3686
+			name = "Sevastopol"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2482
+		}		
+		set_province_name = {
+			id = 6704
+			name = "Yalta"
+		}
+	}
+}
+
+do_iraqi_renames = {
+
+	if = {
+		limit = {
+			state = 458
+		}		
+		set_province_name = {
+			id = 11969
+			name = "Tunes"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1014
+		}		
+		set_province_name = {
+			id = 12725
+			name = "Bur Sudan"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 448
+		}		
+		set_province_name = {
+			id = 1149
+			name = "Tripoli"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 450
+		}		
+		set_province_name = {
+			id = 11954
+			name = "Benghazi"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 451
+		}		
+		set_province_name = {
+			id = 1130
+			name = "Tobruk"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 9784
+		}		
+		set_province_name = {
+			id = 1071
+			name = "El-Alamein"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 447
+		}		
+		set_province_name = {
+			id = 4076
+			name = "Al-Iskandriyya"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 446
+		}		
+		set_province_name = {
+			id = 7011
+			name = "Al-Qahirah"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1205
+		}		
+		set_province_name = {
+			id = 1086
+			name = "Jerusalem"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3382
+		}		
+		set_province_name = {
+			id = 4206
+			name = "Tel Aviv"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 455
+		}		
+		set_province_name = {
+			id = 7151
+			name = "Amman"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 656
+		}		
+		set_province_name = {
+			id = 8085
+			name = "Madiinat ul-Kuwayt"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1373
+		}		
+		set_province_name = {
+			id = 2089
+			name = "Al-Basrah"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 676
+		}		
+		set_province_name = {
+			id = 10106
+			name = "Al-Mawsil"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 291
+		}		
+		set_province_name = {
+			id = 2097
+			name = "Baghdad"
+		}
+	}
+}
 do_latin_renames = {
+
+	if = {
+		limit = {
+			state = 3425
+		}		
+		set_province_name = {
+			id = 9994
+			name = "Hippo Diarrhytus"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 458
+		}		
+		set_province_name = {
+			id = 11969
+			name = "Karthago"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1014
+		}		
+		set_province_name = {
+			id = 12725
+			name = "Portus Sudania"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 448
+		}		
+		set_province_name = {
+			id = 1149
+			name = "Tripolis"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 450
+		}		
+		set_province_name = {
+			id = 11954
+			name = "Berenice"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 451
+		}		
+		set_province_name = {
+			id = 1130
+			name = "Antipyrgus"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 9784
+		}		
+		set_province_name = {
+			id = 1071
+			name = "Duovexilla"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 447
+		}		
+		set_province_name = {
+			id = 4076
+			name = "Alexandria"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 446
+		}		
+		set_province_name = {
+			id = 7011
+			name = "Cairus"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3382
+		}		
+		set_province_name = {
+			id = 4206
+			name = "Telavivum"
+		}
+	}
+
+
+	if = {
+		limit = {
+			state = 1205
+		}		
+		set_province_name = {
+			id = 1086
+			name = "Hierosolyma"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 455
+		}		
+		set_province_name = {
+			id = 7151
+			name = "Philadelphia"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 656
+		}		
+		set_province_name = {
+			id = 8085
+			name = "Cuvaitum"
+		}
+	}
+
+
+	if = {
+		limit = {
+			state = 1373
+		}		
+		set_province_name = {
+			id = 2089
+			name = "Basra"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 676
+		}		
+		set_province_name = {
+			id = 10106
+			name = "Mausilium"
+		}
+	}
+
+
+	if = {
+		limit = {
+			state = 291
+		}		
+		set_province_name = {
+			id = 2097
+			name = "Baghdatum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1208
+		}		
+		set_province_name = {
+			id = 13352
+			name = "Caesarea Philippi"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 554
+		}		
+		set_province_name = {
+			id = 4111
+			name = "Damascus"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3362
+		}		
+		set_province_name = {
+			id = 792
+			name = "Berytus"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5698
+		}		
+		set_province_name = {
+			id = 12473
+			name = "Aleppo"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 898
+		}		
+		set_province_name = {
+			id = 12029
+			name = "Antioch ad Orontem"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 354
+		}		
+		set_province_name = {
+			id = 9932
+			name = "Trapezus"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 49
+		}		
+		set_province_name = {
+			id = 11747
+			name = "Ancyra"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 346
+		}		
+		set_province_name = {
+			id = 940
+			name = "Iconium"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 347
+		}		
+		set_province_name = {
+			id = 890
+			name = "Prusias ad Hypium"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 340
+		}		
+		set_province_name = {
+			id = 947
+			name = "Prusa"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1077
+		}		
+		set_province_name = {
+			id = 1005
+			name = "Attalea"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 829
+		}		
+		set_province_name = {
+			id = 4112
+			name = "Smyrna"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 198
+		}		
+		set_province_name = {
+			id = 476
+			name = "Vinnicia"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2482
+		}		
+		set_province_name = {
+			id = 6704
+			name = "Ialta"
+		}
+	}
+
+
+	if = {
+		limit = {
+			state = 2357
+		}		
+		set_province_name = {
+			id = 3686
+			name = "Sebastopolis"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 791
+		}		
+		set_province_name = {
+			id = 6727
+			name = "Bialogroda"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 192
+		}		
+		set_province_name = {
+			id = 11670
+			name = "Istrianorum portus"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 790
+		}		
+		set_province_name = {
+			id = 13220
+			name = "Tiraspolis"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 78
+		}		
+		set_province_name = {
+			id = 3707
+			name = "Chisinovia"
+		}
+	}
+	if = {
+		limit = {
+			state = 3472
+		}		
+		set_province_name = {
+			id = 9716
+			name = "Iassium"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 79
+		}		
+		set_province_name = {
+			id = 6706
+			name = "Galatzium"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5343
+		}		
+		set_province_name = {
+			id = 9635
+			name = "Constantia"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 80
+		}		
+		set_province_name = {
+			id = 9548
+			name = "Czernowicum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 84
+		}		
+		set_province_name = {
+			id = 690
+			name = "Corona"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 76
+		}		
+		set_province_name = {
+			id = 9670
+			name = "Novum Forum Siculorum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3615
+		}		
+		set_province_name = {
+			id = 3663
+			name = "Ploiestum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 46
+		}		
+		set_province_name = {
+			id = 9617
+			name = "Bucaresta"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1216
+		}		
+		set_province_name = {
+			id = 3665
+			name = "Hunnopolis"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 81
+		}		
+		set_province_name = {
+			id = 6652
+			name = "Palendava"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2272
+		}		
+		set_province_name = {
+			id = 9606
+			name = "Timisvaria"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 83
+		}		
+		set_province_name = {
+			id = 6682
+			name = "Aradinum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1218
+		}		
+		set_province_name = {
+			id = 3696
+			name = "Varadinum"
+		}
+	}
 
 	if = {
 		limit = {
@@ -1245,7 +1916,7 @@ do_latin_renames = {
 		}		
 		set_province_name = {
 			id = 9833
-			name = "Constantinopolis"
+			name = "Byzantium"
 		}
 	}
 
@@ -2888,6 +3559,67 @@ do_french_renames = {
 
 	if = {
 		limit = {
+			state = 3425
+		}		
+		set_province_name = {
+			id = 9994
+			name = "Bizerte"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1208
+		}		
+		set_province_name = {
+			id = 13352
+			name = "Qatsrin"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 554
+		}		
+		set_province_name = {
+			id = 4111
+			name = "Damas"
+		}
+	}
+
+
+	if = {
+		limit = {
+			state = 3362
+		}		
+		set_province_name = {
+			id = 792
+			name = "Beyrouth"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5698
+		}		
+		set_province_name = {
+			id = 12473
+			name = "Antakya"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 898
+		}		
+		set_province_name = {
+			id = 12029
+			name = "Antakya"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 151
 		}		
 		set_province_name = {
@@ -3404,6 +4136,35 @@ do_hungarian_renames = {
 	}
 }
 do_romanian_renames = {
+
+	if = {
+		limit = {
+			state = 192
+		}		
+		set_province_name = {
+			id = 11670
+			name = "Odessa"
+		}
+
+	if = {
+		limit = {
+			state = 790
+		}		
+		set_province_name = {
+			id = 13220
+			name = "Tiraspol"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 83
+		}		
+		set_province_name = {
+			id = 6682
+			name = "Arad"
+		}
+	}
 	if = {
 		limit = {
 			state = 2058
@@ -3646,6 +4407,97 @@ do_greek_renames = {
 }
 
 do_turkish_renames = {
+
+	if = {
+		limit = {
+			state = 5698
+		}		
+		set_province_name = {
+			id = 12473
+			name = "Alep"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 898
+		}		
+		set_province_name = {
+			id = 12029
+			name = "Antakya"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 354
+		}		
+		set_province_name = {
+			id = 9932
+			name = "Trabzon"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 49
+		}		
+		set_province_name = {
+			id = 11747
+			name = "Ankara"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 346
+		}		
+		set_province_name = {
+			id = 940
+			name = "Konya"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 347
+		}		
+		set_province_name = {
+			id = 890
+			name = "Düzce"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 340
+		}		
+		set_province_name = {
+			id = 947
+			name = "Bursa"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1077
+		}		
+		set_province_name = {
+			id = 1005
+			name = "Antalya"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 829
+		}		
+		set_province_name = {
+			id = 4112
+			name = "Izmir"
+		}
+	}
+	
 	if = {
 		limit = {
 			state = 341
