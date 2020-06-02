@@ -6,6 +6,7 @@ state={
 	}
 	history={
 	    owner = NFL
+        add_core_of = LBD
         add_core_of = NFL
     }	
 	manpower = 1000

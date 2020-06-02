@@ -10,6 +10,7 @@ state={
 
 	history={
 		owner = CAN
+		add_core_of = NBK
 		add_core_of = CAN
 		buildings = {
 			infrastructure = 1

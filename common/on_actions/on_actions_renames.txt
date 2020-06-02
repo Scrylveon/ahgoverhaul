@@ -181,6 +181,14 @@ on_actions = {
 						do_latin_renames = yes
 					}
 
+					### PER ###
+					if = {
+						limit = {
+							ROOT = {tag = PER}
+						}
+						do_persian_renames = yes
+					}
+
 					### UKR ###
 					if = {
 						limit = {
@@ -192,7 +200,7 @@ on_actions = {
 					### RUS ###
 					if = {
 						limit = {
-							ROOT = {OR = { tag = SOV tag = RUS }}
+							ROOT = {OR = { tag = SOV tag = RUS tag = ADJ tag = ABK tag = TSC tag = SOS}}
 						}
 						do_russian_renames = yes
 					}
@@ -211,6 +219,14 @@ on_actions = {
 							ROOT = {OR = { tag = ROM tag = MOL }}
 						}
 						do_romanian_renames = yes
+					}
+
+					### ENG ###
+					if = {
+						limit = {
+							ROOT = {tag = ENG}
+						}
+						do_english_renames = yes
 					}
 			}
 		}

@@ -200,6 +200,86 @@ do_german_renames = {
 
 	if = {
 		limit = {
+			state = 3338
+		}		
+		set_province_name = {
+			id = 587
+			name = "Köln"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 51
+		}		
+		set_province_name = {
+			id = 3547
+			name = "Bonn"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 770
+		}		
+		set_province_name = {
+			id = 11435
+			name = "Bitburg"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1416
+		}		
+		set_province_name = {
+			id = 11560
+			name = "Mainz"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 769
+		}		
+		set_province_name = {
+			id = 11531
+			name = "Saarbrücken"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 50
+		}		
+		set_province_name = {
+			id = 11499
+			name = "Ulm"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5127
+		}		
+		set_province_name = {
+			id = 9517
+			name = "Stuttgart"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 52
+		}		
+		set_province_name = {
+			id = 692
+			name = "München"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 1385
 		}		
 		set_province_name = {
@@ -1234,6 +1314,66 @@ do_russian_renames = {
 
 	if = {
 		limit = {
+			state = 9880
+		}		
+		set_province_name = {
+			id = 1599
+			name = "Tbilisi"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2358
+		}		
+		set_province_name = {
+			id = 12320
+			name = "Yerevan"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 229
+		}		
+		set_province_name = {
+			id = 7661
+			name = "Baku"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 949
+		}		
+		set_province_name = {
+			id = 1530
+			name = "Staloniri"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 950
+		}		
+		set_province_name = {
+			id = 11599
+			name = "Aqwa"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1259
+		}		
+		set_province_name = {
+			id = 13317
+			name = "Batumi"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 2357
 		}		
 		set_province_name = {
@@ -1254,6 +1394,26 @@ do_russian_renames = {
 }
 
 do_iraqi_renames = {
+
+	if = {
+		limit = {
+			state = 894
+		}		
+		set_province_name = {
+			id = 8051
+			name = "Ad-Dawhah"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 893
+		}		
+		set_province_name = {
+			id = 13208
+			name = "Al-Manamah"
+		}
+	}
 
 	if = {
 		limit = {
@@ -1415,7 +1575,813 @@ do_iraqi_renames = {
 		}
 	}
 }
+
+do_persian_names = {
+
+	if = {
+		limit = {
+			state = 413
+		}		
+		set_province_name = {
+			id = 7953
+			name = "Ahvaz"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 419
+		}		
+		set_province_name = {
+			id = 1896
+			name = "Tabriz"
+		}
+	}
+
+}
+
+do_english_renames = {
+
+	if = {
+		limit = {
+			state = 4939
+		}		
+		set_province_name = {
+			id = 11253
+			name = "Norwich"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1835
+		}		
+		set_province_name = {
+			id = 377
+			name = "Cardiff"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2188
+		}		
+		set_province_name = {
+			id = 13471
+			name = "London"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 986
+		}		
+		set_province_name = {
+			id = 540
+			name = "Plymouth"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 338
+		}		
+		set_province_name = {
+			id = 3369
+			name = "Bristol"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1838
+		}		
+		set_province_name = {
+			id = 6363
+			name = "Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 132
+		}		
+		set_province_name = {
+			id = 6318
+			name = "Manchester"
+		}	
+		set_province_name = {
+			id = 6384
+			name = "Liverpool"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 130
+		}		
+		set_province_name = {
+			id = 11297
+			name = "Hull"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3170
+		}		
+		set_province_name = {
+			id = 9297
+			name = "Birmingham"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4951
+		}		
+		set_province_name = {
+			id = 9379
+			name = "Leeds"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 131
+		}		
+		set_province_name = {
+			id = 351
+			name = "Newcastle upon Tyne"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 121
+		}		
+		set_province_name = {
+			id = 9392
+			name = "Edinburgh"
+		}
+	}
+}
+
 do_latin_renames = {
+
+	if = {
+		limit = {
+			state = 121
+		}		
+		set_province_name = {
+			id = 9392
+			name = "Edinburgum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 131
+		}		
+		set_province_name = {
+			id = 351
+			name = "Novum Castellum super Tinam"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 130
+		}		
+		set_province_name = {
+			id = 11297
+			name = "Kingstonium ad Hullum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4951
+		}		
+		set_province_name = {
+			id = 9379
+			name = "Ledesia"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 132
+		}		
+		set_province_name = {
+			id = 6318
+			name = "Mancunium"
+		}	
+		set_province_name = {
+			id = 6384
+			name = "Liverpolium"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3170
+		}		
+		set_province_name = {
+			id = 9297
+			name = "Birminghamia"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1838
+		}		
+		set_province_name = {
+			id = 6363
+			name = "Sanctae-Mariae-in-Ecesia-de-Albo-hie-Corylis-Mixtas-Super-Piscinam-in-Gogo-in-Stagnum-Sancti-Tysilio"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1835
+		}		
+		set_province_name = {
+			id = 377
+			name = "Cardiffa"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 338
+		}		
+		set_province_name = {
+			id = 3369
+			name = "Bristolium"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4939
+		}		
+		set_province_name = {
+			id = 11253
+			name = "Nordovicum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2188
+		}		
+		set_province_name = {
+			id = 13471
+			name = "Londonium"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 986
+		}		
+		set_province_name = {
+			id = 540
+			name = "Plimmuta"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 894
+		}		
+		set_province_name = {
+			id = 8051
+			name = "Catura"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 893
+		}		
+		set_province_name = {
+			id = 13208
+			name = "Tylos"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 413
+		}		
+		set_province_name = {
+			id = 7953
+			name = "Aginis"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 419
+		}		
+		set_province_name = {
+			id = 1896
+			name = "Tauris"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 9880
+		}		
+		set_province_name = {
+			id = 1599
+			name = "Tiphlis"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2358
+		}		
+		set_province_name = {
+			id = 12320
+			name = "Erevanum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 229
+		}		
+		set_province_name = {
+			id = 7661
+			name = "Bacua"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 949
+		}		
+		set_province_name = {
+			id = 1530
+			name = "Schinuvalium"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 950
+		}		
+		set_province_name = {
+			id = 11599
+			name = "Dioscurias"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1259
+		}		
+		set_province_name = {
+			id = 13317
+			name = "Bathus"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3338
+		}		
+		set_province_name = {
+			id = 587
+			name = "Colonia Claudia Ara Agrippinensium"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 51
+		}		
+		set_province_name = {
+			id = 3547
+			name = "Bonna"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 770
+		}		
+		set_province_name = {
+			id = 11435
+			name = "Vicus Beda"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1416
+		}		
+		set_province_name = {
+			id = 11560
+			name = "Mogontiacum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 769
+		}		
+		set_province_name = {
+			id = 11531
+			name = "Saravipons"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 50
+		}		
+		set_province_name = {
+			id = 11499
+			name = "Ulma"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5127
+		}		
+		set_province_name = {
+			id = 9517
+			name = "Stutgardia"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 52
+		}		
+		set_province_name = {
+			id = 692
+			name = "Monachium"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 36
+		}		
+		set_province_name = {
+			id = 9335
+			name = "Dongeradilia"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2475
+		}		
+		set_province_name = {
+			id = 391
+			name = "Amstelodamum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2474
+		}		
+		set_province_name = {
+			id = 3211
+			name = "Haga"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 786
+		}		
+		set_province_name = {
+			id = 9498
+			name = "Roterodamum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 785
+		}		
+		set_province_name = {
+			id = 11456
+			name = "Noviomagus Batavorum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 35
+		}		
+		set_province_name = {
+			id = 6496
+			name = "Eindhovia"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2092
+		}		
+		set_province_name = {
+			id = 6598
+			name = "Antverpia"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 781
+		}		
+		set_province_name = {
+			id = 6560
+			name = "Gandavum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 6
+		}		
+		set_province_name = {
+			id = 516
+			name = "Bruxellae"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2453
+		}		
+		set_province_name = {
+			id = 3516
+			name = "Namurcum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2096
+		}		
+		set_province_name = {
+			id = 11519
+			name = "Leodium"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 780
+		}		
+		set_province_name = {
+			id = 11407
+			name = "Bastonia"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 8
+		}		
+		set_province_name = {
+			id = 6583
+			name = "Luxemburgum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1744
+		}		
+		set_province_name = {
+			id = 575
+			name = "Dunquerca"
+		}
+	}
+
+    if = {
+		limit = {
+			state = 1747
+		}		
+		set_province_name = {
+			id = 11483
+			name = "Insulae"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1746
+		}		
+		set_province_name = {
+			id = 11548
+			name = "Calesium"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5129
+		}		
+		set_province_name = {
+			id = 678
+			name = "Mulhusia"
+		}
+	}		
+
+	if = {
+		limit = {
+			state = 5359
+		}		
+		set_province_name = {
+			id = 9503
+			name = "Argentoratum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 831
+		}		
+		set_province_name = {
+			id = 11516
+			name = "Nanceium"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 836
+		}		
+		set_province_name = {
+			id = 6545
+			name = "Virodunum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5392
+		}		
+		set_province_name = {
+			id = 13011
+			name = "Durocortorum Remorum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 834
+		}		
+		set_province_name = {
+			id = 9561
+			name = "Sumina"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 16
+		}		
+		set_province_name = {
+			id = 11506
+			name = "Lutetia"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 8422
+		}		
+		set_province_name = {
+			id = 11563
+			name = "Rothomagus"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5365
+		}		
+		set_province_name = {
+			id = 9434
+			name = "Fransiscopolis"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5363
+		}		
+		set_province_name = {
+			id = 6449
+			name = "Coriallum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5632
+		}		
+		set_province_name = {
+			id = 3552
+			name = "Brestia"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 14
+		}		
+		set_province_name = {
+			id = 6536
+			name = "Oriens"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5054
+		}		
+		set_province_name = {
+			id = 9495
+			name = "Condate Redonum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1486
+		}		
+		set_province_name = {
+			id = 11465
+			name = "Portus Namnetum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5049
+		}		
+		set_province_name = {
+			id = 9490
+			name = "Augustobona Tricassium"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 24
+		}		
+		set_province_name = {
+			id = 512
+			name = "Aurelianum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1910
+		}		
+		set_province_name = {
+			id = 3671
+			name = "Turonum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1757
+		}		
+		set_province_name = {
+			id = 3652
+			name = "Divio"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5577
+		}		
+		set_province_name = {
+			id = 9642
+			name = "Vesuntio"
+		}
+	}
 
 	if = {
 		limit = {
@@ -3339,6 +4305,16 @@ do_italian_renames = {
 
 	if = {
 		limit = {
+			state = 16
+		}		
+		set_province_name = {
+			id = 11506
+			name = "Parigi"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 1312
 		}		
 		set_province_name = {
@@ -4009,6 +4985,106 @@ do_french_renames = {
 
 	if = {
 		limit = {
+			state = 834
+		}		
+		set_province_name = {
+			id = 9561
+			name = "Y"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 16
+		}		
+		set_province_name = {
+			id = 11506
+			name = "Paris"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5363
+		}		
+		set_province_name = {
+			id = 6449
+			name = "Cherbourg"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5632
+		}		
+		set_province_name = {
+			id = 3552
+			name = "Brest"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 14
+		}		
+		set_province_name = {
+			id = 6536
+			name = "Lorient"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1486
+		}		
+		set_province_name = {
+			id = 11465
+			name = "Nantes"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5054
+		}		
+		set_province_name = {
+			id = 9495
+			name = "Rennes"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5049
+		}		
+		set_province_name = {
+			id = 9490
+			name = "Troyes"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 24
+		}		
+		set_province_name = {
+			id = 512
+			name = "Orléans"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1910
+		}		
+		set_province_name = {
+			id = 3671
+			name = "Tours"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 1755
 		}		
 		set_province_name = {
@@ -4419,6 +5495,16 @@ do_french_renames = {
 	}
 }
 do_luxembourgish_renames = {
+
+	if = {
+		limit = {
+			state = 770
+		}		
+		set_province_name = {
+			id = 11435
+			name = "Béibreg"
+		}
+	}
 	if = {
 		limit = {
 			state = 8
@@ -4439,6 +5525,57 @@ do_luxembourgish_renames = {
 	}
 }
 do_dutch_renames = {
+
+	if = {
+		limit = {
+			state = 36
+		}		
+		set_province_name = {
+			id = 9335
+			name = "Ee"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2475
+		}		
+		set_province_name = {
+			id = 391
+			name = "Amsterdam"
+		}
+	}
+
+
+	if = {
+		limit = {
+			state = 786
+		}		
+		set_province_name = {
+			id = 9498
+			name = "Rotterdam"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 35
+		}		
+		set_province_name = {
+			id = 6496
+			name = "Eindhoven"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 16
+		}		
+		set_province_name = {
+			id = 11506
+			name = "Parijs"
+		}
+	}
 	if = {
 		limit = {
 			state = 785

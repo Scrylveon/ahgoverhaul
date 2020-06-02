@@ -5,6 +5,7 @@ state={
 		owner = SPM 
 		add_core_of = CAN
 		add_core_of = SPM
+        add_core_of = NFL
 		buildings = {
 			infrastructure = 4
 			
