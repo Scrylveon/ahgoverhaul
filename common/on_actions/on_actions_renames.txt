@@ -15,7 +15,8 @@ on_actions = {
 										  tag = SWI
 								  		  is_subject_of = SWI
 										  tag = AUS
-										  is_subject_of = AUS}}										
+										  is_subject_of = AUS
+										  tag = DAN}}										
 						}
 						do_german_renames = yes
 					}
@@ -63,7 +64,7 @@ on_actions = {
 					### YUG ###
 					if = {
 						limit = {
-							ROOT = {tag = YUG}
+							ROOT = {OR = { tag = YUG tag = SER tag = CRO tag = SLV tag = BOS tag = KOS tag = MNT tag = MAC }}
 						}
 						do_yugoslavian_renames = yes
 					}
@@ -227,6 +228,14 @@ on_actions = {
 							ROOT = {tag = ENG}
 						}
 						do_english_renames = yes
+					}
+
+					### BLR ###
+					if = {
+						limit = {
+							ROOT = {tag = BLR}
+						}
+						do_belarussian_renames = yes
 					}
 			}
 		}
