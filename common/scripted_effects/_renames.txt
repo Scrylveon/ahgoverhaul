@@ -200,6 +200,56 @@ do_german_renames = {
 
 	if = {
 		limit = {
+			state = 776
+		}		
+		set_province_name = {
+			id = 317
+			name = "Flensburg"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1128
+		}		
+		set_province_name = {
+			id = 9347
+			name = "Hamburg"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1777
+		}		
+		set_province_name = {
+			id = 3326
+			name = "Bremen"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1242
+		}		
+		set_province_name = {
+			id = 13280
+			name = "Helgoland"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1344
+		}		
+		set_province_name = {
+			id = 241
+			name = "Wilhelmshaven"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 1222
 		}		
 		set_province_name = {
@@ -1352,7 +1402,7 @@ do_german_renames = {
 		}		
 		set_province_name = {
 			id = 9914
-			name = "Tirana"
+			name = "Tírana"
 		}
 	}
 }
@@ -3072,7 +3122,7 @@ do_latin_renames = {
 		}		
 		set_province_name = {
 			id = 9932
-			name = "Trapezus"
+			name = "Trapezúnda"
 		}
 	}
 
@@ -3122,7 +3172,7 @@ do_latin_renames = {
 		}		
 		set_province_name = {
 			id = 1005
-			name = "Attalea"
+			name = "Attáleia"
 		}
 	}
 
@@ -3436,7 +3486,6 @@ do_latin_renames = {
 		}
 	}
 
-
 	if = {
 		limit = {
 			state = 1231
@@ -3473,7 +3522,7 @@ do_latin_renames = {
 		}		
 		set_province_name = {
 			id = 11887
-			name = "Naissus"
+			name = "Naïssós"
 		}
 	}
 
@@ -3770,7 +3819,7 @@ do_latin_renames = {
 		}
 		set_province_name = {
 			id = 11846
-			name = "Antium"
+			name = "Ántsio"
 		}
 	}
 
@@ -3814,7 +3863,6 @@ do_latin_renames = {
 			name = "Messana"
 		}
 	}
-
 
 	if = {
 		limit = {
@@ -4020,7 +4068,7 @@ do_polish_renames = {
 		}		
 		set_province_name = {
 			id = 6558
-			name = "Poznan"
+			name = "Poznań"
 		}
 	}
 	if = {
@@ -4534,6 +4582,26 @@ do_yugoslavian_renames = {
 	}
 }
 do_italian_renames = {
+		
+	if = {
+		limit = {
+			state = 4114
+		}		
+		set_province_name = {
+			id = 6606
+			name = "Bologna"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3448
+		}
+		set_province_name = {
+			id = 11773
+			name = "Cagliari"
+		}
+	}
 
 	if = {
 		limit = {
@@ -4718,7 +4786,7 @@ do_italian_renames = {
 		}		
 		set_province_name = {
 			id = 11837
-			name = "Taranto"
+			name = "Tárantas"
 		}
 	}
 		
@@ -5214,6 +5282,206 @@ do_catalonian_renames = {
 	}
 }
 do_french_renames = {
+		
+	if = {
+		limit = {
+			state = 4114
+		}		
+		set_province_name = {
+			id = 6606
+			name = "Bologne"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 162
+		}		
+		set_province_name = {
+			id = 11833
+			name = "Livourne"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 4118
+		}		
+		set_province_name = {
+			id = 9907
+			name = "Florence"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 159
+		}		
+		set_province_name = {
+			id = 3780
+			name = "Milano"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3448
+		}
+		set_province_name = {
+			id = 11773
+			name = "Cagliari"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 1301
+		}		
+		set_province_name = {
+			id = 6788
+			name = "Gênes"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 5605
+		}		
+		set_province_name = {
+			id = 6780
+			name = "Turin"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 165
+		}		
+		set_province_name = {
+			id = 9764
+			name = "Barcelone"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 763
+		}		
+		set_province_name = {
+			id = 13213
+			name = "Andorre-la-Vieille"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 776
+		}		
+		set_province_name = {
+			id = 317
+			name = "Flensbourg"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1128
+		}		
+		set_province_name = {
+			id = 9347
+			name = "Hambourg"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1777
+		}		
+		set_province_name = {
+			id = 3326
+			name = "Brême"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1242
+		}		
+		set_province_name = {
+			id = 13280
+			name = "Heligoland"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1344
+		}		
+		set_province_name = {
+			id = 241
+			name = "Port de Guillaume"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 785
+		}		
+		set_province_name = {
+			id = 11456
+			name = "Nimègue"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2474
+		}		
+		set_province_name = {
+			id = 3211
+			name = "La Haye"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3338
+		}		
+		set_province_name = {
+			id = 587
+			name = "Cologne"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1416
+		}		
+		set_province_name = {
+			id = 11560
+			name = "Mayence"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 770
+		}		
+		set_province_name = {
+			id = 11435
+			name = "Bitbourg"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 769
+		}		
+		set_province_name = {
+			id = 11531
+			name = "Sarrebruck"
+		}
+	}
 
 	if = {
 		limit = {
@@ -5528,7 +5796,7 @@ do_french_renames = {
 		}		
 		set_province_name = {
 			id = 3516
-			name = "Nameur"
+			name = "Namur"
 		}
 	}
 	if = {
@@ -6193,7 +6461,7 @@ do_bulgarian_renames = {
 		}		
 		set_province_name = {
 			id = 6923
-			name = "Plovdiv"
+			name = "Filippúpoli"
 		}
 	}
 	if = {
@@ -6227,6 +6495,195 @@ do_bulgarian_renames = {
 do_greek_renames = {
 	if = {
 		limit = {
+			state = 2
+		}
+		set_province_name = {
+			id = 11846
+			name = "Ántsio"
+		}
+	}
+	if = {
+		limit = {
+			state = 847
+		}		
+		set_province_name = {
+			id = 11837
+			name = "Tárantas"
+		}
+	}
+	if = {
+		limit = {
+			state = 4927
+		}		
+		set_province_name = {
+			id = 819
+			name = "Neápolis"
+		}
+	}
+	if = {
+		limit = {
+			state = 115
+		}		
+		set_province_name = {
+			id = 10074
+			name = "Pánormos"
+		}
+	}
+	if = {
+		limit = {
+			state = 5343
+		}		
+		set_province_name = {
+			id = 9635
+			name = "Kōnstántza"
+		}
+	}
+	if = {
+		limit = {
+			state = 816
+		}		
+		set_province_name = {
+			id = 11887
+			name = "Naïssós"
+		}
+	}
+	if = {
+		limit = {
+			state = 812
+		}		
+		set_province_name = {
+			id = 13270
+			name = "Prístina"
+		}
+	}
+	if = {
+		limit = {
+			state = 44
+		}		
+		set_province_name = {
+			id = 9914
+			name = "Tírana"
+		}
+	}
+	if = {
+		limit = {
+			state = 106
+		}		
+		set_province_name = {
+			id = 3882
+			name = "Skópia"
+		}
+	}
+	if = {
+		limit = {
+			state = 48
+		}		
+		set_province_name = {
+			id = 949
+			name = "Sófia"
+		}
+	}
+	if = {
+		limit = {
+			state = 1231
+		}		
+		set_province_name = {
+			id = 9783
+			name = "Odissós"
+		}
+	}
+	if = {
+		limit = {
+			state = 212
+		}		
+		set_province_name = {
+			id = 6923
+			name = "Filippúpoli"
+		}
+	}
+	if = {
+		limit = {
+			state = 354
+		}		
+		set_province_name = {
+			id = 9932
+			name = "Trapezúnda"
+		}
+	}
+	if = {
+		limit = {
+			state = 1446
+		}		
+		set_province_name = {
+			id = 9893
+			name = "Antiócheia tou Távrou"
+		}
+	}
+	if = {
+		limit = {
+			state = 344
+		}		
+		set_province_name = {
+			id = 11746
+			name = "Ádana"
+		}
+	}
+	if = {
+		limit = {
+			state = 49
+		}		
+		set_province_name = {
+			id = 11747
+			name = "Ángyra"
+		}
+	}
+	if = {
+		limit = {
+			state = 340
+		}		
+		set_province_name = {
+			id = 947
+			name = "Prúsa"
+		}
+	}
+	if = {
+		limit = {
+			state = 346
+		}		
+		set_province_name = {
+			id = 940
+			name = "Ikónio"
+		}
+	}
+	if = {
+		limit = {
+			state = 1077
+		}		
+		set_province_name = {
+			id = 1005
+			name = "Attáleia"
+		}
+	}
+	if = {
+		limit = {
+			state = 347
+		}		
+		set_province_name = {
+			id = 890
+			name = "Ntoúztze"
+		}
+	}
+	if = {
+		limit = {
+			state = 829
+		}		
+		set_province_name = {
+			id = 4112
+			name = "Smýrni"
+		}
+	}
+	if = {
+		limit = {
 			state = 4390
 		}		
 		set_province_name = {
@@ -6252,7 +6709,6 @@ do_greek_renames = {
 			name = "Kōnstantinoúpolis"
 		}
 	}
-
 	if = {
 		limit = {
 			state = 164
@@ -6262,9 +6718,28 @@ do_greek_renames = {
 			name = "Ródos"
 		}
 	}
+	if = {
+		limit = {
+			state = 115
+		}		
+		set_province_name = {
+			id = 4159
+			name = "Messénē"
+		}
+	}
 }
 
 do_turkish_renames = {
+
+	if = {
+		limit = {
+			state = 344
+		}		
+		set_province_name = {
+			id = 11746
+			name = "Adana"
+		}
+	}
 
 	if = {
 		limit = {

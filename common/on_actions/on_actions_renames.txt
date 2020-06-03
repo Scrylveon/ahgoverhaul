@@ -157,14 +157,21 @@ on_actions = {
 						}
 						do_spanish_renames = yes
 					}
-
 					### ITA ###
-					if = {
-						limit = {
-							ROOT = {tag = ITA}
+						if = {
+							limit = {
+								ROOT = { tag = ITA }
+							}
+							do_latin_renames = yes
+							if = {
+								limit = {
+									ROOT = {
+										NOT = { has_cosmetic_tag = SPQR }
+									}
+								}
+								do_italian_renames = yes
+							}
 						}
-						do_italian_renames = yes
-					}
 
 					### POR ###
 					if = {
