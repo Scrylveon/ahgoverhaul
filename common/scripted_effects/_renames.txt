@@ -1834,6 +1834,36 @@ do_iraqi_renames = {
 
 	if = {
 		limit = {
+			state = 2215
+		}		
+		set_province_name = {
+			id = 12727
+			name = "Ar-Riyad"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 679
+		}		
+		set_province_name = {
+			id = 1923
+			name = "Al-Makkah"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3372
+		}		
+		set_province_name = {
+			id = 12758
+			name = "Al-Madinah"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 894
 		}		
 		set_province_name = {
@@ -1954,6 +1984,16 @@ do_iraqi_renames = {
 
 	if = {
 		limit = {
+			state = 1206
+		}		
+		set_province_name = {
+			id = 13351
+			name = "Nazareth"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 3382
 		}		
 		set_province_name = {
@@ -2013,7 +2053,7 @@ do_iraqi_renames = {
 	}
 }
 
-do_persian_names = {
+do_persian_renames = {
 
 	if = {
 		limit = {
@@ -6435,6 +6475,16 @@ do_catalonian_renames = {
 	}
 }
 do_french_renames = {
+
+	if = {
+		limit = {
+			state = 1458
+		}		
+		set_province_name = {
+			id = 7132
+			name = "Oran"
+		}
+	}
 		
 	if = {
 		limit = {
@@ -6804,7 +6854,6 @@ do_french_renames = {
 			name = "Damas"
 		}
 	}
-
 
 	if = {
 		limit = {
@@ -7873,7 +7922,7 @@ do_greek_renames = {
 	}
 	if = {
 		limit = {
-			state = 115
+			state = 3455
 		}		
 		set_province_name = {
 			id = 4159
@@ -7881,8 +7930,386 @@ do_greek_renames = {
 		}
 	}
 }
+do_albanian_renames = {
 
-do_turkish_renames = {
+	if = {
+		limit = {
+			state = 44
+		}
+		set_province_name = {
+			id = 9914
+			name = "Tiranë"
+		}
+	}
+}
+
+do_turkish_renames = {	
+	if = {
+		limit = {
+			state = 2357
+		}		
+		set_province_name = {
+			id = 3686
+			name = "Akyar"
+		}
+	}
+	if = {
+		limit = {
+			state = 5343
+		}		
+		set_province_name = {
+			id = 9635
+			name = "Köstence"
+		}
+	}
+	if = {
+		limit = {
+			state = 816
+		}		
+		set_province_name = {
+			id = 11887
+			name = "Niş"
+		}
+	}
+	if = {
+		limit = {
+			state = 812
+		}		
+		set_province_name = {
+			id = 13270
+			name = "Priştine"
+		}
+	}
+	if = {
+		limit = {
+			state = 106
+		}		
+		set_province_name = {
+			id = 3882
+			name = "Üsküp"
+		}
+	}
+	if = {
+		limit = {
+			state = 44
+		}
+		set_province_name = {
+			id = 9914
+			name = "Tiran"
+		}
+	}
+	if = {
+		limit = {
+			state = 212
+		}		
+		set_province_name = {
+			id = 6923
+			name = "Filibe"
+		}
+	}
+	if = {
+		limit = {
+			state = 48
+		}		
+		set_province_name = {
+			id = 949
+			name = "Sofya"
+		}
+	}
+	if = {
+		limit = {
+			state = 4390
+		}		
+		set_province_name = {
+			id = 11818
+			name = "Salanik"
+		}
+	}
+	if = {
+		limit = {
+			state = 1225
+		}		
+		set_province_name = {
+			id = 13724
+			name = "Atina"
+		}
+	}
+	if = {
+		limit = {
+			state = 182
+		}		
+		set_province_name = {
+			id = 9940
+			name = "Kandiye"
+		}
+	}
+	if = {
+		limit = {
+			state = 849
+		}		
+		set_province_name = {
+			id = 9945
+			name = "Septe"
+		}
+	}
+	if = {
+		limit = {
+			state = 2141
+		}		
+		set_province_name = {
+			id = 7069
+			name = "Kazablanka"
+		}
+	}
+	if = {
+		limit = {
+			state = 461
+		}		
+		set_province_name = {
+			id = 10070
+			name = "Rabat"
+		}
+	}
+	if = {
+		limit = {
+			state = 459
+		}		
+		set_province_name = {
+			id = 1145
+			name = "Cezayir"
+		}
+	}
+	if = {
+		limit = {
+			state = 1458
+		}		
+		set_province_name = {
+			id = 7132
+			name = "Vahran"
+		}
+	}
+	if = {
+		limit = {
+			state = 3425
+		}		
+		set_province_name = {
+			id = 9994
+			name = "Binzert"
+		}
+	}
+	if = {
+		limit = {
+			state = 458
+		}		
+		set_province_name = {
+			id = 11969
+			name = "Tunus"
+		}
+	}
+	if = {
+		limit = {
+			state = 448
+		}		
+		set_province_name = {
+			id = 1149
+			name = "Trablusgarp"
+		}
+	}
+	if = {
+		limit = {
+			state = 450
+		}		
+		set_province_name = {
+			id = 11954
+			name = "Bingazi"
+		}
+	}
+	if = {
+		limit = {
+			state = 451
+		}		
+		set_province_name = {
+			id = 1130
+			name = "Tobruk"
+		}
+	}
+	if = {
+		limit = {
+			state = 1014
+		}		
+		set_province_name = {
+			id = 12725
+			name = "Liman Sudan"
+		}
+	}
+	if = {
+		limit = {
+			state = 9784
+		}		
+		set_province_name = {
+			id = 1071
+			name = "El-Alameyn"
+		}
+	}
+	if = {
+		limit = {
+			state = 447
+		}		
+		set_province_name = {
+			id = 4076
+			name = "İskenderiye"
+		}
+	}
+	if = {
+		limit = {
+			state = 446
+		}		
+		set_province_name = {
+			id = 7011
+			name = "Kahire"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2215
+		}		
+		set_province_name = {
+			id = 12727
+			name = "Riyad"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 679
+		}		
+		set_province_name = {
+			id = 1923
+			name = "Mekke"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3372
+		}		
+		set_province_name = {
+			id = 12758
+			name = "Medine"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 893
+		}		
+		set_province_name = {
+			id = 13208
+			name = "Manama"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 894
+		}		
+		set_province_name = {
+			id = 8051
+			name = "Doha"
+		}
+	}
+
+
+	if = {
+		limit = {
+			state = 656
+		}		
+		set_province_name = {
+			id = 8085
+			name = "Kuveyt"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1205
+		}		
+		set_province_name = {
+			id = 1086
+			name = "Kudüs"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1206
+		}		
+		set_province_name = {
+			id = 13351
+			name = "Nasıra"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3362
+		}		
+		set_province_name = {
+			id = 792
+			name = "Beyrut"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1373
+		}		
+		set_province_name = {
+			id = 2089
+			name = "Basra"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 554
+		}		
+		set_province_name = {
+			id = 4111
+			name = "Dimaşk"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 291
+		}		
+		set_province_name = {
+			id = 2097
+			name = "Bağdat"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5698
+		}		
+		set_province_name = {
+			id = 12473
+			name = "Alep"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 676
+		}		
+		set_province_name = {
+			id = 10106
+			name = "Musul"
+		}
+	}
 
 	if = {
 		limit = {
@@ -7991,7 +8418,7 @@ do_turkish_renames = {
 		}		
 		set_province_name = {
 			id = 4112
-			name = "Izmir"
+			name = "İzmir"
 		}
 	}
 	
@@ -8012,18 +8439,6 @@ do_turkish_renames = {
 		set_province_name = {
 			id = 10007
 			name = "Rodos"
-		}
-	}
-}
-do_albanian_renames = {
-
-	if = {
-		limit = {
-			state = 44
-		}
-		set_province_name = {
-			id = 9914
-			name = "Tiranë"
 		}
 	}
 }

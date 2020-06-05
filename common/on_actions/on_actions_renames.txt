@@ -125,15 +125,6 @@ on_actions = {
 						}
 						do_greek_renames = yes
 					}
-
-					### TUR ###
-					if = {
-						limit = {
-							ROOT = {tag = TUR}
-						}
-						do_turkish_renames = yes
-					}
-
 					### ALB ###
 					if = {
 						limit = {
@@ -188,15 +179,6 @@ on_actions = {
 						}
 						do_latin_renames = yes
 					}
-
-					### PER ###
-					if = {
-						limit = {
-							ROOT = {tag = PER}
-						}
-						do_persian_renames = yes
-					}
-
 					### UKR ###
 					if = {
 						limit = {
@@ -243,6 +225,23 @@ on_actions = {
 							ROOT = {tag = BLR}
 						}
 						do_belarussian_renames = yes
+					}
+
+					### TUR ###
+					if = {
+						limit = {
+							ROOT = {OR = {tag = TUR
+								  		  is_subject_of = TUR}}
+						}
+						do_turkish_renames = yes
+					}
+
+					### PER ###
+					if = {
+						limit = {
+							ROOT = {tag = PER}
+						}
+						do_persian_renames = yes
 					}
 			}
 		}
