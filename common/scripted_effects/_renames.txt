@@ -200,6 +200,16 @@ do_german_renames = {
 
 	if = {
 		limit = {
+			state = 1385
+		}		
+		set_province_name = {
+			id = 13424
+			name = "Vienna"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 1135
 		}		
 		set_province_name = {
@@ -7435,6 +7445,186 @@ do_belgian_renames = {
 	}
 }
 do_hungarian_renames = {
+	if = {
+		limit = {
+			state = 1157
+		}		
+		set_province_name = {
+			id = 13313
+			name = "Trieszt"
+		}
+	}
+	if = {
+		limit = {
+			state = 736
+		}		
+		set_province_name = {
+			id = 11735
+			name = "Póla"
+		}
+	}
+	if = {
+		limit = {
+			state = 794
+		}		
+		set_province_name = {
+			id = 9648
+			name = "Grác"
+		}
+	}
+	if = {
+		limit = {
+			state = 3464
+		}		
+		set_province_name = {
+			id = 3569
+			name = "Berén"
+		}
+	}
+	if = {
+		limit = {
+			state = 1385
+		}		
+		set_province_name = {
+			id = 13424
+			name = "Bécs"
+		}
+	}
+	if = {
+		limit = {
+			state = 107
+		}		
+		set_province_name = {
+			id = 11586
+			name = "Lándorfejérvár"
+		}
+	}
+	if = {
+		limit = {
+			state = 84
+		}		
+		set_province_name = {
+			id = 690
+			name = "Brassó"
+		}
+	}
+	if = {
+		limit = {
+			state = 2058
+		}		
+		set_province_name = {
+			id = 746
+			name = "Máramarossziget"
+		}
+	}
+	if = {
+		limit = {
+			state = 1218
+		}		
+		set_province_name = {
+			id = 3696
+			name = "Nagyvárad"
+		}
+	}
+	if = {
+		limit = {
+			state = 76
+		}		
+		set_province_name = {
+			id = 9670
+			name = "Marosvásárhely"
+		}
+	}
+	if = {
+		limit = {
+			state = 1217
+		}		
+		set_province_name = {
+			id = 6711
+			name = " Kolozsvár"
+		}
+	}
+	if = {
+		limit = {
+			state = 1216
+		}		
+		set_province_name = {
+			id = 3665
+			name = "Vajdahunyad"
+		}
+	}
+	if = {
+		limit = {
+			state = 2272
+		}		
+		set_province_name = {
+			id = 9606
+			name = "Temesvár"
+		}
+	}
+	if = {
+		limit = {
+			state = 2264
+		}		
+		set_province_name = {
+			id = 13857
+			name = "Bricsko"
+		}
+	}
+	if = {
+		limit = {
+			state = 2263
+		}		
+		set_province_name = {
+			id = 11741
+			name = "Kelet-Szarajevó"
+		}
+	}
+	if = {
+		limit = {
+			state = 2267
+		}		
+		set_province_name = {
+			id = 11899
+			name = "Szarajevó"
+		}
+	}
+		if = {
+		limit = {
+			state = 1232
+		}		
+		set_province_name = {
+			id = 3924
+			name = "Spalató"
+		}
+	}
+	if = {
+		limit = {
+			state = 109
+		}		
+		set_province_name = {
+			id = 11581
+			name = "Zágráb"
+		}
+	}
+	if = {
+		limit = {
+			state = 664
+		}		
+		set_province_name = {
+			id = 6573
+			name = "Kassa"
+		}
+	}
+	if = {
+		limit = {
+			state = 2329
+		}		
+		set_province_name = {
+			id = 13854
+			name = "Poszony"
+		}
+	}
 	if = {
 		limit = {
 			state = 5610
