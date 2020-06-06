@@ -1174,7 +1174,7 @@ do_german_renames = {
 		}		
 		set_province_name = {
 			id = 9660
-			name = "Ofenpesth"
+			name = "Budapest"
 		}
 	}
 	if = {
@@ -1841,6 +1841,36 @@ do_russian_renames = {
 }
 
 do_iraqi_renames = {
+	if = {
+		limit = {
+			state = 962
+		}		
+		set_state_name = Makkah
+	}
+	if = {
+		limit = {
+			state = 294
+		}		
+		set_province_name = {
+			id = 10760
+			name = "Masqat"
+		}
+	}
+	if = {
+		limit = {
+			state = 3332
+		}		
+		set_state_name = Dubai
+	}
+	if = {
+		limit = {
+			state = 3389
+		}		
+		set_province_name = {
+			id = 7960
+			name = "Abu Zabi"
+		}
+	}
 
 	if = {
 		limit = {
@@ -5608,6 +5638,15 @@ do_estonian_renames = {
 	}
 }
 do_yugoslavian_renames = {
+	if = {
+		limit = {
+			state = 2266
+		}		
+		set_province_name = {
+			id = 11574
+			name = "Oprisavci"
+		}
+	}
 
 	if = {
 		limit = {
@@ -6484,7 +6523,22 @@ do_catalonian_renames = {
 		}
 	}
 }
-do_french_renames = {
+do_french_renames = {		
+	if = {
+		limit = {
+			state = 863
+		}		
+		set_province_name = {
+			id = 5034
+			name = "Nouakchott"
+		}
+	}	
+	if = {
+		limit = {
+			state = 268
+		}		
+		set_state_name = Djibouti
+	}
 
 	if = {
 		limit = {
@@ -7887,6 +7941,12 @@ do_bulgarian_renames = {
 do_greek_renames = {
 	if = {
 		limit = {
+			state = 183
+		}		
+		set_state_name = Lefkosia
+	}
+	if = {
+		limit = {
 			state = 2
 		}
 		set_province_name = {
@@ -8134,6 +8194,138 @@ do_albanian_renames = {
 }
 
 do_turkish_renames = {	
+	if = {
+		limit = {
+			state = 2266
+		}		
+		set_province_name = {
+			id = 11574
+			name = "Opresavçe"
+		}
+	}
+	if = {
+		limit = {
+			state = 2176
+		}		
+		set_province_name = {
+			id = 11572
+			name = "Zeniça"
+		}
+	}
+		if = {
+		limit = {
+			state = 1232
+		}		
+		set_province_name = {
+			id = 3924
+			name = "İspelet"
+		}
+	}
+	if = {
+		limit = {
+			state = 2264
+		}		
+		set_province_name = {
+			id = 13857
+			name = "Breçka"
+		}
+	}
+	if = {
+		limit = {
+			state = 7371
+		}		
+		set_province_name = {
+			id = 9627
+			name = "Lübyana"
+		}
+	}
+	if = {
+		limit = {
+			state = 2263
+		}		
+		set_province_name = {
+			id = 11741
+			name = "Doğu Saraybosna"
+		}
+	}
+	if = {
+		limit = {
+			state = 2267
+		}		
+		set_province_name = {
+			id = 11899
+			name = "Saraybosna"
+		}
+	}	
+	if = {
+		limit = {
+			state = 791
+		}		
+		set_province_name = {
+			id = 6727
+			name = "Akkerman"
+		}
+	}
+	if = {
+		limit = {
+			state = 107
+		}		
+		set_province_name = {
+			id = 11586
+			name = "Belergad"
+		}
+	}	
+	if = {
+		limit = {
+			state = 863
+		}		
+		set_province_name = {
+			id = 5034
+			name = "Nuakşot"
+		}
+	}	
+	if = {
+		limit = {
+			state = 294
+		}		
+		set_province_name = {
+			id = 10760
+			name = "Maskat"
+		}
+	}
+	if = {
+		limit = {
+			state = 3389
+		}		
+		set_province_name = {
+			id = 7960
+			name = "Abu Dabi"
+		}
+	}
+	if = {
+		limit = {
+			state = 183
+		}		
+		set_state_name = Lefkoşa
+	}
+	if = {
+		limit = {
+			state = 3332
+		}		
+		set_state_name = Dubay
+	}
+	if = {
+		limit = {
+			state = 962
+		}		
+		set_state_name = Mekke
+	}
+	if = {
+		limit = {
+			state = 268
+		}		
+		set_state_name = Cibuti
+	}
 	if = {
 		limit = {
 			state = 2357

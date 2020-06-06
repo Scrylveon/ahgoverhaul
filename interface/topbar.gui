@@ -37,17 +37,12 @@ guiTypes = {
 #			spriteType = "GFX_topbar_date_overlay"
 #			position = { x= -357 y = 0 }
 #			Orientation = "UPPER_RIGHT"
-#		}		
+#		}			
 
 		containerWindowType = {
 			name = "toggle_music_commands_win"
-			position = { x= -259 y = 39}
-			show_position = { x= -310 y = 39 }
-			show_animation_type = decelerated
-			hide_animation_type = accelerated
-			animation_time = 450
+			position = { x= -310 y = -3}
 			Orientation = upper_right	
-			clipping = no
 			size = { width=228 height=42 }
 	
 			background = {
@@ -79,7 +74,6 @@ guiTypes = {
 			}			
 				
 		}		
-				
 		iconType = {
 			name ="armyoverview_buttons_bg"
 			spriteType = "GFX_armyoverview_buttons_bg"
@@ -589,10 +583,8 @@ guiTypes = {
 		
 		buttonType = {
 			name = "playlist_button"
-			position = { x = -260 y = 3 }
+			position = { x = -175 y = 3 }
 			quadTextureSprite ="GFX_playlist_button"
-			buttonText = ""
-			buttonFont = "Main_14_black"
 			clicksound = click_ok
 			oversound = ui_menu_over
 			Orientation = "UPPER_RIGHT"
@@ -618,7 +610,7 @@ guiTypes = {
 			buttonType = {
 				name = "decisionview_button"
 				quadTextureSprite ="GFX_topbar_decisionview_button"
-				position = { x= -95 y = -2 }
+				position = { x= -93	y = -2 }
 				Orientation = "UPPER_LEFT"
 				clicksound = click_close
 				oversound = ui_menu_over
@@ -725,7 +717,6 @@ guiTypes = {
 				buttonType = {
 					name = "technology_button"
 					quadTextureSprite ="GFX_topbar_technology"
-	#				position = { x= -104 y = 0 }
 					position = { x= -49 y = 10000 }
 					Orientation = "UPPER_LEFT"
 					clicksound = click_close
@@ -736,7 +727,7 @@ guiTypes = {
 				buttonType = {
 					name = "diplomacy_button"
 					quadTextureSprite ="GFX_topbar_diplomacy"
-					position = { x= -38 y = -2 }
+					position = { x= -36	y = -2 }
 					Orientation = "UPPER_LEFT"
 					shortcut = "e"
 					clicksound = click_close

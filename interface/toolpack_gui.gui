@@ -3,7 +3,7 @@ guiTypes = {
 	containerWindowType = {
 
 		name = "toolpack_open_container"
-		position = { x = -21 y = -259 }
+		position = { x = -21 y = -280 }
 		orientation = LOWER_RIGHT
 		origo = lower_right
 
@@ -43,11 +43,11 @@ guiTypes = {
 
 	containerWindowType = {
 		name = "toolpack_main_container"
-		position = { x = 100 y = -48 }
+		position = { x = 100 y = -69 }
 		size = { width = 255 height = 355 }
 		orientation = CENTER_RIGHT
 
-		show_position = { x = -250 y = -48 }
+		show_position = { x = -250 y = -69 }
 		show_animation_type = decelerated
 		hide_animation_type = accelerated
 		animation_time = 300

@@ -7,7 +7,7 @@ guiTypes = {
 
 	containerWindowType =  {
 		name = "MapmodesInterface_Ingame"
-		position = { x=-631 y=-244 }
+		position = { x=-637 y=-245 }
 		size = { width=314 height=31 }
 		Orientation = lower_RIGHT
 
@@ -59,7 +59,7 @@ guiTypes = {
 		iconType = {
 			name ="map_modes_bg"
 			spriteType = "GFX_map_modes_bg"
-			position = { x=549 y = 0 }
+			position = { x=549 y = -9 }
 		}
 
 		iconType = {
@@ -80,7 +80,7 @@ guiTypes = {
 		# All Map Modes button
 		buttonType = {
 			name = "mapmodes_all"
-			position = { x=564 y=11 }
+			position = { x=564 y=8 }
 			quadTextureSprite ="GFX_mapmode_button_all"
 			shortcut = "ctrl+F1"
 			pdx_tooltip = "MAPMODE_ALL"
@@ -104,12 +104,12 @@ guiTypes = {
 				name = "mapmode_button_1_bg"
 				quadTextureSprite = "GFX_mapmode_button_bg"
 				alwaysTransparent = no
-				position = { x=5600 y=38 }
+				position = { x=564 y=5100 }
 			}
 		
 			buttonType = {
 				name = "mapmode_button_1"
-				position = { x=564 y=63 }	
+				position = { x=564 y=51 }	
 				quadTextureSprite ="GFX_mapmode_buttons_deselected_big"
 				#shortcut = "q"
 				clicksound = land_mapmode
@@ -123,7 +123,7 @@ guiTypes = {
 			}
 			buttonType = {
 				name = "mapmode_button_1_s"
-				position = { x=564 y=63 }	
+				position = { x=564 y=51 }	
 				quadTextureSprite ="GFX_mapmode_buttons_selected_big"
 				#shortcut = "q"
 				shortcut = "F1"
@@ -270,12 +270,12 @@ guiTypes = {
 				name = "mapmode_button_5_s_bg"
 				quadTextureSprite = "GFX_mapmode_button_depressed"
 				alwaysTransparent = no
-				position = { x=606 y=41 }
+				position = { x=609 y=41 }
 			}
 
 			buttonType = {
 				name = "mapmode_button_5"
-				position = { x=608 y=42 }	
+				position = { x=609 y=42 }	
 				quadTextureSprite ="GFX_mapmode_buttons_deselected_small"
 				#shortcut = "r"
 				clicksound = click_default
@@ -289,7 +289,7 @@ guiTypes = {
 			}
 			buttonType = {
 				name = "mapmode_button_5_s"
-				position = { x=608 y=42 }	
+				position = { x=609 y=41 }	
 				quadTextureSprite ="GFX_mapmode_buttons_selected_small"
 				#shortcut = "r"
 				shortcut = "F4"
@@ -309,12 +309,12 @@ guiTypes = {
 				name = "mapmode_button_6_s_bg"
 				quadTextureSprite = "GFX_mapmode_button_depressed"
 				alwaysTransparent = no
-				position = { x=606 y=63 }
+				position = { x=609 y=63 }
 			}
 
 			buttonType = {
 				name = "mapmode_button_6"
-				position = { x=608 y=63 }
+				position = { x=610 y=63 }
 				quadTextureSprite ="GFX_mapmode_buttons_deselected_small"
 				#shortcut = "t"
 				clicksound = click_default
@@ -328,7 +328,7 @@ guiTypes = {
 			}
 			buttonType = {
 				name = "mapmode_button_6_s"
-				position = { x=608 y=63 }
+				position = { x=610 y=63 }
 				quadTextureSprite ="GFX_mapmode_buttons_selected_small"
 				#shortcut = "t"
 				shortcut = "F5"
@@ -348,12 +348,12 @@ guiTypes = {
 				name = "mapmode_button_7_s_bg"
 				quadTextureSprite = "GFX_mapmode_button_depressed"
 				alwaysTransparent = no
-				position = { x=606 y=85 }
+				position = { x=609 y=86 }
 			}	
 
 			buttonType = {
 				name = "mapmode_button_7"
-				position = { x=608 y=86 }
+				position = { x=610 y=86 }
 				quadTextureSprite ="GFX_mapmode_buttons_deselected_small"
 				#shortcut = "y"
 				clicksound = click_default
@@ -367,7 +367,7 @@ guiTypes = {
 			}
 			buttonType = {
 				name = "mapmode_button_7_s"
-				position = { x=608 y=86 }
+				position = { x=610 y=86 }
 				quadTextureSprite ="GFX_mapmode_buttons_selected_small"
 				#shortcut = "y"
 				shortcut = "F6"
@@ -383,12 +383,12 @@ guiTypes = {
 				name = "mapmode_button_8_s_bg"
 				quadTextureSprite = "GFX_mapmode_button_depressed"
 				alwaysTransparent = no
-				position = { x=606 y=107 }
+				position = { x=609 y=107 }
 			}	
 
 			buttonType = {
 				name = "mapmode_button_8"
-				position = { x=608 y=107 }
+				position = { x=610 y=107 }
 				quadTextureSprite ="GFX_mapmode_buttons_deselected_small"
 				#shortcut = "y"
 				clicksound = click_default
@@ -402,7 +402,7 @@ guiTypes = {
 			}
 			buttonType = {
 				name = "mapmode_button_8_s"
-				position = { x=608 y=107 }
+				position = { x=610 y=107 }
 				quadTextureSprite ="GFX_mapmode_buttons_selected_small"
 				#shortcut = "y"
 				shortcut = "F7"
@@ -419,12 +419,12 @@ guiTypes = {
 				name = "mapmode_button_9_s_bg"
 				quadTextureSprite = "GFX_mapmode_button_depressed"
 				alwaysTransparent = no
-				position = { x=606 y=129 }
+				position = { x=609 y=131 }
 			}
 
 			buttonType = {
 				name = "mapmode_button_9"
-				position = { x=608 y=129 }
+				position = { x=610 y=131 }
 				quadTextureSprite ="GFX_mapmode_buttons_deselected_small"
 				#shortcut = "s"
 				clicksound = click_default
@@ -438,7 +438,7 @@ guiTypes = {
 			}
 			buttonType = {
 				name = "mapmode_button_9_s"
-				position = { x=608 y=129 }
+				position = { x=610 y=131 }
 				quadTextureSprite ="GFX_mapmode_buttons_selected_small"
 				shortcut = "F8"
 				pdx_tooltip_anchor =
@@ -455,12 +455,12 @@ guiTypes = {
 				name = "mapmode_button_10_s_bg"
 				quadTextureSprite = "GFX_mapmode_button_depressed"
 				alwaysTransparent = no
-				position = { x=606 y=151 }
+				position = { x=609 y=152 }
 			}
 
 			buttonType = {
 				name = "mapmode_button_10"
-				position = { x=608 y=151 }
+				position = { x=610 y=152 }
 				quadTextureSprite ="GFX_mapmode_buttons_deselected_small"
 				#shortcut = "y"
 				clicksound = click_default
@@ -474,7 +474,7 @@ guiTypes = {
 			}
 			buttonType = {
 				name = "mapmode_button_10_s"
-				position = { x=608 y=151 }
+				position = { x=610 y=152 }
 				quadTextureSprite ="GFX_mapmode_buttons_selected_small"
 				#shortcut = "y"
 				shortcut = "F9"
@@ -491,12 +491,12 @@ guiTypes = {
 				name = "mapmode_button_11_s_bg"
 				quadTextureSprite = "GFX_mapmode_button_depressed"
 				alwaysTransparent = no
-				position = { x=606 y=173 }
+				position = { x=609 y=175 }
 			}
 
 			buttonType = {
 				name = "mapmode_button_11"
-				position = { x=608 y=173 }
+				position = { x=610 y=175 }
 				quadTextureSprite ="GFX_mapmode_buttons_deselected_small"
 				#shortcut = "y"
 				clicksound = click_default
@@ -510,7 +510,7 @@ guiTypes = {
 			}
 			buttonType = {
 				name = "mapmode_button_11_s"
-				position = { x=608 y=173 }
+				position = { x=610 y=175 }
 				quadTextureSprite ="GFX_mapmode_buttons_selected_small"
 				#shortcut = "y"
 				shortcut = "F10"
@@ -540,7 +540,7 @@ guiTypes = {
 			
 			buttonType = {
 				name = "mapmode_button_1"
-				position = { x=564 y=63 }	
+				position = { x=5640 y=63 }	
 				quadTextureSprite ="GFX_mapmode_buttons_deselected_big"
 				#shortcut = "q"
 				clicksound = land_mapmode
@@ -958,12 +958,12 @@ guiTypes = {
 			name = "mapmode_day_night_toggle_bg"
 			quadTextureSprite = "GFX_mapmode_button_depressed"
 			alwaysTransparent = no
-			position = { x=606 y=195 }
+			position = { x=609 y=199 }
 		}
 
 		buttonType = {
 			name = "day_night_toggle"
-			position = { x=608 y=195 }
+			position = { x=609 y=197 }
 			quadTextureSprite ="GFX_day_night_toggle"
 			shortcut = "n"
 			clicksound = click_default
@@ -1043,12 +1043,12 @@ guiTypes = {
 			name = "mapmode_button_fog_bg"
 			quadTextureSprite = "GFX_mapmode_button_depressed"
 			alwaysTransparent = no
-			position = { x=606 y=217 }
+			position = { x=609 y=220 }
 		}
 
 		buttonType = {
 			name = "button_fog"
-			position = { x=606 y=217 }
+			position = { x=609 y=220 }
 			quadTextureSprite ="GFX_button_fog_of_war"
 			clicksound = click_default
 			pdx_tooltip = "TOGGLE_FOG_OF_WAR"

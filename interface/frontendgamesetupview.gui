@@ -43,7 +43,7 @@ guiTypes = {
 	
 	containerWindowType = {
 		name = "spirit_idea_entry"
-			position = { x = 22000 y = 147 }
+		position = { x = 22000 y = 147 }
 		size = { width=60 height=66 }
 		clipping = no
 		
@@ -829,7 +829,7 @@ guiTypes = {
 		
 		instantTextBoxType = {
 			name = "nation_title"
-			position = { x = 110 y = 385 }
+			position = { x = 110 y = 429 }
 			font = "hoi_24header"
 			borderSize = {x = 0 y = 0}
 			maxWidth = 1000
