@@ -11,6 +11,9 @@
  AND_DEF:0 "The Andaman and Nicobar Islands"
  AND_ADJ:0 "Andamanian"
  
+ WTR_DEF:0 "Water"
+ WTR_ADJ:0 "Aquatix=c"
+ 
  AJR:0 "Ajmer"
  AJR_DEF:0 "Ajmer"
  AJR_ADJ:0 "Ajmeri"

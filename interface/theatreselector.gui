@@ -593,7 +593,7 @@ guiTypes = {
 		background = {
 			name = "Background"
 			quadTextureSprite ="GFX_tiled_window_transparent"
-			position = { x = 400 y = 0 }
+			position = { x = 4000 y = 0 }
 		}
 		
 		gridBoxType = {
