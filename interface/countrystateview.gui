@@ -49,7 +49,7 @@ guiTypes = {
 				textureFile = ""
 				font = "hoi_16mbs"
 				text = "STATE_NAME_TEST"
-				maxWidth = 375
+				maxWidth = 300
 				maxHeight = 30
 				Orientation = "UPPER_LEFT"
 			}
