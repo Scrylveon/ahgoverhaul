@@ -43,7 +43,7 @@ guiTypes = {
 			pdx_tooltip = SCORE_TOOLTIP
 		}
 		instantTextBoxType = {
-			name ="topbar_power_ranking"
+			name ="nameofthecountry"
 			position = { x= 100 y = 0}
 			font = "hoi_36header"
 			text = "[ROOT.GetNameDef]"
