@@ -12,6 +12,7 @@ state={
 		add_core_of = WST
 		add_core_of = NOM
 		add_core_of = WTR
+		add_core_of = INN
 
 	}
 	manpower = 1
