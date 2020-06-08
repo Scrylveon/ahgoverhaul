@@ -3716,6 +3716,7 @@
  MOL_SOV_autonomy_puppet:1 "Moldavian Autonomous Soviet Socialist Republic"
  MOL_SOV_autonomy_integrated_puppet:0 "Moldavian Autonomous Soviet Socialist Republic"
  MOL_SOV_DEF:0 "the Moldavian Autonomous Soviet Socialist Republic"
+ MOL_SOV:0 "Moldavian Autonomous Soviet Socialist Republic"
  MOL_SOV_autonomy_dominion_DEF:0 "the Moldavian Autonomous Soviet Socialist Republic"
  MOL_SOV_autonomy_colony_DEF:0 "the Moldavian Autonomous Soviet Socialist Republic"
  MOL_SOV_autonomy_puppet_DEF:1 "the Moldavian Autonomous Soviet Socialist Republic"
