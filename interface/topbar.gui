@@ -42,18 +42,18 @@ guiTypes = {
 			#fixedsize = yes
 			pdx_tooltip = SCORE_TOOLTIP
 		}
-		instantTextBoxType = {
-			name ="nameofthecountry"
-			position = { x= 100 y = 0}
-			font = "hoi_36header"
-			text = "[ROOT.GetNameDef]"
-			format = left
-			maxWidth = 5500
-			maxHeight = 24
-			#fixedsize = yes
-			pdx_tooltip = SCORE_TOOLTIP
-		}
-		
+#		instantTextBoxType = {
+#			name ="nameofthecountry"
+#			position = { x= 100 y = 0}
+#			font = "hoi_36header"
+#			text = [ROOT.GetNameDef]
+#			format = left
+#			maxWidth = 800
+#			maxHeight = 24
+#			#fixedsize = yes
+#			pdx_tooltip = SCORE_TOOLTIP
+#		}
+#		
 #		iconType = {
 #			name ="topbar_date_overlay"
 #			spriteType = "GFX_topbar_date_overlay"
