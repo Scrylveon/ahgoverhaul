@@ -42,18 +42,7 @@ guiTypes = {
 			#fixedsize = yes
 			pdx_tooltip = SCORE_TOOLTIP
 		}
-#		instantTextBoxType = {
-#			name ="nameofthecountry"
-#			position = { x= 100 y = 0}
-#			font = "hoi_36header"
-#			text = [ROOT.GetNameDef]
-#			format = left
-#			maxWidth = 800
-#			maxHeight = 24
-#			#fixedsize = yes
-#			pdx_tooltip = SCORE_TOOLTIP
-#		}
-#		
+		
 #		iconType = {
 #			name ="topbar_date_overlay"
 #			spriteType = "GFX_topbar_date_overlay"
@@ -856,5 +845,24 @@ guiTypes = {
 		#		format = center
 		#	}
 		#}
+	}
+	
+	containerWindowType = {
+		name = "population_information_container"
+		position = { x=-4 y=-1 }
+		size = { width=100%% height=100%% }
+
+		instantTextBoxType = {
+			name ="topbar_power_ranking"
+			position = { x= 100 y = 0}
+			font = "hoi_36header"
+			text = "[ROOT.GetNameDef]"
+			format = left
+			maxWidth = 800
+			maxHeight = 24
+			#fixedsize = yes
+			pdx_tooltip = SCORE_TOOLTIP
+		}
+		
 	}
 }
