@@ -5,7 +5,7 @@ state={
 		15744 
 	}
 	history = {
-		owner = ETH
+		owner = ASS
 		add_core_of = ETH
 		add_core_of = ASS
 		add_core_of = AFA

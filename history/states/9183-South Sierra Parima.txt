@@ -5,7 +5,8 @@ state={
 		18438 
 	}
 	history={
-		owner = VEN
+		owner = YMM
+		add_core_of = YMM
 		add_core_of = VEN
 	}
 	state_category=pastoral
