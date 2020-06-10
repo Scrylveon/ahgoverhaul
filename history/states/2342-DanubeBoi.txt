@@ -16,6 +16,9 @@ state={
 		add_core_of = AUS
 		add_core_of = UAS
 		add_core_of = WAS
+		victory_points = {
+			3703 1 
+		}
 		1938.3.12 = {
 			owner = GER
 			controller = GER
