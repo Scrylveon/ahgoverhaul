@@ -12,6 +12,9 @@ state={
 		add_core_of = PRE
 		add_core_of = HAN
 		add_core_of = WGR
+		victory_points = {
+			11388 5 
+		}
 
 	}
 	

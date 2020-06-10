@@ -9,6 +9,9 @@ state={
 	 add_core_of = WGR
 		add_core_of = GER
 		add_core_of = BAV
+		victory_points = {
+			 17931 1 
+		}
 		buildings = {
 			infrastructure = 4
 		}

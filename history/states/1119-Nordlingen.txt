@@ -17,6 +17,10 @@ state={
 		add_core_of = GER
 		add_core_of = BAY
 		add_core_of = WGR
+		victory_points = {
+			6540 5 
+		}
+
 
 	}
 

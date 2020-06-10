@@ -9,6 +9,9 @@ state={
         add_core_of = GER
         add_core_of = WGR
 	add_core_of = KON
+		victory_points = {
+			15986 1 
+		}
     }
 	manpower = 1000
 	state_category = small_town

@@ -2,7 +2,7 @@ state={
 	id=3529
 	name="STATE_3529"
 	provinces={
-		9361 11372 
+		9361 
 	}
 	
 	manpower = 1000
@@ -16,6 +16,9 @@ state={
 		add_core_of = PRE
 		add_core_of = POM
 		add_core_of = KSH
+		victory_points = {
+			9361 1 
+		}
 		buildings = {
 			infrastructure = 1
 		}

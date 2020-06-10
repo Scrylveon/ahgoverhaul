@@ -9,6 +9,9 @@ state={
 	 add_core_of = WGR
 		add_core_of = GER
 		add_core_of = PRS
+		victory_points = {
+			17946 1 
+		}
 		set_demilitarized_zone = yes
 		buildings = {
 			infrastructure = 4
