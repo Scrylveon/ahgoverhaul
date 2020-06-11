@@ -4225,7 +4225,7 @@ do_latin_renames = {
 		}
 		set_province_name = {
 			id = 11846
-			name = "Ántsio"
+			name = "Antium"
 		}
 	}
 
@@ -6594,6 +6594,17 @@ do_catalonian_renames = {
 	}
 }
 do_french_renames = {		
+
+	if = {
+		limit = {
+			state = 2
+		}
+		set_province_name = {
+			id = 11846
+			name = "Ántsio"
+		}
+	}
+	
 	if = {
 		limit = {
 			state = 863
