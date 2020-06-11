@@ -6,6 +6,9 @@ state={
 		owner = POL 
 		add_core_of = POL
 		add_core_of = KIE
+		victory_points = {
+			3586 25 
+		}
 		buildings = {
 			infrastructure = 4
 			
