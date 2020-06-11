@@ -1,4 +1,4 @@
-﻿capital = 1558
+﻿capital = 10493
 
 oob = "SUD_1936"
 set_cosmetic_tag = SUD_ENG
