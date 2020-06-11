@@ -210,6 +210,236 @@ do_german_renames = {
 
 	if = {
 		limit = {
+			state = 5975
+		}		
+		set_province_name = {
+			id = 16430
+			name = "Frankfurt am Oder"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 64
+		}		
+		set_province_name = {
+			id = 6521
+			name = "Berlin"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 65
+		}		
+		set_province_name = {
+			id = 514
+			name = "Dresden"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5116
+		}		
+		set_province_name = {
+			id = 6582
+			name = "Halle (Saale)"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 8253
+		}		
+		set_province_name = {
+			id = 18008
+			name = "Gera"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2896
+		}		
+		set_province_name = {
+			id = 14642
+			name = "Jena"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 8271
+		}		
+		set_province_name = {
+			id = 18007
+			name = "Weimar"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 8291
+		}		
+		set_province_name = {
+			id = 18087
+			name = "Braunschweig"
+		}
+    }
+
+	if = {
+		limit = {
+			state = 776
+		}		
+		set_province_name = {
+			id = 317
+			name = "Flensburg"
+		}
+    }
+
+	if = {
+		limit = {
+			state = 58
+		}		
+		set_province_name = {
+			id = 6389
+			name = "Kiel"
+		}
+    }
+
+	if = {
+		limit = {
+			state = 1349
+		}		
+		set_province_name = {
+			id = 11331
+			name = "Lübeck"
+		}
+    }
+
+	if = {
+		limit = {
+			state = 59
+		}		
+		set_province_name = {
+			id = 6377
+			name = "Hannover"
+		}
+    }
+
+	if = {
+		limit = {
+			state = 1778
+		}		
+		set_province_name = {
+			id = 11388
+			name = "Münster"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 8286
+		}		
+		set_province_name = {
+			id = 18103
+			name = "Langensalza"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3920
+		}		
+		set_province_name = {
+			id = 405
+			name = "Bielefeld"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 57
+		}		
+		set_province_name = {
+			id = 495
+			name = "Dortmund"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 82
+		}		
+		set_province_name = {
+			id = 17931
+			name = "Würzburg"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 53
+		}		
+		set_province_name = {
+			id = 3299
+			name = "Regensburg"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1119
+		}		
+		set_province_name = {
+			id = 6540
+			name = "Ingolstadt"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5131
+		}		
+		set_province_name = {
+			id = 3690
+			name = "Ravensburg"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1338
+		}		
+		set_province_name = {
+			id = 9482
+			name = "Wuppertal"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 8203
+		}		
+		set_province_name = {
+			id = 17946
+			name = "Koblenz"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1340
+		}		
+		set_province_name = {
+			id = 9522
+			name = "Aachen"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 1396
 		}		
 		set_province_name = {
@@ -2294,6 +2524,345 @@ do_english_renames = {
 }
 
 do_latin_renames = {
+
+	if = {
+		limit = {
+			state = 5975
+		}		
+		set_province_name = {
+			id = 16430
+			name = "Francofortum ad Oderam"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 64
+		}		
+		set_province_name = {
+			id = 6521
+			name = "Berolinum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 65
+		}		
+		set_province_name = {
+			id = 514
+			name = "Dresda"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5070
+		}		
+		set_province_name = {
+			id = 3535
+			name = "Lipsia"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2896
+		}		
+		set_province_name = {
+			id = 14642
+			name = "Iena"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 8253
+		}		
+		set_province_name = {
+			id = 18008
+			name = "Gerapolis"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 8271
+		}		
+		set_province_name = {
+			id = 18007
+			name = "Vimaria"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2527
+		}		
+		set_province_name = {
+			id = 3561
+			name = "Erfordia"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 775
+		}		
+		set_province_name = {
+			id = 3522
+			name = "Magdeburgum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 774
+		}		
+		set_province_name = {
+			id = 3499
+			name = "Potestampium"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 61
+		}		
+		set_province_name = {
+			id = 321
+			name = "Rostochium"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 8291
+		}		
+		set_province_name = {
+			id = 18087
+			name = "Brunsvicum"
+		}
+    }
+
+	if = {
+		limit = {
+			state = 776
+		}		
+		set_province_name = {
+			id = 317
+			name = "Flensburgum"
+		}
+    }
+
+	if = {
+		limit = {
+			state = 58
+		}		
+		set_province_name = {
+			id = 6389
+			name = "Kielia"
+		}
+    }
+
+	if = {
+		limit = {
+			state = 1349
+		}		
+		set_province_name = {
+			id = 11331
+			name = "Lubeca"
+		}
+    }
+
+	if = {
+		limit = {
+			state = 1128
+		}		
+		set_province_name = {
+			id = 9347
+			name = "Hamburgum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1242
+		}		
+		set_province_name = {
+			id = 13280
+			name = "Terra Sacra"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1344
+		}		
+		set_province_name = {
+			id = 241
+			name = "Portus Guliemi"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1777
+		}		
+		set_province_name = {
+			id = 3326
+			name = "Brema"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 59
+		}		
+		set_province_name = {
+			id = 6377
+			name = "Hannovera"
+		}
+    }
+	if = {
+		limit = {
+			state = 1778
+		}		
+		set_province_name = {
+			id = 11388
+			name = "Monasterium"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 8286
+		}		
+		set_province_name = {
+			id = 18103
+			name = "Longosalissa"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3920
+		}		
+		set_province_name = {
+			id = 405
+			name = "Bilefeldia"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 57
+		}		
+		set_province_name = {
+			id = 495
+			name = "Tremonia"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 54
+		}		
+		set_province_name = {
+			id = 11544
+			name = "Norinberga"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 82
+		}		
+		set_province_name = {
+			id = 17931
+			name = "Herbipolis"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 53
+		}		
+		set_province_name = {
+			id = 3299
+			name = "Castra Regina"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 1119
+		}		
+		set_province_name = {
+			id = 6540
+			name = "Ingolstadium"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5131
+		}		
+		set_province_name = {
+			id = 3690
+			name = "Ravenspurgum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1396
+		}		
+		set_province_name = {
+			id = 6488
+			name = "Francofurtum ad Moenum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1338
+		}		
+		set_province_name = {
+			id = 9482
+			name = "Vallis Vipperae"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5123
+		}		
+		set_province_name = {
+			id = 6469
+			name = "Assindia"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 8203
+		}		
+		set_province_name = {
+			id = 17946
+			name = "Confluentes"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1340
+		}		
+		set_province_name = {
+			id = 9522
+			name = "Aquae Granni"
+		}
+	}
 
 	if = {
 		limit = {
@@ -5883,6 +6452,126 @@ do_yugoslavian_renames = {
 	}
 }
 do_italian_renames = {
+
+	if = {
+		limit = {
+			state = 1349
+		}		
+		set_province_name = {
+			id = 11331
+			name = "Lubecca"
+		}
+    }
+
+	if = {
+		limit = {
+			state = 1777
+		}		
+		set_province_name = {
+			id = 3326
+			name = "Brema"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1778
+		}		
+		set_province_name = {
+			id = 11388
+			name = "Monaco di Vestfalia"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3920
+		}		
+		set_province_name = {
+			id = 405
+			name = "Bilivelda"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 54
+		}		
+		set_province_name = {
+			id = 11544
+			name = "Norinberga"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 82
+		}		
+		set_province_name = {
+			id = 17931
+			name = "Borgo delle Spezie"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 53
+		}		
+		set_province_name = {
+			id = 3299
+			name = "Ratisbona"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5127
+		}		
+		set_province_name = {
+			id = 9517
+			name = "Stuccardo"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1396
+		}		
+		set_province_name = {
+			id = 6488
+			name = "Francoforte sul Meno"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1416
+		}		
+		set_province_name = {
+			id = 11560
+			name = "Magonza"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 8203
+		}		
+		set_province_name = {
+			id = 17946
+			name = "Coblenza"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1340
+		}		
+		set_province_name = {
+			id = 9522
+			name = "Aquisgrana"
+		}
+	}
 		
 	if = {
 		limit = {
@@ -6593,7 +7282,87 @@ do_catalonian_renames = {
 		}
 	}
 }
-do_french_renames = {		
+do_french_renames = {	
+
+	if = {
+		limit = {
+			state = 59
+		}		
+		set_province_name = {
+			id = 6377
+			name = "Hanovre"
+		}
+    }
+
+	if = {
+		limit = {
+			state = 57
+		}		
+		set_province_name = {
+			id = 495
+			name = "Trémoigne"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 54
+		}		
+		set_province_name = {
+			id = 11544
+			name = "Nuremberg"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 82
+		}		
+		set_province_name = {
+			id = 17931
+			name = "Wurzbourg"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 53
+		}		
+		set_province_name = {
+			id = 3299
+			name = "Ratisbonne"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1396
+		}		
+		set_province_name = {
+			id = 6488
+			name = "Francfort-sur-le-Main"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 8203
+		}		
+		set_province_name = {
+			id = 17946
+			name = "Coblence"
+		}
+	}	
+
+	if = {
+		limit = {
+			state = 1340
+		}		
+		set_province_name = {
+			id = 9522
+			name = "Aix-la-Chapelle"
+		}
+	}
 
 	if = {
 		limit = {
