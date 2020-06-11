@@ -13,6 +13,9 @@ state={
 		add_core_of = CAL
 		add_core_of = JFR
 		
+		victory_points = {
+			3588 1 
+		}
 
 	}
 

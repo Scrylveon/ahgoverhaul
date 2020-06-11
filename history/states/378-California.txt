@@ -18,6 +18,9 @@ state={
 		add_core_of = CLC
 		
 
+		victory_points = {
+			6861 5
+		}
 	}
 
 	provinces={

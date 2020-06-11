@@ -17,6 +17,9 @@ state={
 		add_core_of = USA
 		add_core_of = KAN
 		add_core_of = GMA
+		victory_points = {
+			1352 1 
+		}
 
 	}
 

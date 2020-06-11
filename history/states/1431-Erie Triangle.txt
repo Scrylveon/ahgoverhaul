@@ -12,6 +12,9 @@ state={
 		add_core_of = GMA
 		add_core_of = PEN
 
+		victory_points = {
+			13260 1 
+		}
 	}
 	
 	provinces={

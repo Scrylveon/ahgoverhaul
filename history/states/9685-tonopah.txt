@@ -12,6 +12,9 @@ state={
 		}
 		add_core_of = USA
 		add_core_of = NVA	
+		victory_points = {
+			18917 1 
+		}
 
 	}
 	manpower = 1000

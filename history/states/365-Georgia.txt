@@ -20,7 +20,7 @@ state={
 		add_core_of = GRG
 		add_core_of = NAF
 		victory_points = {
-			12384 10 
+			11975 2
 		}
 		
 
