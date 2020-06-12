@@ -12,6 +12,9 @@ state={
 		add_core_of = PEI
 		add_claim_by = NVS
 
+		victory_points = {
+			4360 1 
+		}
 	}
 	
 	provinces={

@@ -13,6 +13,9 @@ state={
 		add_core_of = WVR
 		add_core_of = GMA
 
+		victory_points = {
+			6850 1 
+		}
 	}
 	
 	provinces={

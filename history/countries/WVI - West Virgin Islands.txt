@@ -1,4 +1,4 @@
-﻿capital = 929
+﻿capital = 2320
 
 oob = "WVI_1936"
 set_cosmetic_tag = WVI_USA
