@@ -210,6 +210,96 @@ do_german_renames = {
 
 	if = {
 		limit = {
+			state = 67
+		}		
+		set_province_name = {
+			id = 9511
+			name = "Oppeln"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3530
+		}		
+		set_province_name = {
+			id = 552
+			name = "Liegnitz"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5075
+		}		
+		set_province_name = {
+			id = 3438
+			name = "Glogau"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5076
+		}		
+		set_province_name = {
+			id = 444
+			name = "Grünberg"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4090
+		}		
+		set_province_name = {
+			id = 11288
+			name = "Konitz"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5077
+		}		
+		set_province_name = {
+			id = 6236
+			name = "Landsberg"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3529
+		}		
+		set_province_name = {
+			id = 9361
+			name = "Köslin"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4829
+		}		
+		set_province_name = {
+			id = 11415
+			name = "Cottbuss"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5080
+		}		
+		set_province_name = {
+			id = 9294
+			name = "Schwerin"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 5975
 		}		
 		set_province_name = {
@@ -260,7 +350,7 @@ do_german_renames = {
 
 	if = {
 		limit = {
-			state = 2896
+			state = 3896
 		}		
 		set_province_name = {
 			id = 14642
@@ -2527,6 +2617,126 @@ do_latin_renames = {
 
 	if = {
 		limit = {
+			state = 1455
+		}		
+		set_province_name = {
+			id = 9570
+			name = "Vratislavia"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 67
+		}		
+		set_province_name = {
+			id = 9511
+			name = "Oppelia"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1017
+		}		
+		set_province_name = {
+			id = 3485
+			name = "Glacio"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3530
+		}		
+		set_province_name = {
+			id = 552
+			name = "Lignitium"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5075
+		}		
+		set_province_name = {
+			id = 3438
+			name = "Glogovia"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5076
+		}		
+		set_province_name = {
+			id = 444
+			name = "Prasia Elysiorum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4090
+		}		
+		set_province_name = {
+			id = 11288
+			name = "Conitsium"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5077
+		}		
+		set_province_name = {
+			id = 6236
+			name = "Landsbergum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3529
+		}		
+		set_province_name = {
+			id = 9361
+			name = "Coslinum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1222
+		}		
+		set_province_name = {
+			id = 6282
+			name = "Stettinum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4829
+		}		
+		set_province_name = {
+			id = 11415
+			name = "Cotbusium"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5080
+		}		
+		set_province_name = {
+			id = 9294
+			name = "Suerinum"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 5975
 		}		
 		set_province_name = {
@@ -2567,7 +2777,7 @@ do_latin_renames = {
 
 	if = {
 		limit = {
-			state = 2896
+			state = 3896
 		}		
 		set_province_name = {
 			id = 14642
