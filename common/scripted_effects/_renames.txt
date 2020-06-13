@@ -210,6 +210,146 @@ do_german_renames = {
 
 	if = {
 		limit = {
+			state = 2227
+		}		
+		set_province_name = {
+			id = 14365
+			name = "Pinsk"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 93
+		}		
+		set_province_name = {
+			id = 572
+			name = "Luzk"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2752
+		}		
+		set_province_name = {
+			id = 9494
+			name = "Resche"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 97
+		}		
+		set_province_name = {
+			id = 290
+			name = "Bjelostock"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 90
+		}		
+		set_province_name = {
+			id = 6416
+			name = "Kieltz"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2749
+		}		
+		set_province_name = {
+			id = 3586
+			name = "Tschenstochau"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3543
+		}		
+		set_province_name = {
+			id = 506
+			name = "Kattowitz"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3198
+		}		
+		set_province_name = {
+			id = 3381
+			name = "Bromberg"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5197
+		}		
+		set_province_name = {
+			id = 11232
+			name = "Schneidermühl"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3451
+		}		
+		set_province_name = {
+			id = 6891
+			name = "Olbien"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3457
+		}		
+		set_province_name = {
+			id = 4014
+			name = "Syrakus"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4930
+		}		
+		set_province_name = {
+			id = 12098
+			name = "Kroton"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4120
+		}		
+		set_province_name = {
+			id = 6980
+			name = "Viest"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 7538
+		}		
+		set_province_name = {
+			id = 17096
+			name = "Welsch Bern"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 67
 		}		
 		set_province_name = {
@@ -5352,6 +5492,96 @@ do_polish_renames = {
 
 	if = {
 		limit = {
+			state = 2227
+		}		
+		set_province_name = {
+			id = 14365
+			name = "Pińsk"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2752
+		}		
+		set_province_name = {
+			id = 9494
+			name = "Rzeszów"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 93
+		}		
+		set_province_name = {
+			id = 572
+			name = "Łuck"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 97
+		}		
+		set_province_name = {
+			id = 290
+			name = "Białystok"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 90
+		}		
+		set_province_name = {
+			id = 6416
+			name = "Kielce"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2749
+		}		
+		set_province_name = {
+			id = 3586
+			name = "Częstochowa"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3543
+		}		
+		set_province_name = {
+			id = 506
+			name = "Katovice"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3198
+		}		
+		set_province_name = {
+			id = 3381
+			name = "Bydgoszcz"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5197
+		}		
+		set_province_name = {
+			id = 11232
+			name = "Piła"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 249
 		}		
 		set_province_name = {
@@ -6662,6 +6892,56 @@ do_yugoslavian_renames = {
 	}
 }
 do_italian_renames = {
+
+	if = {
+		limit = {
+			state = 3451
+		}		
+		set_province_name = {
+			id = 6891
+			name = "Olbien"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3457
+		}		
+		set_province_name = {
+			id = 4014
+			name = "Siracusa"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4930
+		}		
+		set_province_name = {
+			id = 12098
+			name = "Crotone"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4120
+		}		
+		set_province_name = {
+			id = 6980
+			name = "Vieste"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 7538
+		}		
+		set_province_name = {
+			id = 17096
+			name = "Verona"
+		}
+	}
 
 	if = {
 		limit = {
