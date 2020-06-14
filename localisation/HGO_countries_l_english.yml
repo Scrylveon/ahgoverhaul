@@ -1466,4 +1466,12 @@
  RLP:0 "Rheinland-Pfalz"
  RLP_DEF:0 "Rheinland-Pfalz"
  RLP_ADJ:0 "Rheinland-Pfalz"
+ 
+ BDW:0 "Baden-Württemberg"
+ BDW_DEF:0 "Baden-Württemberg"
+ BDW_ADJ:0 "Baden-Württemberg"
+ 
+ SAA:0 "Sachsen-Anhalt"
+ SAA_DEF:0 "Sachsen-Anhalt"
+ SAA_ADJ:0 "Sachsen-Anhalt"
 

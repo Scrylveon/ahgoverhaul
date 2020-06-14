@@ -4800,3 +4800,11 @@ RLP = {
 color = rgb { 49 127 30 }
 color_ui = rgb { 49 127 30 }
 }
+BDW = {
+color = rgb { 134 6 48 }
+color_ui = rgb { 134 6 48 }
+}
+SAA = {
+color = rgb { 6 136 76 }
+color_ui = rgb { 6 136 76 }
+}

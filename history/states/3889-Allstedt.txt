@@ -13,6 +13,7 @@ state={
 		add_core_of = GER
 		add_core_of = SWM
 		add_core_of = DDR
+		add_core_of = THU
 		buildings = {
 			infrastructure = 5
 		}
