@@ -207,6 +207,83 @@ do_spanish_renames = {
 	}
 }	
 do_german_renames = {
+		
+	if = {
+		limit = {
+			state = 900
+		}		
+		set_state_name = Hultschin
+	}
+
+	if = {
+		limit = {
+			state = 5773
+		}		
+		set_province_name = {
+			id = 15986
+			name = "Lötzen"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1791
+		}		
+		set_province_name = {
+			id = 13356
+			name = "Villach"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2782
+		}		
+		set_province_name = {
+			id = 3673
+			name = "Klagenfurt"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2342
+		}		
+		set_province_name = {
+			id = 3703
+			name = "Wels"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 42
+		}		
+		set_province_name = {
+			id = 13311
+			name = "Trier"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 5133
+		}		
+		set_province_name = {
+			id = 708
+			name = "Augsburg"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 772
+		}		
+		set_province_name = {
+			id = 9547
+			name = "Geißen"
+		}
+	}
 
 	if = {
 		limit = {
@@ -424,7 +501,7 @@ do_german_renames = {
 		}		
 		set_province_name = {
 			id = 11415
-			name = "Cottbuss"
+			name = "Cottbus"
 		}
 	}
 
@@ -444,7 +521,7 @@ do_german_renames = {
 		}		
 		set_province_name = {
 			id = 16430
-			name = "Frankfurt am Oder"
+			name = "Frankfurt an der Oder"
 		}
 	}
 
@@ -573,7 +650,7 @@ do_german_renames = {
 			state = 8286
 		}		
 		set_province_name = {
-			id = 18103
+			id = 18013
 			name = "Langensalza"
 		}
 	}
@@ -600,7 +677,7 @@ do_german_renames = {
 
 	if = {
 		limit = {
-			state = 82
+			state = 8210
 		}		
 		set_province_name = {
 			id = 17931
@@ -1962,7 +2039,7 @@ do_german_renames = {
 		}		
 		set_province_name = {
 			id = 9914
-			name = "Tírana"
+			name = "Tirana"
 		}
 	}
 }
@@ -2757,6 +2834,76 @@ do_latin_renames = {
 
 	if = {
 		limit = {
+			state = 1791
+		}		
+		set_province_name = {
+			id = 13356
+			name = "Sancticum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2782
+		}		
+		set_province_name = {
+			id = 3673
+			name = "Clagenfurtum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2342
+		}		
+		set_province_name = {
+			id = 3703
+			name = "Ovilava"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4816
+		}		
+		set_province_name = {
+			id = 13361
+			name = "Styra"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 42
+		}		
+		set_province_name = {
+			id = 13311
+			name = "Augusta Treverorum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5133
+		}		
+		set_province_name = {
+			id = 708
+			name = "Augusta Vindelicorum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 772
+		}		
+		set_province_name = {
+			id = 9547
+			name = "Giessa"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 1455
 		}		
 		set_province_name = {
@@ -2831,7 +2978,7 @@ do_latin_renames = {
 		}		
 		set_province_name = {
 			id = 6236
-			name = "Landsbergum"
+			name = "Landsbergum iuxta Wartam"
 		}
 	}
 
@@ -3089,7 +3236,7 @@ do_latin_renames = {
 			state = 8286
 		}		
 		set_province_name = {
-			id = 18103
+			id = 18013
 			name = "Longosalissa"
 		}
 	}
@@ -3126,7 +3273,7 @@ do_latin_renames = {
 
 	if = {
 		limit = {
-			state = 82
+			state = 8210
 		}		
 		set_province_name = {
 			id = 17931
@@ -5492,6 +5639,176 @@ do_polish_renames = {
 
 	if = {
 		limit = {
+			state = 53
+		}		
+		set_province_name = {
+			id = 3299
+			name = "Ratyzbona"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 8210
+		}		
+		set_province_name = {
+			id = 17931
+			name = "Wircburg"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 64
+		}		
+		set_province_name = {
+			id = 6521
+			name = "Braliń"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5080
+		}		
+		set_province_name = {
+			id = 9294
+			name = "Zwierzyn"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 8253
+		}		
+		set_province_name = {
+			id = 18008
+			name = "Góra"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 8286
+		}		
+		set_province_name = {
+			id = 18013
+			name = "Salza"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5116
+		}		
+		set_province_name = {
+			id = 6582
+			name = "Dobrogóra"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4829
+		}		
+		set_province_name = {
+			id = 11415
+			name = "Chociebuż"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5975
+		}		
+		set_province_name = {
+			id = 16430
+			name = "Frankfurt nad Odrą"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5076
+		}		
+		set_province_name = {
+			id = 444
+			name = "Zielona Góra"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5075
+		}		
+		set_province_name = {
+			id = 3438
+			name = "Głogów"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5077
+		}		
+		set_province_name = {
+			id = 6236
+			name = "Gorzów Wielkopolski"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3529
+		}		
+		set_province_name = {
+			id = 9361
+			name = "Koszalin"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4090
+		}		
+		set_province_name = {
+			id = 11288
+			name = "Chojnice"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3530
+		}		
+		set_province_name = {
+			id = 552
+			name = "Legnica"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 67
+		}		
+		set_province_name = {
+			id = 9511
+			name = "Opole"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5773
+		}		
+		set_province_name = {
+			id = 15986
+			name = "Łuczany"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 2227
 		}		
 		set_province_name = {
@@ -6895,6 +7212,26 @@ do_italian_renames = {
 
 	if = {
 		limit = {
+			state = 42
+		}		
+		set_province_name = {
+			id = 13311
+			name = "Treviri"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5133
+		}		
+		set_province_name = {
+			id = 708
+			name = "Augusta"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 3451
 		}		
 		set_province_name = {
@@ -6995,7 +7332,7 @@ do_italian_renames = {
 
 	if = {
 		limit = {
-			state = 82
+			state = 8210
 		}		
 		set_province_name = {
 			id = 17931
@@ -7776,6 +8113,16 @@ do_french_renames = {
 
 	if = {
 		limit = {
+			state = 42
+		}		
+		set_province_name = {
+			id = 13311
+			name = "Trèves"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 59
 		}		
 		set_province_name = {
@@ -7806,7 +8153,7 @@ do_french_renames = {
 
 	if = {
 		limit = {
-			state = 82
+			state = 8210
 		}		
 		set_province_name = {
 			id = 17931
@@ -8067,6 +8414,16 @@ do_french_renames = {
 		set_province_name = {
 			id = 11560
 			name = "Mayence"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 772
+		}		
+		set_province_name = {
+			id = 9547
+			name = "Giessen"
 		}
 	}
 
@@ -8604,6 +8961,96 @@ do_luxembourgish_renames = {
 
 	if = {
 		limit = {
+			state = 769
+		}		
+		set_province_name = {
+			id = 11531
+			name = "Saarbrécken"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 2453
+		}		
+		set_province_name = {
+			id = 3516
+			name = "Namouer"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1340
+		}		
+		set_province_name = {
+			id = 9522
+			name = "Oochen"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 831
+		}		
+		set_province_name = {
+			id = 11516
+			name = "Nanzeg"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 5359
+		}		
+		set_province_name = {
+			id = 9503
+			name = "Stroosbuerg"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5129
+		}		
+		set_province_name = {
+			id = 678
+			name = "Millhaus"
+		}
+	}	
+
+	if = {
+		limit = {
+			state = 2096
+		}		
+		set_province_name = {
+			id = 11519
+			name = "Léck"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 6
+		}		
+		set_province_name = {
+			id = 516
+			name = "Bréissel"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 42
+		}		
+		set_province_name = {
+			id = 13311
+			name = "Tréier"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 770
 		}		
 		set_province_name = {
@@ -8631,6 +9078,16 @@ do_luxembourgish_renames = {
 	}
 }
 do_dutch_renames = {
+
+	if = {
+		limit = {
+			state = 1340
+		}		
+		set_province_name = {
+			id = 9522
+			name = "Aken"
+		}
+	}
 
 	if = {
 		limit = {
