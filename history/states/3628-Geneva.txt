@@ -13,6 +13,11 @@ state={
 		add_core_of = SWI
 		add_core_of = RHD
 		add_core_of = KGE
+		victory_points = {
+			482 25 
+		}
+
+
 		buildings = {
 			infrastructure = 1
 		}

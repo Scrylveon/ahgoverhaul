@@ -9,6 +9,9 @@ state={
 		}
 		add_core_of = SWI
 		add_core_of = KGR
+		victory_points = {
+			15944 1 
+		}
 	}
 	provinces={
 		15944
