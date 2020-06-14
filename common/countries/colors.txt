@@ -4796,3 +4796,7 @@ CNL = {
 color = rgb { 92 68 10 }
 color_ui = rgb { 92 68 10 }
 }
+RLP = {
+color = rgb { 49 127 30 }
+color_ui = rgb { 49 127 30 }
+}
