@@ -1474,4 +1474,20 @@
  SAA:0 "Sachsen-Anhalt"
  SAA_DEF:0 "Sachsen-Anhalt"
  SAA_ADJ:0 "Sachsen-Anhalt"
+ 
+ HSN:0 "Hessen"
+ HSN_DEF:0 "Hessen"
+ HSN_ADJ:0 "Hessen"
+ 
+ MBV:0 "Mecklenburg-Vorpommern"
+ MBV_DEF:0 "Mecklenburg-Vorpommern"
+ MBV_ADJ:0 "Mecklenburg-Vorpommern"
+ 
+ NRW:0 "Nordrhein-Westfalen"
+ NRW_DEF:0 "Nordrhein-Westfalen"
+ NRW_ADJ:0 "Nordrhein-Westfalen"
+ 
+ NSA:0 "Niedersachsen"
+ NSA_DEF:0 "Niedersachsen"
+ NSA_ADJ:0 "Niedersachsen"
 

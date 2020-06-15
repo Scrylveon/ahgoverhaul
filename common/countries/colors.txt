@@ -4808,3 +4808,19 @@ SAA = {
 color = rgb { 6 136 76 }
 color_ui = rgb { 6 136 76 }
 }
+HSN = {
+color = rgb { 214 177 168 }
+color_ui = rgb { 214 177 168 }
+}
+MBV = {
+color = rgb { 0 75 127 }
+color_ui = rgb { 0 75 127 }
+}
+NRW = {
+color = rgb { 114 186 180 }
+color_ui = rgb { 114 186 180 }
+}
+NSA = {
+color = rgb { 154 77 55 }
+color_ui = rgb { 154 77 55 }
+}

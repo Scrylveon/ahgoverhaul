@@ -15,6 +15,7 @@ state={
 		add_core_of = WGR
 		add_core_of = HKA
 		add_core_of = PRE
+		add_core_of = HSN
 
 	}
 	manpower=1000

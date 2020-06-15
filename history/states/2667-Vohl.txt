@@ -13,6 +13,7 @@ state={
 		add_core_of = WGR
 		add_claim_by = HES
 		add_claim_by = HKA
+		add_core_of = HSN
 		buildings = {
 			infrastructure = 5
 		}
