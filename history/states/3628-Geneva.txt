@@ -14,7 +14,7 @@ state={
 		add_core_of = RHD
 		add_core_of = KGE
 		victory_points = {
-			482 25 
+			482 15 
 		}
 
 
