@@ -364,6 +364,17 @@ scripted_gui = {
 				}
 			}
 ### COUNTRY ###
+			tpt_drop_cosmetic_tag_click = {
+				if = {
+					limit = {
+					    	any_country = { has_country_flag = tpt_actor }
+					    }
+				     	    every_country = {
+						    limit = {has_country_flag = tpt_actor}
+						             drop_cosmetic_tag = yes
+						             clr_country_flag = tpt_actor}
+					}
+				}
 			tpt_add_fascism_click = {
 				if = {
 					limit = {
@@ -3093,6 +3104,17 @@ scripted_gui = {
 				}
 			}
 ### DIPLMOACY ###
+			tpt_drop_cosmetic_tag_visible = {
+				has_global_flag = tpt_window_b
+			}
+			drop_cosmetic_tag_visible = {
+				has_global_flag = tpt_window_b
+			}
+			tpt_drop_cosmetic_tag_click_enabled = {
+				any_country = {
+					has_country_flag = tpt_actor
+				}
+			}
 			tpt_guarantee_visible = {
 				has_global_flag = tpt_window_b
 			}

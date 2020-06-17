@@ -445,6 +445,21 @@ guiTypes = {
 			scale = 1
 		}
 		buttonType = {
+			name = "tpt_drop_cosmetic_tag" 
+			position = { x = 243 y = 30 }
+			spriteType = "GFX_tpt_guarantee_green"
+			scale = 1
+		}
+		instantTextboxType = {
+			name = "drop_cosmetic_tag"
+			position = { x = 300 y = 43 }
+			font = "hoi_18mbs"
+			text = "Drop Cosmetic Tag"
+			maxWidth = 130
+			maxHeight = 23
+			format = left
+		}
+		buttonType = {
 			name = "tpt_no_guarantee" 
 			position = { x = 85 y = 90 }
 			spriteType = "GFX_tpt_guarantee_orange"
