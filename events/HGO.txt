@@ -208,3 +208,249 @@ country_event = { #Yeet the princely states
 
 	}
 }
+
+country_event = { #Decolonise Arabia
+	id = hgo.2
+	title = hgo.2.t
+	desc = hgo.2.d
+	fire_only_once = yes
+	is_triggered_only = yes
+	
+	option = { #Agree
+		name = hgo.2.a
+		ai_chance = {
+			factor = 0
+		}
+		
+    hidden_effect = {
+		UAE = {
+			annex_country = { target = FUJ }
+			annex_country = { target = SHJ }
+			annex_country = { target = UAQ }
+			annex_country = { target = DUB }
+			annex_country = { target = RAK }
+			annex_country = { target = AJM }
+			annex_country = { target = KBA }
+			annex_country = { target = ABD }
+			drop_cosmetic_tag = yes
+		   }  
+		SYR = {
+			annex_country = { target = ALW }
+			annex_country = { target = JEB }
+			drop_cosmetic_tag = yes
+		   }  
+		LEB = {
+			drop_cosmetic_tag = yes
+		}
+		JOR = {
+		    set_state_owner = 1175
+		    set_state_controller = 1175
+			drop_cosmetic_tag = yes
+		   } 
+        BHR = {
+			drop_cosmetic_tag = yes
+		    set_state_owner = 3276
+		    set_state_controller = 3276
+           }
+        QAT = {
+			drop_cosmetic_tag = yes
+           }
+        KUW = {
+			drop_cosmetic_tag = yes
+           }		
+		YEM = {
+			annex_country = { target = LHJ }
+			annex_country = { target = AQR }
+			annex_country = { target = HSH }
+			annex_country = { target = AWI }
+			annex_country = { target = MFL }
+			annex_country = { target = SHB }
+			annex_country = { target = UYF }
+			annex_country = { target = ADH }
+			annex_country = { target = FDH }
+			annex_country = { target = AHL }
+			annex_country = { target = BHN }
+			annex_country = { target = LAQ }
+			annex_country = { target = ASL }
+			annex_country = { target = ASH }
+			annex_country = { target = AIQ }
+			annex_country = { target = DHB }
+			annex_country = { target = WBA }
+			annex_country = { target = WBL }
+			annex_country = { target = KTR }
+			annex_country = { target = TRM }
+			annex_country = { target = QTI }
+			annex_country = { target = MHA }
+			annex_country = { target = LYF }
+			annex_country = { target = DTH }
+			annex_country = { target = WBH }
+			annex_country = { target = AWH }
+		    set_state_owner = 9413
+		    set_state_controller = 9413
+		    set_state_owner = 9414
+		    set_state_controller = 9414
+		    set_state_owner = 5827
+		    set_state_controller = 5827
+		    set_state_owner = 2871
+		    set_state_controller = 2871
+		    set_state_owner = 2870
+		    set_state_controller = 2870
+		    set_state_owner = 2866
+		    set_state_controller = 2866
+		    set_state_owner = 2861
+		    set_state_controller = 2861
+		    set_state_owner = 2863
+		    set_state_controller = 2863
+		    set_state_owner = 2864
+		    set_state_controller = 2864
+		    set_state_owner = 2865
+		    set_state_controller = 2865
+		    set_state_owner = 2867
+		    set_state_controller = 2867
+		    set_state_owner = 2869
+		    set_state_controller = 2869
+		    set_state_owner = 2873
+		    set_state_controller = 2873
+		    set_state_owner = 9389
+		    set_state_controller = 9389
+		    set_state_owner = 9388
+		    set_state_controller = 9388
+		    set_state_owner = 9387
+		    set_state_controller = 9387
+		    set_state_owner = 9386
+		    set_state_controller = 9386
+		    set_state_owner = 9385
+		    set_state_controller = 9385
+		    set_state_owner = 5328
+		    set_state_controller = 5328
+		    set_state_owner = 5650
+		    set_state_controller = 5650
+		    set_state_owner = 5649
+		    set_state_controller = 5649
+		    set_state_owner = 5648
+		    set_state_controller = 5648
+		    set_state_owner = 5327
+		    set_state_controller = 5327
+		    set_state_owner = 5612
+		    set_state_controller = 5612
+		    set_state_owner = 4208
+		    set_state_controller = 4208
+		    set_state_owner = 4209
+		    set_state_controller = 4209
+		    set_state_owner = 4211
+		    set_state_controller = 4211
+		    set_state_owner = 2333
+		    set_state_controller = 2333
+		    set_state_owner = 3875
+		    set_state_controller = 3875
+			set_politics = {
+	        ruling_party = democratic
+              }
+		    }  
+		OMA = {
+			annex_country = { target = OMN }
+			annex_country = { target = IMO }
+		    set_state_owner = 2868
+		    set_state_controller = 2868
+		    set_state_owner = 4210
+		    set_state_controller = 4210
+		    set_state_owner = 9412
+		    set_state_controller = 9412
+			set_politics = {
+	        ruling_party = democratic
+              }
+	    } 
+		IRQ = {
+			set_politics = {
+	        ruling_party = democratic
+              }
+		}
+		PAL = {
+			set_politics = {
+	        ruling_party = democratic
+              }
+			drop_cosmetic_tag = yes
+		}
+		SAU = {
+		    set_state_owner = 6650
+		    set_state_controller = 6650
+		    set_state_owner = 8070
+		    set_state_controller = 8070
+		    set_state_owner = 1172
+		    set_state_controller = 1172
+		    set_state_owner = 1176
+		    set_state_controller = 1176
+		    set_state_owner = 3353
+		    set_state_controller = 3353
+		    set_state_owner = 5884
+		    set_state_controller = 5884
+		}
+		TUR = {
+		    set_state_owner = 5699
+		    set_state_controller = 5699
+		    set_state_owner = 5689
+		    set_state_controller = 5689
+		    set_state_owner = 5688
+		    set_state_controller = 5688
+		    set_state_owner = 898
+		    set_state_controller = 898
+		    set_state_owner = 9848
+		    set_state_controller = 9848
+		}
+		every_state = { 
+            limit = { is_core_of = ISR
+                      NOT = { state = 1205 state = 3386 }}
+            ISR = { transfer_state = PREV }
+        }
+		ISR = {
+		    set_state_owner = 1204
+		    set_state_controller = 1204
+		    set_state_owner = 1206
+		    set_state_controller = 1206
+		    set_state_owner = 6796
+		    set_state_controller = 6796
+			set_capital = 3382
+		}
+		1104 = {
+		    set_demilitarized_zone = no
+		}
+		1105 = {
+		    set_demilitarized_zone = no
+		}
+		1173 = {
+		    set_demilitarized_zone = no
+		}
+		1174 = {
+		    set_demilitarized_zone = no
+		}
+		3354 = {
+		    set_demilitarized_zone = no
+		}
+		3355 = {
+		    set_demilitarized_zone = no
+		}
+		3359 = {
+		    set_demilitarized_zone = no
+		}
+		3575 = {
+		    set_demilitarized_zone = no
+		}
+		4331 = {
+		    set_demilitarized_zone = no
+		}
+		4332 = {
+		    set_demilitarized_zone = no
+		}
+		9095 = {
+		    set_demilitarized_zone = no
+		} 
+	}
+}		
+	option = { #reject
+		name = hgo.2.b
+		ai_chance = {
+			factor = 100
+		}
+
+	}
+}

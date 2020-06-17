@@ -207,6 +207,26 @@ do_spanish_renames = {
 	}
 }	
 do_german_renames = {
+
+	if = {
+		limit = {
+			state = 5386
+		}		
+		set_province_name = {
+			id = 14184
+			name = "Zakopane"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3552
+		}		
+		set_province_name = {
+			id = 3384
+			name = "Harpenthal"
+		}
+	}
 		
 	if = {
 		limit = {
@@ -1866,7 +1886,7 @@ do_german_renames = {
 		}		
 		set_province_name = {
 			id = 9548
-			name = "Czernowitz"
+			name = "Tschernowitz"
 		}
 	}
 	if = {
@@ -2043,8 +2063,245 @@ do_german_renames = {
 		}
 	}
 }
+do_japanese_renames = {
+
+	if = {
+		limit = {
+			state = 3535
+		}		
+		set_province_name = {
+			id = 11752
+			name = "Hoshakutera"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 6355
+		}		
+		set_state_name = "Shiretoko"
+	}
+		
+	if = {
+		limit = {
+			state = 6354
+		}		
+		set_state_name = "Toyohara"	
+		set_province_name = {
+			id = 12446
+			name = "Toyohara"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 6353
+		}		
+		set_state_name = "Tomarioru"
+	}
+		
+	if = {
+		limit = {
+			state = 6352
+		}		
+		set_state_name = "Chinnai"
+	}
+		
+	if = {
+		limit = {
+			state = 537
+		}		
+		set_state_name = "Shikuka"
+	}
+		
+	if = {
+		limit = {
+			state = 655
+		}		
+		set_state_name = "North Karafuto"
+	}
+
+	if = {
+		limit = {
+			state = 2191
+		}		
+		set_province_name = {
+			id = 957
+			name = "Urajiosutoku"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 608
+		}		
+		set_province_name = {
+			id = 9843
+			name = "Pekin"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1192
+		}		
+		set_province_name = {
+			id = 10068
+			name = "Tenshin"
+		}
+	}
+}
+
+do_chinese_renames = {
+
+	if = {
+		limit = {
+			state = 3535
+		}		
+		set_province_name = {
+			id = 11752
+			name = "Bailingmiao"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 608
+		}		
+		set_province_name = {
+			id = 9843
+			name = "Peking"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1192
+		}		
+		set_province_name = {
+			id = 10068
+			name = "Tientsin"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2191
+		}		
+		set_province_name = {
+			id = 957
+			name = "Haishenwai"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 409
+		}		
+		set_province_name = {
+			id = 12189
+			name = "Boli"
+		}
+	}
+}
 
 do_russian_renames = {
+
+	if = {
+		limit = {
+			state = 1878
+		}		
+		set_province_name = {
+			id = 9206
+			name = "Vyborg"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1081
+		}		
+		set_province_name = {
+			id = 415
+			name = "Pechory"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3552
+		}		
+		set_province_name = {
+			id = 3384
+			name = "Wolodino"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 6355
+		}		
+		set_state_name = "Novikovo"
+	}
+		
+	if = {
+		limit = {
+			state = 6354
+		}		
+		set_state_name = "Yuzhno-Sakhalinsk"	
+		set_province_name = {
+			id = 12446
+			name = "Yuzhno-Sakhalinsk"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 6353
+		}		
+		set_state_name = "Tomari"
+	}
+		
+	if = {
+		limit = {
+			state = 6352
+		}		
+		set_state_name = "Krasnogorsk"
+	}
+		
+	if = {
+		limit = {
+			state = 537
+		}		
+		set_state_name = "Poronaysk"
+	}
+		
+	if = {
+		limit = {
+			state = 655
+		}		
+		set_state_name = "North Sakhalin"
+	}
+
+	if = {
+		limit = {
+			state = 409
+		}		
+		set_province_name = {
+			id = 12189
+			name = "Khabarovsk"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2191
+		}		
+		set_province_name = {
+			id = 957
+			name = "Vladivostok"
+		}
+	}
 
 	if = {
 		limit = {
@@ -2831,6 +3088,56 @@ do_english_renames = {
 }
 
 do_latin_renames = {
+
+	if = {
+		limit = {
+			state = 3454
+		}		
+		set_province_name = {
+			id = 7059
+			name = "Lilybaeum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3457
+		}		
+		set_province_name = {
+			id = 4014
+			name = "Syracusae"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3451
+		}		
+		set_province_name = {
+			id = 6891
+			name = "Terranova Phausania"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 7538
+		}		
+		set_province_name = {
+			id = 17096
+			name = "Veronae"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4120
+		}		
+		set_province_name = {
+			id = 6980
+			name = "Vesta"
+		}
+	}
 
 	if = {
 		limit = {
@@ -5636,6 +5943,15 @@ do_ukrainian_renames = {
 }
 
 do_polish_renames = {
+	if = {
+		limit = {
+			state = 5386
+		}		
+		set_province_name = {
+			id = 14184
+			name = "Zakopane"
+		}
+	}
 
 	if = {
 		limit = {
@@ -5866,14 +6182,14 @@ do_polish_renames = {
 			name = "Częstochowa"
 		}
 	}
-
+	
 	if = {
 		limit = {
 			state = 3543
 		}		
 		set_province_name = {
 			id = 506
-			name = "Katovice"
+			name = "Katowice"
 		}
 	}
 
@@ -6821,6 +7137,141 @@ do_lithuanian_renames = {
 do_czech_renames = {
 	if = {
 		limit = {
+			state = 1110
+		}		
+		set_province_name = {
+			id = 732
+			name = "Linec"
+		}
+	}
+	if = {
+		limit = {
+			state = 93
+		}		
+		set_province_name = {
+			id = 572
+			name = "Luck"
+		}
+	}
+	if = {
+		limit = {
+			state = 80
+		}		
+		set_province_name = {
+			id = 9548
+			name = "Černovice"
+		}
+	}
+	if = {
+		limit = {
+			state = 10
+		}		
+		set_province_name = {
+			id = 3544
+			name = "Varšava"
+		}
+	}
+	if = {
+		limit = {
+			state = 3492
+		}		
+		set_province_name = {
+			id = 9508
+			name = "Lodž"
+		}
+	}
+	if = {
+		limit = {
+			state = 91
+		}		
+		set_province_name = {
+			id = 11479
+			name = "Lvov"
+		}
+	}
+	if = {
+		limit = {
+			state = 2752
+		}		
+		set_province_name = {
+			id = 9494
+			name = "Řešov"
+		}
+	}
+	if = {
+		limit = {
+			state = 5386
+		}		
+		set_province_name = {
+			id = 14184
+			name = "Zakopané"
+		}
+	}
+	if = {
+		limit = {
+			state = 88
+		}		
+		set_province_name = {
+			id = 9427
+			name = "Krakov"
+		}
+	}
+	if = {
+		limit = {
+			state = 2749
+		}		
+		set_province_name = {
+			id = 3586
+			name = "Čenstochová"
+		}
+	}
+	if = {
+		limit = {
+			state = 3543
+		}		
+		set_province_name = {
+			id = 506
+			name = "Katovice"
+		}
+	}
+    if = {
+		limit = {
+			state = 4829
+		}		
+		set_province_name = {
+			id = 11415
+			name = "Chotěbuz"
+		}
+	}
+	if = {
+		limit = {
+			state = 5075
+		}		
+		set_province_name = {
+			id = 3438
+			name = "Hlohov"
+		}
+	}
+	if = {
+		limit = {
+			state = 3530
+		}		
+		set_province_name = {
+			id = 552
+			name = "Lehnice"
+		}
+	}
+	if = {
+		limit = {
+			state = 67
+		}		
+		set_province_name = {
+			id = 9511
+			name = "Opolí"
+		}
+	}
+	if = {
+		limit = {
 			state = 5070
 		}		
 		set_province_name = {
@@ -7212,6 +7663,16 @@ do_italian_renames = {
 
 	if = {
 		limit = {
+			state = 3454
+		}		
+		set_province_name = {
+			id = 7059
+			name = "Marsala"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 42
 		}		
 		set_province_name = {
@@ -7220,6 +7681,16 @@ do_italian_renames = {
 		}
 	}
 
+	if = {
+		limit = {
+			state = 4930
+		}		
+		set_province_name = {
+			id = 12098
+			name = "Croton"
+		}
+	}
+	
 	if = {
 		limit = {
 			state = 5133
@@ -11769,6 +12240,356 @@ do_turkish_renames = {
 		set_province_name = {
 			id = 10007
 			name = "Rodos"
+		}
+	}
+}
+do_finnish_renames = {
+
+	if = {
+		limit = {
+			state = 149
+		}		
+		set_province_name = {
+			id = 3122
+			name = "Vaasa"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1097
+		}		
+		set_province_name = {
+			id = 3083
+			name = "Turku"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 111
+		}		
+		set_province_name = {
+			id = 11105
+			name = "Helsinki"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3859
+		}		
+		set_province_name = {
+			id = 3137
+			name = "Tampere"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1878
+		}		
+		set_province_name = {
+			id = 9206
+			name = "Vilpuri"
+		}
+	}
+}
+do_danish_renames = {
+
+	if = {
+		limit = {
+			state = 1878
+		}		
+		set_province_name = {
+			id = 9206
+			name = "Viborg"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 111
+		}		
+		set_province_name = {
+			id = 11105
+			name = "Helsingfors"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3859
+		}		
+		set_province_name = {
+			id = 3137
+			name = "Tammerfors"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1097
+		}		
+		set_province_name = {
+			id = 3083
+			name = "Åbo"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 149
+		}		
+		set_province_name = {
+			id = 3122
+			name = "Vasa"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 141
+		}		
+		set_province_name = {
+			id = 6050
+			name = "Stokholm"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 4077
+		}		
+		set_state_name = "West Gulland"
+	}
+		
+	if = {
+		limit = {
+			state = 124
+		}		
+		set_state_name = "East Gulland"
+	}
+
+	if = {
+		limit = {
+			state = 1781
+		}		
+		set_province_name = {
+			id = 383
+			name = "Gøteborg"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1128
+		}		
+		set_province_name = {
+			id = 9347
+			name = "Hamborg"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1349
+		}		
+		set_province_name = {
+			id = 11331
+			name = "Lybæk"
+		}
+    }
+
+	if = {
+		limit = {
+			state = 776
+		}		
+		set_province_name = {
+			id = 317
+			name = "Flensborg"
+		}
+    }
+
+	if = {
+		limit = {
+			state = 138
+		}		
+		set_province_name = {
+			id = 11215
+			name = "Karlskrone"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1132
+		}		
+		set_province_name = {
+			id = 9279
+			name = "Malmø"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 142
+		}		
+		set_province_name = {
+			id = 122
+			name = "Bjørgvin"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1272
+		}		
+		set_province_name = {
+			id = 3022
+			name = "Trondhjem"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 938
+		}		
+		set_province_name = {
+			id = 10
+			name = "Østlandet"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 100
+		}		
+		set_province_name = {
+			id = 12674
+			name = "Røgvigen"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4922
+		}		
+		set_province_name = {
+			id = 11380
+			name = "Nordflækken"
+		}
+	}
+}
+
+do_icelandic_renames = {
+
+	if = {
+		limit = {
+			state = 100
+		}		
+		set_province_name = {
+			id = 12674
+			name = "Reykjavík"
+		}
+	}
+}
+
+do_norwegian_renames = {
+
+	if = {
+		limit = {
+			state = 938
+		}		
+		set_province_name = {
+			id = 10
+			name = "Ostlandet"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1272
+		}		
+		set_province_name = {
+			id = 3022
+			name = "Trondheim"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 142
+		}		
+		set_province_name = {
+			id = 122
+			name = "Bergen"
+		}
+	}
+}
+do_swedish_renames = {
+
+	if = {
+		limit = {
+			state = 141
+		}		
+		set_province_name = {
+			id = 6050
+			name = "Stockholm"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 4077
+		}		
+		set_state_name = "West Gotland"
+	}
+		
+	if = {
+		limit = {
+			state = 124
+		}		
+		set_state_name = "East Gotland"
+	}
+
+	if = {
+		limit = {
+			state = 4922
+		}		
+		set_province_name = {
+			id = 11380
+			name = "Norrköping"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1781
+		}		
+		set_province_name = {
+			id = 383
+			name = "Göteborg"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 138
+		}		
+		set_province_name = {
+			id = 11215
+			name = "Karlskrona"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1132
+		}		
+		set_province_name = {
+			id = 9279
+			name = "Malmö"
 		}
 	}
 }

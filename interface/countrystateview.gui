@@ -45,7 +45,7 @@ guiTypes = {
 						
 			instantTextboxType = {
 				name = "state_name"
-				position = { x = 20 y = 25 }
+				position = { x = 65 y = 25 }
 				textureFile = ""
 				font = "hoi_18mbs"
 				text = "STATE_NAME_TEST"

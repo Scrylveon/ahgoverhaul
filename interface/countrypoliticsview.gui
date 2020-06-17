@@ -966,7 +966,7 @@ guiTypes = {
 	}
 	
 	containerWindowType = {
-		name = "political_info_entry"
+		name = "political_party_info_entry"
 		size = { width = 330 height = 18 }
 		clipping = no
 

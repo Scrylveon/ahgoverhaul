@@ -179,12 +179,29 @@ on_actions = {
 						}
 						do_latin_renames = yes
 					}
+					
 					### UKR ###
 					if = {
 						limit = {
 							ROOT = {tag = UKR}
 						}
 						do_ukrainian_renames = yes
+					}
+					
+					### JAP ###
+					if = {
+						limit = {
+							ROOT = {OR = {tag = JAP tag = MEN tag = PSC tag = EHC}}
+						}
+						do_japanese_renames = yes
+					}
+					
+					### CHI ###
+					if = {
+						limit = {
+							ROOT = {OR = {tag = CHI tag = MAN}}
+						}
+						do_chinese_renames = yes
 					}
 
 					### RUS ###
@@ -242,6 +259,46 @@ on_actions = {
 							ROOT = {tag = PER}
 						}
 						do_persian_renames = yes
+					}
+					
+					### FIN ###
+					if = {
+						limit = {
+							ROOT = {tag = FIN}
+						}
+						do_finnish_renames = yes
+					}
+					
+					### ICE ###
+					if = {
+						limit = {
+							ROOT = {tag = ICE}
+						}
+						do_icelandic_renames = yes
+					}
+					
+					### NOR ###
+					if = {
+						limit = {
+							ROOT = {tag = NOR}
+						}
+						do_norwegian_renames = yes
+					}
+					
+					### DEN ###
+					if = {
+						limit = {
+							ROOT = {tag = DEN}
+						}
+						do_danish_renames = yes
+					}
+					
+					### SWE ###
+					if = {
+						limit = {
+							ROOT = {tag = SWE}
+						}
+						do_swedish_renames = yes
 					}
 			}
 		}
