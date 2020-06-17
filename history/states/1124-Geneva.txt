@@ -13,7 +13,7 @@ state={
 		add_core_of = RHD
 		add_core_of = KVD
 		victory_points = {
-			6666 1 
+			6666 25 
 		}
 	}
 
