@@ -23,8 +23,8 @@ set_stability = 0.8
 		communism
 			 = 5
 		}
-	set_politics = { 
- ruling_party = democratic
+set_politics = { 
+	ruling_party = democratic
 	last_election = "1934.6.3"
 	election_frequency = 36
 	elections_allowed = yes
@@ -35,7 +35,7 @@ create_country_leader = {
 	desc = ""
 	picture = "To_be_added.dds"
 	expire = ""
-	ideology = democratic
+	ideology = liberalism
 	traits = {
 	}
 }

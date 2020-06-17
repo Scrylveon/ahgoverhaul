@@ -35,7 +35,7 @@ create_country_leader = {
 	desc = ""
 	picture = "To_be_added.dds"
 	expire = ""
-	ideology = democratic
+	ideology = liberalism
 	traits = {
 	}
 }

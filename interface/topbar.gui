@@ -31,17 +31,6 @@ guiTypes = {
 			Orientation = "LOWER_LEFT"
 			alwaystransparent = yes
 		}
-		instantTextBoxType = {
-			name ="hgo"
-			position = { x= 1051 y = 0}
-			font = "hoi_36header"
-			text = "Historic Geographical Overhaul"
-			format = left
-			maxWidth = 500
-			maxHeight = 24
-			#fixedsize = yes
-			pdx_tooltip = SCORE_TOOLTIP
-		}
 		
 #		iconType = {
 #			name ="topbar_date_overlay"
@@ -854,11 +843,11 @@ guiTypes = {
 
 		instantTextBoxType = {
 			name ="topbar_power_ranking"
-			position = { x= 100 y = 0}
+			position = { x= 102 y = 0}
 			font = "hoi_36header"
 			text = "[ROOT.GetNameDef]"
 			format = left
-			maxWidth = 910
+			maxWidth = 1370
 			maxHeight = 24
 			#fixedsize = yes
 			pdx_tooltip = SCORE_TOOLTIP
