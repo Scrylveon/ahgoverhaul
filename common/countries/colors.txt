@@ -4824,3 +4824,103 @@ NSA = {
 color = rgb { 154 77 55 }
 color_ui = rgb { 154 77 55 }
 }
+BWH = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+CH2 = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+DWR = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+JRN = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+KYM = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+LAG = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+LNG = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+MHM = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+MSO = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+MRW = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+MWD = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+MWN = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+MWL = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+MPL = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+MYL = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+NBP = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+NLW = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+NKH = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+NNS = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+NST = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+PAG = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+RBR = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+SLL = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+SOG = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+MWR = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}

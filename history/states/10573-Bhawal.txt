@@ -5,7 +5,8 @@ state={
 		20044 
 	}
 	history={
-	    owner = KSS
+	    owner = BWH
+        add_core_of = BWH
         add_core_of = KSS
         add_core_of = PAK
         add_core_of = BAN
