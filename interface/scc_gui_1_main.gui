@@ -8,8 +8,10 @@ guiTypes = {
 
 		buttonType = {
 			name = "main_open"
-			quadTextureSprite = "GFX_drop_down_button_down"
-			position = { x = 0 y = 0 }
+			quadTextureSprite = "GFX_empty_button"
+                        buttonText = "SCC"
+                        buttonFont = "hoi_36header"
+			position = { x = 85 y = -10 }
 			clicksound = click_ok
 			oversound = ui_menu_over
 			pdx_tooltip = "title_1"
@@ -35,8 +37,10 @@ guiTypes = {
 
 		buttonType = {
 			name = "main_close"
-			quadTextureSprite = "GFX_drop_down_button_up"
-			position = { x = 0 y = 0 }
+			quadTextureSprite = "GFX_empty_button"
+                        buttonText = "SCC"
+                        buttonFont = "hoi_36header"
+			position = { x = 85 y = -10 }
 			clicksound = click_ok
 			oversound = ui_menu_over
 			pdx_tooltip = "title_1"

@@ -12,8 +12,6 @@ on_actions = {
 						limit = {
 							ROOT = {OR = {tag = GER
 								  		  is_subject_of = GER
-										  tag = SWI
-								  		  is_subject_of = SWI
 										  tag = AUS
 										  is_subject_of = AUS
 										  tag = DAN}}										
@@ -43,6 +41,14 @@ on_actions = {
 							ROOT = {tag = LIT}
 						}
 						do_lithuanian_renames = yes
+					}
+
+					### SWI ###
+					if = {
+						limit = {
+							ROOT = {tag = SWI}
+						}
+						do_swiss_renames = yes
 					}
 
 					### LAT ###

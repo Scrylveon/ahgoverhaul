@@ -210,6 +210,97 @@ do_german_renames = {
 
 	if = {
 		limit = {
+			state = 151
+		}		
+		set_province_name = {
+			id = 663
+			name = "Zürich"
+		}
+	}	
+	if = {
+		limit = {
+			state = 1123
+		}		
+		set_province_name = {
+			id = 9620
+			name = "Bern"
+		}
+	}
+	if = {
+		limit = {
+			state = 5523
+		}		
+		set_province_name = {
+			id = 15944
+			name = "St. Moritz"
+		}
+	}
+	if = {
+		limit = {
+			state = 2334
+		}		
+		set_province_name = {
+			id = 13819
+			name = "Schaffhausen"
+		}
+	}
+	if = {
+		limit = {
+			state = 3632
+		}		
+		set_province_name = {
+			id = 11604
+			name = "Luzern"
+		}
+	}
+	if = {
+		limit = {
+			state = 5509
+		}		
+		set_province_name = {
+			id = 15930
+			name = "Basel"
+		}
+	}
+	if = {
+		limit = {
+			state = 10591
+		}		
+		set_province_name = {
+			id = 20094
+			name = "Losanen"
+		}
+	}
+	if = {
+		limit = {
+			state = 840
+		}		
+		set_province_name = {
+			id = 11590
+			name = "Muchtern"
+		}
+	}
+	if = {
+		limit = {
+			state = 3628
+		}		
+		set_province_name = {
+			id = 6666
+			name = "Genf"
+		}
+	}
+	if = {
+		limit = {
+			state = 10592
+		}		
+		set_province_name = {
+			id = 20095
+			name = "Lauis"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 5386
 		}		
 		set_province_name = {
@@ -1102,25 +1193,6 @@ do_german_renames = {
 		set_province_name = {
 			id = 13219
 			name = "Vaduz"
-		}
-	}
-
-	if = {
-		limit = {
-			state = 151
-		}		
-		set_province_name = {
-			id = 663
-			name = "Zürich"
-		}
-	}	
-	if = {
-		limit = {
-			state = 1123
-		}		
-		set_province_name = {
-			id = 9620
-			name = "Bern"
 		}
 	}	
 	if = {
@@ -5403,6 +5475,78 @@ do_latin_renames = {
 			name = "Turicum"
 		}
 	}	
+	if = {
+		limit = {
+			state = 5523
+		}		
+		set_province_name = {
+			id = 15944
+			name = "Fanum Sancti Mauritii"
+		}
+	}
+	if = {
+		limit = {
+			state = 2334
+		}		
+		set_province_name = {
+			id = 13819
+			name = "Scafusa"
+		}
+	}
+	if = {
+		limit = {
+			state = 3632
+		}		
+		set_province_name = {
+			id = 11604
+			name = "Lucernae"
+		}
+	}
+	if = {
+		limit = {
+			state = 5509
+		}		
+		set_province_name = {
+			id = 15930
+			name = "Basilia"
+		}
+	}
+	if = {
+		limit = {
+			state = 10591
+		}		
+		set_province_name = {
+			id = 20094
+			name = "Lausonium"
+		}
+	}
+	if = {
+		limit = {
+			state = 840
+		}		
+		set_province_name = {
+			id = 11590
+			name = "Monasteriolium"
+		}
+	}
+	if = {
+		limit = {
+			state = 3628
+		}		
+		set_province_name = {
+			id = 6666
+			name = "Genava"
+		}
+	}
+	if = {
+		limit = {
+			state = 10592
+		}		
+		set_province_name = {
+			id = 20095
+			name = "Luganum"
+		}
+	}
 
 	if = {
 		limit = {
@@ -5938,6 +6082,100 @@ do_ukrainian_renames = {
 		set_province_name = {
 			id = 9461
 			name = "Voroshilovgrad"
+		}
+	}
+}
+
+do_swiss_renames = {
+
+	if = {
+		limit = {
+			state = 151
+		}		
+		set_province_name = {
+			id = 663
+			name = "Zürich"
+		}
+	}	
+	if = {
+		limit = {
+			state = 1123
+		}		
+		set_province_name = {
+			id = 9620
+			name = "Bern"
+		}
+	}
+	if = {
+		limit = {
+			state = 5523
+		}		
+		set_province_name = {
+			id = 15944
+			name = "St. Moritz"
+		}
+	}
+	if = {
+		limit = {
+			state = 2334
+		}		
+		set_province_name = {
+			id = 13819
+			name = "Schaffhausen"
+		}
+	}
+	if = {
+		limit = {
+			state = 3632
+		}		
+		set_province_name = {
+			id = 11604
+			name = "Luzern"
+		}
+	}
+	if = {
+		limit = {
+			state = 5509
+		}		
+		set_province_name = {
+			id = 15930
+			name = "Basel"
+		}
+	}
+	if = {
+		limit = {
+			state = 10591
+		}		
+		set_province_name = {
+			id = 20094
+			name = "Lausanne"
+		}
+	}
+	if = {
+		limit = {
+			state = 840
+		}		
+		set_province_name = {
+			id = 11590
+			name = "Montreux"
+		}
+	}
+	if = {
+		limit = {
+			state = 3628
+		}		
+		set_province_name = {
+			id = 6666
+			name = "Genève"
+		}
+	}
+	if = {
+		limit = {
+			state = 10592
+		}		
+		set_province_name = {
+			id = 20095
+			name = "Lugano"
 		}
 	}
 }
@@ -7660,6 +7898,78 @@ do_yugoslavian_renames = {
 	}
 }
 do_italian_renames = {
+	if = {
+		limit = {
+			state = 5523
+		}		
+		set_province_name = {
+			id = 15944
+			name = "San Maurizio"
+		}
+	}
+	if = {
+		limit = {
+			state = 2334
+		}		
+		set_province_name = {
+			id = 13819
+			name = "Sciaffusa"
+		}
+	}
+	if = {
+		limit = {
+			state = 3632
+		}		
+		set_province_name = {
+			id = 11604
+			name = "Lucerna"
+		}
+	}
+	if = {
+		limit = {
+			state = 5509
+		}		
+		set_province_name = {
+			id = 15930
+			name = "Basilea"
+		}
+	}
+	if = {
+		limit = {
+			state = 10591
+		}		
+		set_province_name = {
+			id = 20094
+			name = "Losanna"
+		}
+	}
+	if = {
+		limit = {
+			state = 840
+		}		
+		set_province_name = {
+			id = 11590
+			name = "Monasterolo"
+		}
+	}
+	if = {
+		limit = {
+			state = 10592
+		}		
+		set_province_name = {
+			id = 20095
+			name = "Lugano"
+		}
+	}
+	if = {
+		limit = {
+			state = 3628
+		}		
+		set_province_name = {
+			id = 6666
+			name = "Ginevra"
+		}
+	}
 
 	if = {
 		limit = {
@@ -9135,6 +9445,78 @@ do_french_renames = {
 			name = "Berne"
 		}
 	}	
+	if = {
+		limit = {
+			state = 5523
+		}		
+		set_province_name = {
+			id = 15944
+			name = "Saint-Maurice"
+		}
+	}
+	if = {
+		limit = {
+			state = 2334
+		}		
+		set_province_name = {
+			id = 13819
+			name = "Schaffhouse"
+		}
+	}
+	if = {
+		limit = {
+			state = 3632
+		}		
+		set_province_name = {
+			id = 11604
+			name = "Lucerne"
+		}
+	}
+	if = {
+		limit = {
+			state = 5509
+		}		
+		set_province_name = {
+			id = 15930
+			name = "Bâle"
+		}
+	}
+	if = {
+		limit = {
+			state = 10591
+		}		
+		set_province_name = {
+			id = 20094
+			name = "Lausanne"
+		}
+	}
+	if = {
+		limit = {
+			state = 840
+		}		
+		set_province_name = {
+			id = 11590
+			name = "Montreux"
+		}
+	}
+	if = {
+		limit = {
+			state = 3628
+		}		
+		set_province_name = {
+			id = 6666
+			name = "Genève"
+		}
+	}
+	if = {
+		limit = {
+			state = 10592
+		}		
+		set_province_name = {
+			id = 20095
+			name = "Lugano"
+		}
+	}
 
 	if = {
 		limit = {

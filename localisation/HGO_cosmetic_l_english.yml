@@ -1604,17 +1604,20 @@
 
  #misc. Europe
  BRIT_democratic:0 "United Kingdom of Great Britain and Ireland"
- BRIT_democratic_DEF:0 "The United Kingdom of Great Britain and Ireland"
+ BRIT_conservative_monarchism:0 "United Kingdom of Great Britain and Ireland"
  BRIT_neutrality:0 "Great Britain"
- BRIT_neutrality_DEF:0 "Great Britain"
  BRIT_fascism:0 "British Empire"
- BRIT_fascism_DEF:0 "The British Empire"
  BRIT_communism:0 "Union of Britain"
+ BRIT_democratic_DEF:0 "The United Kingdom of Great Britain and Ireland"
+ BRIT_conservative_monarchism_DEF:0 "The United Kingdom of Great Britain and Ireland"
+ BRIT_fascism_DEF:0 "The British Empire"
+ BRIT_neutrality_DEF:0 "Great Britain"
  BRIT_communism_DEF:0 "The Union of Britain"
  BRIT_democratic_ADJ:0 "British"
  BRIT_neutrality_ADJ:0 "British"
  BRIT_fascism_ADJ:0 "British"
  BRIT_communism_ADJ:0 "British"
+ BRIT_conservative_monarchism_ADJ:0 "British"
 
  ENG_IRE_democratic:0 "United Kingdom of England and Ireland"
  ENG_IRE_democratic_DEF:0 "The United Kingdom of England and Ireland"

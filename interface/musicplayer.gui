@@ -31,17 +31,16 @@ guiTypes = {
 				alwaystransparent = yes
 			}
 			
-			instantTextboxType = {
-				name = "cake"
-				position = { x = 15 y = 84 }
-				textureFile = ""
-				font = "hoi4_typewriter22"
-				borderSize = {x = 990 y = 990}
-				text = "RADIO_TITLE"
-				maxWidth = 150
-				maxHeight = 20
-				format = center	
-			}
+#			instantTextboxType = {
+#				name = "cake"
+#				position = { x = 0 y = 0 }
+#				font = "hoi4_typewriter22"
+#				borderSize = {x = 99 y = 99}
+#				text = "RADIO_TITLEhfvjhvkycy"
+#				maxWidth = 150
+#				maxHeight = 40
+#				format = center	
+#			}
 			
 			
 		}

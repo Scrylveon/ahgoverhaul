@@ -53,7 +53,7 @@ guiTypes = {
 			buttonFont = "hoi_24header"
 			clicksound = click_default
 			oversound = ui_menu_over
-			web_link = "https://discord.gg/8HSP3dR"
+			web_link = "https://discord.gg/RGmcEQ2"
 		}
 		
 		buttonType = {

@@ -173,6 +173,8 @@
  TPT_THREAT_SUB_5:0 "§HAdd World Tension Amount: §G-5§!§!"
  TPT_THREAT_SUB_20:0 "§HAdd World Tension Amount: §G-20§!§!"
  
+ TPT_DROP_COSMETIC_TAG:0 "§HUse this to remove cosmetic tags from all selected nations§!"
+ 
  tpt_key_trade_no:0 "Opinion"
  tpt_key_trade_yes:0 "Trade Relation"
  

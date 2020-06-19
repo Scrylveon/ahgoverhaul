@@ -32,6 +32,15 @@ guiTypes = {
 			alwaystransparent = yes
 		}
 		
+		buttonType = { 
+			name = "discord"
+			position = { x = -55 y = -5 }
+			quadTextureSprite ="GFX_discord_button"
+			clicksound = click_ok
+			Orientation = "UPPER_RIGHT"
+			pdx_tooltip = "DISCORD"
+		}
+		
 #		iconType = {
 #			name ="topbar_date_overlay"
 #			spriteType = "GFX_topbar_date_overlay"
@@ -547,7 +556,7 @@ guiTypes = {
 
 		buttonType = {
 			name = "menu_button"
-			position = { x = -35 y = 7 }
+			position = { x = -85 y = 7 }
 			quadTextureSprite ="GFX_menu_button"
 			buttonText = ""
 			buttonFont = "Main_14_black"
@@ -847,7 +856,7 @@ guiTypes = {
 			font = "hoi_36header"
 			text = "[ROOT.GetNameDef]"
 			format = left
-			maxWidth = 1370
+			maxWidth = 1460
 			maxHeight = 24
 			#fixedsize = yes
 			pdx_tooltip = SCORE_TOOLTIP
