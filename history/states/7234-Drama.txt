@@ -9,6 +9,9 @@ state={
         add_core_of = GRE
 	add_core_of = BUL
 	add_core_of = THR
+		victory_points = {
+			9791 1 
+		}
     }	
 	manpower=1000
 	state_category = pastoral

@@ -8,6 +8,9 @@ state={
 	    owner = BUL
         add_core_of = BUL
 	add_core_of = THR
+		victory_points = {
+			9612 1 
+		}
     }	
 	manpower=1000
 	state_category = pastoral
