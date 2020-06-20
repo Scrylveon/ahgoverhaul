@@ -1740,6 +1740,9 @@
  ENG_HOL_communism_DEF:0 "The Anglo-Dutch Workers' Union"
  ENG_HOL_ADJ:0 "Anglo-Dutch"
 
+ INS_HOL_conservative_monarchism:0 "Colony of the Dutch East Indies"
+ INS_HOL_conservative_monarchism_DEF:0 "The Colony of the Dutch East Indies"
+ 
  BALK_fascism:0 "Balkan Empire"
  BALK_fascism_DEF:0 "The Balkan Empire"
  BALK_democratic:0 "Balkan Federation"
