@@ -15,11 +15,11 @@ set_convoys = 10
 
 	set_popularities = {
         democratic =  10
-        communism =  90
+        vanguardism =  90
 	}
 	
 	set_politics = { 
- ruling_party = communism
+ ruling_party = vanguardism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -31,7 +31,7 @@ create_country_leader = {
     desc = ""
     picture = "Musabekov.dds"
     expire = "1965.1.1"
-    ideology = stalinism
+    ideology = totsoc
     traits = {
         #
     }

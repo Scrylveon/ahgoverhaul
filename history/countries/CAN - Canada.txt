@@ -29,7 +29,7 @@ set_technology = {
 }
 
 set_popularities = {
-	democratic 
+	democratic_monarchism 
 		= 98
 	fascism
 		= 1
@@ -38,7 +38,7 @@ set_popularities = {
 	}
 
 set_politics = { 
-	ruling_party = democratic
+	ruling_party = democratic_monarchism
 	last_election = "1935.10.14"
 	election_frequency = 60
 	elections_allowed = yes
@@ -49,7 +49,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_Canada_Mackenzie_King.dds"
 	expire = "1965.1.1"
-	ideology = liberalism
+	ideology = liberal_constitutionalism
 	traits = {
 		#
 	}

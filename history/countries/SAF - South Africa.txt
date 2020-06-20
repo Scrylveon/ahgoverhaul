@@ -70,7 +70,7 @@ set_convoys = 25
 
 
 create_country_leader = {
-	name = "J. B. M. Hertzog"
+	name = "James Barry Munnik Hertzog"
 	desc = "POLITICS_J_B_M_HERTZOG_DESC"
 	picture = "SAF_james_hertzog.dds"
 	expire = "1965.1.1"

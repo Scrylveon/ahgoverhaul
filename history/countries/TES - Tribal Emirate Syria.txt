@@ -7,7 +7,7 @@ set_convoys = 10
 set_popularities = {
         monarchism = 2
         democratic = 5
-        communism = 40
+        vanguardism = 40
         fascism = 40
         neutrality = 13
 
@@ -15,7 +15,7 @@ set_popularities = {
 
 set_politics = {
 	
-	ruling_party = communism
+	ruling_party = vanguardism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -36,7 +36,7 @@ create_country_leader = {
 	desc = ""
 	picture = "TES_com.dds"
 	expire = "1965.1.1"
-	ideology = stalinism
+	ideology = totsoc
 	traits = {
 	}
 }

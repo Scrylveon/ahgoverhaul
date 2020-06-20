@@ -83,7 +83,7 @@ create_country_leader = {
 	desc = "POLITICS_HUBERT_PIERLOT_DESC"
 	picture = "Portrait_Belgium_Leopold_iii.dds"
 	expire = "1965.1.1"
-	ideology = conservatism
+	ideology = conservative_constitutionalism
 	traits = {
 		#
 	}

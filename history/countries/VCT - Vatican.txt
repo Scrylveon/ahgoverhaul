@@ -13,11 +13,11 @@ set_technology = {
 	set_popularities = {
 		democratic 
 			 = 0
-		monarchism
+		theocratic
 			 = 100
 		}
 	set_politics = { 
- ruling_party = monarchism
+ ruling_party = theocratic
 	last_election = "1932.2.6"
 	election_frequency = 60
 	elections_allowed = yes
@@ -36,7 +36,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_Vatican_Pope.dds"
 	expire = "1939.2.11"
-	ideology = absolutism
+	ideology = christian
 	traits = {
 		#
 	}

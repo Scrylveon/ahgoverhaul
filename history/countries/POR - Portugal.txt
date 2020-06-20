@@ -30,11 +30,11 @@ set_convoys = 50
 			 = 5
 		communism
 			 = 5
-		neutrality
+		republican_fascism
 			 = 90
 		}
 	set_politics = { 
- ruling_party = neutrality
+ ruling_party = republican_fascism
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = yes
@@ -50,7 +50,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_Oscar_Carmona.dds"
 	expire = "1965.1.1"
-	ideology = despotism
+	ideology = repfash
 	traits = {
 		#
 	}

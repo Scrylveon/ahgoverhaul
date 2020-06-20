@@ -34,11 +34,11 @@ set_technology = {
 			
 		communism
 			 = 0
-		neutrality 
+		liberal_republic 
 			 = 90
 		}
 	set_politics = { 
- ruling_party = neutrality
+ ruling_party = liberal_republic
 	last_election = "1935.2.8"
 	election_frequency = 48
 	elections_allowed = yes
@@ -65,7 +65,7 @@ create_country_leader = {
 	desc = "POLITICS_MUSTAFA_KEMAL_ATATÜRK_DESC"
 	picture = "gfx/leaders/TUR/Portrait_Turkey_Mustafa_Kemal_Ataturk.dds"
 	expire = "1938.11.10"
-	ideology = despotism
+	ideology = socdem
 	traits = {
 		#
 	}

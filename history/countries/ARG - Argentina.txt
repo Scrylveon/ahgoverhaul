@@ -29,11 +29,11 @@ set_convoys = 120
 			 = 5
 		communism
 			 = 12
-		neutrality 
+		stratocratic 
 			 = 78
 		}
 	set_politics = { 
- ruling_party = neutrality
+ ruling_party = stratocratic
 	last_election = "1931.11.8"
 	election_frequency = 72
 	elections_allowed = yes
@@ -44,7 +44,7 @@ create_country_leader = {
 	desc = "POLITICS_AGUSTIN_PEDRO_JUSTO_DESC"
 	picture = "Portrait_Argentina_Agustin_Pedro_Justo.dds"
 	expire = "1965.1.1"
-	ideology = despotism
+	ideology = militarism
 	traits = {
 		#
 	}

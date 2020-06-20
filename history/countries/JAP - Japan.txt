@@ -128,7 +128,7 @@ set_convoys = 400
 	set_popularities = {
 		democratic 
 			 = 0
-		neutrality
+		authoritarian_monarchism
 			 = 60
 		communism
 			 = 0
@@ -136,7 +136,7 @@ set_convoys = 400
 			
 		}
 	set_politics = { 
- ruling_party = neutrality
+ ruling_party = authoritarian_monarchism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -161,7 +161,7 @@ create_country_leader = {
 	desc = "POLITICS_Hirohito_DESC"
 	picture = "Portrait_Japan_Hirohito.dds"
 	expire = "1989.1.1"
-	ideology = despotism
+	ideology = authmon
 	traits = {
 		warrior_code
 		emperor_showa

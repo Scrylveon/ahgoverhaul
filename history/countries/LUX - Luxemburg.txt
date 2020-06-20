@@ -16,7 +16,7 @@ set_stability = 0.8
 
 
 	set_popularities = {
-		democratic 
+		conservative_monarchism 
 			 = 92
 		fascism
 			 = 3
@@ -24,7 +24,7 @@ set_stability = 0.8
 			 = 5
 		}
 	set_politics = { 
- ruling_party = democratic
+ ruling_party = conservative_monarchism
 	last_election = "1934.6.3"
 	election_frequency = 36
 	elections_allowed = yes
@@ -36,7 +36,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_Charlotte_Luxembourg.dds"
 	expire = "1965.1.1"
-	ideology = conservatism
+	ideology = conservative_constitutionalism
 	traits = {
 		#
 	}
