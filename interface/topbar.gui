@@ -39,6 +39,7 @@ guiTypes = {
 			clicksound = click_ok
 			Orientation = "UPPER_RIGHT"
 			pdx_tooltip = "DISCORD"
+			web_link = "https://discord.gg/FQ3Qam5"
 		}
 		
 #		iconType = {
