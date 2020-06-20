@@ -104,6 +104,20 @@
  DGC_ENG_DEF:0 "British Indian Ocean Territory"
  DGC_ENG_ADJ:0 "British Indian Ocean Territory"
 
+ RAJ_ENG_democratic:0 "Indian Empire"
+ RAJ_ENG_democratic_DEF:0 "The Indian Empire"
+ RAJ_ENG_neutrality:0 "Indian Empire"
+ RAJ_ENG_neutrality_DEF:0 "The Indian Empire"
+ RAJ_ENG_subject:0 "$OVERLORDADJ$ India"
+ RAJ_ENG_autonomy_dominion:0 "Dominion of India"
+ RAJ_ENG_autonomy_dominion_DEF:0 "The Dominion of India"
+ 
+ 
+ CAN_ENG_democratic:0 "Dominion of Canada"
+ CAN_ENG_democratic_DEF:0 "The Dominion of Canada"
+ CAN_ENG_neutrality:0 "Dominion of Canada"
+ CAN_ENG_neutrality_DEF:0 "The Dominion of Canada"
+ 
  OMN_RAJ_fascism:0 "Omani Caliphate"
  OMN_RAJ_fascism_DEF:0 "The Omani Caliphate"
  OMN_RAJ_democratic:0 "Sultanate of Muscat and Oman"

@@ -2,6 +2,7 @@
 
 oob = "INS_1936"
 
+set_cosmetic_tag = INS_HOL #Dutch East Indies
 set_research_slots = 2
 
 # Starting tech
@@ -99,6 +100,5 @@ create_country_leader = {
 	}
 }
 
-set_cosmetic_tag = INS_HOL #Dutch East Indies
 
 
