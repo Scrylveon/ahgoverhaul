@@ -16,7 +16,7 @@ set_convoys = 10
 
 
 set_popularities = {
-	        democratic = 70
+	        liberal_republic = 70
         communism = 5
         fascism = 15
         neutrality = 10
@@ -24,7 +24,7 @@ set_popularities = {
 }
 	
 	set_politics = { 
- ruling_party = democratic
+ ruling_party = liberal_republic
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -36,7 +36,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Lawrence_Cramer.dds"
 	expire = "1965.1.1"
-	ideology = liberalism
+	ideology = socdem
 	traits = {
 		#
 	}

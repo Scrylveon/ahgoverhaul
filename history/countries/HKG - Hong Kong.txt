@@ -38,11 +38,11 @@ set_war_support = 0.05
 		communism
 			 = 15
 			
-		neutrality
+		authoritarian_monarchism
 			 = 84
 		}
 	set_politics = { 
- ruling_party = neutrality
+ ruling_party = authoritarian_monarchism
 	last_election = "1935.12.12"	
 	election_frequency = 48
 	elections_allowed = no
@@ -66,7 +66,7 @@ create_country_leader = {
 	desc = "POLITICS_ANDREW_CALDECOTT_DESC"
 	picture = "Portrait_Sir_Andrew_Caldecott.dds"
 	expire = "1937.4.16"
-	ideology = despotism
+	ideology = authmon
 	traits = {
 		#
 	}

@@ -1,6 +1,8 @@
 ﻿l_english:
  INS_HOL_conservative_monarchism:0 "Colony of the Dutch East Indies"
  INS_HOL_conservative_monarchism_DEF:0 "The Colony of the Dutch East Indies"
+ INS_HOL_authoritarian_monarchism:0 "Colony of the Dutch East Indies"
+ INS_HOL_authoritarian_monarchism_DEF:0 "The Colony of the Dutch East Indies"
  INS_subject:0 "Colony of the $OVERLORDADJ$ East Indies"
  INS_subject_DEF:0 "The Colony of the $OVERLORDADJ$ East Indies"
 
@@ -626,6 +628,9 @@
  MAN_JAP_neutrality:0 "Great Empire of Manchuria"
  MAN_JAP_neutrality_DEF:0 "The Great Empire of Manchuria"
  MAN_JAP_neutrality_ADJ:0 "Manchurian"
+ MAN_JAP_authoritarian_monarchism:0 "Great Empire of Manchuria"
+ MAN_JAP_authoritarian_monarchism_DEF:0 "The Great Empire of Manchuria"
+ MAN_JAP_authoritarian_monarchism_ADJ:0 "Manchurian"
  
  CHI_JAP_fascism_autonomy_wtt_imperial_protectorate:0 "Reorganized Government of China"
  CHI_JAP_fascism_autonomy_wtt_imperial_associate:0 "Chinese Constitutional Republic"

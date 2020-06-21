@@ -7,7 +7,7 @@ set_convoys = 10
 
 set_popularities = {
         monarchism = 0
-        neutrality = 70
+        authoritarian_monarchism = 70
         democratic = 20
         communism = 5
         fascism = 5
@@ -16,7 +16,7 @@ set_popularities = {
 
 set_politics = {
 	
-	ruling_party = neutrality
+	ruling_party = authoritarian_monarchism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -29,7 +29,7 @@ create_country_leader = {
 	name = "Sir Joseph Aloysius Byrne"
 	picture = "Portrait_Sir_Joseph_Aloysius_Byrne.dds"
 	expire = "1965.1.1"
-	ideology = centrism
+	ideology = authmon
 	traits = {
 		#
 	}

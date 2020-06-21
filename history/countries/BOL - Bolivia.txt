@@ -21,11 +21,11 @@ set_country_flag = monroe_doctrine
 			 = 0
 		communism
 			 = 0
-		democratic_monarchism 
+		liberal_republic 
 			 = 100
 		}
 	set_politics = { 
- ruling_party = democratic_monarchism
+ ruling_party = liberal_republic
 	last_election = "1934.11.11"
 	election_frequency = 72
 	elections_allowed = yes
@@ -36,7 +36,7 @@ create_country_leader = {
 	desc = "POLITICS_JOSE_LUIS_TEJADA_SORZANO_DESC"
 	picture = "Portrait_Bolivia_Jose_Luis_Tejada_Sorzano.dds"
 	expire = "1965.1.1"
-	ideology = liberal_constitutionalism 
+	ideology = socdem 
 	traits = {
 		#
 	}

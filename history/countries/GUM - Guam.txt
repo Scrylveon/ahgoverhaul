@@ -15,7 +15,7 @@ set_cosmetic_tag = GUM_USA
 
 
 set_popularities = {
-	        democratic = 70
+	        stratocratic = 70
         communism = 5
         fascism = 15
         neutrality = 10
@@ -23,7 +23,7 @@ set_popularities = {
 }
 	
 	set_politics = { 
- ruling_party = democratic
+ ruling_party = stratocratic
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -35,7 +35,7 @@ create_country_leader = {
 	desc = ""
 	picture = "George_Alexander.dds"
 	expire = "1965.1.1"
-	ideology = liberalism
+	ideology = militarism
 	traits = {
 		#
 	}

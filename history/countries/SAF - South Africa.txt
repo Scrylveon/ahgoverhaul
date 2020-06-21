@@ -54,7 +54,7 @@ set_convoys = 25
 
 
 	set_popularities = {
-		democratic 
+		conservative_monarchism 
 			 = 75
 		fascism
 			 = 20
@@ -62,7 +62,7 @@ set_convoys = 25
 			 = 5
 		}
 	set_politics = { 
- ruling_party = democratic
+ ruling_party = conservative_monarchism
 	last_election = "1933.5.17"
 	election_frequency = 60
 	elections_allowed = yes
@@ -74,7 +74,7 @@ create_country_leader = {
 	desc = "POLITICS_J_B_M_HERTZOG_DESC"
 	picture = "SAF_james_hertzog.dds"
 	expire = "1965.1.1"
-	ideology = conservatism
+	ideology = conservative_constitutionalism
 	traits = {
 		#
 	}

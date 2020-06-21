@@ -3,19 +3,19 @@
 oob = "CNL_1936"
 
 set_popularities = {
-        neutrality = 80
+        authoritarian_monarchism = 0
         monarchism = 10
         democratic = 0
         liberal_republic = 0
         communism = 0
         vanguardism = 0
         fascism = 0
-        anarchism_ideology = 0
+        anarchism_ideology = 80
         socialism_ideology = 5
         democratic_monarchism = 0
         conservative_monarchism = 0
         stratocratic = 0
-        authoritarian_monarchism = 5
+        neutrality = 5
         republican_fascism = 0
         national_socialism = 0
         theocratic = 0
@@ -24,7 +24,7 @@ set_popularities = {
 
 set_politics = {
 	
-	ruling_party = neutrality
+	ruling_party = anarchism_ideology
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -71,7 +71,7 @@ create_country_leader = {
 	desc = ""
 	picture = "To_be_added.dds"
 	expire = "1965.1.1"
-	ideology = despotism
+	ideology = total_anarchist
 	traits = {
 	}
 }

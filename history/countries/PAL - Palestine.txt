@@ -21,11 +21,11 @@ set_cosmetic_tag = PAL_UK
 		communism
 			 = 5
 			
-		neutrality
+		authoritarian_monarchism
 			 = 65
 		}
 	set_politics = { 
- ruling_party = neutrality
+ ruling_party = authoritarian_monarchism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes
@@ -55,7 +55,7 @@ create_country_leader = {
 	name = "Arthur Grenfell Wauchope"
 	desc = ""
 	picture = "Portrait_Arthur_Grenfell_Wauchope.dds"
-	ideology = despotism
+	ideology = authmon
 	traits = {
 		#
 	}

@@ -35,14 +35,14 @@ if = {
 		
 		fascism
 			 = 31
-		neutrality
+		authoritarian_monarchism
 			 = 44
 		
 		communism
 			 = 0
 		}
 	set_politics = { 
- ruling_party = neutrality
+ ruling_party = authoritarian_monarchism
 	last_election = "1935.3.31"
 	election_frequency = 48
 	elections_allowed = yes
@@ -58,7 +58,7 @@ if = {
 		desc = "POLITICS_MIKLOS_HORTHY_DESC"
 		picture = "Portrait_Hungary_Miklos_Horthy.dds"
 		expire = "1965.1.1"
-		ideology = oligarchism
+		ideology = authmon
 		traits = {
 			fascist_sympathies
 			anti_communist
@@ -71,7 +71,7 @@ if = {
 			desc = "POLITICS_MIKLOS_HORTHY_DESC"
 			picture = "Portrait_Hungary_Miklos_Horthy.dds"
 			expire = "1965.1.1"
-			ideology = despotism
+			ideology = authmon
 		}
 		create_country_leader = {
 			name = "Miklós Horthy"

@@ -44,13 +44,13 @@ set_technology = {
 			 = 35
 		communism
 			 = 5
-		neutrality 
+		authoritarian_monarchism 
 			 = 60
 		
 	}
 
 	set_politics = { 
- ruling_party = neutrality
+ ruling_party = authoritarian_monarchism
 	last_election = "1936.1.1"
 	election_frequency = 50
 	elections_allowed = no
@@ -61,7 +61,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_Ahmad_II.dds"
 	expire = "1960.1.1"
-	ideology = despotism
+	ideology = authmon
 	traits = {
 		
 	}
