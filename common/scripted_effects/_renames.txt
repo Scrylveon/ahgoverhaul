@@ -210,6 +210,126 @@ do_german_renames = {
 
 	if = {
 		limit = {
+			state = 2046
+		}
+		set_province_name = {
+			id = 13271
+			name = "Alexanderopel"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 7234
+		}
+		set_province_name = {
+			id = 9791
+			name = "Drama"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 7249
+		}
+		set_province_name = {
+			id = 3864
+			name = "Larisa"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3329
+		}
+		set_province_name = {
+			id = 3980
+			name = "Ioannina"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3330
+		}
+		set_province_name = {
+			id = 9916
+			name = "Arta"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1020
+		}
+		set_province_name = {
+			id = 10203
+			name = "Korfu"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4377
+		}
+		set_province_name = {
+			id = 15100
+			name = "Mykonos"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 7293
+		}		
+		set_province_name = {
+			id = 6482
+			name = "Tarnowo" 
+		}
+	}
+
+	if = {
+		limit = {
+			state = 211
+		}		
+		set_province_name = {
+			id = 9919
+			name = "Bourgas"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 7276
+		}
+		set_province_name = {
+			id = 6900
+			name = "Kortscha"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 813
+		}		
+		set_province_name = {
+			id = 833
+			name = "Ochrid"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 7329
+		}		
+		set_province_name = {
+			id = 13366
+			name = "Schtip"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 6019
 		}		
 		set_province_name = {
@@ -10745,7 +10865,7 @@ do_bulgarian_renames = {
 		}		
 		set_province_name = {
 			id = 11754
-			name = "Montana"
+			name = "Ferdinand"
 		}
 	}
 	if = {
@@ -10764,15 +10884,6 @@ do_bulgarian_renames = {
 		set_province_name = {
 			id = 6912
 			name = "Ruski"
-		}
-	}
-	if = {
-		limit = {
-			state = 1231
-		}		
-		set_province_name = {
-			id = 9783
-			name = "Varna"
 		}
 	}
 	if = {
@@ -11152,7 +11263,7 @@ do_albanian_renames = {
 		}
 		set_province_name = {
 			id = 6900
-			name = "Korča"
+			name = "Korčë"
 		}
 	}
 

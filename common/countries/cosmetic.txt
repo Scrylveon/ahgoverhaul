@@ -702,6 +702,10 @@ AUS_NOT_WHITE = {
 	color = rgb { 249 126 98 }
 	color_ui = rgb { 85 137 90 }
 }
+AUSE = {	
+	color = rgb { 255 204 0 }
+	color_ui = rgb { 255 204 0 }
+}
 SCAN = {
 	color = rgb { 0 102 204 }
 	color_ui = rgb { 0 102 204 }
