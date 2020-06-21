@@ -28,18 +28,19 @@ set_technology = {
 	motorised_infantry = 1
 }
 
+set_popularities = {
+	liberal_republic 
+		= 67
+	conservative_monarchism
+		= 20
+	socialism_ideology
+		= 7
+	democratic
+		= 6
+}
 
-
-	set_popularities = {
-		socialism_ideology 
-			 = 51
-		anarchism_ideology
-			 = 4
-		liberal_republic
-			 = 45
-		}
-	set_politics = { 
- ruling_party = socialism_ideology
+set_politics = { 
+	ruling_party = liberal_republic
 	last_election = "1933.2.16"
 	election_frequency = 36
 	elections_allowed = yes
@@ -55,7 +56,7 @@ create_country_leader = {
 	desc = "POLITICS_LLUIS_COMPANYS_DESC"
 	picture = "Portrait_Catalonia_Lluis_Companys.dds"
 	expire = "1965.1.1"
-	ideology = demsoc
+	ideology = socialism
 	traits = {
 		#
 	}
@@ -66,7 +67,7 @@ create_country_leader = {
 	desc = "POLITICS_BUENAVENTURA_DURRUTI_DESC"
 	picture = "Portrait_Catalonia_Buenaventura_Durruti.dds"
 	expire = "1965.1.1"
-	ideology = total_anarchist
+	ideology = anarchist_communism
 	traits = {
 		#
 	}
