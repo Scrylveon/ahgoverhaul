@@ -7493,6 +7493,8 @@
  
  NGU_democratic:0 "Territory of New Guinea"
  NGU_democratic_DEF:0 "The Territory of New Guinea"
+ NGU_conservative_monarchism:0 "Territory of New Guinea"
+ NGU_conservative_monarchism_DEF:0 "The Territory of New Guinea"
  NGU_democratic_ADJ:0 "New Guinean"
  NGU_communism:0 "People's Republic of New Guinea"
  NGU_communism_DEF:0 "The People's Republic of New Guinea"
