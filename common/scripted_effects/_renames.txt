@@ -283,7 +283,7 @@ do_german_renames = {
 			state = 7293
 		}		
 		set_province_name = {
-			id = 6482
+			id = 6842
 			name = "Tarnowo" 
 		}
 	}
@@ -3321,6 +3321,286 @@ do_english_renames = {
 }
 
 do_latin_renames = {
+
+	if = {
+		limit = {
+			state = 74
+		}		
+		set_province_name = {
+			id = 3583
+			name = "Ostravia"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3464
+		}		
+		set_province_name = {
+			id = 3569
+			name = "Brno"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 664
+		}		
+		set_province_name = {
+			id = 6573
+			name = "Cassovia"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2329
+		}		
+		set_province_name = {
+			id = 13854
+			name = "Bratislavia"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 9
+		}		
+		set_province_name = {
+			id = 11542
+			name = "Praga"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3466
+		}		
+		set_province_name = {
+			id = 6418
+			name = "Pilsna"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4377
+		}
+		set_province_name = {
+			id = 15100
+			name = "Myconos"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 7274
+		}
+		set_province_name = {
+			id = 7211
+			name = "Patrae"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 7249
+		}
+		set_province_name = {
+			id = 3864
+			name = "Larissa"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3330
+		}
+		set_province_name = {
+			id = 9916
+			name = "Arta"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1020
+		}
+		set_province_name = {
+			id = 10203
+			name = "Corcyra"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3329
+		}
+		set_province_name = {
+			id = 3980
+			name = "Ioannina"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 7234
+		}
+		set_province_name = {
+			id = 9791
+			name = "Drama"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2046
+		}
+		set_province_name = {
+			id = 13271
+			name = "Alexandropolis"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 211
+		}		
+		set_province_name = {
+			id = 9919
+			name = "Prygos"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 7290
+		}		
+		set_province_name = {
+			id = 6912
+			name = "Sexantaprista"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 7293
+		}		
+		set_province_name = {
+			id = 6842
+			name = "Ternobum" 
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3507
+		}		
+		set_province_name = {
+			id = 11754
+			name = "Castra ad Montanesium"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 7329
+		}		
+		set_province_name = {
+			id = 13366
+			name = "Astibus"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1796
+		}		
+		set_province_name = {
+			id = 3865
+			name = "Monasterium ad Macedonia"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 813
+		}		
+		set_province_name = {
+			id = 833
+			name = "Lychnidus"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 7276
+		}
+		set_province_name = {
+			id = 6900
+			name = "Coricia"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2337
+		}
+		set_province_name = {
+			id = 13291
+			name = "Apollonia"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 6019
+		}		
+		set_province_name = {
+			id = 3730
+			name = "Caerulus ecclesia"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 7984
+		}		
+		set_province_name = {
+			id = 3731
+			name = "Margaritarum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 43
+		}		
+		set_province_name = {
+			id = 6716
+			name = "Solnocum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 7989
+		}		
+		set_province_name = {
+			id = 6703
+			name = "Alba Regia"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 7641
+		}		
+		set_province_name = {
+			id = 17472
+			name = "Iaurinum"
+		}
+	}
 
 	if = {
 		limit = {
@@ -10421,6 +10701,25 @@ do_belgian_renames = {
 	}
 }
 do_hungarian_renames = {
+
+	if = {
+		limit = {
+			state = 1791
+		}		
+		set_province_name = {
+			id = 13356
+			name = "Filah"
+		}
+	}
+	if = {
+		limit = {
+			state = 2782
+		}		
+		set_province_name = {
+			id = 3673
+			name = "Panaszok Gázlója"
+		}
+	}
 	if = {
 		limit = {
 			state = 6019
@@ -10873,7 +11172,7 @@ do_bulgarian_renames = {
 			state = 7293
 		}		
 		set_province_name = {
-			id = 6482
+			id = 6842
 			name = "Veliko Tŭrnovo" 
 		}
 	}
@@ -10883,7 +11182,7 @@ do_bulgarian_renames = {
 		}		
 		set_province_name = {
 			id = 6912
-			name = "Ruski"
+			name = "Sexantaprista"
 		}
 	}
 	if = {
@@ -10892,7 +11191,7 @@ do_bulgarian_renames = {
 		}		
 		set_province_name = {
 			id = 9919
-			name = "Burgas"
+			name = "Prygos"
 		}
 	}
 	if = {
