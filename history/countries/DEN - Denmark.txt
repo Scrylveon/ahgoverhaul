@@ -33,23 +33,24 @@ set_technology = {
 #	}
 #}
 
+set_popularities = {
+	socialism_ideology
+		= 46
+	conservative_monarchism
+		= 20
+	democratic_monarchism
+		= 32
+	vanguardism
+		= 2
 
+}
 
-	set_popularities = {
-		democratic_monarchism 
-			 = 97
-		fascism
-			 = 1
-		communism
-			 = 2
-		}
-	set_politics = { 
- ruling_party = democratic_monarchism
+set_politics = { 
+	ruling_party = socialism_ideology
 	last_election = "1935.10.22"
 	election_frequency = 48
 	elections_allowed = yes
 }
-
 
 set_convoys = 40
 
@@ -58,7 +59,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_Christian_X.dds"
 	expire = "1965.1.1"
-	ideology = liberal_constitutionalism
+	ideology = demsoc
 	traits = {
 		#
 	}
@@ -95,16 +96,4 @@ create_country_leader = {
 	traits = {
 		#
 	}
-}
-
-
-create_corps_commander = {
-	name = "Wilhelm Wain Prior"
-	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_land_2.dds"
-	traits = { trickster }
-	skill = 3
-	attack_skill = 2
-	defense_skill = 3
-	planning_skill = 3
-	logistics_skill = 2
 }
