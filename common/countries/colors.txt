@@ -4928,3 +4928,7 @@ ILY = {
 color = rgb { 208 133 234 }
 color_ui = rgb { 208 133 234 }
 }
+TRA = {
+color = rgb { 223 184 207 }
+color_ui = rgb { 223 184 207 }
+}
