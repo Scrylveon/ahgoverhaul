@@ -94,3 +94,14 @@ create_country_leader = {
 		dislikes_germany
 	}
 }
+
+create_country_leader = {
+	name = "Empress Cass I"
+	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
+	picture = "TES_dem.dds"
+	expire = "1960.1.1"
+	ideology = monsoc
+	traits = {
+	
+	}
+}

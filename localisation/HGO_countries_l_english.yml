@@ -500,7 +500,7 @@
  LUX_national_socialism_DEF:0 "the National Socialist State of Luxembourg"
  LUX_ADJ:0 "Luxembourger"
 
- USA_anarchism_ideology:0 "United Peoples of America"
+ -_anarchism_ideology:0 "United Peoples of America"
  USA_anarchism_ideology_DEF:0 "the United Peoples of America"
  USA_vanguardism:0 "Union of Socialist American Republics"
  USA_vanguardism_DEF:0 "the Union of Socialist American Republics"
@@ -512,6 +512,8 @@
  USA_liberal_republic_DEF:0 "the United States of America"
  USA_democratic:0 "United States of America"
  USA_democratic_DEF:0 "the United States of America"
+ USA_socialist_monarchy:0 "Morganist Empire of America"
+ USA_socialist_monarchy_DEF:0 "the Morganist Empire of America"
  USA_democratic_monarchism:0 "Dominion of America"
  USA_democratic_monarchism_DEF:0 "the Dominion of America"
  USA_conservative_monarchism:0 "Crown Colony of North America"
