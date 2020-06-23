@@ -35,7 +35,7 @@ set_convoys = 5
 create_country_leader = {
 	
 	name = "Raúl de Antas Manso Preto Mendes Cruz"
-	picture = ""
+	picture = "cruz.dds"
 	expire = "1975.11.22"
 	ideology = repfash
 	traits = {

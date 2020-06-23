@@ -34,7 +34,7 @@ set_convoys = 10
 create_country_leader = {
 	
 	name = "António José Bernardes de Miranda"
-	picture = ""
+	picture = "miranda.dds"
 	expire = "1975.11.22"
 	ideology = repfash
 	traits = {

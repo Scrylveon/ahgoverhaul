@@ -34,7 +34,7 @@ set_convoys = 5
 create_country_leader = {
 	
 	name = "Luís António de Carvalho Viegas"
-	picture = ""
+	picture = "viegas.dds"
 	expire = "1975.11.22"
 	ideology = repfash
 	traits = {

@@ -34,7 +34,7 @@ set_convoys = 5
 create_country_leader = {
 	
 	name = "Ricardo Vaz Monteiro"
-	picture = ""
+	picture = "monteiro.dds"
 	expire = "1975.11.22"
 	ideology = repfash
 	traits = {

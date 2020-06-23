@@ -32,7 +32,7 @@ set_convoys = 5
 create_country_leader = {
 	
 	name = "José Ricardo Pereira Cabral"
-	picture = ""
+	picture = "cabral.dds"
 	expire = "1975.11.22"
 	ideology = repfash
 	traits = {
