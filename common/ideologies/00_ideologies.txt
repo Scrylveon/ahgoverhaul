@@ -166,7 +166,7 @@ ideologies = {
 	#socialist democracy
 		types = {
 			
-			monsoc = {
+			demsoc = {
 			}
 		}
 		dynamic_faction_names = {
@@ -213,7 +213,7 @@ ideologies = {
 	
 		types = {
 			
-			demsoc = {
+			monsoc = {
 			}
 		}
 		dynamic_faction_names = {
