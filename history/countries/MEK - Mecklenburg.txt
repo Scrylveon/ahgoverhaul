@@ -21,7 +21,7 @@ set_technology = {
 set_popularities = {
 	democratic 
 		= 0
-	fascism
+	national_socialism
 		= 30
 	communism
 		= 0
@@ -32,16 +32,27 @@ set_popularities = {
 		}
 
 set_politics = { 
-	ruling_party = monarchism
+	ruling_party = national_socialism
 	last_election = "1960.1.1"
 	election_frequency = 50
 	elections_allowed = no
 }
 
 create_country_leader = {
-	name = "Frederick Francis IV von Mecklenburg-Schwerin"
+	name = "Friedrich Franz IV von Mecklenburg-Schwerin"
 	desc = ""
-	picture = "MCK_Frederick.tga"
+	picture = "MEK_Frederick.tga"
+	expire = "1960.1.1"
+	ideology = absolutism
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Friedrich Hildebrandt"
+	desc = ""
+	picture = "MEK_Hildebrandt.tga"
 	expire = "1960.1.1"
 	ideology = absolutism
 	traits = {

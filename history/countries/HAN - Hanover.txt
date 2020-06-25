@@ -21,7 +21,7 @@ set_technology = {
 set_popularities = {
 	democratic 
 		= 0
-	fascism
+	national_socialism
 		= 30
 	communism
 		= 0
@@ -48,11 +48,11 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Viktor Lutze"
+	name = "Otto Telschow"
 	desc = ""
-	picture = "HAN_Lutze.tga"
+	picture = "HAN_Telschow.tga"
 	expire = "1960.1.1"
-	ideology = nazism
+	ideology = natsoc
 	traits = {
 		#
 	}
