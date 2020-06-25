@@ -2789,9 +2789,9 @@
  SAS_DEF:0 "Sasketchewan"
  SAS_ADJ:0 "Saskatchewanian"
 
- ALB:0 "Alberta"
- ALB_DEF:0 "Alberta"
- ALB_ADJ:0 "Albertan"
+ ALT:0 "Alberta"
+ ALT_DEF:0 "Alberta"
+ ALT_ADJ:0 "Albertan"
 
  BRC:0 "British Columbia"
  BRC_DEF:0 "British Columbia"
