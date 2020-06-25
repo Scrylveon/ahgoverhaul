@@ -2760,3 +2760,39 @@
  CAT_national_socialism:0 "National Socialist Catalonia"
  CAT_national_socialism_DEF:0 "the National Socialist State of Catalonia"
  CAT_ADJ:0 "Catalan"
+
+ NVS:0 "Nova Scotia"
+ NVS_DEF:0 "Nova Scotia"
+ NVS_ADJ:0 "Nova Scotian"
+
+ PEI:0 "Prince Edward Island"
+ PEI_DEF:0 "Prince Edward Island"
+ PEI_ADJ:0 "Prince Edward Islander"
+
+ NBK:0 "New Brunswick"
+ NBK_DEF:0 "New Brunswick"
+ NBK_ADJ:0 "New Brunswicker"
+
+ QUE:0 "Quebec"
+ QUE_DEF:0 "Quebec"
+ QUE_ADJ:0 "Québécois"
+
+ ONT:0 "Ontario"
+ ONT_DEF:0 "Ontario"
+ ONT_ADJ:0 "Ontarian"
+
+ MNB:0 "Manitoba"
+ MNB_DEF:0 "Manitoba"
+ MNB_ADJ:0 "Manitoban"
+
+ SAS:0 "Sasketchewan"
+ SAS_DEF:0 "Sasketchewan"
+ SAS_ADJ:0 "Saskatchewanian"
+
+ ALB:0 "Alberta"
+ ALB_DEF:0 "Alberta"
+ ALB_ADJ:0 "Albertan"
+
+ BRC:0 "British Columbia"
+ BRC_DEF:0 "British Columbia"
+ BRC_ADJ:0 "British Columbian"
