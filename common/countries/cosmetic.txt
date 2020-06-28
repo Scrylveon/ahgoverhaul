@@ -430,7 +430,7 @@ SAM_NZL_RED = {
 	color = rgb { 150 26 10 }
 	color_ui = rgb { 150 26 10 }
 }
-INS_HOL = {
+INS_DEI = {
     color = rgb { 173 116 64 }
     color_ui = rgb { 173 116 64 }
 }

@@ -1,8 +1,8 @@
 ﻿l_english:
- INS_HOL_conservative_monarchism:0 "Colony of the Dutch East Indies"
- INS_HOL_conservative_monarchism_DEF:0 "The Colony of the Dutch East Indies"
- INS_HOL_authoritarian_monarchism:0 "Colony of the Dutch East Indies"
- INS_HOL_authoritarian_monarchism_DEF:0 "The Colony of the Dutch East Indies"
+ INS_DEI_conservative_monarchism:0 "Colony of the Dutch East Indies"
+ INS_DEI_conservative_monarchism_DEF:0 "The Colony of the Dutch East Indies"
+ INS_DEI_authoritarian_monarchism:0 "Colony of the Dutch East Indies"
+ INS_DEI_authoritarian_monarchism_DEF:0 "The Colony of the Dutch East Indies"
  INS_subject:0 "Colony of the $OVERLORDADJ$ East Indies"
  INS_subject_DEF:0 "The Colony of the $OVERLORDADJ$ East Indies"
 
