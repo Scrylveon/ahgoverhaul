@@ -23,6 +23,7 @@ state={
 
 		}
 		add_core_of = TUR
+		add_core_of = RUM
 
 		set_demilitarized_zone = yes
 

@@ -1501,6 +1501,14 @@
  TRA_DEF:0 "Transamur"
  TRA_ADJ:0 "Transamur"
  
+ ERU:0 "Eastern Rumelia"
+ ERU_DEF:0 "Eastern Rumelia"
+ ERU_ADJ:0 "Eastern Rumelia"
+ 
+ RUM:0 "Rumelia"
+ RUM_DEF:0 "Rumelia"
+ RUM_ADJ:0 "Rumelia"
+ 
 
  BWH_monarchism:0 "Bhawhal State"
  BWH_monarchism_DEF:0 "Bhawhal State"

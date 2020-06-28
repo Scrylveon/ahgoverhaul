@@ -6,6 +6,7 @@ state={
 	history={
 		add_core_of = GRE
 		add_core_of = THR
+		add_core_of = RUM
 		owner = TUR
 		buildings = {
 			infrastructure = 5
