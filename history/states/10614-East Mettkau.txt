@@ -1,0 +1,15 @@
+state={
+	id=10614
+	name="STATE_10614"
+	provinces={
+		20137 
+	}
+	history={
+		owner = GER
+		add_core_of = GER
+
+	}
+	manpower = 1
+	state_category = town
+	buildings_max_level_factor=1.000
+}
