@@ -2804,3 +2804,7 @@
  BRC:0 "British Columbia"
  BRC_DEF:0 "British Columbia"
  BRC_ADJ:0 "British Columbian"
+ 
+ INS_conservative_monarchism:0 "Dutch East Indies"
+ INS_conservative_monarchism_DEF:0 "the Dutch East Indies"
+ INS_conservative_monarchism_ADJ:0 "East Indian"

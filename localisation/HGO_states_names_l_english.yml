@@ -554,7 +554,7 @@
  STATE_553:0 "North Lebanon"
  STATE_554:0 "Damascus"
  STATE_555:0 "Lower Kuril Islands"
- STATE_556:1 "Upper Volta"
+ STATE_556:1 "Koudougou"
  STATE_557:0 "Mauritanian Sahara"
  STATE_558:0 "Yobe"
  STATE_559:0 "Mogadishu"
@@ -10604,3 +10604,4 @@
  STATE_10604:0 "North Schleswig Wadden Sea"
  STATE_10605:0 "Hinche"
  STATE_10606:0 "West Pedernales"
+ STATE_10607:0 "Ouagadougou"
