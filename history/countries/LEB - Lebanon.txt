@@ -12,7 +12,7 @@ set_convoys = 5
 
 
 	set_popularities = {
-		democratic 
+		liberal_republic 
 			 = 50
 		fascism
 			 = 10
@@ -23,7 +23,7 @@ set_convoys = 5
 			 = 30
 		}
 	set_politics = { 
- ruling_party = democratic
+ ruling_party = liberal_republic
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes
@@ -33,7 +33,7 @@ create_country_leader = {
 	name = "Emile Eddie"
 	desc = ""
 	picture = "Portrait_Emile_Eddie.dds"
-	ideology = liberalism
+	ideology = socdem
 	traits = {
 		#
 	}

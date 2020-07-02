@@ -14,6 +14,7 @@ state={
 		add_core_of = CRO
 		add_core_of = DLM
 		add_claim_by = RAG
+		add_core_of = ILY
 		buildings = {
 			infrastructure = 5
 		}

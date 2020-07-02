@@ -17,6 +17,9 @@ state={
 		add_core_of = CAS
 		add_core_of = IDH
 
+		victory_points = {
+			10556 1 
+		}
 	}
 
 	provinces={

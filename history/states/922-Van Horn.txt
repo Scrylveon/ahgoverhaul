@@ -13,6 +13,9 @@ state={
 		add_core_of = TEX
 		add_core_of = CSA
 
+		victory_points = {
+			10740 5
+		}
 	}
 
 	provinces={

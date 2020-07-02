@@ -12,6 +12,9 @@ state={
 		owner = DEN
 		add_core_of = DEN
 		add_core_of = FRS
+		victory_points = {
+			399 1 
+		}
 		buildings = {
 			infrastructure = 1
 		}

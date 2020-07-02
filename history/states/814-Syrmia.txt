@@ -13,6 +13,7 @@ state={
 		add_core_of = CRO
 		add_core_of = SVA
 		add_claim_by = SER
+		add_core_of = ILY
 
 	}
 

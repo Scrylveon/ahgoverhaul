@@ -12,6 +12,7 @@ state={
 		owner = BUL
 		add_core_of = BUL
 		add_core_of = THR
+		add_core_of = ERU
 	}
 	
 	buildings_max_level_factor=1.000

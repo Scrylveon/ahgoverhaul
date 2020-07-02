@@ -5,7 +5,7 @@ oob = "BAY_1936"
 set_convoys = 10
 
 set_popularities = {
-        monarchism = 65
+        national_socialism = 65
         democratic = 3
         communism = 2
         fascism = 25
@@ -14,8 +14,7 @@ set_popularities = {
 }
 
 set_politics = {
-	
-	ruling_party = monarchism
+	ruling_party = national_socialism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -23,11 +22,11 @@ set_politics = {
 
 
 create_country_leader = {
-	name = "To Be Added"
+	name = "Fritz Wächtler"
 	desc = ""
-	picture = "To_be_added.dds"
+	picture = "BYR_Waechtler.tga"
 	expire = "1965.1.1"
-	ideology = absolutism
+	ideology = natsoc
 	traits = {
 	}
 }

@@ -411,6 +411,10 @@ spriteTypes = {
 		texturefile = "gfx/toolpack_interface/tpt_interface/tpt_icons/green/tpt_major_green.dds"
 	}
 	SpriteType = { 
+		name = "GFX_remove_cosmetic_tag"
+		texturefile = "gfx/toolpack_interface/remove_cosmetic_tag.dds"
+	}
+	SpriteType = { 
 		name = "GFX_tpt_nap_green"
 		texturefile = "gfx/toolpack_interface/tpt_interface/tpt_icons/green/tpt_nap_green.dds"
 	}

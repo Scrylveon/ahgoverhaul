@@ -19,13 +19,13 @@ set_technology = {
 
 
 	set_popularities = {
-		communism 
+		vanguardism 
 			 = 90
 		neutrality
 			 = 10
 		}
 	set_politics = { 
- ruling_party = communism
+ ruling_party = vanguardism
 	last_election = "1936.1.1"
 	election_frequency = 50
 	elections_allowed = no
@@ -41,7 +41,7 @@ create_country_leader = {
 	desc = "POLITICS_Hirohito_DESC"
 	picture = "GFX_Portrait_kyuichi_tokuda"
 	expire = "1989.1.1"
-	ideology = marxism
+	ideology = totsoc
 	traits = {
 	}
 }

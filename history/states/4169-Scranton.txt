@@ -13,6 +13,9 @@ state={
 			infrastructure = 4
 			
 		}
+		victory_points = {
+			9820 1 
+		}
 	}
 	manpower=1000 
  state_category=pastoral

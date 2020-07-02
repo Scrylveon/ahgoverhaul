@@ -31,16 +31,15 @@ guiTypes = {
 			Orientation = "LOWER_LEFT"
 			alwaystransparent = yes
 		}
-		instantTextBoxType = {
-			name ="hgo"
-			position = { x= 1051 y = 0}
-			font = "hoi_36header"
-			text = "Historic Geographical Overhaul"
-			format = left
-			maxWidth = 500
-			maxHeight = 24
-			#fixedsize = yes
-			pdx_tooltip = SCORE_TOOLTIP
+		
+		buttonType = { 
+			name = "discord"
+			position = { x = -55 y = -5 }
+			quadTextureSprite ="GFX_discord_button"
+			clicksound = click_ok
+			Orientation = "UPPER_RIGHT"
+			pdx_tooltip = "DISCORD"
+			web_link = "https://discord.gg/FQ3Qam5"
 		}
 		
 #		iconType = {
@@ -558,7 +557,7 @@ guiTypes = {
 
 		buttonType = {
 			name = "menu_button"
-			position = { x = -35 y = 7 }
+			position = { x = -85 y = 7 }
 			quadTextureSprite ="GFX_menu_button"
 			buttonText = ""
 			buttonFont = "Main_14_black"
@@ -631,21 +630,21 @@ guiTypes = {
 			iconType = {
 				name ="decision_view_alert_glow"
 				spriteType = "GFX_decisions_glow"	
-				position = { x =-104 y = 1 }
+				position = { x = -9700 y = 1 }
 				alwaystransparent = yes
 			}
 
 			iconType = {
 				name = "decisionview_amount_timeout_bg"
 				spriteType = "GFX_topbar_alert_bg"
-				position = { x = -99 y = 4}
+				position = { x = -9900 y = 4}
 				alwaystransparent = yes
 				frame = 2
 			}
 	
 			instantTextBoxType = {
 				name ="decisionview_amount_timeout_items"
-				position = { x= -101 y = 4 }
+				position = { x= -1010 y = 4 }
 				font = "hoi_16mbs"
 				text = "999"
 				format = center
@@ -854,11 +853,11 @@ guiTypes = {
 
 		instantTextBoxType = {
 			name ="topbar_power_ranking"
-			position = { x= 100 y = 0}
+			position = { x= 102 y = 0}
 			font = "hoi_36header"
 			text = "[ROOT.GetNameDef]"
 			format = left
-			maxWidth = 800
+			maxWidth = 1460
 			maxHeight = 24
 			#fixedsize = yes
 			pdx_tooltip = SCORE_TOOLTIP

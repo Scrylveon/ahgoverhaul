@@ -12,17 +12,18 @@ set_convoys = 20
 set_cosmetic_tag = PUE_USA
 
 set_popularities = {
-	democratic 
-		= 80
+	stratocratic 
+		= 45
 	fascism
 		= 0
 	communism
 		= 0
-	neutrality = 20
+	liberal_republic = 45
+	democratic = 10
 	}
 
 set_politics = { 
-	ruling_party = democratic
+	ruling_party = stratocratic
 	last_election = "1932.11.8"
 	election_frequency = 48
 	elections_allowed = no
@@ -33,7 +34,7 @@ create_country_leader = {
 	desc = ""
 	picture = "PUE_Winship.dds"
 	expire = "1965.1.1"
-	ideology = liberalism
+	ideology = militarism
 	traits = {
 		#
 	}

@@ -15,6 +15,7 @@ state={
 		add_core_of = YUG
 		add_core_of = DLM
 		add_core_of = RAG
+		add_core_of = ILY
 		buildings = {
 			infrastructure = 1
 		}

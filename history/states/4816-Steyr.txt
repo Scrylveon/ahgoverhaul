@@ -13,6 +13,9 @@ state={
 		add_core_of = AUS
 		add_core_of = UAS
 		add_core_of = WAS
+		victory_points = {
+			13361 1 
+		}
 
 	}
 	manpower=1030

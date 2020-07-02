@@ -5,13 +5,7 @@ state={
 	history={
 		owner = FRA
 		victory_points = {
-			3552 20
-		}
-		victory_points = {
-			6536 5
-		}
-		victory_points = {
-			9495 1
+			11465 20
 		}
 		buildings = {
 			infrastructure = 6

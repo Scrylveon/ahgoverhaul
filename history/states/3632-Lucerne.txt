@@ -12,6 +12,10 @@ state={
 		owner = SWI
 		add_core_of = SWI
 		add_core_of = KLU
+		victory_points = {
+			11604 1 
+		}
+
 		buildings = {
 			infrastructure = 1
 		}

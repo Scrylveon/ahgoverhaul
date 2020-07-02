@@ -6,7 +6,7 @@ set_convoys = 10
 
 set_popularities = {
         monarchism = 10
-        neutrality = 80
+        authoritarian_monarchism = 80
         democratic = 5
         communism = 2
         fascism = 3
@@ -15,7 +15,7 @@ set_popularities = {
 
 set_politics = {
 	
-	ruling_party = neutrality
+	ruling_party = authoritarian_monarchism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -26,7 +26,7 @@ create_country_leader = {
 	name = "Arthur Richards"
 	desc = ""
 	picture = "Portrait_Arthur_Richards.dds"
-	ideology = moderatism
+	ideology = authmon
 	expire = "1978.10.27"
 	traits = {
 		#

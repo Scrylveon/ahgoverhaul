@@ -9,6 +9,10 @@ state={
         add_core_of = GER
         add_core_of = DDR
 		add_core_of = PRS
+		add_core_of = BDB
+		victory_points = {
+			375 1 
+		}
     }	
 	manpower=1000
 	state_category = pastoral

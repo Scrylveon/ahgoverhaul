@@ -7,10 +7,6 @@ state={
 	history={
 		owner = SWI
 		add_core_of = SWI
-		buildings = {
-			infrastructure = 4
-		}
-
 	}
 	manpower = 1000
 	state_category = pastoral

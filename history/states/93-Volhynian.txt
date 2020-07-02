@@ -12,6 +12,9 @@ state={
 		add_core_of = POL
 		add_core_of = UKR
 		add_core_of = VLH
+		victory_points = {
+			572 5 
+		}
 
 	}
 

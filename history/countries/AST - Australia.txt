@@ -58,7 +58,7 @@ set_technology = {
 
 
 	set_popularities = {
-		democratic 
+		democratic_monarchism 
 			 = 98
 		fascism
 			 = 0
@@ -67,7 +67,7 @@ set_technology = {
 			
 		}
 	set_politics = { 
- ruling_party = democratic
+ ruling_party = democratic_monarchism
 	last_election = "1934.9.15"
 	election_frequency = 36
 	elections_allowed = yes
@@ -78,7 +78,7 @@ create_country_leader = {
 	desc = "POLITICS_JOHN_CURTIN_DESC"
 	picture = "Portrait_Joseph_Lyons.dds"
 	expire = "1965.1.1"
-	ideology = socialism
+	ideology = liberal_constitutionalism
 	traits = {
 		#
 	}

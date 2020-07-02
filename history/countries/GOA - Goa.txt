@@ -9,13 +9,13 @@ set_popularities = {
         neutrality = 10
         democratic = 5
         communism = 5
-        fascism = 70
+        republican_fascism = 70
 
 }
 
 set_politics = {
 	
-	ruling_party = fascism
+	ruling_party = republican_fascism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -25,9 +25,9 @@ set_politics = {
 create_country_leader = {
 	name = "João Carlos Craveiro Lopes"
 	desc = ""
-	picture = "To_be_added.dds"
+	picture = "lopes.dds"
 	expire = "1965.1.1"
-	ideology = fascism_ideology
+	ideology = repfash
 	traits = {
 	}
 }

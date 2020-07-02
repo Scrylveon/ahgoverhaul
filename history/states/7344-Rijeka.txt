@@ -10,6 +10,7 @@ state={
         add_core_of = BOS
         add_core_of = SRP
         add_core_of = SDJ
+		add_core_of = ILY
     }	
 	manpower=1000
 	state_category = pastoral

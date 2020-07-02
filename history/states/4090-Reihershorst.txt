@@ -16,6 +16,9 @@ state={
 		add_core_of = WPR
 		add_core_of = PWP
 		add_core_of = KSH
+		victory_points = {
+			11288 1 
+		}
 
 	}
 	manpower=1000

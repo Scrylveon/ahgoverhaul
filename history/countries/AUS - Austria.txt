@@ -19,7 +19,7 @@ set_technology = {
 	set_popularities = {
 		neutrality 
 			 = 48
-		fascism
+		republican_fascism
 			 = 50
 		democratic
 			 = 1
@@ -27,7 +27,7 @@ set_technology = {
 			 = 1
 		}
 	set_politics = { 
- ruling_party = fascism
+ ruling_party = republican_fascism
 	last_election = "1930.11.9"
 	election_frequency = 48
 	elections_allowed = no
@@ -62,7 +62,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_Wilhelm_Miklas.dds"
 	expire = "1965.1.1"
-	ideology = fascism_ideology
+	ideology = repfash
 	traits = {
 		#
 	}

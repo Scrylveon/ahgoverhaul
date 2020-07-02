@@ -12,6 +12,9 @@ state={
 		add_core_of = USA
 		add_core_of = DEL
 
+		victory_points = {
+			9786 1 
+		}
 	}
 
 	provinces={

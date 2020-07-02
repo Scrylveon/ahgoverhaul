@@ -4788,3 +4788,155 @@ CVS = {
 color = rgb { 150 150 150 }
 color_ui = rgb { 150 150 150 }
 }
+YMM = {
+color = rgb { 111 74 0 }
+color_ui = rgb { 111 74 0 }
+}
+CNL = {
+color = rgb { 92 68 10 }
+color_ui = rgb { 92 68 10 }
+}
+RLP = {
+color = rgb { 49 127 30 }
+color_ui = rgb { 49 127 30 }
+}
+BDW = {
+color = rgb { 134 6 48 }
+color_ui = rgb { 134 6 48 }
+}
+SAA = {
+color = rgb { 6 136 76 }
+color_ui = rgb { 6 136 76 }
+}
+HSN = {
+color = rgb { 214 177 168 }
+color_ui = rgb { 214 177 168 }
+}
+MBV = {
+color = rgb { 0 75 127 }
+color_ui = rgb { 0 75 127 }
+}
+NRW = {
+color = rgb { 114 186 180 }
+color_ui = rgb { 114 186 180 }
+}
+NSA = {
+color = rgb { 154 77 55 }
+color_ui = rgb { 154 77 55 }
+}
+BWH = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+CH2 = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+DWR = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+JRN = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+KYM = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+LAG = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+LNG = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+MHM = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+MSO = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+MRW = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+MWD = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+MWN = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+MWL = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+MPL = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+MYL = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+NBP = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+NLW = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+NKH = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+NNS = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+NST = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+PAG = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+RBR = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+SLL = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+SOG = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+MWR = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+ILY = {
+color = rgb { 208 133 234 }
+color_ui = rgb { 208 133 234 }
+}
+TRA = {
+color = rgb { 223 184 207 }
+color_ui = rgb { 223 184 207 }
+}
+ERU = {
+color = rgb { 54 80 40 }
+color_ui = rgb { 54 80 40 }
+}
+RUM = {
+color = rgb { 70 100 0 }
+color_ui = rgb { 70 100 0 }
+}

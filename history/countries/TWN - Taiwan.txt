@@ -19,11 +19,11 @@ set_cosmetic_tag = TWN_JAP
 			 = 30
 		communism
 			 = 5
-		neutrality
+		authoritarian_monarchism
 			 = 55
 	}
 	set_politics = { 
- ruling_party = neutrality
+ ruling_party = authoritarian_monarchism
 		last_election = "1938.3.28"
 		election_frequency = 48
 		elections_allowed = no
@@ -58,7 +58,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Nakagawa_Kenzo.dds"
 	expire = "1944.6.26"
-	ideology = despotism
+	ideology = authmon
 	traits = {
 		
 	}

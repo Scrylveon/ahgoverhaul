@@ -14,6 +14,9 @@ state={
 		add_core_of = WVR
 		add_core_of = CSA
 
+		victory_points = {
+			10441 5
+		}
 	}
 
 	provinces={

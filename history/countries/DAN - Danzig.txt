@@ -19,7 +19,7 @@ set_convoys = 10
 	set_popularities = {
 		democratic 
 			 = 19
-		fascism
+		national_socialism
 			 = 44
 		communism
 			 = 1
@@ -27,7 +27,7 @@ set_convoys = 10
 			 = 36
 		}
 	set_politics = { 
- ruling_party = fascism
+ ruling_party = national_socialism
 	last_election = "1935.9.8"
 	election_frequency = 36
 	elections_allowed = no
@@ -38,7 +38,7 @@ create_country_leader = {
 	desc = "POLITICS_ARTHUR_KARL_GREISER_DESC"
 	picture = "Portrait_Danzig_Arthur_Greiser.dds"
 	expire = "1965.1.1"
-	ideology = nazism
+	ideology = natsoc
 	traits = {
 		#
 	}

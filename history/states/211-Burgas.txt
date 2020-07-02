@@ -12,6 +12,10 @@ state={
 		}
 		add_core_of = BUL
 		add_core_of = THR
+		add_core_of = ERU
+		victory_points = {
+			9919 5
+		}
 
 	}
 

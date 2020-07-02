@@ -13,6 +13,9 @@ state={
 		add_core_of = OLD
 		add_core_of = WGR
 		add_core_of = HLS
+		victory_points = {
+			11331 1 
+		}
 	
 	}
 	

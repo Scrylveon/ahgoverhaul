@@ -17,6 +17,9 @@ state={
 		add_core_of = PRE
 		add_core_of = SIL
 		add_core_of = DDR
+		victory_points = {
+			9511 1 
+		}
 
 	}
 

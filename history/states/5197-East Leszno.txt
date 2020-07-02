@@ -11,6 +11,9 @@ state={
 		add_core_of = PWP
 		add_core_of = POS
 		add_core_of = PRE
+		victory_points = {
+			11232 1 
+		}
 		buildings = {
 			infrastructure = 4
 			

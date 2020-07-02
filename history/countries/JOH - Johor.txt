@@ -60,12 +60,12 @@ if = {
 			 = 0
 		communism
 			 = 0
-		neutrality
+		authoritarian_monarchism
 			 = 100
 		
 	}
 	set_politics = { 
- ruling_party = neutrality
+ ruling_party = authoritarian_monarchism
 	last_election = "1934.11.9"	
 	election_frequency = 48
 	elections_allowed = no
@@ -76,7 +76,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_Ibrahim_I.dds"
 	expire = "1953.3.1"
-	ideology = despotism
+	ideology = authmon
 	traits = {
 		
 	}

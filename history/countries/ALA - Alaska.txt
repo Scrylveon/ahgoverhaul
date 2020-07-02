@@ -10,7 +10,7 @@ set_cosmetic_tag = ALA_USA
 
 
 	set_popularities = {
-		democratic 
+		liberal_republic 
 			 = 80
 		fascism
 			 = 0
@@ -19,7 +19,7 @@ set_cosmetic_tag = ALA_USA
 		neutrality = 20
 		}
 	set_politics = { 
- ruling_party = democratic
+ ruling_party = liberal_republic
 	last_election = "1932.11.8"
 	election_frequency = 48
 	elections_allowed = no
@@ -36,7 +36,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_Alaska_John_Weir_Troy.dds"
 	expire = "1950.1.1"
-	ideology = liberalism
+	ideology = socdem
 	traits = {
 	}
 }

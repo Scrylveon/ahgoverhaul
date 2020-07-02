@@ -17,6 +17,9 @@ state={
 		add_core_of = USA
 		add_core_of = NVA	
 
+		victory_points = {
+			4607 5
+		}
 	}
 
 	provinces={

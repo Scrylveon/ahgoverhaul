@@ -3,7 +3,7 @@
 oob = "DGC_1936"
 
 set_popularities = {
-        neutrality = 70
+        authoritarian_monarchism = 70
         monarchism = 5
         democratic = 15
         communism = 5
@@ -15,7 +15,7 @@ set_cosmetic_tag = DGC_ENG
 
 set_politics = {
 	
-	ruling_party = neutrality
+	ruling_party = authoritarian_monarchism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no

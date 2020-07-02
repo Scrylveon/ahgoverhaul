@@ -15,7 +15,7 @@ set_convoys = 5
 	set_popularities = {
 		democratic 
 			 = 5
-		fascism
+		republican_fascism
 			 = 70
 		communism
 			 = 5
@@ -23,7 +23,7 @@ set_convoys = 5
 			 = 20
 		}
 	set_politics = { 
- ruling_party = fascism
+ ruling_party = republican_fascism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -33,9 +33,9 @@ set_convoys = 5
 create_country_leader = {
 	
 	name = "António Lopes Mateus"
-	picture = ""
+	picture = "mateus.dds"
 	expire = "1975.11.22"
-	ideology = fascism_ideology
+	ideology = repfash
 	traits = {
 		#
 	}

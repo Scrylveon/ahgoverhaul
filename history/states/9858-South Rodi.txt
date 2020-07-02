@@ -9,11 +9,10 @@ state={
 	state_category = small_island
 	
 	history={
-		owner = ITA
+		owner = WTR
 		buildings = {
 			infrastructure = 5
 			air_base = 1
 		}
-		add_core_of = GRE
-		add_claim_by = OML
+		add_core_of = WTR
 	}

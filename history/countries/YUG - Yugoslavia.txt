@@ -47,11 +47,11 @@ set_convoys = 10
 		communism
 			 = 15
 			
-		neutrality 
+		conservative_monarchism 
 			 = 60
 		}
 	set_politics = { 
- ruling_party = neutrality
+ ruling_party = conservative_monarchism
 	last_election = "1935.5.3"
 	election_frequency = 36
 	elections_allowed = yes
@@ -64,7 +64,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_Peter_II.dds"
 	expire = "1985.1.1"
-	ideology = despotism
+	ideology = conservative_constitutionalism
 	traits = {
 		#
 	}

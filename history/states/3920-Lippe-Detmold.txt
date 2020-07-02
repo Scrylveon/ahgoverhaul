@@ -13,6 +13,10 @@ state={
 		add_core_of = GER
 		add_core_of = LIP
 		add_core_of = WGR
+		add_core_of = NRW
+		victory_points = {
+			405 5 
+		}
 		buildings = {
 			infrastructure = 5
 		}

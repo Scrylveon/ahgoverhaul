@@ -1,71 +1,11 @@
 ﻿l_english:
  #Princely states
- hgo.1.t:0 "Yeet the Princely States?"
+ hgo.1.t:0 "Yeet the Princely States ?"
  hgo.1.d:0 "Listen, I get it. The princely states are a pain in the ass to map with. This event will probably take roughly 10 minutes to finish, but if you want the princely states gone, then wait ten minutes. This event could also improve your game performance if you have a piece of shit computer."
  hgo.1.a:0 "This bitch is empty. YEET!"
  hgo.1.b:0 "How about no, you crazy Dutch bastard!"
  
- #Slovenia event
- germany.94.b:0 "Friendship is important."
-
- germany.521.t:0 "Germany ceded part of slovenia"
- germany.521.d:0 "Germany gave part of slovenia to us and Hungary."
- germany.521.a:0 "Great!"
-
- germany.522.t:0 "Germany ceded part of slovenia"
- germany.522.d:0 "Germany gave part of slovenia to us and Italy."
- germany.522.a:0 "Great!"
- 
- #Burgenland Question
- hungary.7.t:0 "The Burgenland Question"
- hungary.7.d:0 "With our recent annexation of Austria, a question has arisen about the territory known as the Burgenland. Before the Great War, it was a part of the Hungarian realm. However, the Treaty of Trianon transferred it over to Austria. The land has both a sizeable amount of Germans and Hungarians. Should we give it to them, exchange it for an alliance, or keep it?"
- hungary.7.a:0 "Hungary could potentially be a worthy ally. Send them the offer."
- hungary.7.b:0 "The Hungarians have been under enough pain. Give it to them as a gift."
- hungary.7.c:0 "The Burgenland Germans are a rightful part of the Deutsch Vaterland! The territory stays German!"
- 
- hungary.8.t:0 "Germany offers us the Burgenland"
- hungary.8.d:0 "The Burgenland was a territory that was formerly under our control before the Treaty of Trianon. With the German annexation of the Burgenland, they have offered us the region... but with a catch. If we accept, we must join the Axis. It may not be the worst idea."
- hungary.8.a:0 "What a wonderful proposition! We accept."
- hungary.8.b:0 "Don't you remember the last time Germans meddled with us?"
- 
- hungary.9.t:0 "Germany gifts us with the Burgenland"
- hungary.9.d:0 "With the German annexation of the Burgenland, they have decided to gift us with the territory of the Burgenland, a territory that was taken from us by the Treaty of Trianon. The Hungarians within the region have been reported to be celebrating their new overlords."
- hungary.9.a:0 "Köszönöm, Németország!"
- 
- hungary.10.t:0 "Hungary accepts our proposal!"
- hungary.10.d:0 "The Hungarians have accepted our generous proposal, and are now the newest member within the Axis."
- hungary.10.a:0 "Here's to the continued friendship between Germans and Hungarians!"
- 
- hungary.11.t:0 "Hungary declines our proposal!"
- hungary.10.d:0 "Unfortunately, the Hungarians have declined our fair proposal of joining the Axis in exchange for the Burgenland. The Führer is reportedly dissapointed, but the German population of the Burgenland seems to be content."
- hungary.10.a:0 "Damned Magyars..."
- 
-#Romania stuff
- romania.7.t:0 "Supression of the Legion"
- romania.7.d:0 "The founder and charismatic leader of the Iron Guard grew into an important figure within the Romanian political stage during the early 30's, coming into conflict with the political establishment and democratic forces, and often the guard resorted to terrorism. The Legionnaires traditionally referred to Codreanu as the Captain, and he held absolute authority over the organization until his death in the Jilava prison in 1938. \n\nHe registered his main electoral success during the 1937 suffrage, but was stopped by King Carol II and the Romanian Government. The rivalry between Codreanu and moderate politicians like Nicolae Iorga ended with Codreanu's imprisonment at Jilava and assassination at the hands of the military police force. This will upset the Legionarries, but for the safety of all Romanian peoples it was a needed sacrifice."
- romania.7.a:0 "This won't be the end of the Iron Guard."
- 
- romania.8.t:0 "A Transilvanian Oppurtunity"
- romania.8.d:0 "The MMS, an underground resistance movement funded by us, has finally built up enough strength to demand a referendum in the Transilvanian state. The government has rejected the ultimatum though and demanded that we keep out of Transilvanian affairs. What shall we do?"
- romania.8.a:0 "Treceti batalioane române Carpatii!"
- romania.8.b:0 "We shall listen to their requests..."
-
- romania.9.t:0 "Transilvanian Independence"
- romania.9.d:0 "With Transilvania declaring itself independent, many skilled generals and political figureheads have left to join Transilvania as an independent nation. This has severely affected the countries trust in the government and also made some question just how loyal they should be to the regime of the Romanian government."
- romania.9.a:0 "Damn those Transilvanians..."
-
-#Transilvanian Stuff
-transylvania.1.t:0 "Transilvania is Independent!"
-transylvania.1.d:0 "We have finally gained our independence after much time, however both of our former rulers aren't too happy with our independence and the Hungarians to the North-West still claim the region to this day. We must defend our borders, to the last man."
-transylvania.1.a:0 "To Transilvania!"
-
-transylvania.2.t:0 "Romanian Sympathisers Demand Unification"
-transylvania.2.d:0 "The MMS has demanded that we be reintegrated into Romania, and they have the backing of the Romanian government, who has sent an ultimatum to us demanding annexation due to the Romanian majority within out borders."
-transylvania.2.a:0 "We have no choice..."
-transylvania.2.b:0 "Over my dead corpse!"
-
-#Greece stuff
- greece.5.t:0 "Instanbul is ours!"
- greece.5.d:0 "Now that we have taken the city of the world's desire back, should we rename it back to its original name to completely remove the Turkish influence?"
- greece.5.a:0 "A brilliant idea!"
- greece.5.b:0 "No, we should keep it's name as it is."
+ hgo.2.t:0 "Decolonise Arabia ?"
+ hgo.2.d:0 "Listen, I get it. The various states of Arabia are a pain in the ass to map with. I have no idea how long this could take, but if you want to recreate the world map or some shit, this is worth your time."
+ hgo.2.a:0 "Oh fuck yeah !!"
+ hgo.2.b:0 "How about... no ?"

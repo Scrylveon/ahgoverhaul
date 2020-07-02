@@ -6,7 +6,8 @@ state={
 	}
 	manpower=1000
 	history={
-		owner = KSS
+		owner = KYM
+		add_core_of = KYM
 		add_core_of = PAK
 		add_core_of = BAN
 		add_core_of = KSS

@@ -43,7 +43,7 @@ if = {
 #}
 
 	set_popularities = {
-		democratic 
+		democratic_monarchism 
 			 = 100
 		fascism
 			 = 0
@@ -52,7 +52,7 @@ if = {
 			
 		}
 	set_politics = { 
- ruling_party = democratic
+ ruling_party = democratic_monarchism
 	last_election = "1935.11.27"
 	election_frequency = 36
 	elections_allowed = yes
@@ -63,7 +63,7 @@ create_country_leader = {
 	desc = "POLITICS_MICHAEL_JOSEPH_SAVAGE_DESC"
 	picture = "NZL_michael_joseph_savage.dds"
 	expire = "1965.1.1"
-	ideology = socialism
+	ideology = liberal_constitutionalism
 	traits = {
 		#
 	}

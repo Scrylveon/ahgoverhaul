@@ -11,6 +11,7 @@ state={
 	history={
 		owner = TUR
 		add_core_of = TUR
+		add_core_of = RUM
 		set_demilitarized_zone = yes
 		add_core_of = GRE
 		buildings = {

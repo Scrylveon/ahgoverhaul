@@ -12,6 +12,9 @@ state={
 		add_core_of = CSA
 		add_core_of = WVI
 
+		victory_points = {
+			13809 1 
+		}
 	}
 
 	provinces={

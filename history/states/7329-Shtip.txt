@@ -10,6 +10,9 @@ state={
         add_core_of = SER
         add_core_of = MAC
 	add_core_of = BUL
+		victory_points = {
+			13366 1 
+		}
     }	
 	manpower=1000
 	state_category = pastoral

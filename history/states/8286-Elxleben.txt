@@ -9,6 +9,10 @@ state={
 		add_core_of = GER
         add_core_of = DDR
 		add_core_of = THU
+		victory_points = {
+			18013 1 
+		}
+
 		buildings = {
 			infrastructure = 4
 		}

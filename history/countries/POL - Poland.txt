@@ -35,11 +35,11 @@ set_convoys = 10
 			 = 15
 		communism
 			 = 2
-		neutrality 
+		socialism_ideology 
 			 = 65
 		}
 	set_politics = { 
- ruling_party = neutrality
+ ruling_party = socialism_ideology
 	last_election = "1935.9.8"
 	election_frequency = 36
 	elections_allowed = no
@@ -63,7 +63,7 @@ create_country_leader = {
 	desc = "POLITICS_IGNACY_MOSCICKI_DESC"
 	picture = "Portrait_Poland_Ignacy_Moscicki.dds"
 	expire = "1965.1.1"
-	ideology = oligarchism
+	ideology = demsoc
 	traits = {
 		#
 	}

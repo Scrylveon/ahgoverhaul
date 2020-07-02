@@ -21,11 +21,11 @@ set_convoys = 5
 			 = 10
 		communism
 			 = 20
-		neutrality 
+		authoritarian_monarchism 
 			 = 60
 		}
 	set_politics = { 
- ruling_party = neutrality
+ ruling_party = authoritarian_monarchism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -36,7 +36,7 @@ create_country_leader = {
 	name = "Francis Noel Ashley"
 	picture = "Portrait_Francis_Noel_Ashley.dds"
 	expire = "1976.9.8"
-	ideology = despotism
+	ideology = authmon
 	traits = {
 		#
 	}

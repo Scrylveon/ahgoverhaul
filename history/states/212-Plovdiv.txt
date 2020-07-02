@@ -9,7 +9,7 @@ state={
 	history={
 		owner = BUL
 		victory_points = {
-			6923 5 
+			6923 25 
 		}
 		buildings = {
 			infrastructure = 4
@@ -20,6 +20,7 @@ state={
 		}
 		add_core_of = BUL
 		add_core_of = THR
+		add_core_of = ERU
 
 	}
 

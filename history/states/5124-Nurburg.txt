@@ -14,6 +14,7 @@ state={
 		add_core_of = PRE
 		add_core_of = RHI
 		add_core_of = WGR
+		add_core_of = RLP
 		set_demilitarized_zone = yes
 
 	}

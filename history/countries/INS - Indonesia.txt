@@ -2,6 +2,7 @@
 
 oob = "INS_1936"
 
+set_cosmetic_tag = INS_DEI #Dutch East Indies
 set_research_slots = 2
 
 # Starting tech
@@ -26,18 +27,24 @@ set_convoys = 25
 
 
 	set_popularities = {
-		democratic 
-			 = 10
+		authoritarian_monarchism 
+			 = 50
 		fascism
 			 = 10
 		communism
 			 = 30
 		neutrality
-			 = 50
+			 = 10
 	
 
 }
 
+	set_politics = { 
+ ruling_party = authoritarian_monarchism
+	last_election = "1936.1.1"
+	election_frequency = 50
+	elections_allowed = no
+}
 create_country_leader = {
 	name = "Sukarno"
 	desc = ""
@@ -52,9 +59,9 @@ create_country_leader = {
 create_country_leader = {
 	name = "Bonifacius Cornelis de Jonge"
 	desc = ""
-	picture = "Bonifacius_Cornelis_de_Jonge.dds"
+	picture = "Bonifacius_Cornelis_de_Jonge.tga"
 	expire = "1953.3.1"
-	ideology = conservatism 
+	ideology = authmon 
 	traits = {
 		
 	}
@@ -93,6 +100,5 @@ create_country_leader = {
 	}
 }
 
-set_cosmetic_tag = INS_HOL #Dutch East Indies
 
 

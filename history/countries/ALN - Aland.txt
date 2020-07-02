@@ -22,11 +22,11 @@ set_technology = {
 			 = 1
 		communism
 			 = 1
-		neutrality
+		liberal_republic
 			 = 95
 		}
 	set_politics = { 
- ruling_party = neutrality
+ ruling_party = liberal_republic
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes
@@ -37,7 +37,7 @@ create_country_leader = {
 	desc = ""
 	picture = "bjork.dds"
 	expire = "1965.1.1"
-	ideology = centrism
+	ideology = socdem
 	traits = {
 		#
 	}

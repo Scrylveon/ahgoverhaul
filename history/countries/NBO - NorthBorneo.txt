@@ -17,12 +17,12 @@ set_convoys = 10
         
         communism =  15 
         fascism =  5 
-        neutrality =  80 
+        authoritarian_monarchism =  80 
 
 	}
 	
 	set_politics = { 
- ruling_party = neutrality
+ ruling_party = authoritarian_monarchism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -32,7 +32,7 @@ create_country_leader = {
 	name = "Douglas James Jardine"
 	desc = ""
 	picture = "Portrait_Douglas_James_Jardine.dds"
-	ideology = moderatism
+	ideology = authmon
 	expire = "1963.6.16"
 	traits = {
 		#

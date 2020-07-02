@@ -12,6 +12,9 @@ state={
 		add_claim_by = CSA
 		add_core_of = NVA	
 
+		victory_points = {
+			4799 1 
+		}
 	}
 	
 	provinces={

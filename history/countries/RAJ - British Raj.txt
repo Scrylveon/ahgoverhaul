@@ -401,11 +401,11 @@ set_cosmetic_tag = RAJ_UK # British Raj
 			 = 2
 		communism
 			 = 1
-		neutrality
+		authoritarian_monarchism
 			 = 80
 		}
 	set_politics = { 
- ruling_party = neutrality
+ ruling_party = authoritarian_monarchism
 	last_election = "1935.11.14"
 	election_frequency = 48
 	elections_allowed = no
@@ -416,7 +416,7 @@ create_country_leader = {
 	desc = ""
 	picture = "gfx/leaders/RAJ/Portrait_Freeman_Freeman-Thomas.dds"
 	expire = "1937.1.1"
-	ideology = despotism
+	ideology = authmon
 	traits = {
 		
 	}

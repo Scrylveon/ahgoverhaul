@@ -19,6 +19,9 @@ state={
 		add_core_of = ARZ
 		add_core_of = CSA
 
+		victory_points = {
+			1793 1 
+		}
 	}
 
 	provinces={

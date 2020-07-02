@@ -9,8 +9,9 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = ETH
+		owner = ASS
 		add_core_of = ETH
+		add_core_of = ASS
 		add_core_of = AFA
 	}
 	

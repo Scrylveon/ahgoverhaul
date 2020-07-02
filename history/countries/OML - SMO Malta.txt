@@ -16,13 +16,13 @@ set_popularities = {
 	       democratic = 2
         communism = 1
         fascism = 7
-        monarchism = 90
+        theocratic = 90
 
 }
 
 set_politics = {
 	
-	ruling_party = monarchism
+	ruling_party = theocratic
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -34,7 +34,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_Malta_LCADR.dds"
 	expire = "1951.1.1"
-	ideology = absolutism
+	ideology = christian
 	traits = {
 		#
 	}

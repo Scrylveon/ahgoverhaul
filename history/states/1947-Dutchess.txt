@@ -11,6 +11,9 @@ state={
 		add_core_of = USA
 		add_core_of = NWY
 
+		victory_points = {
+			3806 1 
+		}
 	}
 	
 	provinces={
