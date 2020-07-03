@@ -1,13 +1,12 @@
 state={
-	id=10597
-	name="STATE_10597"
+	id=10608
+	name="STATE_10608"
 	provinces={
-		20101
+		20112
 	}
 	history={
-		owner = PAR
-		add_core_of = PAR
-		add_core_of = BOL
+		owner = WTR
+		add_core_of = WTR
 
 	}
 	manpower=1000

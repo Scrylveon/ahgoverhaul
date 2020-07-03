@@ -1,18 +1,16 @@
 state={
-	id=6122
-	name="STATE_6122"
+	id=10610
+	name="STATE_10610"
 	provinces={
-		16176 16180 
+		20114
 	}
-	manpower = 1000
-	
-	state_category = pastoral
-
 	history={
 		owner = PAR
 		add_core_of = PAR
 		add_core_of = BOL
+
 	}
-	
+	manpower=1000
 	buildings_max_level_factor=1.000
+	state_category = pastoral
 }
