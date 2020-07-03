@@ -11,6 +11,7 @@ state={
 	history={
 		owner = CHL
 		add_core_of = CHL
+		add_core_of = PAT
 	}
 	
 	buildings_max_level_factor=1.000

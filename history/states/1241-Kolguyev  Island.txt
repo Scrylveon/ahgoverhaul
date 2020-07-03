@@ -5,7 +5,7 @@ state={
 		12530 
 	}
 	history={
-		owner = RUS
+		owner = PCR
 		buildings = {
 			infrastructure = 1
 			12530 = {
