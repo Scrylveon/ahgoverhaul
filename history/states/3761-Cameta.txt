@@ -1,12 +1,7 @@
+
 state={
 	id=3761
 	name="STATE_3761"
-	provinces={
-		12999 12853
-	}
-	manpower = 1000
-	
-	state_category = pastoral
 
 	history={
 		owner = BRA
@@ -14,7 +9,15 @@ state={
 		add_core_of = PRA
 		buildings = {
 			infrastructure = 1
+
 		}
+
 	}
+
+	provinces={
+		12999 
+	}
+	manpower=1000
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }
