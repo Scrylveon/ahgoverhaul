@@ -210,6 +210,16 @@ do_german_renames = {
 
 	if = {
 		limit = {
+			state = 1337
+		}		
+		set_province_name = {
+			id = 6444
+			name = "Wiesbaden"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 2046
 		}
 		set_province_name = {
@@ -833,6 +843,16 @@ do_german_renames = {
 		set_province_name = {
 			id = 6582
 			name = "Halle (Saale)"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 8353
+		}		
+		set_province_name = {
+			id = 18009
+			name = "Düsseldorf"
 		}
 	}
 
@@ -3324,6 +3344,26 @@ do_latin_renames = {
 
 	if = {
 		limit = {
+			state = 1337
+		}		
+		set_province_name = {
+			id = 6444
+			name = "Aquae Mattiacae"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 8353
+		}		
+		set_province_name = {
+			id = 18009
+			name = "Dusseldorpium"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 74
 		}		
 		set_province_name = {
@@ -4041,6 +4081,7 @@ do_latin_renames = {
 			name = "Hannovera"
 		}
     }
+	
 	if = {
 		limit = {
 			state = 1778
@@ -8370,6 +8411,26 @@ do_yugoslavian_renames = {
 	}
 }
 do_italian_renames = {
+
+	if = {
+		limit = {
+			state = 3455
+		}		
+		set_province_name = {
+			id = 4159
+			name = "Messina"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 115
+		}		
+		set_province_name = {
+			id = 10074
+			name = "Palermo"
+		}
+	}
 	if = {
 		limit = {
 			state = 5523
@@ -8866,7 +8927,7 @@ do_italian_renames = {
 		}		
 		set_province_name = {
 			id = 11837
-			name = "Tárantas"
+			name = "Taranto"
 		}
 	}
 		
@@ -9362,7 +9423,377 @@ do_catalonian_renames = {
 		}
 	}
 }
-do_french_renames = {	
+do_french_renames = {
+
+	if = {
+		limit = {
+			state = 1232
+		}		
+		set_province_name = {
+			id = 3924
+			name = "Spalate"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2782
+		}		
+		set_province_name = {
+			id = 3673
+			name = "Clanforte"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1791
+		}		
+		set_province_name = {
+			id = 13356
+			name = "Villace"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 7371
+		}		
+		set_province_name = {
+			id = 9627
+			name = "Lubiane"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3454
+		}		
+		set_province_name = {
+			id = 7059
+			name = "Marsala"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3457
+		}		
+		set_province_name = {
+			id = 4014
+			name = "Syracuse"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3455
+		}		
+		set_province_name = {
+			id = 4159
+			name = "Messine"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 115
+		}		
+		set_province_name = {
+			id = 10074
+			name = "Palerme"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4930
+		}		
+		set_province_name = {
+			id = 12098
+			name = "Crotone"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 847
+		}		
+		set_province_name = {
+			id = 11837
+			name = "Tarante"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 4927
+		}		
+		set_province_name = {
+			id = 819
+			name = "Naples"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4120
+		}		
+		set_province_name = {
+			id = 6980
+			name = "Vieste"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2
+		}
+		set_province_name = {
+			id = 11846
+			name = "Ance"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 845
+		}		
+		set_province_name = {
+			id = 925
+			name = "Ancône"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2377
+		}		
+		set_province_name = {
+			id = 13863
+			name = "Rome"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 736
+		}		
+		set_province_name = {
+			id = 11735
+			name = "Pola"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2265
+		}		
+		set_province_name = {
+			id = 13858
+			name = "Rovigne"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1157
+		}		
+		set_province_name = {
+			id = 13313
+			name = "Trieste"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 160
+		}		
+		set_province_name = {
+			id = 11584
+			name = "Venise"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 7538
+		}		
+		set_province_name = {
+			id = 17096
+			name = "Vérone"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3451
+		}		
+		set_province_name = {
+			id = 6891
+			name = "Terre-Neuve"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1312
+		}		
+		set_province_name = {
+			id = 6973
+			name = "La Épice"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2384
+		}		
+		set_province_name = {
+			id = 13866
+			name = "Portferre"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 159
+		}		
+		set_province_name = {
+			id = 3780
+			name = "Milan"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 338
+		}		
+		set_province_name = {
+			id = 3369
+			name = "Bristole"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2188
+		}		
+		set_province_name = {
+			id = 13471
+			name = "Londres"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4939
+		}		
+		set_province_name = {
+			id = 11253
+			name = "Nordovice"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 986
+		}		
+		set_province_name = {
+			id = 540
+			name = "Plymue"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 167
+		}		
+		set_province_name = {
+			id = 6906
+			name = "Valenca"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 166
+		}		
+		set_province_name = {
+			id = 3816
+			name = "Saragosse"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5839
+		}		
+		set_province_name = {
+			id = 399
+			name = "Esberg"
+		}
+    }
+
+	if = {
+		limit = {
+			state = 1778
+		}		
+		set_province_name = {
+			id = 11388
+			name = "Munster"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1337
+		}		
+		set_province_name = {
+			id = 6444
+			name = "Wisbaden"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 8353
+		}		
+		set_province_name = {
+			id = 18009
+			name = "Dusseldorf"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1131
+		}		
+		set_province_name = {
+			id = 3325
+			name = "Odensée"
+		}
+    }
+
+	if = {
+		limit = {
+			state = 2298
+		}		
+		set_province_name = {
+			id = 13822
+			name = "Sonderbourg"
+		}
+    }
+
+	if = {
+		limit = {
+			state = 1349
+		}		
+		set_province_name = {
+			id = 11331
+			name = "Lubeck"
+		}
+    }
 
 	if = {
 		limit = {
@@ -9453,16 +9884,6 @@ do_french_renames = {
 			name = "Aix-la-Chapelle"
 		}
 	}
-
-	if = {
-		limit = {
-			state = 2
-		}
-		set_province_name = {
-			id = 11846
-			name = "Ántsio"
-		}
-	}
 	
 	if = {
 		limit = {
@@ -9517,16 +9938,6 @@ do_french_renames = {
 		set_province_name = {
 			id = 9907
 			name = "Florence"
-		}
-	}
-		
-	if = {
-		limit = {
-			state = 159
-		}		
-		set_province_name = {
-			id = 3780
-			name = "Milano"
 		}
 	}
 
@@ -10406,6 +10817,16 @@ do_dutch_renames = {
 
 	if = {
 		limit = {
+			state = 8353
+		}		
+		set_province_name = {
+			id = 18009
+			name = "Dusseldorp"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 1340
 		}		
 		set_province_name = {
@@ -10909,7 +11330,7 @@ do_hungarian_renames = {
 			name = "Szarajevó"
 		}
 	}
-		if = {
+	if = {
 		limit = {
 			state = 1232
 		}		
@@ -13342,6 +13763,36 @@ do_finnish_renames = {
 	}
 }
 do_danish_renames = {
+
+	if = {
+		limit = {
+			state = 5839
+		}		
+		set_province_name = {
+			id = 399
+			name = "Esbjerg"
+		}
+    }
+
+	if = {
+		limit = {
+			state = 1131
+		}		
+		set_province_name = {
+			id = 3325
+			name = "Odense"
+		}
+    }
+
+	if = {
+		limit = {
+			state = 2298
+		}		
+		set_province_name = {
+			id = 13822
+			name = "Sønderborg"
+		}
+    }
 
 	if = {
 		limit = {
