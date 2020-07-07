@@ -210,6 +210,96 @@ do_german_renames = {
 
 	if = {
 		limit = {
+			state = 1130
+		}		
+		set_province_name = {
+			id = 316
+			name = "Dünenmühlen"
+		}
+    }
+
+	if = {
+		limit = {
+			state = 4832
+		}		
+		set_province_name = {
+			id = 6283
+			name = "Aalburg"
+		}
+    }
+
+	if = {
+		limit = {
+			state = 99
+		}		
+		set_province_name = {
+			id = 6364
+			name = "Aarhaus"
+		}
+    }
+
+	if = {
+		limit = {
+			state = 5609
+		}		
+		set_province_name = {
+			id = 6287
+			name = "Köpenhagen"
+		}
+    }
+
+	if = {
+		limit = {
+			state = 5839
+		}		
+		set_province_name = {
+			id = 399
+			name = "Esberg"
+		}
+    }
+
+	if = {
+		limit = {
+			state = 2298
+		}		
+		set_province_name = {
+			id = 13822
+			name = "Sünderburg"
+		}
+    }
+
+	if = {
+		limit = {
+			state = 2093
+		}		
+		set_province_name = {
+			id = 9574
+			name = "Genck"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 34
+		}		
+		set_province_name = {
+			id = 9536
+			name = "Karolsköning"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2434
+		}		
+		set_province_name = {
+			id = 14669
+			name = "Velwisch"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 1337
 		}		
 		set_province_name = {
@@ -3341,6 +3431,46 @@ do_english_renames = {
 }
 
 do_latin_renames = {
+
+	if = {
+		limit = {
+			state = 3500
+		}		
+		set_province_name = {
+			id = 6286
+			name = "Suvolle"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2093
+		}		
+		set_province_name = {
+			id = 9574
+			name = "Geneche"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 34
+		}		
+		set_province_name = {
+			id = 9536
+			name = "Caroloregium"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2434
+		}		
+		set_province_name = {
+			id = 14669
+			name = "Vervia"
+		}
+	}
 
 	if = {
 		limit = {
@@ -9427,6 +9557,66 @@ do_french_renames = {
 
 	if = {
 		limit = {
+			state = 784
+		}		
+		set_province_name = {
+			id = 9839
+			name = "Émmén"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2476
+		}		
+		set_province_name = {
+			id = 9803
+			name = "Almélo"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3500
+		}		
+		set_province_name = {
+			id = 6286
+			name = "Suol"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2093
+		}		
+		set_province_name = {
+			id = 9574
+			name = "Genck"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 34
+		}		
+		set_province_name = {
+			id = 9536
+			name = "Charleroi"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2434
+		}		
+		set_province_name = {
+			id = 14669
+			name = "Verviers"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 1232
 		}		
 		set_province_name = {
@@ -10817,6 +11007,66 @@ do_dutch_renames = {
 
 	if = {
 		limit = {
+			state = 784
+		}		
+		set_province_name = {
+			id = 9839
+			name = "Emmen"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2476
+		}		
+		set_province_name = {
+			id = 9803
+			name = "Almelo"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3500
+		}		
+		set_province_name = {
+			id = 6286
+			name = "Zwolle"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2093
+		}		
+		set_province_name = {
+			id = 9574
+			name = "Geck"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 34
+		}		
+		set_province_name = {
+			id = 9536
+			name = "Karelskoning"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2434
+		}		
+		set_province_name = {
+			id = 14669
+			name = "Verviers"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 8353
 		}		
 		set_province_name = {
@@ -11057,6 +11307,33 @@ do_dutch_renames = {
 	}
 }
 do_belgian_renames = {
+	if = {
+		limit = {
+			state = 2093
+		}		
+		set_province_name = {
+			id = 9574
+			name = "Genk"
+		}
+	}
+	if = {
+		limit = {
+			state = 34
+		}		
+		set_province_name = {
+			id = 9536
+			name = "Tchålerwè"
+		}
+	}
+	if = {
+		limit = {
+			state = 2434
+		}		
+		set_province_name = {
+			id = 14669
+			name = "Vervî"
+		}
+	}
 	if = {
 		limit = {
 			state = 2092
@@ -13763,6 +14040,46 @@ do_finnish_renames = {
 	}
 }
 do_danish_renames = {
+
+	if = {
+		limit = {
+			state = 1130
+		}		
+		set_province_name = {
+			id = 316
+			name = "Klitmøller"
+		}
+    }
+
+	if = {
+		limit = {
+			state = 4832
+		}		
+		set_province_name = {
+			id = 6283
+			name = "Aalborg"
+		}
+    }
+
+	if = {
+		limit = {
+			state = 99
+		}		
+		set_province_name = {
+			id = 6364
+			name = "Aarhus"
+		}
+    }
+
+	if = {
+		limit = {
+			state = 5609
+		}		
+		set_province_name = {
+			id = 6287
+			name = "København"
+		}
+    }
 
 	if = {
 		limit = {
