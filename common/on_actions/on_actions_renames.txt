@@ -19,6 +19,22 @@ on_actions = {
 						do_german_renames = yes
 					}
 
+					### OCC ###
+					if = {
+						limit = {
+							ROOT = {tag = OCC}
+							}
+						do_occitanian_renames = yes
+					}
+
+					### NSA ###
+					if = {
+						limit = {
+							ROOT = {tag = NSA}
+							}
+						do_lower_german_renames = yes
+					}
+
 					### POL ###
 					if = {
 						limit = {
