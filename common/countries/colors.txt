@@ -4940,3 +4940,19 @@ RUM = {
 color = rgb { 70 100 0 }
 color_ui = rgb { 70 100 0 }
 }
+DWI = {
+color = rgb { 114 186 180 }
+color_ui = rgb { 114 186 180 }
+}
+GFB = {
+color = rgb { 114 186 180 }
+color_ui = rgb { 114 186 180 }
+}
+KUK = {
+color = rgb { 114 186 180 }
+color_ui = rgb { 114 186 180 }
+}
+MHL = {
+color = rgb { 114 186 180 }
+color_ui = rgb { 114 186 180 }
+}

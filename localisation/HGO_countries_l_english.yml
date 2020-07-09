@@ -1509,6 +1509,22 @@
  RUM_DEF:0 "Rumelia"
  RUM_ADJ:0 "Rumelia"
  
+ DWI:0 "Deutsch-Witu"
+ DWI_DEF:0 "Deutsch-Witu"
+ DWI_ADJ:0 "Deutsch-Witu"
+ 
+ KUK:0 "Kapitaï und Koba"
+ KUK_DEF:0 "Kapitaï und Koba"
+ KUK_ADJ:0 "Kapitaï und Koba"
+ 
+ GFB:0 "Groß Friedrichsburg"
+ GFB_DEF:0 "Groß Friedrichsburg"
+ GFB_ADJ:0 "Groß Friedrichsburg"
+ 
+ MHL:0 "Mahinland"
+ MHL_DEF:0 "Mahinland"
+ MHL_ADJ:0 "Mahinland"
+ 
 
  BWH_monarchism:0 "Bhawhal State"
  BWH_monarchism_DEF:0 "Bhawhal State"
