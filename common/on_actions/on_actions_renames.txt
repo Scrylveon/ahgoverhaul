@@ -237,7 +237,7 @@ on_actions = {
 					### IRQ ###
 					if = {
 						limit = {
-							ROOT = {OR = { tag = EGY tag = ALG tag = SGR tag = SUD tag = IRQ tag = KUW tag = PAL tag = JOR }}
+							ROOT = {OR = {tag = IRQ tag = SAU}}
 						}
 						do_iraqi_renames = yes
 					}
@@ -322,6 +322,14 @@ on_actions = {
 						}
 						do_swedish_renames = yes
 					}
+					
+					### ETH ###
+					if = {
+						limit = {
+							ROOT = {tag = ETH}
+						}
+						do_ethiopian_renames = yes
+					}					
 			}
 		}
 	}
