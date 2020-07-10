@@ -677,7 +677,7 @@ do_german_renames = {
 		}		
 		set_province_name = {
 			id = 9536
-			name = "Karolsköning"
+			name = "Karolingen"
 		}
 	}
 
@@ -6366,7 +6366,7 @@ do_latin_renames = {
 		}		
 		set_province_name = {
 			id = 9548
-			name = "Czernowicum"
+			name = "Cernovicum"
 		}
 	}
 
@@ -12638,6 +12638,406 @@ do_romanian_renames = {
 	}
 }
 do_bulgarian_renames = {
+
+	if = {
+		limit = {
+			state = 812
+		}		
+		set_province_name = {
+			id = 13270
+			name = "Prishtina"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3329
+		}
+		set_province_name = {
+			id = 3980
+			name = "Yanina"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3330
+		}
+		set_province_name = {
+			id = 9916
+			name = "Arta"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1020
+		}
+		set_province_name = {
+			id = 10203
+			name = "Korfu"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2337
+		}
+		set_province_name = {
+			id = 13291
+			name = "Fier"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 7276
+		}
+		set_province_name = {
+			id = 6900
+			name = "Goritsa"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 44
+		}		
+		set_province_name = {
+			id = 9914
+			name = "Tirana"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 8438
+		}
+		set_province_name = {
+			id = 17901
+			name = "Iztok"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1233
+		}
+		set_province_name = {
+			id = 13619
+			name = "Mitrovitsa"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2339
+		}
+		set_province_name = {
+			id = 13268
+			name = "Gnilyane"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5921
+		}
+		set_province_name = {
+			id = 16476
+			name = "Pech"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1215
+		}
+		set_province_name = {
+			id = 9849
+			name = "Prizren"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 3654
+		}		
+		set_province_name = {
+			id = 13267
+			name = "Podgoritsa"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 816
+		}		
+		set_province_name = {
+			id = 11887
+			name = "Nish"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 107
+		}		
+		set_province_name = {
+			id = 11586
+			name = "Belgrad"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 6019
+		}		
+		set_province_name = {
+			id = 3730
+			name = "Brezovi Tsŭrkvi"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 154
+		}		
+		set_province_name = {
+			id = 11659
+			name = "Debretsen"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2058
+		}		
+		set_province_name = {
+			id = 746
+			name = "Maramureshki Siget"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1218
+		}		
+		set_province_name = {
+			id = 3696
+			name = "Varadin"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1217
+		}		
+		set_province_name = {
+			id = 6711
+			name = "Kluzh"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 76
+		}		
+		set_province_name = {
+			id = 9670
+			name = "Novpazar na Muresh"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 1216
+		}		
+		set_province_name = {
+			id = 3665
+			name = "Hunjadi"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 84
+		}		
+		set_province_name = {
+			id = 690
+			name = "Brashov"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 80
+		}		
+		set_province_name = {
+			id = 9548
+			name = "Chernovtsi"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3472
+		}		
+		set_province_name = {
+			id = 9716
+			name = "Yash"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 78
+		}		
+		set_province_name = {
+			id = 3707
+			name = "Kishinev"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 791
+		}		
+		set_province_name = {
+			id = 6727
+			name = "Belgorod-Dnestrovski"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 79
+		}		
+		set_province_name = {
+			id = 6706
+			name = "Galac"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3615
+		}		
+		set_province_name = {
+			id = 3663
+			name = "Ploesht"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 81
+		}		
+		set_province_name = {
+			id = 6652
+			name = "Krayova"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2272
+		}		
+		set_province_name = {
+			id = 9606
+			name = "Timishvár"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 46
+		}		
+		set_province_name = {
+			id = 9617
+			name = "Bukuresht"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 341
+		}		
+		set_province_name = {
+			id = 9833
+			name = "Tsarigrad"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5343
+		}		
+		set_province_name = {
+			id = 9635
+			name = "Kyustendzha"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 106
+		}		
+		set_province_name = {
+			id = 3882
+			name = "Skopie"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 813
+		}		
+		set_province_name = {
+			id = 833
+			name = "Ohrid"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1796
+		}		
+		set_province_name = {
+			id = 3865
+			name = "Bitolya"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 7329
+		}		
+		set_province_name = {
+			id = 13366
+			name = "Shtip"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2046
+		}
+		set_province_name = {
+			id = 13271
+			name = "Dedeagach"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 7234
+		}
+		set_province_name = {
+			id = 9791
+			name = "Drama"
+		}
+	}
 	if = {
 		limit = {
 			state = 3507
@@ -12653,7 +13053,7 @@ do_bulgarian_renames = {
 		}		
 		set_province_name = {
 			id = 6842
-			name = "Veliko Tǎrnovo" 
+			name = "Veliko Tŭrnovo" 
 		}
 	}
 	if = {
