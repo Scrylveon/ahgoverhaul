@@ -454,3 +454,203 @@ country_event = { #Decolonise Arabia
 
 	}
 }
+
+#rename city
+country_event = {
+	id = hgo.993
+	title = hgo.993.t
+	desc = hgo.993.desc
+	picture = GFX_report_event_german_reichstag_gathering
+
+	fire_only_once = yes
+
+	trigger = {
+		tag = GER
+		GER = {
+			has_government = fascism
+			owns_state = 217 
+			owns_state = 195 
+		}
+	}
+
+	option = { #a great idea!
+		name = hgo.993.a
+		ai_chance = {
+			base = 100
+		}
+		set_province_name = { id = 3529 name = "Stalingrad"}
+		217 = { set_state_name = Stalingrad }
+	}
+}
+
+#rename city
+country_event = {
+	id = hgo.994
+	title = hgo.994.t
+	desc = hgo.994.desc
+	picture = GFX_report_event_german_reichstag_gathering
+
+	fire_only_once = yes
+
+	trigger = {
+		tag = GER
+		GER = {
+			has_government = fascism
+			owns_state = 217 
+			owns_state = 195 
+		}
+	}
+
+	option = { #a great idea!
+		name = hgo.994.a
+		ai_chance = {
+			base = 100
+		}
+		set_province_name = { id = 3151 name = "Leningrad"}
+		195 = { set_state_name = Leningrad }
+		1082 = { set_state_name = "Yuzhny Leningrad" }
+	}
+}
+
+#rename city
+country_event = {
+	id = hgo.995
+	title = hgo.995.t
+	desc = hgo.995.desc
+	picture = GFX_report_event_german_reichstag_gathering
+
+	fire_only_once = yes
+
+	trigger = {
+		tag = GER
+		GER = {
+			has_government = fascism
+			owns_state = 217 
+			owns_state = 195 
+		}
+	}
+
+	option = { #a great idea!
+		name = hgo.995.a
+		ai_chance = {
+			base = 100
+		}
+		set_province_name = { id = 3529 name = "Tsaritsyn"}
+		217 = { set_state_name = Tsaritsyn }
+	}
+}
+
+#rename city
+country_event = {
+	id = hgo.996
+	title = hgo.996.t
+	desc = hgo.996.desc
+	picture = GFX_report_event_german_reichstag_gathering
+
+	fire_only_once = yes
+
+	trigger = {
+		tag = GER
+		GER = {
+			has_government = fascism
+			owns_state = 217 
+			owns_state = 195 
+		}
+	}
+
+	option = { #a great idea!
+		name = hgo.996.a
+		ai_chance = {
+			base = 100
+		}
+		set_province_name = { id = 3151 name = "Petrograd"}
+		195 = { set_state_name = Petrograd }
+		1082 = { set_state_name = "Yuzhny Petrograd" }
+	}
+}
+
+#rename city
+country_event = {
+	id = hgo.997
+	title = hgo.997.t
+	desc = hgo.997.desc
+	picture = GFX_report_event_german_reichstag_gathering
+
+	fire_only_once = yes
+
+	trigger = {
+		tag = GER
+		GER = {
+			has_government = fascism
+			owns_state = 217 
+			owns_state = 195 
+		}
+	}
+
+	option = { #a great idea!
+		name = hgo.997.a
+		ai_chance = {
+			base = 100
+		}
+		set_province_name = { id = 3529 name = "Volgograd"}
+		217 = { set_state_name = Volgograd }
+	}
+}
+
+#rename city
+country_event = {
+	id = hgo.998
+	title = hgo.998.t
+	desc = hgo.998.desc
+	picture = GFX_report_event_german_reichstag_gathering
+
+	fire_only_once = yes
+
+	trigger = {
+		tag = GER
+		GER = {
+			has_government = fascism
+			owns_state = 217 
+			owns_state = 195 
+		}
+	}
+
+	option = { #a great idea!
+		name = hgo.998.a
+		ai_chance = {
+			base = 100
+		}
+		set_province_name = { id = 3151 name = "Sankt-Peterburg"}
+		195 = { set_state_name = Sankt-Peterburg }
+		1082 = { set_state_name = "Yuzhny Sankt-Peterburg" }
+	}
+}
+
+#rename city
+country_event = {
+	id = hgo.999
+	title = hgo.999.t
+	desc = hgo.999.desc
+	picture = GFX_report_event_german_reichstag_gathering
+
+	fire_only_once = yes
+
+	trigger = {
+		tag = GER
+		GER = {
+			has_government = fascism
+			owns_state = 217 
+			owns_state = 195 
+		}
+	}
+
+	option = { #a great idea!
+		name = hgo.999.a
+		ai_chance = {
+			base = 100
+		}
+		set_province_name = { id = 3151 name = "Saint Petersburg"}
+		195 = { set_state_name = "Saint Petersburg" }
+		1082 = { set_state_name = "South Saint Petersburg" }
+	}
+}
