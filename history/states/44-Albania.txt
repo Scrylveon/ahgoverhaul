@@ -10,7 +10,7 @@ state={
 	history={
 		owner = ALB
 		victory_points = {
-			9914 5 
+			9914 25 
 		}
 		buildings = {
 			infrastructure = 3

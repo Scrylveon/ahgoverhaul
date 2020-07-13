@@ -265,15 +265,23 @@ on_actions = {
 						}
 						do_belarussian_renames = yes
 					}
-
 					### TUR ###
-					if = {
-						limit = {
-							ROOT = {OR = {tag = TUR
-								  		  is_subject_of = TUR}}
+						if = {
+							limit = {
+								ROOT = { tag = TUR }
+							}
+							do_ottoman_renames = yes
+							do_turkish_renames = yes
+							if = {
+								limit = {
+									ROOT = {
+										NOT = { has_cosmetic_tag = OTTO }
+									}
+								}
+								do_turkish_renames = yes
+								do_non_ottoman_turkish_renames = yes
+							}
 						}
-						do_turkish_renames = yes
-					}
 
 					### PER ###
 					if = {

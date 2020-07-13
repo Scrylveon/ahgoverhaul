@@ -5,18 +5,9 @@ state={
 
 	history={
 		owner = YUG
-		buildings = {
-			infrastructure = 5
-			dockyard = 1
-			industrial_complex = 2
-			
-
-		}
 		add_core_of = YUG
 		add_core_of = CRO
 		add_core_of = ILY
-
-
 		add_core_of = DLM
 		}
 
