@@ -6,7 +6,7 @@ state={
 	history={
 		owner = CAT
 		victory_points = {
-			9764 15 
+			9764 25 
 		}
 		buildings = {
 			infrastructure = 7

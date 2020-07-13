@@ -6,6 +6,9 @@ state={
 		owner = SPR 
 		add_core_of = SPR
 		add_core_of = CNR
+		victory_points = {
+			14215 25
+		}
 		buildings = {
 			infrastructure = 4
 			
