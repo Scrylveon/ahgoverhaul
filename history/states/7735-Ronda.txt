@@ -8,6 +8,9 @@ state={
 	    owner = SPR
         add_core_of = SPR
         add_core_of = ANL
+		victory_points = {
+			10094 5 
+		}
     }	
 	manpower=1000
 	state_category = pastoral

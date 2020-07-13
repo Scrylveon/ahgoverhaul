@@ -1,6 +1,6 @@
 state={
-	id=2925
-	name="STATE_2925"
+	id=10631
+	name="STATE_10631"
 	history={
 		
 		owner = SPR 
@@ -13,7 +13,7 @@ state={
 		}
 	}
 	provinces={
-		896
+		977
 	}
 	manpower=1000 
  state_category=pastoral

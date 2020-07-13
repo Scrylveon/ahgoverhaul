@@ -1,19 +1,18 @@
 state={
-	id=2925
-	name="STATE_2925"
+	id=10628
+	name="STATE_10628"
 	history={
 		
 		owner = SPR 
 		add_core_of = SPR
-		add_core_of = MDD
-		add_core_of = CST
+		add_core_of = ADU
 		buildings = {
 			infrastructure = 4
 			
 		}
 	}
 	provinces={
-		896
+		747 10063
 	}
 	manpower=1000 
  state_category=pastoral

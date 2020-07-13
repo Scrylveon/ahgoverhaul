@@ -1,19 +1,22 @@
 state={
-	id=2925
-	name="STATE_2925"
+	id=10630
+	name="STATE_10630"
 	history={
 		
 		owner = SPR 
 		add_core_of = SPR
 		add_core_of = MDD
 		add_core_of = CST
+		victory_points = {
+			3794 5
+		}
 		buildings = {
 			infrastructure = 4
 			
 		}
 	}
 	provinces={
-		896
+		3794 
 	}
 	manpower=1000 
  state_category=pastoral
