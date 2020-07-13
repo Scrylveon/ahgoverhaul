@@ -1,3 +1,7 @@
+MOR_SPR = {
+	color = rgb { 224 198 94 }
+	color_ui = rgb { 224 198 94 }
+}
 CAT_SPR = {
 	color = rgb { 224 198 94 }
 	color_ui = rgb { 224 198 94 }
