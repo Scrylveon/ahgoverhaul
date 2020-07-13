@@ -1,13 +1,16 @@
 
 state={
-	id=180
-	name="STATE_180"
+	id=10633
+	name="STATE_10633"
 	manpower = 964700
 	
 	state_category = town
 
 	history={
 		owner = POR
+		victory_points = {
+			9817 20 
+		}
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 1
@@ -17,6 +20,6 @@ state={
 	}
 
 	provinces={
-		724 877 3892 6921 6941 11673 
+		9817 
 	}
 }
