@@ -2625,28 +2625,28 @@ WAT = {
     color_ui = rgb { 230 230 0 }
 }
 SAT = {
-    color = rgb { 244 192 11 }
-    color_ui = rgb { 244 192 11 }
+    color = rgb { 213 0 50 }
+    color_ui = rgb { 213 0 50 }
 }
 CET = {
     color = rgb { 230 77 2 }
     color_ui = rgb { 230 77 2 }
 }
 NSW = {
-    color = rgb { 231 99 1 }
-    color_ui = rgb { 231 99 1 }
+    color = rgb { 138 186 211 }
+    color_ui = rgb { 138 186 211 }
 }
 VCR = {
     color = rgb { 0 0 128 }
     color_ui = rgb { 0 0 128 }
 }
 QNS = {
-    color = rgb { 243 232 12 }
-    color_ui = rgb { 243 232 12 }
+    color = rgb { 115 24 44 }
+    color_ui = rgb { 115 24 44 }
 }
 TAS = {
-    color = rgb { 255 89 89 }
-    color_ui = rgb { 255 89 89 }
+    color = rgb { 0 103 71 }
+    color_ui = rgb { 0 103 71 }
 }
 ACT = {
     color = rgb { 231 242 17 }

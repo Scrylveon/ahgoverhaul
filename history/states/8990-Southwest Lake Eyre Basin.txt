@@ -1,13 +1,14 @@
 state={
-	id=8994
-	name="STATE_8994"
+	id=8990
+	name="STATE_8990"
 	provinces={
-		18296
+		18292 
 	}
 	history={
 		owner = AST
 		add_core_of = AST
-		add_core_of = QNS
+		add_core_of = SAT
+		add_core_of = WTR
 
 	}
 	manpower = 1

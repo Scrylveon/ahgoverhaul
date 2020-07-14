@@ -1,27 +1,20 @@
-
 state={
-	id=2021
-	name="STATE_2021"
-	resources={
-		tungsten=24.000
-	}
+	id=10650
+	name="STATE_10650"
 
 	history={
 		owner = AST
 		buildings = {
-			infrastructure = 5
-			industrial_complex = 1
-			air_base = 1
+			infrastructure = 3
 
 		}
 		add_core_of = AST
 		add_core_of = QNS
 
-
 	}
 
 	provinces={
-		7525 4505 10350 7506 4648 10338 1644
+		10378
 	}
 	manpower=1000
 	buildings_max_level_factor=1.000
