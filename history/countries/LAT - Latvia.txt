@@ -22,16 +22,16 @@ set_convoys = 10
 
 	set_popularities = {
 		democratic 
-			 = 30
+			 = 40
 		fascism
-			 = 10
+			 = 5
 		communism
-			 = 10
+			 = 5
 		neutrality 
 			 = 50
 		}
 	set_politics = { 
- ruling_party = neutrality
+ ruling_party = democratic
 	last_election = "1931.10.3"
 	election_frequency = 108
 	elections_allowed = no
@@ -44,7 +44,7 @@ create_country_leader = {
 	desc = "POLITICS_KARLIS_ULMANIS_DESC"
 	picture = "Portrait_Albert_Kviesis.dds"
 	expire = "1965.1.1"
-	ideology = oligarchism
+	ideology = conservatism
 	traits = {
 		#
 	}
