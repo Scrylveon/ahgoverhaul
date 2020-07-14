@@ -1,23 +1,25 @@
 state={
-	id=2148
-	name="STATE_2148"
+	id=10662
+	name="STATE_10662"
 	
 	state_category=town
-
+	
 	history={
 		owner = POR
 		buildings = {
-			infrastructure = 6
-			industrial_complex = 3
+			infrastructure = 5
 
 		}
 		add_core_of = POR
+		victory_points = {
+			3798 5 
+		}
 
 	}
-
+	
 	provinces={
-		3846 3886 3926 9869 
+		3798 
 	}
-	manpower=100000
+	manpower=904600
 	buildings_max_level_factor=1.000
 }

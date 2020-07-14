@@ -1,6 +1,6 @@
 state={
-	id=2148
-	name="STATE_2148"
+	id=10664
+	name="STATE_10664"
 	
 	state_category=town
 
@@ -12,11 +12,14 @@ state={
 
 		}
 		add_core_of = POR
+		victory_points = {
+			6986 5 
+		}
 
 	}
 
 	provinces={
-		3846 3886 3926 9869 
+		6986 
 	}
 	manpower=100000
 	buildings_max_level_factor=1.000
