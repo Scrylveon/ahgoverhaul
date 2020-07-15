@@ -45,7 +45,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_Harold_Holt.dds"
 	expire = "1965.1.1"
-	ideology = liberalism
+	ideology = conservative_constitutionalism
 	traits = {
 	}
 }
