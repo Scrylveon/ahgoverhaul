@@ -1,23 +1,18 @@
-
 state={
-	id=1024
-	name="STATE_1024"
+	id=10688
+	name="STATE_10688"
 
 	history={
 		owner = AST
-		buildings = {
-			infrastructure = 0
-
-		}
 		add_core_of = AST
 		add_core_of = SAT
 
 	}
 
 	provinces={
-		2205
+		5211
 	}
-	manpower=310100
+	manpower=1000
 	buildings_max_level_factor=1.000
-	state_category=wasteland
+	state_category=pastoral
 }
