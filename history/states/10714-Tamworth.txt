@@ -1,20 +1,16 @@
 state={
-	id=10661
-	name="STATE_10661"
+	id=10714
+	name="STATE_10714"
 
 	history={
 		owner = AST
-		buildings = {
-			infrastructure = 3
-
-		}
 		add_core_of = AST
 		add_core_of = NSW
 
 	}
 
 	provinces={
-		10991
+		7471 7496 10388 4478
 	}
 	manpower=1000
 	buildings_max_level_factor=1.000
