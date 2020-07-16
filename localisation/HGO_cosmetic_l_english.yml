@@ -1,17 +1,4 @@
 ﻿l_english:
- #Shitty colonies
- SAF_HOL:0 “Kaapkolonie”
- SAF_HOL_DEF:0 “de Kaapkolonie”
- SAF_HOL_ADJ:0 “Zuid-Afrikaans”
-
- BRA_HOL:0 “Kolonie Van Brazilië”
- BRA_HOL_DEF:0 “de kolonie van Brazilië”
- BRA_HOL_ADJ:0 “Braziliaans”
-
- ALA_LIE:0 “Territorium von Alaska”
- ALA_LIE_DEF:0 “das Gebiet von Alaska”
- ALA_LIE_DEF:0 “alaska-liechtensteinisch”
-
  #ENG colonies
  JOR_ENG_democratic:0 "Amirate of Trans-Jordan"
  JOR_ENG_democratic_DEF:0 "The Amirate of Trans-Jordan"
