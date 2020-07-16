@@ -5420,3 +5420,6 @@
  BRA_HOL_DEF:0 "de Kolonie van Brazilie"
  BRA_HOL_ADJ:0 "Braziliaans"
 
+ SAF_HOL:0 "Kaapkolonie"
+ SAF_HOL_DEF:0 "de Kaapkolonie"
+ SAF_HOL_ADJ:0 "Zuid-Afrikaans"
