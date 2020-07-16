@@ -8,9 +8,9 @@
  BRA_HOL_DEF:0 “de kolonie van Brazilië”
  BRA_HOL_ADJ:0 “Braziliaans”
 
- ALA_LIE_democratic:0 “Territorium von Alaska”
- ALA_LIE_democratic_DEF:0 “das Gebiet von Alaska”
- ALA_LIE_democratic_ADJ:0 “alaska-liechtensteinisch”
+ ALA_LIE:0 “Territorium von Alaska”
+ ALA_LIE_DEF:0 “das Gebiet von Alaska”
+ ALA_LIE_DEF:0 “alaska-liechtensteinisch”
 
  #ENG colonies
  JOR_ENG_democratic:0 "Amirate of Trans-Jordan"
