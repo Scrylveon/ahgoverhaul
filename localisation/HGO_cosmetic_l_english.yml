@@ -5409,3 +5409,10 @@
  MDP_RAJ:0 "Central Provinces and Berar"
  MDP_RAJ_DEF:0 "The Central Provinces and Berar"
  MDP_RAJ_ADJ:0 "Central"
+
+ #TEST
+ 
+ ALA_LIE:0 "Territorium von Alaska"
+ ALA_LIE_DEF:0 "das Gebiet von Alaska"
+ ALA_LIE_ADJ:0 "Alaska-liechtensteinisch"
+
