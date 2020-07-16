@@ -5416,3 +5416,7 @@
  ALA_LIE_DEF:0 "das Gebiet von Alaska"
  ALA_LIE_ADJ:0 "Alaska-liechtensteinisch"
 
+ BRA_HOL:0 "Kolonie van Brazilie"
+ BRA_HOL_DEF:0 "de Kolonie van Brazilie"
+ BRA_HOL_ADJ:0 "Braziliaans"
+
