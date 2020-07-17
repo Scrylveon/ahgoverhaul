@@ -5595,3 +5595,15 @@
  SIC_ROME:0 "Sicilia"
  SIC_ROME_DEF:0 "Sicilia"
  SIC_ROME_ADJ:0 "Sicilian"
+
+ NFL_NOR:0 "Vinlandskoloni"
+ NFL_NOR_DEF:0 "Vinlandskolonien"
+ NFL_NOR_ADJ:0 "Vinlander"
+
+ DEL_SWE:0 "Ny Sveriges Koloni"
+ DEL_SWE_DEF:0 "den Nya Sveriges Koloni"
+ DEL_SWE_ADJ:0 "Nya Svenska"
+
+ NWY_HOL:0 "Kolonie van Nieuw Amsterdam"
+ NWY_HOL_DEF:0 "de Kolonie van Nieuw Amsterdam"
+ NWY_HOL_ADJ:0 "Dutch"
