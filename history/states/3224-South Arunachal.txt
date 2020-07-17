@@ -6,13 +6,11 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = RAJ
-		buildings = {
-			infrastructure = 1
-		}
-		add_core_of = RAJ
+	    owner = NFT 
+		add_core_of = NFT
 		add_core_of = ASM
-	}
+        add_core_of = RAJ
+    }	
 	provinces={
 		12322 13283 
 	}

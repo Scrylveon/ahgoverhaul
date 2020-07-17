@@ -7,15 +7,11 @@ state={
 	}
 
 	history={
-		owner = RAJ
-		add_core_of = RAJ
+	    owner = NFT 
+		add_core_of = NFT
 		add_core_of = ASM
-		buildings = {
-			infrastructure = 1
-
-		}
-
-	}
+        add_core_of = RAJ
+    }	
 
 	provinces={
 		1116 
