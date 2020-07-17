@@ -4,7 +4,8 @@ state={
 	provinces={
 		9791 
 	}
-	history={
+	history={	
+	add_core_of = EMC
 	    owner = GRE
         add_core_of = GRE
 	add_core_of = BUL

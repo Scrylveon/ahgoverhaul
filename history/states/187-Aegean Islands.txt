@@ -7,6 +7,7 @@ state={
 	}
 
 	history={
+		add_core_of = NAN
 		owner = GRE
 		buildings = {
 			infrastructure = 4

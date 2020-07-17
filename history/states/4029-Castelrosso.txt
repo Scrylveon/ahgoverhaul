@@ -5,6 +5,7 @@ state={
 		14464 
 	}
 	history={
+		add_core_of = SGN\n		add_core_of = SGN
 		owner = ITA
 		buildings = {
 			infrastructure = 5

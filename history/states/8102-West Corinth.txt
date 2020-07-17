@@ -6,6 +6,7 @@ state={
 	}
 	history={
 		owner = GRE
+		add_core_of = PPN
 		add_core_of = GRE
 	}
 	manpower = 1000

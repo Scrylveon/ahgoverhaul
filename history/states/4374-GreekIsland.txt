@@ -2,6 +2,7 @@ state={
 	id=4374
 	name="STATE_4374"
 	history={
+		add_core_of = NAN
 		owner = GRE
 		add_core_of = GRE
 		set_demilitarized_zone = yes	

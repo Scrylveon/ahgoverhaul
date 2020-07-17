@@ -3,6 +3,7 @@ state={
 	name="STATE_2196"
 
 	history={
+		add_core_of = SGN
 		owner = GRE
 		buildings = {
 			infrastructure = 4

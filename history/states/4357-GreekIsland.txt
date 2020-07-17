@@ -2,6 +2,7 @@ state={
 	id=4357
 	name="STATE_4357"
 	history={
+    	add_core_of = ATT
 		owner = GRE
 		add_core_of = GRE
 		buildings = {

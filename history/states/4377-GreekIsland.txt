@@ -2,6 +2,7 @@ state={
 	id=4377
 	name="STATE_4377"
 	history={
+		add_core_of = SGN
 		owner = GRE
 		add_core_of = GRE
 		victory_points = {
