@@ -5596,6 +5596,7 @@
  SIC_ROME_DEF:0 "Sicilia"
  SIC_ROME_ADJ:0 "Sicilian"
 
+
  NFL_NOR:0 "Vinlandskoloni"
  NFL_NOR_DEF:0 "Vinlandskolonien"
  NFL_NOR_ADJ:0 "Vinlander"
@@ -5607,3 +5608,27 @@
  NWY_HOL:0 "Kolonie van Nieuw Amsterdam"
  NWY_HOL_DEF:0 "de Kolonie van Nieuw Amsterdam"
  NWY_HOL_ADJ:0 "Dutch"
+
+ AST_HOL:0 "Kolonie van Nieuw Holland"
+ AST_HOL_DEF:0 "de Kolonie van Nieuw Holland"
+ AST_HOL_ADJ:0 "Dutch"
+
+ NZL_FRA:0 "Colonie d'Akaroa"
+ NZL_FRA_DEF:0 "La Colonie d'Akaroa"
+ NZL_FRA_ADJ:0 "French"
+
+ NBO_AUS:0 "österreichisch Borneo"
+ NBO_AUS_DEF:0 "österreichisch Borneo"
+ NBO_AUS_ADJ:0 "Austrian"
+ 
+ NBO_AUS_right_anarchism:0 "Ostend East India Company"
+ NBO_AUS_right_anarchism_DEF:0 "The Ostend East India Company"
+ NBO_AUS_right_anarchism_ADJ:0 "Austrian"
+
+ AND_AUS:0 "Theresia Inseln"
+ AND_AUS_DEF:0 "Die Theresia Inseln"
+ AND_AUS_ADJ:0 "Austrian"
+
+ AND_AUS:0 "Kolonie van Texas"
+ AND_AUS_DEF:0 "de Kolonie van Texas"
+ AND_AUS_ADJ:0 "Belgian"
