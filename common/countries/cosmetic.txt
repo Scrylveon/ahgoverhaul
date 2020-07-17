@@ -1,3 +1,151 @@
+ITA_ROME = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
+OCC_ROME = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
+BEL_ROME = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
+GSC_ROME = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
+FRA_ROME = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
+HOL_ROME = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
+GER_ROME = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
+SPR_ROME = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
+POR_ROME = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
+ADU_ROME = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
+SWI_ROME = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
+AUS_ROME = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
+EGL_ROME = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
+MOR_ROME = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
+ALG_ROME = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
+LBA_ROME = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
+CYR_ROME = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
+EGY_ROME = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
+JOR_ROME = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
+PAL_ROME = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
+SYR_ROME = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
+IRQ_ROME = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
+ASY_ROME = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
+ARM_ROME = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
+KUR_ROME = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
+THR_ROME = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
+GRE_ROME = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
+ROM_ROME = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
+DLM_ROME = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
+MAC_ROME = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
+EPR_ROME = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
+SER_ROME = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
+TRV_ROME = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
+HUN_ROME = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
+SLV_ROME = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
+COR_ROME = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
+SIC_ROME = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
 MOR_SPR = {
 	color = rgb { 224 198 94 }
 	color_ui = rgb { 224 198 94 }

@@ -866,6 +866,16 @@
  GOA_POR_ADJ:0 "Portuguese Indian" 
 
  #ITA colonies
+ 
+ CYP_ITA_autonomy_satellite:0 "Cyprus"
+ CYP_ITA_autonomy_reichsprotectorate:0 "Italian Protectorate of Cyprus"
+ CYP_ITA_autonomy_reichskommissariat:0 "Italian Cyprus"
+ CYP_ITA_autonomy_satellite_DEF:0 "Cyprus"
+ CYP_ITA_autonomy_reichsprotectorate_DEF:0 "The Italian Protectorate of Cyprus"
+ CYP_ITA_autonomy_reichskommissariat_DEF:0 "Italian Cyprus"
+ CYP_ITA_neutrality:0 "Italian Cyprus"
+ CYP_ITA_neutrality_DEF:0 "Italian Cyprus"
+
  ALB_ITA_autonomy_satellite:0 "Albanian Kingdom"
  ALB_ITA_autonomy_reichsprotectorate:0 "Italian Protectorate of Albania"
  ALB_ITA_autonomy_reichskommissariat:0 "Italian Albania"
@@ -5423,3 +5433,165 @@
  SAF_HOL:0 "Kaapkolonie"
  SAF_HOL_DEF:0 "de Kaapkolonie"
  SAF_HOL_ADJ:0 "Zuid-Afrikaans"
+
+ FRA_ENG:0 "French Occupation Government"
+ FRA_ENG_DEF:0 "the French Occupation Government"
+ FRA_ENG_ADJ:0 "French"
+
+ PAL_ISR:0 "Palestinian Occupation Government"
+ PAL_ISR_DEF:0 "the Palestinian Occupation Government"
+ PAL_ISR_ADJ:0 "Palestinian"
+
+ #Roman Provinces
+
+ ITA_ROME:0 "italia"
+ ITA_ROME_DEF:0 "Italia"
+ ITA_ROME_ADJ:0 "italiano"
+
+ OCC_ROME:0 "narbonensis"
+ OCC_ROME_DEF:0 "narbonensis"
+ OCC_ROME_ADJ:0 "narbonensean"
+
+ BEL_ROME:0 "belgica"
+ BEL_ROME_DEF:0 "belgica"
+ BEL_ROME_ADJ:0 "belga"
+
+ GSC_ROME:0 "Aquitania"
+ GSC_ROME_DEF:0 "Aquitania"
+ GSC_ROME_ADJ:0 "Aquitaniano"
+
+ FRA_ROME:0 "lugdunensis"
+ FRA_ROME_DEF:0 "Lugdunensis"
+ FRA_ROME_ADJ:0 "Lugdunensem"
+
+ HOL_ROME:0 "germania inferiore"
+ HOL_ROME_DEF:0 "Germania inferiore"
+ HOL_ROME_ADJ:0 "germanico inferiore"
+
+ GER_ROME:0 "Germania superiore"
+ GER_ROME_DEF:0 "ermania superiore"
+ GER_ROME_ADJ:0 "germanico superiore"
+ 
+ SPR_ROME:0 "tarraconensis"
+ SPR_ROME_DEF:0 "tarraconensis"
+ SPR_ROME_ADJ:0 "Tarraconense"
+
+ POR_ROME:0 "lusitania"
+ POR_ROME_DEF:0 "lusitania"
+ POR_ROME_ADJ:0 "lusitano"
+
+ ADU_ROME:0 "baetica"
+ ADU_ROME_DEF:0 "baetica"
+ ADU_ROME_ADJ:0 "baetican"
+
+ SWI_ROME:0 "raetia"
+ SWI_ROME_DEF:0 "raetia"
+ SWI_ROME_ADJ:0 "retico"
+
+ AUS_ROME:0 "noricum"
+ AUS_ROME_DEF:0 "noricum"
+ AUS_ROME_ADJ:0 "noricumesse"
+
+ EGL_ROME:0 "britannia"
+ EGL_ROME_DEF:0 "britannia"
+ EGL_ROME_ADJ:0 "Brittonic"
+
+ MOR_ROME:0 "mauretania tingitana"
+ MOR_ROME_DEF:0 "mauretania tingitana"
+ MOR_ROME_ADJ:0 "mauretania"
+
+ ALG_ROME:0 "mauretania caesariensis"
+ ALG_ROME_DEF:0 "mauretania caesariensis"
+ ALG_ROME_ADJ:0 "mauretania"
+
+#
+
+ LBA_ROME:0 "Africa Proconsularis"
+ LBA_ROME_DEF:0 "Africa Proconsularis"
+ LBA_ROME_ADJ:0 "Libyan"
+
+ CYR_ROME:0 "Cryenacia et Creta"
+ CYR_ROME_DEF:0 "Cryenacia et Creta"
+ CYR_ROME_ADJ:0 "Crynean"
+
+ EGY_ROME:0 "Aegyptus"
+ EGY_ROME_DEF:0 "Aegyptus"
+ EGY_ROME_ADJ:0 "Aegyptian"
+
+ JOR_ROME:0 "Arabia Petraea"
+ JOR_ROME_DEF:0 "Arabia Petraea"
+ JOR_ROME_ADJ:0 "Arabian"
+
+ PAL_ROME:0 "Judea"
+ PAL_ROME_DEF:0 "Judea"
+ PAL_ROME_ADJ:0 "Judean"
+
+ SYR_ROME:0 "Syria"
+ SYR_ROME_DEF:0 "Syria"
+ SYR_ROME_ADJ:0 "Syrian"
+
+ IRQ_ROME:0 "Mesopotamia"
+ IRQ_ROME_DEF:0 "Mesopotamia"
+ IRQ_ROME_ADJ:0 "Mesopotamian"
+
+ ASY_ROME:0 "Assyria"
+ ASY_ROME_DEF:0 "Assyria"
+ ASY_ROME_ADJ:0 "Assyria"
+
+ ARM_ROME:0 "Armenia"
+ ARM_ROME_DEF:0 "Armenia"
+ ARM_ROME_ADJ:0 "Armenian"
+
+ KUR_ROME:0 "Cappadocia"
+ KUR_ROME_DEF:0 "Cappadocia"
+ KUR_ROME_ADJ:0 "Cappadocian"
+
+ THR_ROME:0 "Thracia"
+ THR_ROME_DEF:0 "Thracia"
+ THR_ROME_ADJ:0 "Thracian"
+
+ GRE_ROME:0 "Achaia"
+ GRE_ROME_DEF:0 "Achaia"
+ GRE_ROME_ADJ:0 "Achaian"
+
+ ROM_ROME:0 "Moesia Inferior"
+ ROM_ROME_DEF:0 "Moesia Inferior"
+ ROM_ROME_ADJ:0 "Moesian Inferior"
+
+ DLM_ROME:0 "Dalmatia"
+ DLM_ROME_DEF:0 "Dalmatia"
+ DLM_ROME_ADJ:0 "Dalmatian"
+
+ MAC_ROME:0 "Macedonia"
+ MAC_ROME_DEF:0 "Macedonia"
+ MAC_ROME_ADJ:0 "Macedonian"
+
+ EPR_ROME:0 "Epirus"
+ EPR_ROME_DEF:0 "Epirus"
+ EPR_ROME_ADJ:0 "Epirusian"
+
+ SER_ROME:0 "Moesia Superior"
+ SER_ROME_DEF:0 "Moesia Superior"
+ SER_ROME_ADJ:0 "Moesian Superior"
+
+ #Good news!
+
+ TRV_ROME:0 "Dacia"
+ TRV_ROME_DEF:0 "Dacia"
+ TRV_ROME_ADJ:0 "Dacian"
+
+ HUN_ROME:0 "Pannonia Superior"
+ HUN_ROME_DEF:0 "Pannonia Superior"
+ HUN_ROME_ADJ:0 "Pannonian Superior"
+
+ SLV_ROME:0 "Pannonia Inferior"
+ SLV_ROME_DEF:0 "Pannonia Inferior"
+ SLV_ROME_ADJ:0 "Pannonian Inferior"
+
+ COR_ROME:0 "Corsica et Sardinia"
+ COR_ROME_DEF:0 "Corsica et Sardinia"
+ COR_ROME_ADJ:0 "Corsican-Sardinian"
+
+ SIC_ROME:0 "Sicilia"
+ SIC_ROME_DEF:0 "Sicilia"
+ SIC_ROME_ADJ:0 "Sicilian"
