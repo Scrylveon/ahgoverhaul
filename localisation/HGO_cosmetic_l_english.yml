@@ -5629,6 +5629,6 @@
  AND_AUS_DEF:0 "Die Theresia Inseln"
  AND_AUS_ADJ:0 "Austrian"
 
- AND_AUS:0 "Kolonie van Texas"
- AND_AUS_DEF:0 "de Kolonie van Texas"
- AND_AUS_ADJ:0 "Belgian"
+ TEX_BEL:0 "Kolonie van Texas"
+ TEX_BEL_DEF:0 "de Kolonie van Texas"
+ TEX_BEL_ADJ:0 "Belgian"
