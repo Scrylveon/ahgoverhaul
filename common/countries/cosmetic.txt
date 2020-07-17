@@ -1,3 +1,7 @@
+TEX_BEL = {
+	color = rgb { 193  171  8 }
+	color_ui = rgb { 193  171  8 }
+}
 ITA_ROME = {
 	color = rgb { 153 0 0 }
 	color_ui = rgb { 153 0 0 }
