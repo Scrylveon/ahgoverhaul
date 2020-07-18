@@ -7,7 +7,8 @@ state={
 	history={
 	    owner = GRE
         add_core_of = GRE
-	add_core_of = EPR
+		add_core_of = CGR
+    	add_core_of = EPR
     }	
 	manpower=1000
 	state_category = pastoral

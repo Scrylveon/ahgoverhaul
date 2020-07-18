@@ -5,6 +5,7 @@ state={
 		owner = GRE
 		add_core_of = GRE
 		add_claim_by = BUL
+		add_core_of = CMC
 		victory_points = {
 			11818 25 
 		}

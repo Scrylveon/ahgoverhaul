@@ -5,6 +5,7 @@ state={
 
 	history={
 		owner = GRE
+		add_core_of = CGR
 		buildings = {
 			infrastructure = 5
 

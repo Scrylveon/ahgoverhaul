@@ -5,7 +5,8 @@ state={
 		17339 
 	}
 	history={
-	    owner = RAJ 
+	    owner = NFT 
+		add_core_of = NFT
 		add_core_of = ASM
         add_core_of = RAJ
     }	

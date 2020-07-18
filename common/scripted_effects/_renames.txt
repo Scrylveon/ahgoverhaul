@@ -8,6 +8,66 @@
 ###################################################################################################################################
 
 do_spanish_renames = {
+		
+	if = {
+		limit = {
+			state = 2812
+		}		
+		set_province_name = {
+			id = 14222
+			name = "Playe"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2805
+		}		
+		set_province_name = {
+			id = 14215
+			name = "Las Palmas de Gran Canaria"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2890
+		}		
+		set_province_name = {
+			id = 4098
+			name = "Alicante"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 10630
+		}		
+		set_province_name = {
+			id = 3794
+			name = "Segovia"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 10629
+		}		
+		set_province_name = {
+			id = 3874
+			name = "Salamanca"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 10627
+		}		
+		set_province_name = {
+			id = 1176
+			name = "Granada"
+		}
+	}
 
 	if = {
 		limit = {
@@ -1795,7 +1855,7 @@ do_spanish_renames = {
 		
 	if = {
 		limit = {
-			state = 180
+			state = 10633
 		}		
 		set_province_name = {
 			id = 9817
@@ -2295,10 +2355,10 @@ do_lower_german_renames = {
 
 	if = {
 		limit = {
-			state = 2298
+			state = 10625
 		}		
 		set_province_name = {
-			id = 13822
+			id = 20127
 			name = "Sünderborg"
 		}
     }
@@ -2314,6 +2374,26 @@ do_lower_german_renames = {
     }
 }
 do_german_renames = {
+
+	if = {
+		limit = {
+			state = 10626
+		}		
+		set_province_name = {
+			id = 20128
+			name = "Ripen"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2298
+		}		
+		set_province_name = {
+			id = 13822
+			name = "Düppel"
+		}
+	}
 
 	if = {
 		limit = {
@@ -2367,11 +2447,11 @@ do_german_renames = {
 
 	if = {
 		limit = {
-			state = 2298
+			state = 10625
 		}		
 		set_province_name = {
-			id = 13822
-			name = "Sünderburg"
+			id = 20127
+			name = "Sonderburg"
 		}
     }
 
@@ -4797,6 +4877,66 @@ do_russian_renames = {
 
 	if = {
 		limit = {
+			state = 9880
+		}		
+		set_province_name = {
+			id = 1599
+			name = "Tbilisi"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2358
+		}		
+		set_province_name = {
+			id = 12320
+			name = "Yerevan"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 229
+		}		
+		set_province_name = {
+			id = 7661
+			name = "Baku"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 949
+		}		
+		set_province_name = {
+			id = 1530
+			name = "Staloniri"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 950
+		}		
+		set_province_name = {
+			id = 11599
+			name = "Aqwa"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1259
+		}		
+		set_province_name = {
+			id = 13317
+			name = "Batumi"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 1035
 		}		
 		set_province_name = {
@@ -5077,66 +5217,6 @@ do_russian_renames = {
 
 	if = {
 		limit = {
-			state = 9880
-		}		
-		set_province_name = {
-			id = 1599
-			name = "Tbilisi"
-		}
-	}
-
-	if = {
-		limit = {
-			state = 2358
-		}		
-		set_province_name = {
-			id = 12320
-			name = "Yerevan"
-		}
-	}
-
-	if = {
-		limit = {
-			state = 229
-		}		
-		set_province_name = {
-			id = 7661
-			name = "Baku"
-		}
-	}
-
-	if = {
-		limit = {
-			state = 949
-		}		
-		set_province_name = {
-			id = 1530
-			name = "Staloniri"
-		}
-	}
-
-	if = {
-		limit = {
-			state = 950
-		}		
-		set_province_name = {
-			id = 11599
-			name = "Aqwa"
-		}
-	}
-
-	if = {
-		limit = {
-			state = 1259
-		}		
-		set_province_name = {
-			id = 13317
-			name = "Batumi"
-		}
-	}
-
-	if = {
-		limit = {
 			state = 2357
 		}		
 		set_province_name = {
@@ -5156,7 +5236,7 @@ do_russian_renames = {
 	}
 }
 
-do_iraqi_renames = {
+do_arabic_renames = {
 
 	if = {
 		limit = {
@@ -5355,7 +5435,7 @@ do_iraqi_renames = {
 		}		
 		set_province_name = {
 			id = 1086
-			name = "al-Quds"
+			name = "Al-Quds"
 		}
 	}
 
@@ -5365,7 +5445,7 @@ do_iraqi_renames = {
 		}		
 		set_province_name = {
 			id = 13351
-			name = "an-Nasira"
+			name = "An-Nasira"
 		}
 	}
 
@@ -5521,7 +5601,704 @@ do_iraqi_renames = {
 
 }
 
+do_standard_arabic_renames = {
+
+	if = {
+		limit = {
+			state = 9880
+		}		
+		set_province_name = {
+			id = 1599
+			name = "Tiflis"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2358
+		}		
+		set_province_name = {
+			id = 12320
+			name = "Yirafan"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 229
+		}		
+		set_province_name = {
+			id = 7661
+			name = "Baku"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 949
+		}		
+		set_province_name = {
+			id = 1530
+			name = "Tskhinfali"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 950
+		}		
+		set_province_name = {
+			id = 11599
+			name = "Aqwa"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1259
+		}		
+		set_province_name = {
+			id = 13317
+			name = "Batumi"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1035
+		}		
+		set_province_name = {
+			id = 1467
+			name = "Khankandi"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 354
+		}		
+		set_province_name = {
+			id = 9932
+			name = "Tarabizun"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1367
+		}		
+		set_province_name = {
+			id = 5029
+			name = "Mashhad"
+		}
+	}
+
+
+	if = {
+		limit = {
+			state = 414
+		}		
+		set_province_name = {
+			id = 10913
+			name = "Kirman"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 9430
+		}		
+		set_province_name = {
+			id = 7982
+			name = "Jarun"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 9429
+		}		
+		set_province_name = {
+			id = 8117
+			name = "Shiraz"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 411
+		}		
+		set_province_name = {
+			id = 2026
+			name = "Isfahan"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 266
+		}		
+		set_province_name = {
+			id = 10837
+			name = "Tihran"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 6361
+		}		
+		set_province_name = {
+			id = 17196
+			name = "Rasht"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 849
+		}		
+		set_province_name = {
+			id = 9945
+			name = "Sabtah"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 850
+		}		
+		set_province_name = {
+			id = 12100
+			name = "Maliya"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2141
+		}		
+		set_province_name = {
+			id = 7069
+			name = "Ad-Dar Al-Bayda'"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 461
+		}		
+		set_province_name = {
+			id = 10070
+			name = "Ar-Ribat"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1458
+		}		
+		set_province_name = {
+			id = 7132
+			name = "Wahran"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 459
+		}		
+		set_province_name = {
+			id = 1145
+			name = "Al-Jaza'ir"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3425
+		}		
+		set_province_name = {
+			id = 9994
+			name = "Binzart"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 559
+		}		
+		set_province_name = {
+			id = 12991
+			name = "Muqadishu"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 5322
+		}		
+		set_province_name = {
+			id = 7980
+			name = "Madinat Al-Awlia"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 271
+		}		
+		set_province_name = {
+			id = 5010
+			name = "Adis Ababa"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1547
+		}		
+		set_province_name = {
+			id = 1984
+			name = "Qundar"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 550
+		}		
+		set_province_name = {
+			id = 12766
+			name = "Asmara"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 10493
+		}		
+		set_province_name = {
+			id = 12806
+			name = "Al-Khurtum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 293
+		}		
+		set_province_name = {
+			id = 10840
+			name = "San'a"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 1208
+		}		
+		set_province_name = {
+			id = 13352
+			name = "Qasrin"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 962
+		}		
+		set_state_name = Makkah
+	}
+	if = {
+		limit = {
+			state = 294
+		}		
+		set_province_name = {
+			id = 10760
+			name = "Masqat"
+		}
+	}
+	if = {
+		limit = {
+			state = 3332
+		}		
+		set_state_name = Dubai
+	}
+	if = {
+		limit = {
+			state = 3389
+		}		
+		set_province_name = {
+			id = 7960
+			name = "Abu Zabi"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2215
+		}		
+		set_province_name = {
+			id = 12727
+			name = "Ar-Riyad"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 679
+		}		
+		set_province_name = {
+			id = 1923
+			name = "Al-Makkah"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3372
+		}		
+		set_province_name = {
+			id = 12758
+			name = "Al-Madinah"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 894
+		}		
+		set_province_name = {
+			id = 8051
+			name = "Ad-Dawhah"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 893
+		}		
+		set_province_name = {
+			id = 13208
+			name = "Al-Manamah"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 458
+		}		
+		set_province_name = {
+			id = 11969
+			name = "Tunis"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1014
+		}		
+		set_province_name = {
+			id = 12725
+			name = "Bur Sudan"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 448
+		}		
+		set_province_name = {
+			id = 1149
+			name = "Tarabulus"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 450
+		}		
+		set_province_name = {
+			id = 11954
+			name = "Binghazi"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 451
+		}		
+		set_province_name = {
+			id = 1130
+			name = "Tubruq"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 9784
+		}		
+		set_province_name = {
+			id = 1071
+			name = "Al-Alamayn"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 447
+		}		
+		set_province_name = {
+			id = 4076
+			name = "Al-Iskandriyya"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 446
+		}		
+		set_province_name = {
+			id = 7011
+			name = "Al-Qahirah"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1205
+		}		
+		set_province_name = {
+			id = 1086
+			name = "Al-Quds"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1206
+		}		
+		set_province_name = {
+			id = 13351
+			name = "An-Nasira"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3382
+		}		
+		set_province_name = {
+			id = 4206
+			name = "Tall Abib"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 455
+		}		
+		set_province_name = {
+			id = 7151
+			name = "Amman"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 656
+		}		
+		set_province_name = {
+			id = 8085
+			name = "Madiinat ul-Kuwayt"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1373
+		}		
+		set_province_name = {
+			id = 2089
+			name = "Al-Basrah"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 676
+		}		
+		set_province_name = {
+			id = 10106
+			name = "Al-Mawsil"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 291
+		}		
+		set_province_name = {
+			id = 2097
+			name = "Baghdad"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 554
+		}		
+		set_province_name = {
+			id = 4111
+			name = "Dimashq"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 5698
+		}		
+		set_province_name = {
+			id = 12473
+			name = "Halab"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 898
+		}		
+		set_province_name = {
+			id = 12029
+			name = "Antakiya"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 3362
+		}		
+		set_province_name = {
+			id = 792
+			name = "Bayrut"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 413
+		}		
+		set_province_name = {
+			id = 7953
+			name = "Ahwaz"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 1446
+		}		
+		set_province_name = {
+			id = 9893
+			name = "Aintab"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 344
+		}		
+		set_province_name = {
+			id = 11746
+			name = "Adna"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 419
+		}		
+		set_province_name = {
+			id = 1896
+			name = "Tabriz"
+		}
+	}
+
+}
+
 do_persian_renames = {
+
+	if = {
+		limit = {
+			state = 1367
+		}		
+		set_province_name = {
+			id = 5029
+			name = "Mashad"
+		}
+	}
+
+
+	if = {
+		limit = {
+			state = 414
+		}		
+		set_province_name = {
+			id = 10913
+			name = "Kerman"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 9430
+		}		
+		set_province_name = {
+			id = 7982
+			name = "Bandar e'Abbas"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 9429
+		}		
+		set_province_name = {
+			id = 8117
+			name = "Širaz"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 411
+		}		
+		set_province_name = {
+			id = 2026
+			name = "Esfahan"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 266
+		}		
+		set_province_name = {
+			id = 10837
+			name = "Tehran"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 6361
+		}		
+		set_province_name = {
+			id = 17196
+			name = "Dashtivland"
+		}
+	}
 
 	if = {
 		limit = {
@@ -7814,7 +8591,7 @@ do_latin_renames = {
 		
 	if = {
 		limit = {
-			state = 180
+			state = 10633
 		}		
 		set_province_name = {
 			id = 9817
@@ -8201,7 +8978,7 @@ do_latin_renames = {
 		}		
 		set_province_name = {
 			id = 9932
-			name = "Trapezúnda"
+			name = "Trapezus"
 		}
 	}
 
@@ -12643,7 +13420,7 @@ do_italian_renames = {
 		
 	if = {
 		limit = {
-			state = 180
+			state = 10633
 		}		
 		set_province_name = {
 			id = 9817
@@ -12813,6 +13590,155 @@ do_portuguese_renames = {
 		
 	if = {
 		limit = {
+			state = 2812
+		}		
+		set_province_name = {
+			id = 14222
+			name = "Praia"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 10662
+		}		
+		set_province_name = {
+			id = 3798
+			name = "Coimbra"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2141
+		}		
+		set_province_name = {
+			id = 7069
+			name = "Casabranca"
+		}
+	}
+	if = {
+		limit = {
+			state = 461
+		}		
+		set_province_name = {
+			id = 10070
+			name = "Rebate"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 763
+		}		
+		set_province_name = {
+			id = 13213
+			name = "Andorra-a-Velha"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 906
+		}		
+		set_province_name = {
+			id = 9853
+			name = "Perpinhan"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 166
+		}		
+		set_province_name = {
+			id = 3816
+			name = "Saragoça"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 167
+		}		
+		set_province_name = {
+			id = 6906
+			name = "Valência"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2882
+		}		
+		set_province_name = {
+			id = 7183
+			name = "Sevilha"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 168
+		}		
+		set_province_name = {
+			id = 10024
+			name = "Múrcia"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 850
+		}		
+		set_province_name = {
+			id = 12100
+			name = "Melilha"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 41
+		}		
+		set_province_name = {
+			id = 3938
+			name = "Madri"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2914
+		}		
+		set_province_name = {
+			id = 875
+			name = "Córdova"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 1774
+		}		
+		set_province_name = {
+			id = 740
+			name = "Bilbau"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2926
+		}		
+		set_province_name = {
+			id = 11825
+			name = "Valhadolide"
+		}
+	}
+		
+	if = {
+		limit = {
 			state = 171
 		}		
 		set_province_name = {
@@ -12823,7 +13749,7 @@ do_portuguese_renames = {
 		
 	if = {
 		limit = {
-			state = 180
+			state = 10633
 		}		
 		set_province_name = {
 			id = 9817
@@ -13025,6 +13951,236 @@ do_catalonian_renames = {
 
 }
 do_french_renames = {
+		
+	if = {
+		limit = {
+			state = 2812
+		}		
+		set_province_name = {
+			id = 14222
+			name = "Prage"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2805
+		}		
+		set_province_name = {
+			id = 14215
+			name = "Las Palmas de Grande Canarie"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 10662
+		}		
+		set_province_name = {
+			id = 3798
+			name = "Coïmbre"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 112
+		}		
+		set_province_name = {
+			id = 11805
+			name = "Lisbonne"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 850
+		}		
+		set_province_name = {
+			id = 12100
+			name = "Melille"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 173
+		}		
+		set_province_name = {
+			id = 9979
+			name = "Malaga"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 1197
+		}		
+		set_province_name = {
+			id = 13348
+			name = "Olivence"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2890
+		}		
+		set_province_name = {
+			id = 4098
+			name = "Alacant"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 1774
+		}		
+		set_province_name = {
+			id = 740
+			name = "Bilbae"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2926
+		}		
+		set_province_name = {
+			id = 11825
+			name = "Vallée des Délices"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 176
+		}		
+		set_province_name = {
+			id = 885
+			name = "Bourg"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2882
+		}		
+		set_province_name = {
+			id = 7183
+			name = "Séville"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 10630
+		}		
+		set_province_name = {
+			id = 3794
+			name = "Ségovie"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 10629
+		}		
+		set_province_name = {
+			id = 3874
+			name = "Salamanque"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 174
+		}		
+		set_province_name = {
+			id = 11707
+			name = "Oviede"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 168
+		}		
+		set_province_name = {
+			id = 10024
+			name = "Murcie"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 171
+		}		
+		set_province_name = {
+			id = 758
+			name = "La Corogne"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 10627
+		}		
+		set_province_name = {
+			id = 1176
+			name = "Grenada"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2914
+		}		
+		set_province_name = {
+			id = 875
+			name = "Cordoue"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 169
+		}		
+		set_province_name = {
+			id = 1048
+			name = "Cadix"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 10626
+		}		
+		set_province_name = {
+			id = 20128
+			name = "Ripe"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2298
+		}		
+		set_province_name = {
+			id = 13822
+			name = "Duppel"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 116
+		}		
+		set_province_name = {
+			id = 12003
+			name = "La Vallette"
+		}
+	}
 
 	if = {
 		limit = {
@@ -13761,10 +14917,10 @@ do_french_renames = {
 
 	if = {
 		limit = {
-			state = 2298
+			state = 10625
 		}		
 		set_province_name = {
-			id = 13822
+			id = 20127
 			name = "Sonderbourg"
 		}
     }
@@ -17860,7 +19016,7 @@ do_turkish_renames = {
 		
 	if = {
 		limit = {
-			state = 180
+			state = 10633
 		}		
 		set_province_name = {
 			id = 9817
@@ -19366,6 +20522,26 @@ do_danish_renames = {
 
 	if = {
 		limit = {
+			state = 10626
+		}		
+		set_province_name = {
+			id = 20128
+			name = "Ribe"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2298
+		}		
+		set_province_name = {
+			id = 13822
+			name = "Dybbøl Sogn"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 1130
 		}		
 		set_province_name = {
@@ -19426,10 +20602,10 @@ do_danish_renames = {
 
 	if = {
 		limit = {
-			state = 2298
+			state = 10625
 		}		
 		set_province_name = {
-			id = 13822
+			id = 20127
 			name = "Sønderborg"
 		}
     }
@@ -19732,6 +20908,17 @@ do_swedish_renames = {
 }
 
 do_ethiopian_renames = {
+
+	if = {
+		limit = {
+			state = 1547
+		}		
+		set_province_name = {
+			id = 1984
+			name = "Gonder"
+		}
+	}
+
 	if = {
 		limit = {
 			state = 271

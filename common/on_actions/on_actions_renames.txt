@@ -233,14 +233,21 @@ on_actions = {
 						}
 						do_russian_renames = yes
 					}
-					
-					### IRQ ###
-					if = {
-						limit = {
-							ROOT = {OR = {tag = IRQ tag = SAU}}
+					### SAU ###
+						if = {
+							limit = {
+								ROOT = {OR = {tag = IRQ tag = SAU}}
+							}
+							do_standard_arabic_renames = yes
+							if = {
+								limit = {
+									ROOT = {
+										NOT = { has_cosmetic_tag = ARAB }
+									}
+								}
+								do_arabic_renames = yes
+							}
 						}
-						do_iraqi_renames = yes
-					}
 
 					### ROM ###
 					if = {

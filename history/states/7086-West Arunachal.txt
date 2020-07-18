@@ -5,9 +5,10 @@ state={
 		12730 
 	}
 	history={
-	    owner = RAJ
+	    owner = NFT 
+		add_core_of = NFT
+		add_core_of = ASM
         add_core_of = RAJ
-        add_core_of = ASM
     }	
 	manpower=1000
 	state_category = pastoral

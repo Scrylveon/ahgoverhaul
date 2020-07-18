@@ -2,7 +2,8 @@ state={
 	id=2202
 	name="STATE_2202"
 	
-	history={
+	history={	
+	add_core_of = EMC
 		owner = GRE
 		buildings = {
 			infrastructure = 4

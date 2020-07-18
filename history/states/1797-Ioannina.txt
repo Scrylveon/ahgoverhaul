@@ -10,6 +10,7 @@ state={
 
 		}
 		add_core_of = GRE
+		add_core_of = THS
 		add_core_of = EPR
 
 	}

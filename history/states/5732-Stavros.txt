@@ -7,7 +7,8 @@ state={
 	history={
 	    owner = GRE
         add_core_of = GRE
-	add_claim_by = BUL
+	    add_claim_by = BUL
+		add_core_of = CMC
 
     }
 	manpower = 1000

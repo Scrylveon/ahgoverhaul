@@ -2,6 +2,7 @@ state={
 	id=4370
 	name="STATE_4370"
 	history={
+		add_core_of = SGN\n		add_core_of = SGN
 		owner = ITA
 		add_core_of = GRE
 		add_claim_by = OML

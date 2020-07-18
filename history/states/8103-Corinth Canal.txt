@@ -5,6 +5,7 @@ state={
 		17857 
 	}
 	history={
+     	add_core_of = ATT
 		owner = GRE
 		add_core_of = GRE
 	}
