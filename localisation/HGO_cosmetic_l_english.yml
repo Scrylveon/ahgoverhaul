@@ -5678,6 +5678,6 @@
  LES_FRA_DEF:0 "the Lesotho Resevation"
  LES_FRA_ADJ:0 "Lesotho"
 
- BEL_GER:0"Flandern-Wallonien"
- BEL_GER_DEF:0"Das Flandern-Wallonien"
- BEL_GER_ADJ:0"Belgian"
+ BEL_GER:0 "Flandern-Wallonien"
+ BEL_GER_DEF:0 "Das Flandern-Wallonien"
+ BEL_GER_ADJ:0 "Belgian"
