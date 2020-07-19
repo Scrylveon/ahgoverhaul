@@ -1,3 +1,36 @@
+
+EGY_FRA = {
+	color = rgb { 37 72 155 }
+	color_ui = rgb { 37 72 155 }
+}
+SUD_FRA = {
+	color = rgb { 37 72 155 }
+	color_ui = rgb { 37 72 155 }
+}
+ETH_FRA = {
+	color = rgb { 37 72 155 }
+	color_ui = rgb { 37 72 155 }
+}
+SOM_FRA = {
+	color = rgb { 37 72 155 }
+	color_ui = rgb { 37 72 155 }
+}
+SAF_FRA = {
+	color = rgb { 37 72 155 }
+	color_ui = rgb { 37 72 155 }
+}
+NMB_FRA = {
+	color = rgb { 37 72 155 }
+	color_ui = rgb { 37 72 155 }
+}
+SWZ_FRA = {
+	color = rgb { 37 72 155 }
+	color_ui = rgb { 37 72 155 }
+}
+LES_FRA = {
+	color = rgb { 37 72 155 }
+	color_ui = rgb { 37 72 155 }
+}
 TEX_BEL = {
 	color = rgb { 193  171  8 }
 	color_ui = rgb { 193  171  8 }
