@@ -5596,6 +5596,7 @@
  SIC_ROME_DEF:0 "Sicilia"
  SIC_ROME_ADJ:0 "Sicilian"
 
+ #misc
 
  NFL_NOR:0 "Vinlandskoloni"
  NFL_NOR_DEF:0 "Vinlandskolonien"
@@ -5632,3 +5633,47 @@
  TEX_BEL:0 "Kolonie van Texas"
  TEX_BEL_DEF:0 "de Kolonie van Texas"
  TEX_BEL_ADJ:0 "Belgian"
+
+ EGY_FRA_autonomy_dominion:0 "Republic of Egypt and Sudan"
+ EGY_FRA_autonomy_dominion_DEF:0 "Republic of Egypt and Sudan"
+ EGY_FRA_autonomy_colony:0 "French Protectorate of Egypt"
+ EGY_FRA_autonomy_colony_DEF:0 "the French Protectorate of Egypt"
+ EGY_FRA_autonomy_puppet:0 "French Colony in Egypt"
+ EGY_FRA_autonomy_puppet_DEF:0 "The French Colony in Egypt"
+ EGY_FRA_autonomy_integrated_puppet:0 "French Egypt"
+ EGY_FRA_autonomy_integrated_puppet_DEF:0 "French Egypt"
+ EGY_FRA_monarchism:0 "Kingdom of Egypt and Sudan"
+ EGY_FRA_monarchism_DEF:0 "the Kingdom of Egypt and Sudan"
+ EGY_FRA_ADJ:0 "Egyptian"
+
+ SUD_FRA:0 "Franco-Egyptian Condominium of Sudan"
+ SUD_FRA_DEF:0 "the Franco-Egyptian Condominium of Sudan"
+ SUD_FRA_ADJ:0 "Sudanesse"
+
+ ETH_FRA:0 "French Protectorate of Ethiopia"
+ ETH_FRA_DEF:0 "the French Protectorate of Ethiopia"
+ ETH_FRA_ADJ:0 "Ethiopian"
+
+ SOM_FRA:0 "French Protectorate of East Africa"
+ SOM_FRA_DEF:0 "the French Protectorate of East Africa"
+ SOM_FRA_ADJ:0 "Eastern African"
+
+ SAF_FRA:0 "Union de l'Afrique du Sud"
+ SAF_FRA_DEF:0 "l'Union de l'Afrique du Sud"
+ SAF_FRA_ADJ:0 "Sud Africain"
+
+ NMB_FRA:0 "Mandat de l'Afrique du Sud-Ouest"
+ NMB_FRA_DEF:0 "le Mandat de l'Afrique du Sud-Ouest"
+ NMB_FRA_ADJ:0 "Sud-Ouest Africain"
+
+ MZB_FRA:0 "Colony of French Zambezia"
+ MZB_FRA_DEF:0 "the Colony of French Zambezia"
+ MZB_FRA_ADJ:0 "Zambezian"
+
+ SWZ_FRA:0 "Swaziland Resevation"
+ SWZ_FRA_DEF:0 "the Swaziland Resevation"
+ SWZ_FRA_ADJ:0 "Swazi"
+
+ LES_FRA:0 "Lesotho Resevation"
+ LES_FRA_DEF:0 "the Lesotho Resevation"
+ LES_FRA_ADJ:0 "Lesotho"
