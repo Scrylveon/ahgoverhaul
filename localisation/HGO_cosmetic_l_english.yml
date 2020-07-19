@@ -5658,13 +5658,13 @@
  SOM_FRA_DEF:0 "the French Protectorate of East Africa"
  SOM_FRA_ADJ:0 "Eastern African"
 
- SAF_FRA:0 "Union de l'Afrique du Sud"
- SAF_FRA_DEF:0 "l'Union de l'Afrique du Sud"
- SAF_FRA_ADJ:0 "Sud Africain"
+ SAF_FRA:0 "French South Africa Territory"
+ SAF_FRA_DEF:0 "the French South Africa Territory"
+ SAF_FRA_ADJ:0 "South African"
 
- NMB_FRA:0 "Mandat de l'Afrique du Sud-Ouest"
- NMB_FRA_DEF:0 "le Mandat de l'Afrique du Sud-Ouest"
- NMB_FRA_ADJ:0 "Sud-Ouest Africain"
+ NMB_FRA:0 "French South-West Africa Territory"
+ NMB_FRA_DEF:0 "the French South-West Africa Territory"
+ NMB_FRA_ADJ:0 "Namibian"
 
  MZB_FRA:0 "Colony of French Zambezia"
  MZB_FRA_DEF:0 "the Colony of French Zambezia"
