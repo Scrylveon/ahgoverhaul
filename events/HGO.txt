@@ -275,7 +275,39 @@ country_event = { #Yeet the princely states
 			annex_country = { target = JGN }
 			annex_country = { target = LHR }
 			annex_country = { target = RJG }
-
+			annex_country = { target = NGL }
+			annex_country = { target = NFT }
+			annex_country = { target = WAA }
+			annex_country = { target = TCH }
+			annex_country = { target = KRR }
+			annex_country = { target = KYB }
+			annex_country = { target = KHS }
+			annex_country = { target = HZR }
+			annex_country = { target = MYL }
+			annex_country = { target = JRN }
+			annex_country = { target = NST }
+			annex_country = { target = NKH }
+			annex_country = { target = RBR }
+			annex_country = { target = MWR }
+			annex_country = { target = LAG }
+			annex_country = { target = KYM }
+			annex_country = { target = SOG }
+			annex_country = { target = NNS }
+			annex_country = { target = MWN }
+			annex_country = { target = NBP }
+			annex_country = { target = MHM }
+			annex_country = { target = BWH }
+			annex_country = { target = MWR }
+			annex_country = { target = MSO }
+			annex_country = { target = DWR }
+			annex_country = { target = MWD }
+			annex_country = { target = SLL }
+			annex_country = { target = MWL }
+			annex_country = { target = CH2 }
+			annex_country = { target = MPL }
+			annex_country = { target = LNG }
+			annex_country = { target = PAG }
+			annex_country = { target = NLW }
 		    }
 		}
 	}
