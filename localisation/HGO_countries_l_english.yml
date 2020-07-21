@@ -21,7 +21,15 @@
  PTH:0 "Panth Piploda"
  PTH_DEF:0 "Panth Piploda"
  PTH_ADJ:0 "Panth Piplodan"
- 
+
+ LKE:0 "Lake Eyre"
+ LKE_DEF:0 "Lake Eyre"
+ LKE_ADJ:0 "Lake Eryian" 
+
+ QTT:0 "Qattara Depression"
+ QTT_DEF:0 "Qattara Depression"
+ QTT_ADJ:0 "Qattaran" 
+
  LCH_anarchism_ideology:0 "Lake Chad"
  LCH_anarchism_ideology_DEF:0 "Lake Chad"
  LCH_vanguardism:0 "Lake Chad"

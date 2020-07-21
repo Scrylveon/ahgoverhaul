@@ -7,7 +7,7 @@ state={
 	history={
 		owner = EGY
 		add_core_of = EGY
-		add_core_of = WTR
+		add_core_of = QTT
 
 	}
 	manpower = 1
