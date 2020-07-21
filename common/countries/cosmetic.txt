@@ -1,4 +1,7 @@
-
+EMC_TUR = {
+	color = rgb { 168 37 25 }
+	color_ui = rgb { 168 37 25 }
+}
 EGY_FRA = {
 	color = rgb { 37 72 155 }
 	color_ui = rgb { 37 72 155 }

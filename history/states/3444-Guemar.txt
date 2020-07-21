@@ -13,6 +13,7 @@ state={
 	    owner = SGR
         add_core_of = SGR
         add_core_of = ALG
+	add_core_of = WTR
 		buildings = {
 			infrastructure = 1
 		}

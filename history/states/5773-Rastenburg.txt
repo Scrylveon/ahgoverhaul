@@ -9,6 +9,7 @@ state={
         add_core_of = GER
         add_core_of = WGR
 	add_core_of = KON
+	add_core_of = PRE
 		victory_points = {
 			15986 1 
 		}

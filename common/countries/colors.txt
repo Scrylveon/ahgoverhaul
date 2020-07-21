@@ -4988,3 +4988,101 @@ NFT = {
 color = rgb { 170 10 10 }
 color_ui = rgb { 170 10 10 }
 }
+<<<<<<< HEAD
+TEK = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+PET = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+=======
+KNS = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+DEE = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+LNT = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+NGH = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+MAZ = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+DNG = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+CBR = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+TRH = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+GKS = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+YSH = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+NGW = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+SUO = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+SMD = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+DGB = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+ZHJ = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+SGG = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+CHS = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+NGG = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+CKL = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+CHN = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+LKE = {
+       color = rgb { 206 200 117 }
+       color_ui = rgb { 206 200 117 }
+}
+QTT = {
+       color = rgb { 206 200 117 }
+       color_ui = rgb { 206 200 117 }
+>>>>>>> 0140e5f71895509dadba6b7440ab38163de0a00d
+}

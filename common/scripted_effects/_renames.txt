@@ -16299,6 +16299,130 @@ do_hungarian_renames = {
 	}
 }
 do_romanian_renames = {
+	
+	if = {
+		limit = {
+			state = 227
+		}		
+		set_province_name = {
+			id = 6474
+			name = "Doneţk"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5028
+		}		
+		set_province_name = {
+			id = 418
+			name = "Harkov"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 200
+		}		
+		set_province_name = {
+			id = 11405
+			name = "Zaporijjea"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2482
+		}		
+		set_province_name = {
+			id = 6704
+			name = "Ialta"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 226
+		}		
+		set_province_name = {
+			id = 11561
+			name = "Krivoi Rog"
+		}	
+		set_province_name = {
+			id = 11437
+			name = "Nipru"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 202
+		}		
+		set_province_name = {
+			id = 525
+			name = "Kiev"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 91
+		}		
+		set_province_name = {
+			id = 11479
+			name = "Liov"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 93
+		}		
+		set_province_name = {
+			id = 572
+			name = "Luţk"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 48
+		}		
+		set_province_name = {
+			id = 949
+			name = "Sofia"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 211
+		}		
+		set_province_name = {
+			id = 9919
+			name = "Bourgas"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 7293
+		}		
+		set_province_name = {
+			id = 6842
+			name = "Veliko Tărnovo" 
+		}
+	}
+
+	if = {
+		limit = {
+			state = 7290
+		}		
+		set_province_name = {
+			id = 9612
+			name = "Rusciuc"
+		}
+	}
 
 	if = {
 		limit = {
@@ -16306,9 +16430,19 @@ do_romanian_renames = {
 		}		
 		set_province_name = {
 			id = 11670
-			name = "Odessa"
+			name = "Odesa"
 		}
     }
+
+	if = {
+		limit = {
+			state = 198
+		}		
+		set_province_name = {
+			id = 476
+			name = "Viniţa"
+		}
+	}
 	if = {
 		limit = {
 			state = 790
@@ -16433,7 +16567,7 @@ do_romanian_renames = {
 		}		
 		set_province_name = {
 			id = 9635
-			name = "Constanța"
+			name = "Constanţa"
 		}
 	}
 	if = {
@@ -18139,6 +18273,16 @@ do_ottoman_renames = {
 
 	if = {
 		limit = {
+			state = 340
+		}		
+		set_province_name = {
+			id = 947
+			name = "Hüdavendigâr"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 1385
 		}		
 		set_province_name = {
@@ -18208,6 +18352,16 @@ do_ottoman_renames = {
 	}
 }
 do_non_ottoman_turkish_renames = {
+
+	if = {
+		limit = {
+			state = 340
+		}		
+		set_province_name = {
+			id = 947
+			name = "Bursa"
+		}
+	}
 
 	if = {
 		limit = {
@@ -20423,16 +20577,6 @@ do_turkish_renames = {
 		set_province_name = {
 			id = 890
 			name = "Düzce"
-		}
-	}
-
-	if = {
-		limit = {
-			state = 340
-		}		
-		set_province_name = {
-			id = 947
-			name = "Bursa"
 		}
 	}
 
