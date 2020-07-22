@@ -364,9 +364,9 @@ guiTypes = {
 
 		iconType = {
 			name = "top_bg"		
-			spriteType = "GFX_occupation_country_entry_bg_top"
+			spriteType = "GFX_occupation_country_entry_bg_top_locked"
 			tooltip = "OCCUPATION_ZOOM_TO_STATE_TOOLTIP"
-			position = { x = -5000 y = 0 }
+			position = { x = -5 y = 0 }
 		}
 		
 		iconType = {
@@ -477,7 +477,7 @@ guiTypes = {
 		
 		buttonType = {
 			name = "release_button"
-			position = { x = 185 y = 5 }
+			position = { x = 280 y = 7 }
 			quadTextureSprite = "GFX_occupation_release_button"
 	 		buttonFont = "hoi_18mbs"
 			Orientation = "UPPER_LEFT"
