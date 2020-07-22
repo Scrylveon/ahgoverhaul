@@ -5086,3 +5086,7 @@ QTT = {
        color_ui = rgb { 206 200 117 }
 >>>>>>> 0140e5f71895509dadba6b7440ab38163de0a00d
 }
+MCD = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}

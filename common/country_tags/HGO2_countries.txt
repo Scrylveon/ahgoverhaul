@@ -299,3 +299,5 @@ CHN = "countries/Choni.txt"
 LKE = "countries/Lake Eyre.txt"
 QTT = "countries/Qattara Depression.txt"
 >>>>>>> 0140e5f71895509dadba6b7440ab38163de0a00d
+
+MCD = "countries/McDonalds.txt"
