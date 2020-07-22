@@ -5088,6 +5088,6 @@ MCD = {
        color_ui = rgb { 255 199 44 }
 }
 BYB = {
-color = rgb { 221 151 251 }
-color_ui = rgb { 221 151 251 }
+       color = rgb { 221 151 251 }
+       color_ui = rgb { 221 151 251 }
 }
