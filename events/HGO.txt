@@ -308,6 +308,7 @@ country_event = { #Yeet the princely states
 			annex_country = { target = LNG }
 			annex_country = { target = PAG }
 			annex_country = { target = NLW }
+			annex_country = { target = MRW }
 		    }
 		}
 	}
