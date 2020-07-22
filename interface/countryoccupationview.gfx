@@ -1,0 +1,13 @@
+spriteTypes = {
+	
+	spriteType = {
+		name = "GFX_occupation_country_entry_bg_top_locked"
+		textureFile = "gfx/interface/occupation/occupation_country_entry_bg_top_locked.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_double_empty_button"
+		textureFile = "gfx//interface//occupation//double_empty_button.dds"
+ 		noOfFrames = 2
+	}
+}
