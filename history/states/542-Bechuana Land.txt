@@ -13,6 +13,7 @@ state={
 
 		}
 		add_core_of = BOT
+     		add_core_of = LKB
 		victory_points = {
 			8214 1 
 		}

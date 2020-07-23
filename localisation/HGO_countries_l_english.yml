@@ -42,6 +42,10 @@
  LKF_DEF:0 "Lake Fezzan"
  LKF_ADJ:0 "Fezzan"
 
+ LKB:0 "Lake Makgadikgadi"
+ LKB_DEF:0 "Lake Makgadikgadi"
+ LKB_ADJ:0 "Botswanan"
+
  LSA:0 "South African Lakes"
  LSA_DEF:0 "South African Lakes"
  LSA_ADJ:0 "South African"
