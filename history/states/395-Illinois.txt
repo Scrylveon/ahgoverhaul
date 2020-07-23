@@ -16,6 +16,7 @@ state={
 		add_core_of = ILL
 		add_core_of = GMA
 		add_core_of = CHC
+		add_core_of = MCD
 		victory_points = {
 			9450 30.0 
 		}

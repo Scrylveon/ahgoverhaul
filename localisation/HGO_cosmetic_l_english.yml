@@ -31,7 +31,7 @@
  KEN_ENG_fascism_ADJ:0 "Kenyan"
  KEN_ENG_communism_ADJ:0 "Kenyan"
  KEN_ENG_neutrality_ADJ:0 "Kenyan"
- KEN_ENG_democratic_ADJ:0 "Kenyan" 
+ KEN_ENG_democratic_ADJ:0 "Kenyan"
  KEN_ENG_monarchism:0 "Colony and Protectorate of Kenya"
  KEN_ENG_monarchism_DEF:0 "The Colony and Protectorate of Kenya"
  KEN_ENG_monarchism_ADJ:0 "Kenyan"
@@ -83,7 +83,7 @@
  PAL_ENG_autonomy_puppet_ADJ:0 "British-Palestinian"
  PAL_ENG_authoritarian_monarchism:0 "British Mandate of Palestine"
  PAL_ENG_authoritarian_monarchism_DEF:0 "The British Mandate of Palestine"
- 
+
  PAL_UK_autonomy_integrated_puppet:0 "British Mandate of Palestine"
  PAL_UK_autonomy_dominion:0 "British Mandate of Palestine"
  PAL_UK_autonomy_colony:0 "British Mandate of Palestine"
@@ -126,7 +126,7 @@
  GB2_ENG_monarchism:0 "Gambia Colony"
  GB2_ENG_monarchism_DEF:0 "The Gambia Colony"
  GB2_ENG_monarchism_ADJ:0 "Gambian"
- 
+
  DGC_ENG:0 "British Indian Ocean Territory"
  DGC_ENG_DEF:0 "British Indian Ocean Territory"
  DGC_ENG_ADJ:0 "British Indian Ocean Territory"
@@ -140,14 +140,14 @@
  RAJ_UK_subject:0 "$OVERLORDADJ$ India"
  RAJ_UK_autonomy_dominion:0 "Dominion of India"
  RAJ_UK_autonomy_dominion_DEF:0 "The Dominion of India"
- 
+
  CAN_UK_democratic:0 "Dominion of Canada"
  CAN_UK_democratic_DEF:0 "The Dominion of Canada"
  CAN_UK_democratic_monarchism:0 "Dominion of Canada"
  CAN_UK_democratic_monarchism_DEF:0 "The Dominion of Canada"
  CAN_UK_neutrality:0 "Dominion of Canada"
  CAN_UK_neutrality_DEF:0 "The Dominion of Canada"
- 
+
  OMN_RAJ_fascism:0 "Omani Caliphate"
  OMN_RAJ_fascism_DEF:0 "The Omani Caliphate"
  OMN_RAJ_democratic:0 "Sultanate of Muscat and Oman"
@@ -171,8 +171,8 @@
  BRM_ENG_neutrality:0 "Burma"
  BRM_ENG_neutrality_DEF:0 "Burma"
  BRM_ENG_communism:0 "Burma"
- BRM_ENG_communism_DEF:0 "Burma" 
- 
+ BRM_ENG_communism_DEF:0 "Burma"
+
  BRM_RAJ_democratic:0 "Burma Province"
  BRM_RAJ_democratic_DEF:0 "Burma Province"
  BRM_RAJ_neutrality:0 "Burma Province"
@@ -600,7 +600,7 @@
  SGR_FRA_fascism_ADJ:0 "South Algerian"
  SGR_FRA_communism_ADJ:0 "South Algerian"
  SGR_FRA_neutrality_ADJ:0 "South Algerian"
- SGR_FRA_democratic_ADJ:0 "South Algerian" 
+ SGR_FRA_democratic_ADJ:0 "South Algerian"
 
  #IBER colonies
  RDO_SPR_democratic:0 "Colony of Rio de Oro"
@@ -630,7 +630,7 @@
  CAT_SPR_communism_ADJ:0 "Catalan"
  CAT_SPR_neutrality_ADJ:0 "Catalan"
  CAT_SPR_democratic_ADJ:0 "Catalan"
- 
+
  SEH_SPR_democratic:0 "Colony of Seguira el-Hamra"
  SEH_SPR_democratic_DEF:0 "The Colony of Seguira el-Hamra"
  SEH_SPR_neutrality:0 "Colony of Seguira el-Hamra"
@@ -863,10 +863,10 @@
  GOA_POR_fascism_DEF:0 "The State of Portuguese India"
  GOA_POR_republican_fascism:0 "State of Portuguese India"
  GOA_POR_republican_fascism_DEF:0 "The State of Portuguese India"
- GOA_POR_ADJ:0 "Portuguese Indian" 
+ GOA_POR_ADJ:0 "Portuguese Indian"
 
  #ITA colonies
- 
+
  CYP_ITA_autonomy_satellite:0 "Cyprus"
  CYP_ITA_autonomy_reichsprotectorate:0 "Italian Protectorate of Cyprus"
  CYP_ITA_autonomy_reichskommissariat:0 "Italian Cyprus"
@@ -1055,7 +1055,7 @@
  EHC_PGROC_neutrality_DEF:0 "The Provisional Government of the Republic of China"
  EHC_PGROC_communism:0 "Provisional Government the Republic of China"
  EHC_PGROC_communism_DEF:0 "The Provisional Government of the Republic of China"
- EHC_PGROC_ADJ:0 "Chinese" 
+ EHC_PGROC_ADJ:0 "Chinese"
 
  CHI_JAP_democratic:0 "Reformed Government of the Republic of China"
  CHI_JAP_democratic_DEF:0 "The Reformed Government of the Republic of China"
@@ -1075,7 +1075,7 @@
  CHI_RNGOC_neutrality_DEF:0 "The Reorganised Nationalist Government of China"
  CHI_RNGOC_communism:0 "Reorganised Nationalist Government of China"
  CHI_RNGOC_communism_DEF:0 "The Reorganised Nationalist Government of China"
- CHI_RNGOC_ADJ:0 "Chinese" 
+ CHI_RNGOC_ADJ:0 "Chinese"
 
  GXC_JAP_democratic:0 "Governorate of Guangxi"
  GXC_JAP_democratic_DEF:0 "The Governorate of Guangxi"
@@ -1085,7 +1085,7 @@
  GXC_JAP_neutrality_DEF:0 "The Governorate of Guangxi"
  GXC_JAP_communism:0 "Governorate of Guangxi"
  GXC_JAP_communism_DEF:0 "The Governorate of Guangxi"
- GXC_JAP_ADJ:0 "Guangxi" 
+ GXC_JAP_ADJ:0 "Guangxi"
 
  YUN_JAP_democratic:0 "Governorate of Yunnan"
  YUN_JAP_democratic_DEF:0 "The Governorate of Yunnan"
@@ -1117,28 +1117,28 @@
  SHX_JAP_communism_DEF:0 "Governorate of Shaanxi"
  SHX_JAP_ADJ:0 "Shaanxi"
 
- SIA_JAP_neutrality_wtt_imperial_protectorate:0 "Protectorate of Siam" 
+ SIA_JAP_neutrality_wtt_imperial_protectorate:0 "Protectorate of Siam"
  SIA_JAP_neutrality_wtt_imperial_protectorate_DEF:0 "The Protectorate of Siam"
- SIA_JAP_fascism_wtt_imperial_protectorate:0 "Protectorate of Siam" 
+ SIA_JAP_fascism_wtt_imperial_protectorate:0 "Protectorate of Siam"
  SIA_JAP_fascism_wtt_imperial_protectorate_DEF:0 "The Protectorate of Siam"
- SIA_JAP_neutrality_wtt_imperial_associate:0 "Protectorate of Siam" 
+ SIA_JAP_neutrality_wtt_imperial_associate:0 "Protectorate of Siam"
  SIA_JAP_neutrality_wtt_imperial_associate_DEF:0 "The Protectorate of Siam"
- SIA_JAP_fascism_wtt_imperial_associate:0 "Protectorate of Siam" 
+ SIA_JAP_fascism_wtt_imperial_associate:0 "Protectorate of Siam"
  SIA_JAP_fascism_wtt_imperial_associate_DEF:0 "The Protectorate of Siam"
 
- IND_JAP_neutrality:0 "Governorate of Indochina" 
+ IND_JAP_neutrality:0 "Governorate of Indochina"
  IND_JAP_neutrality_DEF:0 "The Governorate of Indochina"
- IND_JAP_fascism:0 "Governorate of Indochina" 
+ IND_JAP_fascism:0 "Governorate of Indochina"
  IND_JAP_fascism_DEF:0 "The Governorate of Indochina"
 
- INS_JAP_neutrality:0 "Kingdom of East Indies" 
+ INS_JAP_neutrality:0 "Kingdom of East Indies"
  INS_JAP_neutrality_DEF:0 "The Kingdom of East Indies"
- INS_JAP_fascism:0 "Kingdom of East Indies" 
+ INS_JAP_fascism:0 "Kingdom of East Indies"
  INS_JAP_fascism_DEF:0 "The Kingdom of East Indies"
 
- PHI_JAP_neutrality:0 "Second Republic of The Philippines" 
+ PHI_JAP_neutrality:0 "Second Republic of The Philippines"
  PHI_JAP_neutrality_DEF:0 "The Second Republic of The Philippines"
- PHI_JAP_fascism:0 "Second Republic of The Philippines" 
+ PHI_JAP_fascism:0 "Second Republic of The Philippines"
  PHI_JAP_fascism_DEF:0 "The Second Republic of The Philippines"
 
  BRM_JAP_neutrality:0 "State of Burma"
@@ -1146,19 +1146,19 @@
  BRM_JAP_fascism:0 "State of Burma"
  BRM_JAP_fascism_DEF:0 "The State of Burma"
 
- PNG_JAP_neutrality:0 "Governorate of New Guinea" 
+ PNG_JAP_neutrality:0 "Governorate of New Guinea"
  PNG_JAP_neutrality_DEF:0 "The Governorate of New Guinea"
- PNG_JAP_fascism:0 "Governorate of New Guinea" 
- PNG_JAP_fascism_DEF:0 "The Governorate of New Guinea" 
+ PNG_JAP_fascism:0 "Governorate of New Guinea"
+ PNG_JAP_fascism_DEF:0 "The Governorate of New Guinea"
 
- CAM_JAP_neutrality:0 "Governorate of Kampuchea" 
+ CAM_JAP_neutrality:0 "Governorate of Kampuchea"
  CAM_JAP_neutrality_DEF:0 "The Governorate of Kampuchea"
- CAM_JAP_fascism:0 "Governorate of Kampuchea" 
+ CAM_JAP_fascism:0 "Governorate of Kampuchea"
  CAM_JAP_fascism_DEF:0 "The Governorate of Kampuchea"
 
- LAO_JAP_neutrality:0 "Governorate of Annam" 
+ LAO_JAP_neutrality:0 "Governorate of Annam"
  LAO_JAP_neutrality_DEF:0 "The Governorate of Annam"
- LAO_JAP_fascism:0 "Governorate of Annam" 
+ LAO_JAP_fascism:0 "Governorate of Annam"
  LAO_JAP_fascism_DEF:0 "The Governorate of Annam"
 
  #USA colonies
@@ -1286,7 +1286,7 @@
  PCZ_USA_neutrality_ADJ:0 "Panama Canal Zoner"
  PCZ_USA_monarchism:0 "Territory of the Panama Canal Zone"
  PCZ_USA_monarchism_DEF:0 "The Territory of the Panama Canal Zone"
- PCZ_USA_monarchism_ADJ:0 "Panama Canal Zoner" 
+ PCZ_USA_monarchism_ADJ:0 "Panama Canal Zoner"
 
  #misc. Africa
  GEGY_fascism:0 "Greater Imperial Kemet"
@@ -1317,7 +1317,7 @@
  AFRC_neutrality_DEF:0 "the Kingdom of Africa"
  AFRC_communism:0 "African Democratic Republic"
  AFRC_communism_DEF:0 "the African Democratic Republic"
- AFRC_ADJ:0 "African"    
+ AFRC_ADJ:0 "African"
 
  #misc. America
  MEXE_neutrality:0 "Mexican Empire"
@@ -1780,7 +1780,7 @@
  HISP_neutrality_DEF:0 "The Kingdom of Hispaniola"
  HISP_communism:0 "Hispaniolan Socialist Fedarative State"
  HISP_communism_DEF:0 "The Hispaniolan Socialist Fedarative State"
- HISP_ADJ:0 "Hispaniolan" 
+ HISP_ADJ:0 "Hispaniolan"
 
  NEW_CAL_democratic:0 "New California Republic"
  NEW_CAL_democratic_DEF:0 "the New California Republic"
@@ -1838,7 +1838,7 @@
  KPU_RAJ_monarchism:0 "Khairpur State"
  KPU_RAJ_monarchism_DEF:0 "The Khairpur State"
  KPU_RAJ_monarchism_ADJ:0 "Khairpurian"
- 
+
  KLA_RAJ_monarchism:0 "Khanate of Kalat"
  KLA_RAJ_monarchism_DEF:0 "The Khanate of Kalat"
  KLA_RAJ_monarchism_ADJ:0 "Kalati"
@@ -2065,7 +2065,7 @@
 
  INS_HOL_conservative_monarchism:0 "Colony of the Dutch East Indies"
  INS_HOL_conservative_monarchism_DEF:0 "The Colony of the Dutch East Indies"
- 
+
  BALK_fascism:0 "Balkan Empire"
  BALK_fascism_DEF:0 "The Balkan Empire"
  BALK_democratic:0 "Balkan Federation"
@@ -2115,7 +2115,7 @@
  GER_GGC_monarchism:0 "Greater Germanic Kaiserreich"
  GER_GGC_monarchism_DEF:0 "The Greater Germanic Kaiserreich"
  GER_GGC_ADJ:0 "Germanic"
- 
+
  LCC_PIO_communism:0 "Commune of Lucca and Piombino"
  LCC_PIO_communism_DEF:0 "the Commune of Lucca and Piombino"
  LCC_PIO_communism_ADJ:0 "Lucco-Piombinian"
@@ -2412,7 +2412,7 @@
  BRI_REP_neutrality_DEF:0 "The Commonwealth of Britain"
  BRI_REP_communism:0 "British Commune"
  BRI_REP_communism_DEF:0 "The British Commune"
- BRI_REP_ADJ:0 "British" 
+ BRI_REP_ADJ:0 "British"
 
  NAP_SIC_democratic:0 "South Italian Federation"
  NAP_SIC_democratic_DEF:0 "The South Italian Federation"
@@ -2468,7 +2468,7 @@
  GER_provisional_gvt_fascism:0 "Wehrwolf Germany"
 
  GER_german_empire_neutrality:0 "German Empire"
- GER_german_empire_neutrality_DEF:0 "the German Empire" 
+ GER_german_empire_neutrality_DEF:0 "the German Empire"
  GER_german_empire_democratic:0 "United Kingdom of Germany"
  GER_german_empire_democratic_DEF:0 "the United Kingdom of Germany"
  GER_german_empire_fascism:0 "Second German Empire"
@@ -2608,8 +2608,8 @@
  ROMANIA_neutrality_DEF:0 "The Kingdom of Romania"
  ROMANIA_communism:0 "Socialist Republic of Romania"
  ROMANIA_communism_DEF:0 "The Romanian People's Republic"
- ROMANIA_monarchism:0 "Romanian Empire" 
- ROMANIA_monarchism_DEF:0 "The Romanian Empire" 
+ ROMANIA_monarchism:0 "Romanian Empire"
+ ROMANIA_monarchism_DEF:0 "The Romanian Empire"
  ROMANIA_monarchism_ADJ:0 "Romanian"
  ROMANIA_fascism_ADJ:0 "Romanian"
  ROMANIA_democratic_ADJ:0 "Romanian"
@@ -2623,7 +2623,7 @@
  FRA_UK_communism:0 "European People's Union"
  FRA_UK_communism_DEF:0 "The European People's Union"
  FRA_UK_neutrality:0 "Angevin Kingdom"
- FRA_UK_netrality_DEF:0 "The Angevin Kingdom" 
+ FRA_UK_netrality_DEF:0 "The Angevin Kingdom"
  FRA_UK_ADJ:0 "Franco-British"
 
  NOGC_democratic:0 "North German Federation"
@@ -2634,7 +2634,7 @@
  NOGC_neutrality_DEF:0 "The North German Confederation"
  NOGC_communism:0 "North German Workers State"
  NOGC_communism_DEF:0 "The North German Workers State"
- NOGC_ADJ:0 "North German" 
+ NOGC_ADJ:0 "North German"
 
  SOGC_democratic:0 "South German Federation"
  SOGC_democratic_DEF:0 "The South German Federation"
@@ -2644,7 +2644,7 @@
  SOGC_neutrality_DEF:0 "The South German Confederation"
  SOGC_communism:0 "Southern German Commune"
  SOGC_communism_DEF:0 "The Southern German Commune"
- SOGC_ADJ:0 "South German" 
+ SOGC_ADJ:0 "South German"
 
  CSS_KUB_fascism:0 "Empire of the Dons"
  CSS_KUB_fascism_DEF:0 "The Empire of the Dons"
@@ -2657,7 +2657,7 @@
  CSS_KUB_fascism_ADJ:0 "Don-Kuban"
  CSS_KUB_democratic_ADJ:0 "Don-Kuban"
  CSS_KUB_neutrality_ADJ:0 "Don-Kuban"
- CSS_KUB_communism_ADJ:0 "Don-Kuban" 
+ CSS_KUB_communism_ADJ:0 "Don-Kuban"
 
  CHE_ING_fascism:0 "Empire of the Chechens"
  CHE_ING_fascism_DEF:0 "The Empire of the Chechens"
@@ -2677,8 +2677,8 @@
  DEN_NOR_neutrality_DEF:0 "Denmark-Norway"
  DEN_NOR_communism:0 "Socialist Union of Denmark and Norway"
  DEN_NOR_communism_DEF:0 "the Socialist Union of Denmark and Norway"
- DEN_NOR_monarchism:0 "Dano-Norwegian Realm" 
- DEN_NOR_monarchism_DEF:0 "The Dano-Norwegian Realm" 
+ DEN_NOR_monarchism:0 "Dano-Norwegian Realm"
+ DEN_NOR_monarchism_DEF:0 "The Dano-Norwegian Realm"
  DEN_NOR_ADJ:0 "Dano-Norwegian"
 
  SWE_NOR_fascism:0 "Empire of Sweden-Norway"
@@ -2689,8 +2689,8 @@
  SWE_NOR_neutrality_DEF:0 "Sweden-Norway"
  SWE_NOR_communism:0 "Socialist Union of Sweden and Norway"
  SWE_NOR_communism_DEF:0 "the Socialist Union of Sweden and Norway"
- SWE_NOR_monarchism:0 "United Kingdoms of Sweden and Norway" 
- SWE_NOR_monarchism_DEF:0 "The United Kingdoms of Sweden and Norway" 
+ SWE_NOR_monarchism:0 "United Kingdoms of Sweden and Norway"
+ SWE_NOR_monarchism_DEF:0 "The United Kingdoms of Sweden and Norway"
  SWE_NOR_ADJ:0 "Swedo-Norwegian"
 
  EUR_GAUCHE_democratic:0 "Gauche"
@@ -2968,7 +2968,7 @@
  LKT_GER_autonomy_reichsprotectorate_DEF:0 "Das Reichsprotektorat Lokot"
  LKT_GER_autonomy_satellite_DEF:0 "Lokot"
 
- GER_reichskommissariat_turkestan:0 "Reichskommissariat Turkestan" 
+ GER_reichskommissariat_turkestan:0 "Reichskommissariat Turkestan"
  GER_reichskommissariat_turkestan_DEF:0 "Das Reichskommissariat Turkestan"
 
  KAZ_GER_autonomy_reichskommissariat:0 "Reichskommissariat Turkestan"
@@ -3052,7 +3052,7 @@
  RUS_GER_autonomy_colony_DEF:0 "Das Reichsland Russland"
  RUS_GER_autonomy_dominion_DEF:0 "Russland"
 
- GER_reichskommissariat_kaukasus:0 "Reichskommissariat Kaukasus" 
+ GER_reichskommissariat_kaukasus:0 "Reichskommissariat Kaukasus"
  GER_reichskommissariat_kaukasus_DEF:0 "Das Reichskommissariat Kaukasus"
 
  GEO_GER_autonomy_reichskommissariat:0 "Reichskommissariat Kaukasus"
@@ -3135,7 +3135,7 @@
  URL_GER_autonomy_integrated_puppet_DEF:0 "Das Reichskommissariat Ural und östliche Gebiete"
  URL_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Ural und östliche Gebiete"
  URL_GER_autonomy_colony_DEF:0 "Das Reichsland Ural und östliche Gebiete"
- URL_GER_autonomy_dominion_DEF:0 "Ural und östliche Gebiete" 
+ URL_GER_autonomy_dominion_DEF:0 "Ural und östliche Gebiete"
 
  CZC_GER_autonomy_integrated_puppet:0 "Reichskommissariat Böhmen und Mähren"
  CZC_GER_autonomy_puppet:0 "Reichsprotektorat Böhmen und Mähren"
@@ -3144,7 +3144,7 @@
  CZC_GER_autonomy_integrated_puppet_DEF:0 "Das Reichskommissariat Böhmen und Mähren"
  CZC_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Böhmen und Mähren"
  CZC_GER_autonomy_colony_DEF:0 "Das Reichsland Böhmen und Mähren"
- CZC_GER_autonomy_dominion_DEF:0 "Böhmen und Mähren" 
+ CZC_GER_autonomy_dominion_DEF:0 "Böhmen und Mähren"
 
  GER_reichskommissariat_sudafrika:0 "Reichskommissariat Südafrika"
  GER_reichskommissariat_sudafrika_DEF:0 "Das Reichskommissariat Südafrika"
@@ -3163,7 +3163,7 @@
  SAF_GER_autonomy_integrated_puppet_DEF:0 "Das Reichscolonie Südafrika"
  SAF_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Südafrika"
  SAF_GER_autonomy_colony_DEF:0 "Das Reichsland Südafrika"
- SAF_GER_autonomy_dominion_DEF:0 "Südafrika"  
+ SAF_GER_autonomy_dominion_DEF:0 "Südafrika"
 
  GER_reichscolonie_Sudwestafrika:0 "Reichscolonie Südwestafrika"
  GER_reichscolonie_Sudwestafrika_DEF:0 "Das Reichscolonie Südwestafrika"
@@ -3182,7 +3182,7 @@
  NMB_GER_autonomy_integrated_puppet_DEF:0 "Das Reichscolonie Südwestafrika"
  NMB_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Südwestafrika"
  NMB_GER_autonomy_colony_DEF:0 "Das Reichsland Südwestafrika"
- NMB_GER_autonomy_dominion_DEF:0 "Südwestafrika"   
+ NMB_GER_autonomy_dominion_DEF:0 "Südwestafrika"
 
  GER_reichscolonie_mittelafrika:0 "Reichscolonie Mittelafrika"
  GER_reichscolonie_mittelafrika_DEF:0 "Das Reichscolonie Mittelafrika"
@@ -3201,7 +3201,7 @@
  ZIM_GER_autonomy_integrated_puppet_DEF:0 "Das Reichscolonie Mittelafrika"
  ZIM_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Mittelafrika"
  ZIM_GER_autonomy_colony_DEF:0 "Das Reichsland Mittelafrika"
- ZIM_GER_autonomy_dominion_DEF:0 "Mittelafrika"    
+ ZIM_GER_autonomy_dominion_DEF:0 "Mittelafrika"
 
  GER_reichscolonie_ostafrika:0 "Reichscolonie Ostafrika"
  GER_reichscolonie_ostafrika_DEF:0 "Das Reichscolonie Ostafrika"
@@ -3220,7 +3220,7 @@
  KEN_GER_autonomy_integrated_puppet_DEF:0 "Das Reichscolonie Ostafrika"
  KEN_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Ostafrika"
  KEN_GER_autonomy_colony_DEF:0 "Das Reichsland Ostafrika"
- KEN_GER_autonomy_dominion_DEF:0 "Ostafrika"     
+ KEN_GER_autonomy_dominion_DEF:0 "Ostafrika"
 
  GER_reichscolonie_kongo:0 "Reichscolonie des Kongo"
  GER_reichscolonie_kongo_DEF:0 "Das Reichscolonie des Kongo"
@@ -3239,7 +3239,7 @@
  COG_GER_autonomy_integrated_puppet_DEF:0 "Das Reichscolonie des Kongo"
  COG_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat des Kongo"
  COG_GER_autonomy_colony_DEF:0 "Das Reichsland des Kongo"
- COG_GER_autonomy_dominion_DEF:0 "des Kongo"      
+ COG_GER_autonomy_dominion_DEF:0 "des Kongo"
 
  GER_reichscolonie_kamerun:0 "Reichscolonie Kamerun"
  GER_reichscolonie_kamerun_DEF:0 "Das Reichscolonie Kamerun"
@@ -3258,7 +3258,7 @@
  CMR_GER_autonomy_integrated_puppet_DEF:0 "Das Reichscolonie Kamerun"
  CMR_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Kamerun"
  CMR_GER_autonomy_colony_DEF:0 "Das Reichsland Kamerun"
- CMR_GER_autonomy_dominion_DEF:0 "Kamerun"       
+ CMR_GER_autonomy_dominion_DEF:0 "Kamerun"
 
  TOG_GER_autonomy_reichscolonie:0 "Reichscolonie Togoland"
  TOG_GER_autonomy_reichsprotectorate:0 "Reichsprotektorat Togoland"
@@ -3274,7 +3274,7 @@
  TOG_GER_autonomy_integrated_puppet_DEF:0 "Das Reichscolonie Togoland"
  TOG_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Togoland"
  TOG_GER_autonomy_colony_DEF:0 "Das Reichsland Togoland"
- TOG_GER_autonomy_dominion_DEF:0 "Togoland"       
+ TOG_GER_autonomy_dominion_DEF:0 "Togoland"
 
  IND_GER_autonomy_reichscolonie:0 "Reichscolonie Ostasien"
  IND_GER_autonomy_reichsprotectorate:0 "Reichsprotektorat Ostasien"
@@ -3282,7 +3282,7 @@
  IND_GER_autonomy_reichscolonie_DEF:0 "Das Reichscolonie Ostasien"
  IND_GER_autonomy_reichsprotectorate_DEF:0 "Das Reichsprotektorat Ostasien"
  IND_GER_autonomy_satellite_DEF:0 "Ostasien"
- 
+
  IND_GER_autonomy_integrated_puppet:0 "Reichscolonie Ostasien"
  IND_GER_autonomy_puppet:0 "Reichsprotektorat Ostasien"
  IND_GER_autonomy_colony:0 "Reichsland Ostasien"
@@ -3290,7 +3290,7 @@
  IND_GER_autonomy_integrated_puppet_DEF:0 "Das Reichscolonie Ostasien"
  IND_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Ostasien"
  IND_GER_autonomy_colony_DEF:0 "Das Reichsland Ostasien"
- IND_GER_autonomy_dominion_DEF:0 "Ostasien"    
+ IND_GER_autonomy_dominion_DEF:0 "Ostasien"
 
  MAD_GER_autonomy_reichscolonie:0 "Reichscolonie Madagaskar"
  MAD_GER_autonomy_reichsprotectorate:0 "Reichsprotektorat Madagaskar"
@@ -3306,7 +3306,7 @@
  MAD_GER_autonomy_integrated_puppet_DEF:0 "Das Reichscolonie Madagaskar"
  MAD_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Madagaskar"
  MAD_GER_autonomy_colony_DEF:0 "Das Reichsland Madagaskar"
- MAD_GER_autonomy_dominion_DEF:0 "Madagaskar"    
+ MAD_GER_autonomy_dominion_DEF:0 "Madagaskar"
 
  ANG_GER_autonomy_reichscolonie:0 "Reichscolonie Mittelwestafrika"
  ANG_GER_autonomy_reichsprotectorate:0 "Reichsprotektorat Mittelwestafrika"
@@ -3322,7 +3322,7 @@
  ANG_GER_autonomy_integrated_puppet_DEF:0 "Das Reichscolonie Mittelwestafrika"
  ANG_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Mittelwestafrika"
  ANG_GER_autonomy_colony_DEF:0 "Das Reichsland Mittelwestafrika"
- ANG_GER_autonomy_dominion_DEF:0 "Mittelwestafrika"    
+ ANG_GER_autonomy_dominion_DEF:0 "Mittelwestafrika"
 
  MZB_GER_autonomy_reichscolonie:0 "Reichscolonie Mosambik"
  MZB_GER_autonomy_reichsprotectorate:0 "Reichsprotektorat Mosambik"
@@ -3338,7 +3338,7 @@
  MZB_GER_autonomy_integrated_puppet_DEF:0 "Das Reichscolonie Mosambik"
  MZB_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Mosambik"
  MZB_GER_autonomy_colony_DEF:0 "Das Reichsland Mosambik"
- MZB_GER_autonomy_dominion_DEF:0 "Mosambik"    
+ MZB_GER_autonomy_dominion_DEF:0 "Mosambik"
 
  RAJ_GER_autonomy_reichscolonie:0 "Reichscolonie Indien"
  RAJ_GER_autonomy_reichsprotectorate:0 "Reichsprotektorat Indien"
@@ -3354,7 +3354,7 @@
  RAJ_GER_autonomy_integrated_puppet_DEF:0 "Das Reichscolonie Indien"
  RAJ_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Indien"
  RAJ_GER_autonomy_colony_DEF:0 "Das Reichsland Indien"
- RAJ_GER_autonomy_dominion_DEF:0 "Indien"    
+ RAJ_GER_autonomy_dominion_DEF:0 "Indien"
 
  TZN_GER_autonomy_reichscolonie:0 "Reichscolonie Ostafrika"
  TZN_GER_autonomy_reichsprotectorate:0 "Reichsprotektorat Ostafrika"
@@ -3370,7 +3370,7 @@
  TZN_GER_autonomy_integrated_puppet_DEF:0 "Das Reichscolonie Ostafrika"
  TZN_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Ostafrika"
  TZN_GER_autonomy_colony_DEF:0 "Das Reichsland Ostafrika"
- TZN_GER_autonomy_dominion_DEF:0 "Ostafrika"       
+ TZN_GER_autonomy_dominion_DEF:0 "Ostafrika"
 
  NGU_GER_autonomy_reichscolonie:0 "Reichscolonie Neuguinea"
  NGU_GER_autonomy_reichsprotectorate:0 "Reichsprotektorat Neuguinea"
@@ -3386,7 +3386,7 @@
  NGU_GER_autonomy_integrated_puppet_DEF:0 "Das Reichscolonie Neuguinea"
  NGU_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Neuguinea"
  NGU_GER_autonomy_colony_DEF:0 "Das Reichsland Neuguinea"
- NGU_GER_autonomy_dominion_DEF:0 "Neuguinea"     
+ NGU_GER_autonomy_dominion_DEF:0 "Neuguinea"
 
  GER_reichscolonie_aquatorialafrika:0 "Reichscolonie Aquatorialafrika"
  GER_reichscolonie_aquatorialafrika_DEF:0 "Das Reichscolonie Aquatorialafrika"
@@ -3405,7 +3405,7 @@
  FEA_GER_autonomy_integrated_puppet_DEF:0 "Das Reichscolonie Aquatorialafrika"
  FEA_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Aquatorialafrika"
  FEA_GER_autonomy_colony_DEF:0 "Das Reichsland Aquatorialafrika"
- FEA_GER_autonomy_dominion_DEF:0 "Aquatorialafrika"        
+ FEA_GER_autonomy_dominion_DEF:0 "Aquatorialafrika"
 
  GER_reichscolonie_westafrika:0 "Reichscolonie Westafrika"
  GER_reichscolonie_westafrika_DEF:0 "Das Reichscolonie Westafrika"
@@ -3424,7 +3424,7 @@
  FWA_GER_autonomy_integrated_puppet_DEF:0 "Das Reichscolonie Westafrika"
  FWA_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Westafrika"
  FWA_GER_autonomy_colony_DEF:0 "Das Reichsland Westafrika"
- FWA_GER_autonomy_dominion_DEF:0 "Westafrika"               
+ FWA_GER_autonomy_dominion_DEF:0 "Westafrika"
 
  GER_reichscolonie_nordafrika:0 "Reichscolonie Nordafrika"
  GER_reichscolonie_nordafrika_DEF:0 "Das Reichscolonie Nordafrika"
@@ -3443,7 +3443,7 @@
  LBA_GER_autonomy_integrated_puppet_DEF:0 "Das Reichscolonie Nordafrika"
  LBA_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Nordafrika"
  LBA_GER_autonomy_colony_DEF:0 "Das Reichsland Nordafrika"
- LBA_GER_autonomy_dominion_DEF:0 "Nordafrika"     
+ LBA_GER_autonomy_dominion_DEF:0 "Nordafrika"
 
  GER_reichskommissariat_niederlande:0 "Reichsckommissariat Niederlanden"
  GER_reichskommissariat_niederlande_DEF:0 "Das Reichskommissariat Niederlanden"
@@ -3462,7 +3462,7 @@
  HOL_GER_autonomy_integrated_puppet_DEF:0 "Das Reichskommissariat Niederlande"
  HOL_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Niederlande"
  HOL_GER_autonomy_colony_DEF:0 "Das Reichsland Niederlande"
- HOL_GER_autonomy_dominion_DEF:0 "Niederlanden"          
+ HOL_GER_autonomy_dominion_DEF:0 "Niederlanden"
 
  GER_reichskommissariat_belgiennordfrankreich:0 "Reichskommissariat Belgien-Nordfrankreich"
  GER_reichskommissariat_belgiennordfrankreich_DEF:0 "Das Reichskommissariat Belgien-Nordfrankreich"
@@ -3500,7 +3500,7 @@
  BGN_GER_autonomy_integrated_puppet_DEF:0 "Das Reichskommissariat Burgund"
  BGN_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Burgund"
  BGN_GER_autonomy_colony_DEF:0 "Das Reichsland Burgund"
- BGN_GER_autonomy_dominion_DEF:0 "Burgund" 
+ BGN_GER_autonomy_dominion_DEF:0 "Burgund"
 
  GER_reichskommissariat_Sibirien:0 "Reichskommissariat Sibirien"
  GER_reichskommissariat_Sibirien_DEF:0 "Das Reichskommissariat Sibirien"
@@ -3519,7 +3519,7 @@
  SBR_GER_autonomy_integrated_puppet_DEF:0 "Das Reichskommissariat Sibirien"
  SBR_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Sibirien"
  SBR_GER_autonomy_colony_DEF:0 "Das Reichsland Sibirien"
- SBR_GER_autonomy_dominion_DEF:0 "Sibirien"  
+ SBR_GER_autonomy_dominion_DEF:0 "Sibirien"
 
  GER_reichskommissariat_ukraine:0 "Reichskommissariat Ukraine"
  GER_reichskommissariat_ukraine_DEF:0 "Das Reichskommissariat Ukraine"
@@ -3538,7 +3538,7 @@
  UKR_GER_autonomy_integrated_puppet_DEF:0 "Das Reichskommissariat Ukraine"
  UKR_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Ukraine"
  UKR_GER_autonomy_colony_DEF:0 "Das Reichsland Ukraine"
- UKR_GER_autonomy_dominion_DEF:0 "Ukraine"   
+ UKR_GER_autonomy_dominion_DEF:0 "Ukraine"
 
  GER_reichskommissariat_ostland:0 "Reichskommissariat Ostland"
  GER_reichskommissariat_ostland_DEF:0 "Das Reichskommissariat Ostland"
@@ -3557,7 +3557,7 @@
  BLR_GER_autonomy_integrated_puppet_DEF:0 "Das Reichskommissariat Ostland"
  BLR_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Ostland"
  BLR_GER_autonomy_colony_DEF:0 "Das Reichsland Ostland"
- BLR_GER_autonomy_dominion_DEF:0 "Ostland"    
+ BLR_GER_autonomy_dominion_DEF:0 "Ostland"
 
  GER_reichskommissariat_estland:0 "Reichskommissariat Estland"
  GER_reichskommissariat_estland_DEF:0 "Das Reichskommissariat Estland"
@@ -3576,7 +3576,7 @@
  EST_GER_autonomy_integrated_puppet_DEF:0 "Das Reichskommissariat Estland"
  EST_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Estland"
  EST_GER_autonomy_colony_DEF:0 "Das Reichsland Estland"
- EST_GER_autonomy_dominion_DEF:0 "Estland"     
+ EST_GER_autonomy_dominion_DEF:0 "Estland"
 
  GER_reichskommissariat_lettland:0 "Reichskommissariat Lettland"
  GER_reichskommissariat_lettland_DEF:0 "Das Reichskommissariat Lettland"
@@ -3595,7 +3595,7 @@
  LAT_GER_autonomy_integrated_puppet_DEF:0 "Das Reichskommissariat Lettland"
  LAT_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Lettland"
  LAT_GER_autonomy_colony_DEF:0 "Das Reichsland Lettland"
- LAT_GER_autonomy_dominion_DEF:0 "Lettland"      
+ LAT_GER_autonomy_dominion_DEF:0 "Lettland"
 
  GER_reichskommissariat_litauen:0 "Reichskommissariat Litauen"
  GER_reichskommissariat_litauen_DEF:0 "Das Reichskommissariat Litauen"
@@ -3614,7 +3614,7 @@
  LIT_GER_autonomy_integrated_puppet_DEF:0 "Das Reichskommissariat Litauen"
  LIT_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Litauen"
  LIT_GER_autonomy_colony_DEF:0 "Das Reichsland Litauen"
- LIT_GER_autonomy_dominion_DEF:0 "Litauen"       
+ LIT_GER_autonomy_dominion_DEF:0 "Litauen"
 
  GER_reichskommissariat_norwegen:0 "Reichskommissariat Norwegen"
  GER_reichskommissariat_norwegen_DEF:0 "Das Reichskommissariat Norwegen"
@@ -3633,7 +3633,7 @@
  NOR_GER_autonomy_integrated_puppet_DEF:0 "Das Reichskommissariat Norwegen"
  NOR_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Norwegen"
  NOR_GER_autonomy_colony_DEF:0 "Das Reichsland Norwegen"
- NOR_GER_autonomy_dominion_DEF:0 "Norwegen" 
+ NOR_GER_autonomy_dominion_DEF:0 "Norwegen"
 
  GER_reichskommissariat_baltenland:0 "Reichskommissariat Baltenland"
  GER_reichskommissariat_baltenland_DEF:0 "Das Reichskommissariat Baltenland"
@@ -4053,31 +4053,31 @@
  RUS_SOV_communism_DEF:0 "the Russian Soviet Federative Socialist Republic"
  RUS_SOV_vanguardism:0 "Russian Soviet Federative Socialist Republic"
  RUS_SOV_vanguardism_DEF:0 "the Russian Soviet Federative Socialist Republic"
- RUS_SOV_communism_ADJ:0 "Russian" 
+ RUS_SOV_communism_ADJ:0 "Russian"
 
  UKR_SOV_communism:0 "Ukrainian Soviet Socialist Republic"
  UKR_SOV_communism_DEF:0 "the Ukrainian Soviet Socialist Republic"
  UKR_SOV_vanguardism:0 "Ukrainian Soviet Socialist Republic"
  UKR_SOV_vanguardism_DEF:0 "the Ukrainian Soviet Socialist Republic"
- UKR_SOV_communism_ADJ:0 "Ukrainian" 
+ UKR_SOV_communism_ADJ:0 "Ukrainian"
 
  BLR_SOV_communism:0 "Byelorussian Soviet Socialist Republic"
  BLR_SOV_communism_DEF:0 "the Byelorussian Soviet Socialist Republic"
  BLR_SOV_vanguardism:0 "Byelorussian Soviet Socialist Republic"
  BLR_SOV_vanguardism_DEF:0 "the Byelorussian Soviet Socialist Republic"
- BLR_SOV_communism_ADJ:0 "Byelorussian" 
+ BLR_SOV_communism_ADJ:0 "Byelorussian"
 
  TSC_SOV_communism:0 "Transcaucasian Socialist Federative Soviet Republic"
  TSC_SOV_communism_DEF:0 "the Transcaucasian Socialist Federative Soviet Republic"
  TSC_SOV_vanguardism:0 "Transcaucasian Socialist Federative Soviet Republic"
  TSC_SOV_vanguardism_DEF:0 "the Transcaucasian Socialist Federative Soviet Republic"
- TSC_SOV_communism_ADJ:0 "Transcaucasian" 
+ TSC_SOV_communism_ADJ:0 "Transcaucasian"
 
  AFG_SOV_communism:0 "Afghan Soviet Socialist Republic"
  AFG_SOV_communism_DEF:0 "the Afghan Soviet Socialist Republic"
  AFG_SOV_vanguardism:0 "Afghan Soviet Socialist Republic"
  AFG_SOV_vanguardism_DEF:0 "the Afghan Soviet Socialist Republic"
- AFG_SOV_communism_ADJ:0 "Afghan" 
+ AFG_SOV_communism_ADJ:0 "Afghan"
 
  MOL_SOV_autonomy_dominion:0 "Moldavian Autonomous Soviet Socialist Republic"
  MOL_SOV_autonomy_colony:0 "Moldavian Autonomous Soviet Socialist Republic"
@@ -4125,9 +4125,9 @@
  AZR_SOV_communism_autonomy_puppet_DEF:1 "the Azerbaijan Soviet Socialist Republic"
  AZR_SOV_communism_autonomy_integrated_puppet_DEF:0 "the Azerbaijan Soviet Socialist Republic"
  AZR_SOV_communism_DEF:0 "the Azerbaijan Soviet Socialist Republic"
- AZR_SOV_communism:0 "Azerbaijan Soviet Socialist Republic" 
+ AZR_SOV_communism:0 "Azerbaijan Soviet Socialist Republic"
  AZR_SOV_vanguardism_DEF:0 "the Azerbaijan Soviet Socialist Republic"
- AZR_SOV_vanguardism:0 "Azerbaijan Soviet Socialist Republic" 
+ AZR_SOV_vanguardism:0 "Azerbaijan Soviet Socialist Republic"
 
  KAZ_SOV:0 "Kazak Autonomous Soviet Socialist Republic"
  KAZ_SOV_autonomy_dominion:0 "Kazak Autonomous Soviet Socialist Republic"
@@ -4149,9 +4149,9 @@
  UZB_SOV_communism_autonomy_puppet_DEF:1 "the Uzbek Soviet Socialist Republic"
  UZB_SOV_communism_autonomy_integrated_puppet_DEF:0 "the Uzbek Soviet Socialist Republic"
  UZB_SOV_vanguardism_DEF:0 "the Uzbek Soviet Socialist Republic"
- UZB_SOV_vanguardism:0 "Uzbek Soviet Socialist Republic" 
+ UZB_SOV_vanguardism:0 "Uzbek Soviet Socialist Republic"
  UZB_SOV_communism_DEF:0 "the Uzbek Soviet Socialist Republic"
- UZB_SOV_communism:0 "Uzbek Soviet Socialist Republic" 
+ UZB_SOV_communism:0 "Uzbek Soviet Socialist Republic"
 
  TMS_SOV_communism_autonomy_dominion:0 "Turkmen Soviet Socialist Republic"
  TMS_SOV_communism_autonomy_colony:0 "Turkmen Soviet Socialist Republic"
@@ -4162,9 +4162,9 @@
  TMS_SOV_communism_autonomy_puppet_DEF:1 "the Turkmen Soviet Socialist Republic"
  TMS_SOV_communism_autonomy_integrated_puppet_DEF:0 "the Turkmen Soviet Socialist Republic"
  TMS_SOV_communism_DEF:0 "the Turkmen Soviet Socialist Republic"
- TMS_SOV_communism:0 "Turkmen Soviet Socialist Republic" 
+ TMS_SOV_communism:0 "Turkmen Soviet Socialist Republic"
  TMS_SOV_vanguardism_DEF:0 "the Turkmen Soviet Socialist Republic"
- TMS_SOV_vanguardism:0 "Turkmen Soviet Socialist Republic" 
+ TMS_SOV_vanguardism:0 "Turkmen Soviet Socialist Republic"
 
  TAJ_SOV_communism_autonomy_dominion:0 "Tajik Soviet Socialist Republic"
  TAJ_SOV_communism_autonomy_colony:0 "Tajik Soviet Socialist Republic"
@@ -4175,9 +4175,9 @@
  TAJ_SOV_communism_autonomy_puppet_DEF:1 "the Tajik Soviet Socialist Republic"
  TAJ_SOV_communism_autonomy_integrated_puppet_DEF:0 "the Tajik Soviet Socialist Republic"
  TAJ_SOV_communism_DEF:0 "the Tajik Soviet Socialist Republic"
- TAJ_SOV_communism:0 "Tajik Soviet Socialist Republic"  
+ TAJ_SOV_communism:0 "Tajik Soviet Socialist Republic"
  TAJ_SOV_vanguardism_DEF:0 "the Tajik Soviet Socialist Republic"
- TAJ_SOV_vanguardism:0 "Tajik Soviet Socialist Republic"  
+ TAJ_SOV_vanguardism:0 "Tajik Soviet Socialist Republic"
 
  KYR_SOV:0 "Kirghiz Autonomous Soviet Socialist Republic"
  KYR_SOV_autonomy_dominion:0 "Kirghiz Autonomous Soviet Socialist Republic"
@@ -4201,7 +4201,7 @@
  POL_SOV_communism_autonomy_integrated_puppet_DEF:0 "the Polish Soviet Socialist Republic"
  POL_SOV_communism_DEF:0 "the Polish Soviet Socialist Republic"
 
- KAR_SOV:0 "Karelian Autonomous Soviet Socialist Republic" 
+ KAR_SOV:0 "Karelian Autonomous Soviet Socialist Republic"
  KAR_SOV_autonomy_dominion:0 "Karelian Autonomous Soviet Socialist Republic"
  KAR_SOV_autonomy_colony:0 "Karelian Autonomous Soviet Socialist Republic"
  KAR_SOV_autonomy_puppet:1 "Karelian Autonomous Soviet Socialist Republic"
@@ -5185,7 +5185,7 @@
  NORA_SOV_communism_autonomy_colony_DEF:0 "the North American Soviet Socialist Republic"
  NORA_SOV_communism_autonomy_puppet_DEF:1 "the North American Soviet Socialist Republic"
  NORA_SOV_communism_autonomy_integrated_puppet_DEF:0 "the North American Soviet Socialist Republic"
- NORA_SOV_communism_DEF:0 "the North American Soviet Socialist Republic" 
+ NORA_SOV_communism_DEF:0 "the North American Soviet Socialist Republic"
 
  ALN_SOV_communism:0 "Ålandic Soviet Socialist Republic"
  ALN_SOV_communism_DEF:0 "The Ålandic Soviet Socialist Republic"
@@ -5202,7 +5202,7 @@
  ALN_SOV_monarchism:0 "Duchy of Åland"
  ALN_SOV_monarchism_DEF:0 "The Duchy of Åland"
  ALN_SOV_monarchism_ADJ:0 "Ålandic"
- 
+
  BML_SOV:0 "Buryat-Mongol Autonomous Soviet Socialist Republic"
  BML_SOV_DEF:0 "The Buryat-Mongol Autonomous Soviet Socialist Republic"
  BML_SOV_ADJ:0 "Buryat-Mongol"
@@ -5367,61 +5367,61 @@
  AJR_RAJ:0 "Ajmer-Merwara Province"
  AJR_RAJ_DEF:0 "The Ajmer-Merwara Province"
  AJR_RAJ_ADJ:0 "Ajmer-Merwari"
- 
+
  AND_RAJ:0 "Andaman and Nicobar Islands Provinces"
  AND_RAJ_DEF:0 "Andaman and Nicobar Islands Provinces"
  AND_RAJ_ADJ:0 "Andamanian"
- 
+
  ASM_RAJ:0 "Assam Province"
  ASM_RAJ_DEF:0 "The Assam Province"
  ASM_RAJ_ADJ:0 "Assamese"
- 
+
  BLO_RAJ:0 "British Balochistan Province"
  BLO_RAJ_DEF:0 "The British Balochistan Province"
  BLO_RAJ_ADJ:0 "Balochi"
- 
+
  BAN_RAJ:0 "Bengal Presidency"
  BAN_RAJ_DEF:0 "The Bengal Presidency"
  BAN_RAJ_ADJ:0 "Bengali"
- 
+
  BIH_RAJ:0 "Bihar and Orissa Provinces"
  BIH_RAJ_DEF:0 "The Bihar and Orissa Provinces"
  BIH_RAJ_ADJ:0 "Bihari"
- 
+
  MAH_RAJ:0 "Bombay Presidency"
  MAH_RAJ_DEF:0 "The Bombay Presidency"
  MAH_RAJ_ADJ:0 "Bombayite"
- 
+
  CRG_RAJ:0 "Coorg Province"
  CRG_RAJ_DEF:0 "The Coorg Province"
  CRG_RAJ_ADJ:0 "Coorgi"
- 
+
  TML_RAJ:0 "Madras Presidency"
  TML_RAJ_DEF:0 "The Madras Presidency"
  TML_RAJ_ADJ:0 "Madrasi"
- 
+
  PSH_RAJ:0 "Northwest Frontier Provinces"
  PSH_RAJ_DEF:0 "The NWFP"
  PSH_RAJ_ADJ:0 "Pashtuni"
- 
+
  PTH_RAJ:0 "Panth-Piploda Province"
  PTH_RAJ_DEF:0 "The Panth-Piploda Province"
  PTH_RAJ_ADJ:0 "Panth-Piplodi"
- 
+
  KHL_RAJ:0 "Punjab Province"
  KHL_RAJ_DEF:0 "The Punjab Province"
  KHL_RAJ_ADJ:0 "Punjabi"
- 
+
  UTT_RAJ:0 "United Provinces"
  UTT_RAJ_DEF:0 "The United Provinces"
  UTT_RAJ_ADJ:0 "Oudhi"
- 
+
  MDP_RAJ:0 "Central Provinces and Berar"
  MDP_RAJ_DEF:0 "The Central Provinces and Berar"
  MDP_RAJ_ADJ:0 "Central"
 
  #TEST
- 
+
  ALA_LIE:0 "Territorium von Alaska"
  ALA_LIE_DEF:0 "das Gebiet von Alaska"
  ALA_LIE_ADJ:0 "Alaska-liechtensteinisch"
@@ -5471,7 +5471,7 @@
  GER_ROME:0 "Germania superiore"
  GER_ROME_DEF:0 "ermania superiore"
  GER_ROME_ADJ:0 "germanico superiore"
- 
+
  SPR_ROME:0 "tarraconensis"
  SPR_ROME_DEF:0 "tarraconensis"
  SPR_ROME_ADJ:0 "Tarraconense"
@@ -5621,7 +5621,7 @@
  NBO_AUS:0 "österreichisch Borneo"
  NBO_AUS_DEF:0 "österreichisch Borneo"
  NBO_AUS_ADJ:0 "Austrian"
- 
+
  NBO_AUS_right_anarchism:0 "Ostend East India Company"
  NBO_AUS_right_anarchism_DEF:0 "The Ostend East India Company"
  NBO_AUS_right_anarchism_ADJ:0 "Austrian"
@@ -5684,8 +5684,8 @@
 
  EMC_TUR:0 "Provisional Government of Western Thrace"
  EMC_TUR_DEF:0 "The Provisional Government of Western Thrace"
- EMC_TUR_ADJ:0 "Western Thracian" 
+ EMC_TUR_ADJ:0 "Western Thracian"
 
  CBI_FRA:0 "Colony of Acadia"
  CBI_FRA_DEF:0 "the Colony of Acadia"
- CBI_FRA_ADJ:0 "Acadien" 
+ CBI_FRA_ADJ:0 "Acadien"
