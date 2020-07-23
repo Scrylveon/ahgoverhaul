@@ -13,6 +13,7 @@ state={
 
 		}
 		add_core_of = CHA
+		add_core_of = LCH
 
 	}
 
