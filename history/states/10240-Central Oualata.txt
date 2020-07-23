@@ -7,7 +7,7 @@ state={
 	history={
 	    owner = FWA
         add_core_of = MRT
-	add_core_of = WTR
+	add_core_of = LKM
     }	
 	manpower=1000
 	state_category = pastoral

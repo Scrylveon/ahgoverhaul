@@ -9,6 +9,7 @@ state={
 	    owner = SGR
         add_core_of = SGR
         add_core_of = ALG
+	add_core_of = LKM
     }	
 	manpower=1000
 	state_category = pastoral
