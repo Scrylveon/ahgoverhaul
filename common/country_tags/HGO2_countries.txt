@@ -298,4 +298,7 @@ CKL = "countries/Chakla.txt"
 CHN = "countries/Choni.txt"
 LKE = "countries/Lake Eyre.txt"
 QTT = "countries/Qattara Depression.txt"
->>>>>>> 0140e5f71895509dadba6b7440ab38163de0a00d
+CED = "countries/Chott el Djerid.txt"
+LDF = "countries/Lake Darfur.txt"
+LKS = "countries/Lake Senegal.txt"
+LKF = "countries/Lake Fezzan.txt"
