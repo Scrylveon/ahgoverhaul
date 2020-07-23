@@ -30,6 +30,10 @@ SWZ_FRA = {
 	color = rgb { 37 72 155 }
 	color_ui = rgb { 37 72 155 }
 }
+MZB_FRA = {
+	color = rgb { 37 72 155 }
+	color_ui = rgb { 37 72 155 }
+}
 LES_FRA = {
 	color = rgb { 37 72 155 }
 	color_ui = rgb { 37 72 155 }

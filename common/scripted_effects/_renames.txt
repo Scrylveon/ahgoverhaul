@@ -1,8 +1,6 @@
 ###################################################################################################################################
 ### NOTE - FOR THE LOVE OF GOD PLEASE READ BEFORE MAKING CHANGES                                                                ###
 ### Just because the name shows up in the map, doesn't mean the localisation will display in the UI (e.g. peace deal windows)   ###
-### Characters confirmed NOT to display right: ă č ı ő ō ş ū ż                                                                  ###
-### This applied to bother lower and upper case versions of these characters                                                    ###
 ###################################################################################################################################
 ### Credits to the Kaiserreich Team for the code                                                                                ###
 ###################################################################################################################################
@@ -2394,6 +2392,16 @@ do_lower_german_renames = {
     }
 }
 do_german_renames = {
+
+	if = {
+		limit = {
+			state = 736
+		}		
+		set_province_name = {
+			id = 11735
+			name = "Pulei"
+		}
+	}
 
 	if = {
 		limit = {
@@ -10309,6 +10317,839 @@ do_polish_renames = {
 
 	if = {
 		limit = {
+			state = 765
+		}		
+		set_province_name = {
+			id = 13219
+			name = "Waduz"
+		}
+	}	
+
+	if = {
+		limit = {
+			state = 5523
+		}		
+		set_province_name = {
+			id = 15944
+			name = "Święty Maurycy"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 182
+		}		
+		set_province_name = {
+			id = 9940
+			name = "Iraklion"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 341
+		}		
+		set_province_name = {
+			id = 9833
+			name = "Konstantynopol"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 2046
+		}
+		set_province_name = {
+			id = 13271
+			name = "Aleksandropol"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 7234
+		}
+		set_province_name = {
+			id = 9791
+			name = "Drama"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 7249
+		}
+		set_province_name = {
+			id = 3864
+			name = "Larisa"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 3329
+		}
+		set_province_name = {
+			id = 3980
+			name = "Janina"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 3330
+		}
+		set_province_name = {
+			id = 9916
+			name = "Arta"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 1020
+		}
+		set_province_name = {
+			id = 10203
+			name = "Korfu"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 7274
+		}
+		set_province_name = {
+			id = 7211
+			name = "Patras"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 4377
+		}
+		set_province_name = {
+			id = 15100
+			name = "Mykonos"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 4390
+		}		
+		set_province_name = {
+			id = 11818
+			name = "Tesalonika"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 1225
+		}		
+		set_province_name = {
+			id = 13724
+			name = "Ateny"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 164
+		}		
+		set_province_name = {
+			id = 10007
+			name = "Rodos"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 7276
+		}
+		set_province_name = {
+			id = 6900
+			name = "Korcza"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2337
+		}
+		set_province_name = {
+			id = 13291
+			name = "Fier"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 44
+		}
+		set_province_name = {
+			id = 9914
+			name = "Tirana"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 8438
+		}
+		set_province_name = {
+			id = 17901
+			name = "Istogu"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1233
+		}
+		set_province_name = {
+			id = 13619
+			name = "Mitrowica"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2339
+		}
+		set_province_name = {
+			id = 13268
+			name = "Gnjilane"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5921
+		}
+		set_province_name = {
+			id = 16476
+			name = "Peć"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1215
+		}
+		set_province_name = {
+			id = 9849
+			name = "Prizren"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 813
+		}		
+		set_province_name = {
+			id = 833
+			name = "Ochryda"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1796
+		}		
+		set_province_name = {
+			id = 3865
+			name = "Bitola"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 7329
+		}		
+		set_province_name = {
+			id = 13366
+			name = "Sztip"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 2266
+		}		
+		set_province_name = {
+			id = 11574
+			name = "Oprisavci"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 106
+		}		
+		set_province_name = {
+			id = 3882
+			name = "Skopie"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 932
+		}		
+		set_province_name = {
+			id = 13367
+			name = "Budwa"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 3654
+		}		
+		set_province_name = {
+			id = 13267
+			name = "Podgorica"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 1232
+		}		
+		set_province_name = {
+			id = 3924
+			name = "Split"
+		}
+	}
+	if = {
+		limit = {
+			state = 7371
+		}		
+		set_province_name = {
+			id = 9627
+			name = "Lublana"
+		}
+	}
+	if = {
+		limit = {
+			state = 109
+		}		
+		set_province_name = {
+			id = 11581
+			name = "Zagrzeb"
+		}
+	}
+	if = {
+		limit = {
+			state = 2176
+		}		
+		set_province_name = {
+			id = 11572
+			name = "Zenica"
+		}
+	}
+	if = {
+		limit = {
+			state = 2264
+		}		
+		set_province_name = {
+			id = 13857
+			name = "Brczko"
+		}
+	}
+	if = {
+		limit = {
+			state = 2267
+		}		
+		set_province_name = {
+			id = 11899
+			name = "Sarajewo"
+		}
+	}
+	if = {
+		limit = {
+			state = 2263
+		}		
+		set_province_name = {
+			id = 11741
+			name = "Wschodnie Sarajewo"
+		}
+	}
+	if = {
+		limit = {
+			state = 812
+		}		
+		set_province_name = {
+			id = 13270
+			name = "Prisztina"
+		}
+	}
+	if = {
+		limit = {
+			state = 107
+		}		
+		set_province_name = {
+			id = 11586
+			name = "Białogród"
+		}
+	}
+	if = {
+		limit = {
+			state = 816
+		}		
+		set_province_name = {
+			id = 11887
+			name = "Nisz"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1157
+		}		
+		set_province_name = {
+			id = 13313
+			name = "Triest"
+		}
+	}
+	if = {
+		limit = {
+			state = 2265
+		}		
+		set_province_name = {
+			id = 13858
+			name = "Rovinj"
+		}
+	}
+	if = {
+		limit = {
+			state = 736
+		}		
+		set_province_name = {
+			id = 11735
+			name = "Pula"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 160
+		}		
+		set_province_name = {
+			id = 11584
+			name = "Wenecja"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 7538
+		}		
+		set_province_name = {
+			id = 17096
+			name = "Werona"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 159
+		}		
+		set_province_name = {
+			id = 3780
+			name = "Mediolan"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3507
+		}		
+		set_province_name = {
+			id = 11754
+			name = "Ferdinand"
+		}
+	}
+	if = {
+		limit = {
+			state = 7293
+		}		
+		set_province_name = {
+			id = 6842
+			name = "Wielkie Tyrnowo" 
+		}
+	}
+	if = {
+		limit = {
+			state = 7290
+		}		
+		set_province_name = {
+			id = 9612
+			name = "Ruse"
+		}
+	}
+	if = {
+		limit = {
+			state = 211
+		}		
+		set_province_name = {
+			id = 9919
+			name = "Burgas"
+		}
+	}
+	if = {
+		limit = {
+			state = 48
+		}		
+		set_province_name = {
+			id = 949
+			name = "Sofia"
+		}
+	}
+	if = {
+		limit = {
+			state = 212
+		}		
+		set_province_name = {
+			id = 6923
+			name = "Płowdiw"
+		}
+	}
+	if = {
+		limit = {
+			state = 1231
+		}		
+		set_province_name = {
+			id = 9783
+			name = "Warna"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1791
+		}		
+		set_province_name = {
+			id = 13356
+			name = "Villach"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2782
+		}		
+		set_province_name = {
+			id = 3673
+			name = "Klagenfurt"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2342
+		}		
+		set_province_name = {
+			id = 3703
+			name = "Wels"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4816
+		}		
+		set_province_name = {
+			id = 13361
+			name = "Sztyr"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1385
+		}		
+		set_province_name = {
+			id = 13424
+			name = "Wiedeń"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1110
+		}		
+		set_province_name = {
+			id = 732
+			name = "Linec"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 794
+		}		
+		set_province_name = {
+			id = 9648
+			name = "Grodziec"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 795
+		}		
+		set_province_name = {
+			id = 688
+			name = "Solnogród"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5171
+		}		
+		set_province_name = {
+			id = 673
+			name = "Inszpruk"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 6019
+		}		
+		set_province_name = {
+			id = 3730
+			name = "Kościoły Brzozowe"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 7984
+		}		
+		set_province_name = {
+			id = 3731
+			name = "Djundjusz"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 43
+		}		
+		set_province_name = {
+			id = 6716
+			name = "Solnok"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 7989
+		}		
+		set_province_name = {
+			id = 6703
+			name = "Białogród Stołeczny"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 7641
+		}		
+		set_province_name = {
+			id = 17472
+			name = "Jawaryn"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 5610
+		}		
+		set_province_name = {
+			id = 9660
+			name = "Budapeszt"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 154
+		}		
+		set_province_name = {
+			id = 11659
+			name = "Debreczyn"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 800
+		}		
+		set_province_name = {
+			id = 11610
+			name = "Pięciokościoły"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 83
+		}		
+		set_province_name = {
+			id = 6682
+			name = "Arad"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 2058
+		}		
+		set_province_name = {
+			id = 746
+			name = "Syhot Marmaroski"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 1218
+		}		
+		set_province_name = {
+			id = 3696
+			name = "Warad Wielki"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 2272
+		}		
+		set_province_name = {
+			id = 9606
+			name = "Temeszwar"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 1217
+		}		
+		set_province_name = {
+			id = 6711
+			name = "Kluż"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 1216
+		}		
+		set_province_name = {
+			id = 3665
+			name = "Hunjadi"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 76
+		}		
+		set_province_name = {
+			id = 9670
+			name = "Targowisko nad Maruszą"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 84
+		}		
+		set_province_name = {
+			id = 690
+			name = "Braszów"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 81
+		}		
+		set_province_name = {
+			id = 6652
+			name = "Krajowa"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 3615
+		}		
+		set_province_name = {
+			id = 3663
+			name = "Ploeszti"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 46
+		}		
+		set_province_name = {
+			id = 9617
+			name = "Bukareszt"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 5343
+		}		
+		set_province_name = {
+			id = 9635
+			name = "Konstanca"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 79
+		}		
+		set_province_name = {
+			id = 6706
+			name = "Gałacz"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 3472
+		}		
+		set_province_name = {
+			id = 9716
+			name = "Jassy"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3552
+		}		
+		set_province_name = {
+			id = 3384
+			name = "Wolodino"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 5133
 		}		
 		set_province_name = {
@@ -10316,6 +11157,7 @@ do_polish_renames = {
 			name = "Augszpurg"
 		}
 	}
+	
 	if = {
 		limit = {
 			state = 5386
@@ -10868,15 +11710,6 @@ do_polish_renames = {
 		set_province_name = {
 			id = 3707
 			name = "Kiszyniów"
-		}
-	}
-	if = {
-		limit = {
-			state = 80
-		}		
-		set_province_name = {
-			id = 9548
-			name = "Czerniowce"
 		}
 	}
 	if = {
@@ -11508,6 +12341,26 @@ do_lithuanian_renames = {
 	}
 }
 do_czech_renames = {
+		
+	if = {
+		limit = {
+			state = 160
+		}		
+		set_province_name = {
+			id = 11584
+			name = "Benátky"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 159
+		}		
+		set_province_name = {
+			id = 3780
+			name = "Milán"
+		}
+	}
 
 	if = {
 		limit = {
@@ -11821,7 +12674,7 @@ do_czech_renames = {
 		}		
 		set_province_name = {
 			id = 688
-			name = "Salcburk"
+			name = "Solnohrad"
 		}
 	}
 
@@ -12232,6 +13085,32 @@ do_estonian_renames = {
 	}
 }
 do_yugoslavian_renames = {
+		limit = {
+			state = 2265
+		}		
+		set_province_name = {
+			id = 13858
+			name = "Rovinj"
+		}
+	}
+	if = {
+		limit = {
+			state = 1157
+		}		
+		set_province_name = {
+			id = 13313
+			name = "Trst"
+		}
+	}
+	if = {
+		limit = {
+			state = 736
+		}		
+		set_province_name = {
+			id = 11735
+			name = "Pula"
+		}
+	}
 
 	if = {
 		limit = {
@@ -12369,33 +13248,6 @@ do_yugoslavian_renames = {
 		set_province_name = {
 			id = 9627
 			name = "Ljubljana"
-		}
-	}
-	if = {
-		limit = {
-			state = 2265
-		}		
-		set_province_name = {
-			id = 13858
-			name = "Rovinj"
-		}
-	}
-	if = {
-		limit = {
-			state = 1157
-		}		
-		set_province_name = {
-			id = 13313
-			name = "Trst"
-		}
-	}
-	if = {
-		limit = {
-			state = 736
-		}		
-		set_province_name = {
-			id = 11735
-			name = "Pula"
 		}
 	}
 	if = {
@@ -15504,7 +16356,7 @@ do_french_renames = {
 		}		
 		set_province_name = {
 			id = 15944
-			name = "Saint-Maurice"
+			name = "Maurycy"
 		}
 	}
 	if = {
@@ -16207,51 +17059,6 @@ do_hungarian_renames = {
 	}
 	if = {
 		limit = {
-			state = 6019
-		}		
-		set_province_name = {
-			id = 3730
-			name = "Nyíregyháza"
-		}
-	}
-	if = {
-		limit = {
-			state = 7984
-		}		
-		set_province_name = {
-			id = 3731
-			name = "Gyöngyös"
-		}
-	}
-	if = {
-		limit = {
-			state = 43
-		}		
-		set_province_name = {
-			id = 6716
-			name = "Szolnok"
-		}
-	}
-	if = {
-		limit = {
-			state = 7989
-		}		
-		set_province_name = {
-			id = 6703
-			name = "Székesfehérvár"
-		}
-	}
-	if = {
-		limit = {
-			state = 7641
-		}		
-		set_province_name = {
-			id = 17472
-			name = "Győr"
-		}
-	}
-	if = {
-		limit = {
 			state = 1157
 		}		
 		set_province_name = {
@@ -16428,6 +17235,51 @@ do_hungarian_renames = {
 		set_province_name = {
 			id = 13854
 			name = "Poszony"
+		}
+	}
+	if = {
+		limit = {
+			state = 6019
+		}		
+		set_province_name = {
+			id = 3730
+			name = "Nyíregyháza"
+		}
+	}
+	if = {
+		limit = {
+			state = 7984
+		}		
+		set_province_name = {
+			id = 3731
+			name = "Gyöngyös"
+		}
+	}
+	if = {
+		limit = {
+			state = 43
+		}		
+		set_province_name = {
+			id = 6716
+			name = "Szolnok"
+		}
+	}
+	if = {
+		limit = {
+			state = 7989
+		}		
+		set_province_name = {
+			id = 6703
+			name = "Székesfehérvár"
+		}
+	}
+	if = {
+		limit = {
+			state = 7641
+		}		
+		set_province_name = {
+			id = 17472
+			name = "Győr"
 		}
 	}
 	if = {
@@ -18083,78 +18935,6 @@ do_greek_renames = {
 	}
 	if = {
 		limit = {
-			state = 2046
-		}
-		set_province_name = {
-			id = 13271
-			name = "Alexandroúpoli"
-		}
-	}
-	if = {
-		limit = {
-			state = 7234
-		}
-		set_province_name = {
-			id = 9791
-			name = "Dráma"
-		}
-	}
-	if = {
-		limit = {
-			state = 7249
-		}
-		set_province_name = {
-			id = 3864
-			name = "Lárisa"
-		}
-	}
-	if = {
-		limit = {
-			state = 3329
-		}
-		set_province_name = {
-			id = 3980
-			name = "Ioánnina"
-		}
-	}
-	if = {
-		limit = {
-			state = 3330
-		}
-		set_province_name = {
-			id = 9916
-			name = "Árta"
-		}
-	}
-	if = {
-		limit = {
-			state = 1020
-		}
-		set_province_name = {
-			id = 10203
-			name = "Corfu"
-		}
-	}
-	if = {
-		limit = {
-			state = 7274
-		}
-		set_province_name = {
-			id = 7211
-			name = "Patras"
-		}
-	}
-	if = {
-		limit = {
-			state = 4377
-		}
-		set_province_name = {
-			id = 15100
-			name = "Mýkonos"
-		}
-	}
-	if = {
-		limit = {
 			state = 2
 		}
 		set_province_name = {
@@ -18344,6 +19124,87 @@ do_greek_renames = {
 	}
 	if = {
 		limit = {
+			state = 341
+		}		
+		set_province_name = {
+			id = 9833
+			name = "Kōnstantinoúpolis"
+		}
+	}
+	if = {
+		limit = {
+			state = 2046
+		}
+		set_province_name = {
+			id = 13271
+			name = "Alexandroúpoli"
+		}
+	}
+	if = {
+		limit = {
+			state = 7234
+		}
+		set_province_name = {
+			id = 9791
+			name = "Dráma"
+		}
+	}
+	if = {
+		limit = {
+			state = 7249
+		}
+		set_province_name = {
+			id = 3864
+			name = "Lárisa"
+		}
+	}
+	if = {
+		limit = {
+			state = 3329
+		}
+		set_province_name = {
+			id = 3980
+			name = "Ioánnina"
+		}
+	}
+	if = {
+		limit = {
+			state = 3330
+		}
+		set_province_name = {
+			id = 9916
+			name = "Árta"
+		}
+	}
+	if = {
+		limit = {
+			state = 1020
+		}
+		set_province_name = {
+			id = 10203
+			name = "Corfu"
+		}
+	}
+	if = {
+		limit = {
+			state = 7274
+		}
+		set_province_name = {
+			id = 7211
+			name = "Patras"
+		}
+	}
+	if = {
+		limit = {
+			state = 4377
+		}
+		set_province_name = {
+			id = 15100
+			name = "Mýkonos"
+		}
+	}
+	if = {
+		limit = {
 			state = 4390
 		}		
 		set_province_name = {
@@ -18358,15 +19219,6 @@ do_greek_renames = {
 		set_province_name = {
 			id = 13724
 			name = "Athina"
-		}
-	}
-	if = {
-		limit = {
-			state = 341
-		}		
-		set_province_name = {
-			id = 9833
-			name = "Kōnstantinoúpolis"
 		}
 	}
 	if = {

@@ -151,12 +151,13 @@ guiTypes = {
 			
 			instantTextboxType = {
 				name = "ideology"
-				position = { x = 15 y = 36 }
-				font = "hoi_18mbs"
+				position = { x = 15 y = 34 }
+				font = "hoi_24header"
 				text = "ideology"
+			        fixedsize = yes
 				format = center	
 				maxWidth = 198
-				maxHeight = 18
+				maxHeight = 24
 			}
 			
 			instantTextboxType = {
@@ -363,7 +364,7 @@ guiTypes = {
 				position = { x = 128 y = 34 }
 				font = "hoi_18mbs"
 				text = "POLITICS_ACTIVE_GOAL"
-				maxWidth = 200
+				maxWidth = 120
 				maxHeight = 20
 				format = center
 				alwaystransparent = yes
@@ -1004,7 +1005,7 @@ guiTypes = {
 			font = "hoi_16mbs"
 			text = "party name"
 			fixedsize = yes
-			maxWidth = 200
+			maxWidth = 175
 			maxHeight = 18
 		}
 	}
