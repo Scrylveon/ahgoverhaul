@@ -83,14 +83,6 @@ on_actions = {
 						do_estonian_renames = yes
 					}
 
-					### YUG ###
-					if = {
-						limit = {
-							ROOT = {OR = { tag = YUG tag = SER tag = CRO tag = SLV tag = BOS tag = KOS tag = MNT tag = MAC }}
-						}
-						do_yugoslavian_renames = yes
-					}
-
 					### FRA ###
 					if = {
 						limit = {
@@ -98,6 +90,14 @@ on_actions = {
 								  		  is_subject_of = FRA}}
 						}
 						do_french_renames = yes
+					}
+
+					### YUG ###
+					if = {
+						limit = {
+							ROOT = {OR = { tag = YUG tag = SER tag = CRO tag = SLV tag = BOS tag = KOS tag = MNT tag = MAC }}
+						}
+						do_yugoslavian_renames = yes
 					}
 
 					### LUX ###
