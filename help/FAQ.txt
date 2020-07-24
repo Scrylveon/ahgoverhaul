@@ -1,5 +1,5 @@
 Q: What version of the game is this for?
-A: HGO works for 1.9(.2) now.
+A: HGO currently works for 1.9(.3).
 
 Q: How do I play this?
 A: You don't. HGO is designed as a mapping tool, and is not unpausable.
@@ -11,18 +11,27 @@ A: The anarchy releasables lack a flag deliberately due to not being countries. 
 
 Q: What do all the ideologies mean?
 A: See this list:
-	Anarchism - No real government.
+	Total Anarchism - No real government.
+	Left Anarchism - "Anarchism" that is left wing, like Anarcho-Syndicalism.
+	Right Anarchism - "Anarchism" that is right wing, like Anarcho-Capitalism
 	Vanguardism - Authoritarian communism, such as Stalinism and Maoism.
 	Collectivism - Less authoritarian communism.
-	Socialism - Non-communist socialism, such as democratic socialism and Titoism.
+	Socialist Republicanism - Non-communist socialism, such as democratic socialism or Titoism.
+	Socialist Monarchism - Socialism that retains a monarchy.
 	Liberal Republicanism - A Democratic Republic with an elected head of state. This country is led by a liberal government.
 	Conservative Republicanism - A Democratic Republic with an elected head of state. This country is led by a conservative government.
 	Liberal Monarchism - A Democratic country with a constitutional monarch in a largely ceremonial role as head of state. This country is led by a conservative government.
 	Conservative Monarchism - A Democratic country with a constitutional monarch in a largely ceremonial role as head of state. This country is led by 
+	Centrist Republicanism - A democratic republic with an elected head of state, led by a centrist government.	
+	Centrist Monarchism - A constitutional monarchy with a centrist government.
 	Authoritarian Democracy - Countries that claim to be democratic, but aren't really. Examples include inter-war Poland or Salazarian Portugal.
 	Stratocracy - Military dictatorships.
-	Authoritarian Monarchist - Countries where the monarch has more power than a constitutional monarch, but is not an absolute monarch, like the German Empire. Also includes countries run by an authoritarian regime with a figurehead monarch.
+	Stratocratic Monarchy - Military dictatorships with a figurehead monarchy, like Greece.
+	Authoritarian Monarchist - Countries where the monarch has more power than a constitutional monarch, but is not an absolute monarch, like the German Empire. Also includes colonies of monarchies like the British african colonies.
 	Fascist - Fascism where the monarch remains, like fascist Italy.
 	Republican Fascism - Fascism where there is no monarch, like the Italian Social Republic or Francoist Spain in the 1940s.
-	National Socialist - Self-explanatory.
+	National Socialist - Run by the NSDAP, or a party with very similar ideals.
 	Theocracy - Countries ruled by a religious leader.
+
+Q: Where can I find more information?
+A: https://docs.google.com/document/d/19TmUZtvzSo-7uW5PhKFhZU4G43xmo2RHMR6kduog-dI/edit
