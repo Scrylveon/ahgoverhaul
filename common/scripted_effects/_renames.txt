@@ -13085,6 +13085,7 @@ do_estonian_renames = {
 	}
 }
 do_yugoslavian_renames = {
+    if = {
 		limit = {
 			state = 2265
 		}		
