@@ -14,6 +14,10 @@ state={
 		add_core_of = EGL
 		add_core_of = SSX
 		add_core_of = WSX
+		victory_points = {
+			11446 5
+		}
+
 
 	}
 	manpower=1030

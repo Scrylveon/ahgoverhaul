@@ -14,6 +14,9 @@ state={
 		add_core_of = EGL
 		add_core_of = YOR
 		add_claim_by = NUD
+		victory_points = {
+			9332 5 
+		}
 
 	}
 	manpower=1030
