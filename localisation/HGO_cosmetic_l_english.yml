@@ -2730,6 +2730,10 @@
  ALN_FIN_monarchism:0 "Duchy of Åland"
  ALN_FIN_monarchism_DEF:0 "The Duchy of Åland"
  ALN_FIN_monarchism_ADJ:0 "Ålandic"
+ 
+ MRN_ESP:0 "Esperantujo"
+ MRN_ESP_DEF:0 "the Esperantujo"
+ MRN_ESP_ADJ:0 "Esperantuja"
 
  #miscellaneous
  NWS_TER_democratic:0 "Northwest Territory"

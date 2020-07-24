@@ -344,6 +344,14 @@ on_actions = {
 							ROOT = {tag = ETH}
 						}
 						do_ethiopian_renames = yes
+					}				
+
+					### ESP ###
+					if = {
+						limit = {
+							ROOT = {has_cosmetic_tag = MRN_ESP}
+						}
+						do_esperanto_renames = yes
 					}					
 			}
 		}

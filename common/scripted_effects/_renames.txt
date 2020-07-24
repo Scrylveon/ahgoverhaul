@@ -23201,3 +23201,166 @@ do_portuguese_renames = {
 		}
 	}	
 }
+
+do_esperanto_renames = {
+	if = {
+		limit = {
+			state = 112
+		}		
+		set_province_name = {
+			id = 11805
+			name = "Urbo-Odiseo"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 10662
+		}		
+		set_province_name = {
+			id = 3798
+			name = "Koniholmo"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 10664
+		}		
+		set_province_name = {
+			id = 6986
+			name = "Taksusino"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 10663
+		}		
+		set_province_name = {
+			id = 6880
+			name = "Haruno"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 10633
+		}		
+		set_province_name = {
+			id = 9817
+			name = "Haveno de Durio"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 1197
+		}		
+		set_province_name = {
+			id = 13348
+			name = "Olivenzo"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 171
+		}		
+		set_province_name = {
+			id = 758
+			name = "La Krono"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 174
+		}		
+		set_province_name = {
+			id = 11707
+			name = "Ovetumo"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 10632
+		}		
+		set_province_name = {
+			id = 6866
+			name = "Kaceriso"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 2882
+		}		
+		set_province_name = {
+			id = 7183
+			name = "Valo de la Vadilkabiro"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 169
+		}		
+		set_province_name = {
+			id = 1048
+			name = "Gadejrizo"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 7735
+		}		
+		set_province_name = {
+			id = 10094
+			name = "Arundo"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 173
+		}		
+		set_province_name = {
+			id = 9979
+			name = "Malako"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 118
+		}		
+		set_province_name = {
+			id = 4135
+			name = "Monto de Tariko"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 10629
+		}		
+		set_province_name = {
+			id = 3874
+			name = "Helmantiko"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 2926
+		}		
+		set_province_name = {
+			id = 11825
+			name = "Valedolito"
+		}
+	}
+
+}
