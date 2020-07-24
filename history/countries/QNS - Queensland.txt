@@ -13,18 +13,50 @@ set_technology = {
 set_convoys = 10
 
 set_popularities = {
-	        democratic = 10
-        communism = 5
-        fascism = 25
-        neutrality = 60
+	democratic = 8
+        communism = 2
+	democratic_monarchism = 50
+	conservative_monarchism = 40
 
 }
 
 set_politics = {
 	
-	ruling_party = neutrality
+	ruling_party = democratic_monarchism
 	last_election = "1936.1.1"
 	election_frequency = 48
-	elections_allowed = no
+	elections_allowed = yes
 }
 
+create_country_leader = {
+	name = "William Forgan Smith"
+	desc = ""
+	picture = "Portrait_William_Forgan_Smith.dds"
+	expire = "1965.1.1"
+	ideology = liberal_constitutionalism
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Sir Leslie Wilson"
+	desc = ""
+	picture = "Portrait_Sir_Leslie_Wilson.dds"
+	expire = "1965.1.1"
+	ideology = authmon
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Prince Henry of Windsor"
+	desc = ""
+	picture = "Portrait_Prince_Henry.dds"
+	expire = "1965.1.1"
+	ideology = absolutism
+	traits = {
+		#
+	}
+}

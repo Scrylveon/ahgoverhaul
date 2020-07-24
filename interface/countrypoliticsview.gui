@@ -151,12 +151,13 @@ guiTypes = {
 			
 			instantTextboxType = {
 				name = "ideology"
-				position = { x = 4 y = 27 }
-				font = "hoi_18mbs"
+				position = { x = 15 y = 34 }
+				font = "hoi_24header"
 				text = "ideology"
+			        fixedsize = yes
 				format = center	
-				maxWidth = 155
-				maxHeight = 200
+				maxWidth = 198
+				maxHeight = 24
 			}
 			
 			instantTextboxType = {
@@ -170,17 +171,17 @@ guiTypes = {
 			
 			instantTextboxType = {
 				name = "faction_name"
-				position = { x = 179 y = 32 }
+				position = { x = 90 y = -230 }
 				font = "hoi_24header"
 				text = "faction"
-				maxWidth = 193
-				maxHeight = 20
+				maxWidth = 150
+				maxHeight = 48
 				format = centre				
 			}
 			
 			buttonType = {
 				name = "dismantle_faction"
-				position = { x = 385 y = 31 }
+				position = { x = 105 y = -35 }
 				quadTextureSprite = "GFX_dismantle_faction_button"
 				#buttonFont = "hoi_16mbs"
 				#buttonText = "DIPLOMACY_DISMANTLE_FACTION_TITLE"
@@ -363,7 +364,7 @@ guiTypes = {
 				position = { x = 128 y = 34 }
 				font = "hoi_18mbs"
 				text = "POLITICS_ACTIVE_GOAL"
-				maxWidth = 200
+				maxWidth = 120
 				maxHeight = 20
 				format = center
 				alwaystransparent = yes
@@ -1004,7 +1005,7 @@ guiTypes = {
 			font = "hoi_16mbs"
 			text = "party name"
 			fixedsize = yes
-			maxWidth = 200
+			maxWidth = 175
 			maxHeight = 18
 		}
 	}

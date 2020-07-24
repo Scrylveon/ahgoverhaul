@@ -7,7 +7,7 @@ state={
 	history={
 		owner = SUD
 		add_core_of = SUD
-		add_core_of = WTR
+		add_core_of = LDF
 	}
 	
 	manpower=1030

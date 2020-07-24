@@ -2,20 +2,20 @@ guiTypes = {
 
 	containerWindowType = {
 		name = "countryoccupationview"
-		position = { x = -606 y = 78}	
-		show_position = { x = -6 y = 78 }
+		position = { x = -206 y = 135}	
+		show_position = { x = -6 y = 135 }
 		show_animation_type = decelerated
 		hide_animation_type = accelerated
 		animation_time = 300	
-		size = { width = 550 height = 120%% }
+		size = { width = 550 height = 118%% }
 		verticalScrollbar = "right_vertical_slider"
 		
 		show_sound = menu_open_window
 		
 		containerWindowType = {
 			name = "bg_cointainer"
-			position = { x = 10000 y = 0 }
-			size = { width = 100% height = 100% }
+			position = { x = -10 y = -15 }
+			size = { width = 100% height = 85% }
 			background = {
 				name = "Background"
 				spriteType = "GFX_tiled_bg"
@@ -25,13 +25,13 @@ guiTypes = {
 		iconType = {
 			name = "header_bg"
 			spriteType = "GFX_header_bg"
-			position = { x = 3000 y = 5 }
+			position = { x = 0 y = -50 }
 			Orientation = "UPPER_LEFT"
 		}
 		
 		instantTextboxType = {
 			name = "title"
-			position = { x = 4500 y = 5 }
+			position = { x = 10 y = -50 }
 			textureFile = ""
 			font = "hoi_36header"
 			borderSize = {x = 0 y = 0}
@@ -61,7 +61,7 @@ guiTypes = {
 		
 		buttonType = {
 			name = "close_button"
-			position = { x = -30 y = 0 }
+			position = { x = -48 y = -48 }
 			quadTextureSprite = "GFX_closebutton"
 			buttonFont = "Main_14_black"
 			shortcut = "ESCAPE"
@@ -72,13 +72,13 @@ guiTypes = {
 		
 		containerWindowType = {
 			name = "header"
-			position = { x = 3 y = 40 }	
+			position = { x = -1200 y = -85 }	
 			size = { width = 545 height = 90 }
-			margin = { top = 14 bottom = 14 }
+			margin = { top = 0 bottom = 14 }
 		
 			background = {
 				name = "Background"
-				position = { x = 14000 y = -1 }
+				position = { x = 14 y = -1 }
 				spriteType = "GFX_tiled_bg"
 			}
 
@@ -97,7 +97,6 @@ guiTypes = {
 				maxWidth = 300
 				maxHeight = 24
 			}
-			
 			containerWindowType = {
 				name = "foreign_support"
 				size = { width = 120 height = 30 }
@@ -335,7 +334,7 @@ guiTypes = {
 	containerWindowType = {
 		name = "occupied_territory_country_entry"
 		position = { x = 0 y = 0}	
-		size = { width = 519 height = 120 }
+		size = { width = 519 height = 50 }
 		margin = { bottom = 4 }
 
 		containerWindowType = {
@@ -365,30 +364,31 @@ guiTypes = {
 
 		iconType = {
 			name = "top_bg"		
-			spriteType = "GFX_occupation_country_entry_bg_top"
+			spriteType = "GFX_occupation_country_entry_bg_top_locked"
 			tooltip = "OCCUPATION_ZOOM_TO_STATE_TOOLTIP"
-			position = { x = -5000 y = 0 }
+			position = { x = -5 y = 0 }
 		}
 		
 		iconType = {
 			name = "top_bg_locked"
 			spriteType = "GFX_occupation_country_entry_bg_top_locked"
-			position = { x = -5000 y = 0 }
+			position = { x = -5 y = 0 }
 		}
 		
 		buttonType = {
 			name = "expand"
-			position = { x = -515 y = 38 }
-			quadTextureSprite = "GFX_strategicair_expand"
-			font = "hoi_16mbs"
-			frame = 1
+			position = { x = -80 y = 7 }
+			quadTextureSprite = "GFX_double_empty_button"
+                        buttonText = "EXP"
+			font = "hoi_36header"
+			frame = 2
 			clicksound = click_default
 			Orientation = "UPPER_RIGHT"
 		}
 		
 		containerWindowType = {
 			name = "flag_container"
-			position = { x = 5 y = 3}	
+			position = { x = 5 y = -1}	
 			size = { width = 45 height = 31 }
 			
 			buttonType = {
@@ -477,7 +477,7 @@ guiTypes = {
 		
 		buttonType = {
 			name = "release_button"
-			position = { x = 3 y = 80 }
+			position = { x = 280 y = 7 }
 			quadTextureSprite = "GFX_occupation_release_button"
 	 		buttonFont = "hoi_18mbs"
 			Orientation = "UPPER_LEFT"
@@ -487,7 +487,7 @@ guiTypes = {
 		positionType = {
 			# to align them right
 			name = "return_territory_button_pos_for_non_resistance"
-			position = { x = 3 y = 80 }
+			position = { x = 280 y = 7 }
 		}
 		buttonType = {
 			name = "return_territory_button"
@@ -693,7 +693,7 @@ guiTypes = {
 	
 	containerWindowType = {
 		name = "occupied_territory_state_entry_no_resistance"
-		position = { x = -4 y = 0}	
+		position = { x = -4 y = -65}	
 		size = { width = 519 height = 30 }
 		
 		background = {
@@ -962,8 +962,8 @@ guiTypes = {
 
 			gridboxtype = {
 				name = "setting_list"
-				position = { x = 20 y = 0 }
-				size = { width = 500 height = 290 }
+				position = { x = 2 y = 0 }
+				size = { width = 500 height = 280 }
 				slotsize = { width = 552 height = 38 }
 				max_slots_horizontal = 1
 			}
@@ -971,7 +971,7 @@ guiTypes = {
 		
 		buttonType = {
 			name = "clear_override"
-			position = { x = -170 y = -50 }
+			position = { x = -515 y = 38 }
 			quadTextureSprite = "GFX_occupation_release_button"
 			buttonFont = "hoi_18mbs"
 			Orientation = "LOWER_RIGHT"

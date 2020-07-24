@@ -11,6 +11,7 @@ state={
 		}
 		add_core_of = DEN
 		add_core_of = PRE
+		add_core_of = SHL
 		victory_points = {
 			20128 1 
 		}
