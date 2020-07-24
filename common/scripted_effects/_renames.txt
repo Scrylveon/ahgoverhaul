@@ -3956,6 +3956,141 @@ do_german_renames = {
 
 	if = {
 		limit = {
+			state = 935
+		}		
+		set_province_name = {
+			id = 3311
+			name = "Insel-ab-Mann"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4939
+		}		
+		set_province_name = {
+			id = 11253
+			name = "Nordweich"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1835
+		}		
+		set_province_name = {
+			id = 377
+			name = "Hagendau"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2188
+		}		
+		set_province_name = {
+			id = 13471
+			name = "Lohnten"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 986
+		}		
+		set_province_name = {
+			id = 540
+			name = "Pflaummund"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 338
+		}		
+		set_province_name = {
+			id = 3369
+			name = "Brückenstau"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1838
+		}		
+		set_province_name = {
+			id = 6363
+			name = "Die Kirche der Heiligen Maria des Pools vierzehn der weißen Haselnüsse in der Nähe des schnellen Whirlpools und die Kirche des Heiligen Tysilio der roten Höhle"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 132
+		}		
+		set_province_name = {
+			id = 6318
+			name = "Mankaster"
+		}	
+		set_province_name = {
+			id = 6384
+			name = "Leberpful"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 130
+		}		
+		set_province_name = {
+			id = 11297
+			name = "Königszaul-von-Hohl"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3170
+		}		
+		set_province_name = {
+			id = 9297
+			name = "Bermingheim"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4951
+		}		
+		set_province_name = {
+			id = 9379
+			name = "Leuten"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 131
+		}		
+		set_province_name = {
+			id = 351
+			name = "Neuenkastell am Tyne"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 121
+		}		
+		set_province_name = {
+			id = 9392
+			name = "Edinburg"
+		}
+	}
+
+
+	if = {
+		limit = {
 			state = 736
 		}		
 		set_province_name = {
@@ -8011,6 +8146,16 @@ do_persian_renames = {
 }
 
 do_english_renames = {
+
+	if = {
+		limit = {
+			state = 935
+		}		
+		set_province_name = {
+			id = 3311
+			name = "Isle of Mann"
+		}
+	}
 
 	if = {
 		limit = {
