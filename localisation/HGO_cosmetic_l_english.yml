@@ -5689,3 +5689,7 @@
  CBI_FRA:0 "Colony of Acadia"
  CBI_FRA_DEF:0 "the Colony of Acadia"
  CBI_FRA_ADJ:0 "Acadien"
+
+ VEN_GER:0 "Klein-Venedig"
+ VEN_GER_DEF:0 "Klein-Venedig"
+ VEN_GER_ADJ:0 "German"
