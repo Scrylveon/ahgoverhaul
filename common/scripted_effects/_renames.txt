@@ -3952,7 +3952,304 @@ do_lower_german_renames = {
 		}
     }
 }
+do_celtic_renames = {
+
+	if = {
+		limit = {
+			state = 131
+		}		
+		set_province_name = {
+			id = 351
+			name = "An Caisteal Nuadh"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 132
+		}		
+		set_province_name = {
+			id = 6318
+			name = "Manceinion"
+		}	
+		set_province_name = {
+			id = 6384
+			name = "Lerpwl"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 338
+		}		
+		set_province_name = {
+			id = 3369
+			name = "Brystow"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5632
+		}		
+		set_province_name = {
+			id = 3552
+			name = "Brest"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 14
+		}		
+		set_province_name = {
+			id = 6536
+			name = "An Oriant"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1486
+		}		
+		set_province_name = {
+			id = 11465
+			name = "Naoned"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5054
+		}		
+		set_province_name = {
+			id = 9495
+			name = "Roazhon"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 986
+		}		
+		set_province_name = {
+			id = 540
+			name = "Aberplymm"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4934
+		}		
+		set_province_name = {
+			id = 11361
+			name = "Aberdaugleddau"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 935
+		}		
+		set_province_name = {
+			id = 3311
+			name = "Mannin"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1835
+		}		
+		set_province_name = {
+			id = 377
+			name = "Caerdydd"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1838
+		}		
+		set_province_name = {
+			id = 6363
+			name = "Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 848
+		}		
+		set_province_name = {
+			id = 13224
+			name = "Skalpaflói"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5630
+		}		
+		set_province_name = {
+			id = 15978
+			name = "Steòrnabhagh"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4957
+		}		
+		set_province_name = {
+			id = 3159
+			name = "Inbhir Nis"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5629
+		}		
+		set_province_name = {
+			id = 15980
+			name = "Port Rìgh"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 133
+		}		
+		set_province_name = {
+			id = 3273
+			name = "Glaschu"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5163
+		}		
+		set_province_name = {
+			id = 11136
+			name = "Obar Dheathain"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4955
+		}		
+		set_province_name = {
+			id = 3150
+			name = "Dùn Dè"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 121
+		}		
+		set_province_name = {
+			id = 9392
+			name = "Dùn Èideann"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1898
+		}		
+		set_province_name = {
+			id = 7394
+			name = "Corcaigh"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1831
+		}		
+		set_province_name = {
+			id = 11293
+			name = "Baile Átha Cliath"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4961
+		}		
+		set_province_name = {
+			id = 11257
+			name = "Inis Ceithleann"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1839
+		}		
+		set_province_name = {
+			id = 276
+			name = "Londaindoire"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1828
+		}		
+		set_province_name = {
+			id = 3379
+			name = "Béal Feirste"
+		}
+	}
+
+}
 do_german_renames = {
+
+	if = {
+		limit = {
+			state = 35
+		}		
+		set_province_name = {
+			id = 6496
+			name = "Endehofen"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 192
+		}		
+		set_province_name = {
+			id = 11670
+			name = "Odessa"
+		}
+    }
+
+	if = {
+		limit = {
+			state = 790
+		}		
+		set_province_name = {
+			id = 13220
+			name = "Tiraspel"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 198
+		}		
+		set_province_name = {
+			id = 476
+			name = "Winnyzja"
+		}
+	}
 
 	if = {
 		limit = {
@@ -4673,7 +4970,7 @@ do_german_renames = {
 		}		
 		set_province_name = {
 			id = 6363
-			name = "Marienkirche in einer Mulde weißer Haseln in der Nähe des schnellen Wirbels und der Thysiliokirche bei der roten Höhle"
+			name = "MMarienkirche in einer Senke bei den weißen Haseln in der Nähe des schnellen Wirbels und der Thysiliokirche bei der roten Höhle"
 		}
 	}
 
@@ -5176,7 +5473,7 @@ do_german_renames = {
 		}		
 		set_province_name = {
 			id = 6416
-			name = "Kieltz"
+			name = "Radom"
 		}
 	}
 
@@ -6059,7 +6356,7 @@ do_german_renames = {
 			id = 6558
 			name = "Posen"
 		}
-	}
+	}	
 	if = {
 		limit = {
 			state = 3492
@@ -8811,6 +9108,16 @@ do_english_renames = {
 
 	if = {
 		limit = {
+			state = 4936
+		}		
+		set_province_name = {
+			id = 6301
+			name = "Amwythig"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 1898
 		}		
 		set_province_name = {
@@ -8856,76 +9163,6 @@ do_english_renames = {
 		set_province_name = {
 			id = 3379
 			name = "Belfast"
-		}
-	}
-
-	if = {
-		limit = {
-			state = 848
-		}		
-		set_province_name = {
-			id = 13224
-			name = "Scapa Flow"
-		}
-	}
-
-	if = {
-		limit = {
-			state = 5630
-		}		
-		set_province_name = {
-			id = 15978
-			name = "Stornoway"
-		}
-	}
-
-	if = {
-		limit = {
-			state = 4957
-		}		
-		set_province_name = {
-			id = 3159
-			name = "Inverness"
-		}
-	}
-
-	if = {
-		limit = {
-			state = 5629
-		}		
-		set_province_name = {
-			id = 15980
-			name = "Portree"
-		}
-	}
-
-	if = {
-		limit = {
-			state = 133
-		}		
-		set_province_name = {
-			id = 3273
-			name = "Glasgow"
-		}
-	}
-
-	if = {
-		limit = {
-			state = 5163
-		}		
-		set_province_name = {
-			id = 11136
-			name = "Aberdeen"
-		}
-	}
-
-	if = {
-		limit = {
-			state = 4955
-		}		
-		set_province_name = {
-			id = 3150
-			name = "Dundee"
 		}
 	}
 
@@ -9140,6 +9377,76 @@ do_english_renames = {
 		set_province_name = {
 			id = 351
 			name = "Newcastle upon Tyne"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 848
+		}		
+		set_province_name = {
+			id = 13224
+			name = "Scapa Flow"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5630
+		}		
+		set_province_name = {
+			id = 15978
+			name = "Stornoway"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4957
+		}		
+		set_province_name = {
+			id = 3159
+			name = "Inverness"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5629
+		}		
+		set_province_name = {
+			id = 15980
+			name = "Portree"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 133
+		}		
+		set_province_name = {
+			id = 3273
+			name = "Glasgow"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5163
+		}		
+		set_province_name = {
+			id = 11136
+			name = "Aberdeen"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4955
+		}		
+		set_province_name = {
+			id = 3150
+			name = "Dundee"
 		}
 	}
 

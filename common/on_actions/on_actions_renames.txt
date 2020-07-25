@@ -35,13 +35,13 @@ on_actions = {
 						do_lower_german_renames = yes
 					}
 
-					### POL ###
-					if = {
-						limit = {
-							ROOT = {OR = { tag = POL tag = GAL }}
-							}
-						do_polish_renames = yes
-					}
+ 					### POL ###
+ 					if = {
+ 						limit = {
+ 							ROOT = {OR = { tag = POL tag = GAL }}
+ 							}
+ 						do_polish_renames = yes
+ 					}
 
 					### CZE ###
 					if = {
@@ -233,6 +233,7 @@ on_actions = {
 						}
 						do_russian_renames = yes
 					}
+					
 					### SAU ###
 						if = {
 							limit = {
@@ -248,6 +249,22 @@ on_actions = {
 								do_arabic_renames = yes
 							}
 						}
+						
+					### CEL ###
+						if = {
+							limit = {
+								ROOT = {OR = {tag = IRE tag = SCO tag = WLS tag = CRN tag = BRI tag = MNX}}
+							}
+							do_celtic_renames = yes
+							if = {
+								limit = {
+									ROOT = {
+										NOT = { has_cosmetic_tag = CEL_GREEN }
+									}
+								}
+								do_english_renames = yes
+							}
+						}
 
 					### ROM ###
 					if = {
@@ -260,7 +277,7 @@ on_actions = {
 					### ENG ###
 					if = {
 						limit = {
-							ROOT = {tag = ENG}
+							ROOT = {OR = {tag = ENG}}
 						}
 						do_english_renames = yes
 					}
@@ -272,6 +289,7 @@ on_actions = {
 						}
 						do_belarussian_renames = yes
 					}
+					
 					### TUR ###
 						if = {
 							limit = {
@@ -352,7 +370,24 @@ on_actions = {
 							ROOT = {has_cosmetic_tag = MRN_ESP}
 						}
 						do_esperanto_renames = yes
-					}					
+					}	
+
+					### RKS ###
+					if = {
+						limit = {
+							ROOT = {OR = {has_cosmetic_tag = POL_GER
+						                  has_cosmetic_tag = CZE_GER
+						                  has_cosmetic_tag = SLO_GER
+							              has_cosmetic_tag = UKR_GER
+							              has_cosmetic_tag = BLR_GER
+							              has_cosmetic_tag = GEO_GER
+							              has_cosmetic_tag = RUS_GER
+							              has_cosmetic_tag = HOL_GER
+							              has_cosmetic_tag = BEL_GER
+							              has_cosmetic_tag = BGN_GER}}
+						}
+						do_german_renames = yes
+					}				
 			}
 		}
 	}
