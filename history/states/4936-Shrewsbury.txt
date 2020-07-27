@@ -13,6 +13,9 @@ state={
 		add_core_of = ENG
 		add_core_of = EGL
 		add_claim_by = WLS
+		victory_points = {
+			6301 5
+		}
 
 	}
 	manpower=1030

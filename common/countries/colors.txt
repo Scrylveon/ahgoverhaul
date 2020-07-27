@@ -5125,3 +5125,7 @@ LKB = {
        color = rgb { 206 200 117 }
        color_ui = rgb { 206 200 117 }
 }
+LSB = {
+       color = rgb { 237 114 210 }
+       color_ui = rgb { 237 114 210 }
+}
