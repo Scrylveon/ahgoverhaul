@@ -24642,8 +24642,567 @@ do_esperanto_renames = {
 		}		
 		set_province_name = {
 			id = 11825
-			name = "Valedolito"
+			name = "Valo de Riveroj"
+		}
+	}
+	
++	if = {
+		limit = {
+			state = 2914
+		}		
+		set_province_name = {
+			id = 875
+			name = "Urbo de Jubo"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 10627
+		}		
+		set_province_name = {
+			id = 1176
+			name = "Garnato"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 41
+		}		
+		set_province_name = {
+			id = 3938
+			name = "Rivereto de Manzanaro"
 		}
 	}
 
+	if = {
+		limit = {
+			state = 10630
+		}		
+		set_province_name = {
+			id = 3794
+			name = "Urb-Venko"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 176
+		}		
+		set_province_name = {
+			id = 885
+			name = "Bauxragaso"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 1774
+		}		
+		set_province_name = {
+			id = 740
+			name = "Belavadejo"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 166
+		}		
+		set_province_name = {
+			id = 3816
+			name = "Urbo Cezaro-Auxgusto"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 168
+		}		
+		set_province_name = {
+			id = 10024
+			name = "Mirto"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 2890
+		}		
+		set_province_name = {
+			id = 4098
+			name = "Pinto Blanka"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 167
+		}		
+		set_province_name = {
+			id = 6906
+			name = "Valentio"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 165
+		}		
+		set_province_name = {
+			id = 9764
+			name = "Urbo de Barko"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 698
+		}		
+		set_province_name = {
+			id = 1751
+			name = "Kabo Gracila"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 697
+		}		
+		set_province_name = {
+			id = 3118
+			name = "Kamp-Fenkolo"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 763
+		}		
+		set_province_name = {
+			id = 13213
+			name = "Urbo Andoro"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 906
+		}		
+		set_province_name = {
+			id = 9853
+			name = "Perpeno"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 31
+		}		
+		set_province_name = {
+			id = 6766
+			name = "Toloso"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 1762
+		}		
+		set_province_name = {
+			id = 9737
+			name = "Burdigalo"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 22
+		}		
+		set_province_name = {
+			id = 9898
+			name = "Mont-Pistilo"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 5045
+		}		
+		set_province_name = {
+			id = 3594
+			name = "Kamp-Vipio"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 1910
+		}		
+		set_province_name = {
+			id = 3671
+			name = "Turoneso"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 25
+		}		
+		set_province_name = {
+			id = 620
+			name = "Lemoviko"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 1755
+		}		
+		set_province_name = {
+			id = 6657
+			name = "Urbo Roketo"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 1
+		}		
+		set_province_name = {
+			id = 3838
+			name = "Adiakio"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 838
+		}		
+		set_province_name = {
+			id = 9909
+			name = "Nikajo"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 5149
+		}		
+		set_province_name = {
+			id = 911
+			name = "Holmo de Marso"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 21
+		}		
+		set_province_name = {
+			id = 11834
+			name = "Masalio"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 5148
+		}		
+		set_province_name = {
+			id = 3768
+			name = "Urbo Gratiano"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 20
+		}		
+		set_province_name = {
+			id = 6613
+			name = "Lugudunumo"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1890
+		}		
+		set_province_name = {
+			id = 778
+			name = "Urbo Anekio"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1486
+		}		
+		set_province_name = {
+			id = 11465
+			name = "Haveno Namneto"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 5054
+		}		
+		set_province_name = {
+			id = 9495
+			name = "Rhejdoneso"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 14
+		}		
+		set_province_name = {
+			id = 6536
+			name = "L'Oriento"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 5362
+		}		
+		set_province_name = {
+			id = 3552
+			name = "Bresto"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 5363
+		}		
+		set_province_name = {
+			id = 6449
+			name = "Korjovalo"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 24
+		}		
+		set_province_name = {
+			id = 512
+			name = "Urbo Auxreliano"
+		}
+	}	
+	
+	if = {
+		limit = {
+			state = 5049
+		}		
+		set_province_name = {
+			id = 9490
+			name = "Trikaso"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 1757
+		}		
+		set_province_name = {
+			id = 3652
+			name = "Urbo Dia"
+		}
+	}	
+	
+	if = {
+		limit = {
+			state = 849
+		}		
+		set_province_name = {
+			id = 9945
+			name = "Abilo"
+		}
+	}	
+	
+	if = {
+		limit = {
+			state = 850
+		}		
+		set_province_name = {
+			id = 12100
+			name = "Rusadiro"
+		}
+	}	
+	
+	if = {
+		limit = {
+			state = 1458
+		}		
+		set_province_name = {
+			id = 7132
+			name = "Monto de Leono"
+		}
+	}	
+	
+	if = {
+		limit = {
+			state = 459
+		}		
+		set_province_name = {
+			id = 1145
+			name = "Urbo de Banu-Mazgano"
+		}
+	}	
+	
+	if = {
+		limit = {
+			state = 2805
+		}		
+		set_province_name = {
+			id = 14215
+			name = "La Palmoj de Insulo de la Granda Kanarioj"
+		}
+	}	
+	
+	if = {
+		limit = {
+			state = 461
+		}		
+		set_province_name = {
+			id = 10070
+			name = "Fuorto Ribato"
+		}
+	}	
+	
+	if = {
+		limit = {
+			state = 2141
+		}		
+		set_province_name = {
+			id = 7069
+			name = "Anafo"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 16
+		}		
+		set_province_name = {
+			id = 11506
+			name = "Parisjo"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 5365
+		}		
+		set_province_name = {
+			id = 9434
+			name = "La Haveno de Graco"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 8422
+		}		
+		set_province_name = {
+			id = 11563
+			name = "Kampo Veliokasa"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 1746
+		}		
+		set_province_name = {
+			id = 11548
+			name = "Kaletjo"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 1744
+		}		
+		set_province_name = {
+			id = 575
+			name = "Dunkirko"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 1747
+		}		
+		set_province_name = {
+			id = 11483
+			name = "Insulo Lislo"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 5392
+		}		
+		set_province_name = {
+			id = 13011
+			name = "Remjo"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 836	
+		}		
+		set_province_name = {
+			id = 6545
+			name = "Verodunumo"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 5577	
+		}		
+		set_province_name = {
+			id = 9642
+			name = "Vestonjo"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 831	
+		}		
+		set_province_name = {
+			id = 11516
+			name = "Nanziako"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 5129	
+		}		
+		set_province_name = {
+			id = 678
+			name = "Muelejo"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 5359	
+		}		
+		set_province_name = {
+			id = 9503
+			name = "Urbo de la Strato Pavima"
+		}
+	}
 }
