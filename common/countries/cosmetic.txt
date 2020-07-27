@@ -2714,3 +2714,8 @@ PAK_SCC = {
 color = rgb { 69 151 49 }
 color_ui = rgb { 69 151 49 }
 }
+
+MRN_ESP = {
+color = rgb { 58 183 57}
+color_ui = rgb { 58 183 57 }
+}
