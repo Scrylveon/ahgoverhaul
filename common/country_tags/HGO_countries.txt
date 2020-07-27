@@ -383,6 +383,7 @@ NSU = "countries/Nassau.txt"
 IST = "countries/Istria.txt"
 HHO = "countries/Hesse-Homburg.txt"
 PWP = "countries/Posen-West Prussia.txt"
+LSB = "countries/Lesbos.txt"
 
 RHD = "countries/Rhodania.txt"
 RYU = "countries/Ryukyu.txt"
