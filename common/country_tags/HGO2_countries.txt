@@ -272,10 +272,8 @@ SGN = "countries/South Agean.txt"
 THS = "countries/Thessaly.txt"
 WGC = "countries/Western Greece.txt"
 WMC = "countries/Western Macedonia.txt"
-<<<<<<< HEAD
 TEK = "countries/Teke.txt"
 PET = "countries/Petoria.txt"
-=======
 KNS = "countries/Khangsar.txt"
 DEE = "countries/Dergean.txt"
 LNT = "countries/Lingtsang.txt"
