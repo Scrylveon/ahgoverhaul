@@ -10,7 +10,6 @@ state={
         add_core_of = SAZ
         add_core_of = MHB
         add_core_of = ASY
-        add_core_of = KUR
 	}
 	manpower=1000
 	state_category=pastoral

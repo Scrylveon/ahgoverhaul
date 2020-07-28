@@ -9,7 +9,6 @@ state={
         add_core_of = ASY
         add_core_of = WTC
 		owner = IRQ
-        add_core_of = KUR
 	}
 	state_category=town
 	manpower=1000
