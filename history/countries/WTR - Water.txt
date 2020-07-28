@@ -41,7 +41,7 @@ create_country_leader = {
 	}
 }
 create_country_leader = {
-	name = "Harolt Holt"
+	name = "Harold Holt"
 	desc = ""
 	picture = "Portrait_Harold_Holt.dds"
 	expire = "1965.1.1"
