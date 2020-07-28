@@ -1,7 +1,6 @@
-
 state={
-	id=758
-	name="STATE_758"
+	id=10788
+	name="STATE_10788"
 	manpower=1000
 	
 	state_category=pastoral
@@ -11,6 +10,6 @@ state={
 		add_core_of = TIB
 	}
 	provinces={
-		1961
+		20158 
 	}
 }
