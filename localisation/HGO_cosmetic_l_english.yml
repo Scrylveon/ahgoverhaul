@@ -4053,6 +4053,10 @@
  MNT_GER_autonomy_reichsprotectorate_DEF:0 "Das Reichsprotektorat Montenegro"
 
  #soviet socialist republics
+ SOVIET:0 "Union of Soviet Socialist Republics"
+ SOVIET_DEF:0 "the Union of Soviet Socialist Republics"
+ SOVIET_ADJ:0 "Soviet"
+ 
  RUS_SOV_communism:0 "Russian Soviet Federative Socialist Republic"
  RUS_SOV_communism_DEF:0 "the Russian Soviet Federative Socialist Republic"
  RUS_SOV_vanguardism:0 "Russian Soviet Federative Socialist Republic"

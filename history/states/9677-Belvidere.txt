@@ -12,6 +12,8 @@ state={
 		owner = USA
 		add_core_of = USA
 		add_core_of = ILL
+		add_core_of = CHC
+		add_core_of = GMA
 		buildings = {
 			infrastructure = 1
 		}
