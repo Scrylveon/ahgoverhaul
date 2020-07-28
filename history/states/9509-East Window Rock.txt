@@ -13,6 +13,7 @@ state={
 		add_core_of = USA
 		add_core_of = ARZ
 		add_core_of = CSA
+		add_core_of = NVJ
 		buildings = {
 			infrastructure = 1
 		}
