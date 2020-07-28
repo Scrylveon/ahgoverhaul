@@ -8,6 +8,8 @@ state={
 		owner = RUS
 		add_core_of = RUS
 		add_core_of = SOV
+		add_core_of = SAP
+		add_core_of = MRM
 	}
 	state_category=pastoral
 	manpower=1000
