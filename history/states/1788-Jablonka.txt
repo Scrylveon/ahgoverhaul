@@ -12,6 +12,7 @@ state={
 		add_core_of = SLO
 		add_core_of = CZE
 		add_core_of = KRW
+		add_core_of = LMK
 	}
 	
 	provinces={

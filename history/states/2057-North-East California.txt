@@ -11,7 +11,7 @@ state={
 		}
 		add_core_of = USA
 		add_core_of = CAL
-		
+		add_core_of = JFR
 		victory_points = {
 			6745 1 
 		}

@@ -1752,6 +1752,11 @@ YML_SOV = {
 	color_ui = rgb { 125 13 24 }
 }
 
+SOVIET = {
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 125 13 24 }
+}
+
 SIA_JAP = {
 	color = rgb { 142 59 80 }
 	color_ui = rgb { 125 13 24 }
