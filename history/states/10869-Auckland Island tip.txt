@@ -1,0 +1,15 @@
+state={
+	id=10869
+	name="STATE_10869"
+	provinces={
+		20223 
+	}
+	history={
+		owner = NZL
+		add_core_of = NZL
+
+	}
+	manpower = 1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}
