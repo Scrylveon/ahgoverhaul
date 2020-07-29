@@ -1,0 +1,15 @@
+state={
+	id=10865
+	name="STATE_10865"
+	provinces={
+		20219 20220 20221 20222 20305 20324 
+	}
+	manpower=1000
+	
+	state_category=pastoral
+	
+	history={
+		owner = ALA
+		add_core_of = ALA
+	}
+}
