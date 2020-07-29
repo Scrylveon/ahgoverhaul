@@ -4,7 +4,7 @@ state={
 	name="STATE_651"
 
 	history={
-		owner = SOV
+		owner = BSH
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 1
@@ -19,7 +19,7 @@ state={
 	}
 
 	provinces={
-		273 403 1305 3214 3289 3348 4283 4354 6308 6368 7237 9349 9385 10301 11389 12172 
+		273 1305 3289 4283 4354 7237 9349 12172 
 	}
 	manpower=2552075
 	buildings_max_level_factor=1.000

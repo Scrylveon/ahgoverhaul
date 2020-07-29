@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = SOV
+		owner = RUS
 		buildings = {
 			infrastructure = 4
 			air_base = 4
@@ -16,6 +16,7 @@ state={
 		add_core_of = RUS
 		add_core_of = SBR
 		add_core_of = KHA
+		add_core_of = TRA
 
 	}
 

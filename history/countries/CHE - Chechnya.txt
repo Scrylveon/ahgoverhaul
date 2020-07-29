@@ -1,4 +1,4 @@
-﻿capital = 1859
+﻿capital = 7009
 
 oob = "CHE_1936"
 
@@ -21,8 +21,10 @@ set_convoys = 10
 
 	}
 	
+set_cosmetic_tag = CHE_SOV
+	
 	set_politics = { 
- ruling_party = neutrality
+ ruling_party = vanguardism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no

@@ -11,26 +11,20 @@ state={
 		buildings = {
 			infrastructure = 6
 			
-			687 = {
-				naval_base = 1
-
-			}
-			9635 = {
-				naval_base = 8
-
-			}
 			dockyard = 3
 			industrial_complex = 1
 
 		}
 		add_core_of = ROM
 		add_core_of = WLC
+		add_core_of = THR
 		add_core_of = DOB
+		add_claim_by = BUL
 
 	}
 
 	provinces={
-		687 3076 9635 
+		687 
 	}
 	manpower=811100
 	buildings_max_level_factor=1.000

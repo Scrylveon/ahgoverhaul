@@ -12,11 +12,14 @@ state={
 		add_core_of = YUG
 		add_core_of = SER
 		add_core_of = MAC
+		victory_points = {
+			833 1 
+		}
 
 	}
 
 	provinces={
-		833 867 
+		833 
 	}
 	manpower=100100
 	buildings_max_level_factor=1.000

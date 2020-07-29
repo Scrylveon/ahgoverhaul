@@ -5,13 +5,14 @@ state={
 		
 		owner = SPR 
 		add_core_of = SPR
+		add_core_of = EXD
 		buildings = {
 			infrastructure = 4
 			
 		}
 	}
 	provinces={
-		985 6866 9925 11780 
+		985 9925 11780 
 	}
 	manpower=1000 
  state_category=pastoral

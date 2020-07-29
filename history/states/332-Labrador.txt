@@ -10,12 +10,13 @@ state={
 
 		}
 		add_core_of = NFL
+		add_core_of = LBD
 		add_core_of = CAN
 
 	}
 
 	provinces={
-		4787 13764 
+		13764 
 	}
 	manpower=22179
 	buildings_max_level_factor=1.000

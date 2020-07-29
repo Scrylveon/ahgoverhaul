@@ -1,0 +1,16 @@
+state={
+	id=6200
+	name="STATE_6200"
+	provinces={
+		16526 
+	}
+	manpower=1000
+	history={
+		owner = SVV
+		add_core_of = RAJ
+		add_core_of = SVV
+	}
+ 
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

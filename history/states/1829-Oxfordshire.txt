@@ -15,6 +15,10 @@ state={
 		}
 		add_core_of = ENG
 		add_core_of = EGL
+		add_core_of = MER
+		victory_points = {
+			9239 5 
+		}
 	}
 
 	provinces={

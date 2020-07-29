@@ -5,11 +5,12 @@ state={
 		8054 
 	}
 	history={
-		owner = POR
+		owner = ANG
 		buildings = {
 			infrastructure = 2
 		}
 		add_core_of = ANG
+		add_core_of = BSL
 	}
 
 	manpower=140000

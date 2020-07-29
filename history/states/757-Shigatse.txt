@@ -5,12 +5,6 @@ state={
 
 	history={
 		owner = TIB
-		buildings = {
-			infrastructure = 1
-			industrial_complex = 1
-			arms_factory = 1
-
-		}
 		victory_points = {
 			5033 5 
 		}
@@ -19,9 +13,8 @@ state={
 	}
 
 	provinces={
-		2014 2098 4900 5018 12807 
+		2014
 	}
 	manpower=1000000
-	buildings_max_level_factor=1.000
 	state_category=rural
 }

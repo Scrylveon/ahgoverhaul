@@ -11,11 +11,13 @@ state={
 		}
 		add_core_of = USA
 		add_core_of = ABS
+		add_core_of = GMA
+		add_core_of = WYO
 
 	}
 
 	provinces={
-		1815 4610 4794 4820 7688 7814 10711 12651 13258 
+		1815 4610 4794 4820 7814 10711 12651 
 	}
 	manpower=184362
 	buildings_max_level_factor=1.000

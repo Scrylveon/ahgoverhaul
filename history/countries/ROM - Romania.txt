@@ -33,9 +33,6 @@ if = {
 	add_ideas = {
 		ROM_king_carol_ii_hedonist
 	}
-	give_guarantee = CZE
-	give_guarantee = GRE
-	give_guarantee = TUR
 }
 add_ideas = neutrality_idea
 
@@ -58,7 +55,7 @@ set_convoys = 10
 
 
 	set_popularities = {
-		democratic 
+		authoritarian_monarchism 
 			 = 60
 		fascism
 			 = 18
@@ -68,18 +65,18 @@ set_convoys = 10
 			 = 20
 		}
 	set_politics = { 
- ruling_party = democratic
+ ruling_party = authoritarian_monarchism
 	last_election = "1933.12.20"
 	election_frequency = 48
 	elections_allowed = yes
 }
 
 create_country_leader = {
-	name = "Carol II al II-lea din Hohenzollern-Sigmaringen"
+	name = "Carol II din Hohenzollern-Sigmaringen"
 	desc = ""
 	picture = "Portrait_Carol_II.dds"
 	expire = "1945.1.1"
-	ideology = conservatism
+	ideology = authmon
 	traits = {
 		anti_communist
 	}

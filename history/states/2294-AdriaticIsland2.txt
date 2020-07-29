@@ -9,7 +9,9 @@ state={
 		}
 		add_core_of = YUG
 		add_core_of = CRO
+		add_core_of = DLM
 		add_claim_by = ITA
+		add_core_of = ILY
 
 	}
 

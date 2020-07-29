@@ -24,7 +24,7 @@ set_convoys = 5
 
 
 	set_popularities = {
-		democratic 
+		liberal_republic 
 			 = 98
 		fascism
 			 = 0
@@ -33,7 +33,7 @@ set_convoys = 5
 			
 		}
 	set_politics = { 
- ruling_party = democratic
+ ruling_party = liberal_republic
 	last_election = "1932.10.30"
 	election_frequency = 72  #but 4 years after this one in 1938.
 	elections_allowed = yes
@@ -44,7 +44,7 @@ create_country_leader = {
 	desc = "POLITICS_ARTURO_ALESSANDRI_DESC"
 	picture = "Portrait_arturo_alessandri.dds"
 	expire = "1965.1.1"
-	ideology = liberalism
+	ideology = socdem
 	traits = {
 		#
 	}

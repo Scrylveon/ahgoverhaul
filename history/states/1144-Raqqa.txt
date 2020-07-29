@@ -11,12 +11,15 @@ state={
 			infrastructure = 0
 		}
 		add_core_of = SYR
+        add_core_of = ETC
 		add_core_of = KUR
+        add_core_of = ASY
+        add_core_of = KUR
 
 	}
 
 
 	provinces={
-		1578 1634 6883
+		1634
 	}
 }

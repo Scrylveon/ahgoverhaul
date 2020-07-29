@@ -16,7 +16,7 @@ set_convoys = 5
 	set_popularities = {
 		democratic 
 			 = 0
-		neutrality
+		authoritarian_monarchism
 			 = 100
 		
 		fascism
@@ -26,7 +26,7 @@ set_convoys = 5
 			
 		}
 	set_politics = { 
- ruling_party = neutrality
+ ruling_party = authoritarian_monarchism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -70,7 +70,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_Edward_Brandis_Denham.dds"
 	expire = "1956.4.26"
-	ideology = despotism
+	ideology = authmon
 	traits = {
 		#
 	}

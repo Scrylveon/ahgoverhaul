@@ -3,15 +3,17 @@ state={
 	name="STATE_3013"
 	history={
 		
-		owner = SOV 
+		owner = RUS 
 		add_core_of = SOV
+		add_core_of = MSC
+		add_core_of = RUS
 		buildings = {
 			infrastructure = 4
 			
 		}
 	}
 	provinces={
-		3072 9164 9197 
+		9164 9197 
 	}
 	manpower=1000 
  state_category=pastoral

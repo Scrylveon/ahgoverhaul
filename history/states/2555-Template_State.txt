@@ -3,6 +3,7 @@ state={
 	name="STATE_2555"
 	history={
 		owner = NZL 
+		add_core_of = TKL
 		buildings = {
 			infrastructure = 4
 			

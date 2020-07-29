@@ -4,6 +4,8 @@ state={
 	history={
 		owner = SOM
 		add_core_of = SOM
+		add_core_of = PUN
+		add_core_of = HOB
 		buildings = {
 			infrastructure = 4
 		}

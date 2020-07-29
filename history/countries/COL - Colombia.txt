@@ -19,7 +19,7 @@ set_convoys = 15
 
 
 	set_popularities = {
-		democratic 
+		socialism_ideology 
 			 = 99
 		fascism
 			 = 0
@@ -28,7 +28,7 @@ set_convoys = 15
 			
 		}
 	set_politics = { 
- ruling_party = democratic
+ ruling_party = socialism_ideology
 	last_election = "1934.2.11"
 	election_frequency = 48
 	elections_allowed = yes
@@ -39,7 +39,7 @@ create_country_leader = {
 	desc = "POLITICS_ALFONSO_LOPEZ_PUMAREJO_DESC"
 	picture = "Portrait_alfonso_lopez_Pumarejo.dds"
 	expire = "1965.1.1"
-	ideology = liberalism
+	ideology = demsoc
 	traits = {
 		#
 	}

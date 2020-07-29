@@ -9,11 +9,12 @@ state={
 
 		}
 		add_core_of = BRA
+		add_core_of = PUI
 
 	}
 	
 	provinces={
-		2228 5153 5204 10984 
+		5204 10984 
 	}
 	
 	manpower=634712

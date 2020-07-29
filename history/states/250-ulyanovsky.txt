@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = SOV
+		owner = RUS
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
@@ -15,11 +15,12 @@ state={
 		}
 		add_core_of = SOV
 		add_core_of = RUS
+		add_core_of = ULA
 
 	}
 
 	provinces={
-		286 345 392 3196 3197 3246 3269 3276 3334 3372 6226 6275 6294 6302 6337 6394 9338 11373 
+		286 392 3196 3246 3276 3372 6226 6275 6302 6337 6394 9338 11373 19798 9244 9354
 	}
 	manpower=1630524
 	buildings_max_level_factor=1.000

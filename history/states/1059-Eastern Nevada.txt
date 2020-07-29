@@ -13,12 +13,12 @@ state={
 
 		}
 		add_core_of = USA
-		add_core_of = UTH
+		add_core_of = NVA	
 
 	}
 
 	provinces={
-		7756 7827 7879 10591 
+		7879  
 	}
 	manpower=20032
 	buildings_max_level_factor=1.000

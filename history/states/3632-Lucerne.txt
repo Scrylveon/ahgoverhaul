@@ -2,7 +2,7 @@ state={
 	id=3632
 	name="STATE_3632"
 	provinces={
-		11604 9638
+		11604
 	}
 	manpower = 1000
 	
@@ -11,6 +11,11 @@ state={
 	history={
 		owner = SWI
 		add_core_of = SWI
+		add_core_of = KLU
+		victory_points = {
+			11604 1 
+		}
+
 		buildings = {
 			infrastructure = 1
 		}

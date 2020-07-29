@@ -40,9 +40,6 @@ set_technology = {
 	fleet_in_being = 1
 }
 
-set_cosmetic_tag = VIN_FRA
-
-
 
 	set_popularities = {
 		democratic 
@@ -81,17 +78,6 @@ create_country_leader = {
 	picture = "gfx/leaders/Asia/Portrait_Asia_Generic_communism.dds"
 	expire = "1953.3.1"
 	ideology = marxism
-	traits = {
-		
-	}
-}
-
-create_country_leader = {
-	name = "Eugène Jean Louis René Robin"
-	desc = ""
-	picture = "Portrait_Eugene_Jean_Louis_Rene_Robin.dds"
-	expire = "1953.3.1"
-	ideology = conservatism
 	traits = {
 		
 	}

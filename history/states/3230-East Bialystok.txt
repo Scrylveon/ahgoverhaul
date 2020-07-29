@@ -12,9 +12,10 @@ state={
 		}
 		add_core_of = POL
 		add_core_of = BLR
+		add_core_of = BIY
 	}
 	provinces={
-		14364 14383 
+		14364 
 	}
 	buildings_max_level_factor=1.000
 }

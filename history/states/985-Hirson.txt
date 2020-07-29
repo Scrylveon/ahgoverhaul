@@ -9,11 +9,12 @@ state={
 
 		}
 		add_core_of = FRA
+		add_core_of = PIC
 
 	}
 
 	provinces={
-		3447 9472 
+		9472 
 	}
 	manpower=288632
 	buildings_max_level_factor=1.000

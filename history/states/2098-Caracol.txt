@@ -11,6 +11,8 @@ state={
 
 		}
 		add_core_of = BRA
+		add_core_of = MGS
+		add_core_of = MTG
 
 	}
 	

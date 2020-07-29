@@ -11,12 +11,13 @@ state={
 		}
 		add_core_of = YUG
 		add_core_of = MAC
-		add_claim_by = BUL
+		add_core_of = SER
+		add_core_of = BUL
 
 	}
 
 	provinces={
-		6886 13366 3833 907
+		6886
 	}
 	manpower=131234
 	buildings_max_level_factor=1.000

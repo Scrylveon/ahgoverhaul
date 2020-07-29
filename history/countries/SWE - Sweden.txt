@@ -37,7 +37,7 @@ set_technology = {
 
 
 	set_popularities = {
-		democratic 
+		democratic_monarchism 
 			 = 75
 		neutrality
 			  = 14
@@ -50,7 +50,7 @@ set_technology = {
 	}
 	
 	set_politics = { 
- ruling_party = democratic
+ ruling_party = democratic_monarchism
 	last_election = "1932.9.18"
 	election_frequency = 48
 	elections_allowed = yes
@@ -68,7 +68,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_Gustaf_V.dds"
 	expire = "1965.1.1"
-	ideology = socialism
+	ideology = liberal_constitutionalism
 	traits = {
 		#
 	}

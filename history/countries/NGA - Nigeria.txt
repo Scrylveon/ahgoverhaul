@@ -26,11 +26,11 @@ set_convoys = 20
 		
 		democratic 
 			 = 20
-		neutrality 
+		authoritarian_monarchism 
 			 = 65
 		}
 	set_politics = { 
- ruling_party = neutrality
+ ruling_party = authoritarian_monarchism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -72,7 +72,7 @@ create_country_leader = {
 	name = "Bernard Henry Bourdillon"
 	desc = ""
 	picture = "Portrait_Bernard_Henry_Bourdillon.dds" 
-	ideology = despotism
+	ideology = authmon
 	expire = "1948.2.6"
 	traits = {
 		#

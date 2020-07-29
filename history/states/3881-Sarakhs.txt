@@ -5,7 +5,7 @@ state={
 		13755
 	}
 	history={
-		owner = SOV
+		owner = TMS
 		add_core_of = SOV
 		add_core_of = TMS
 		buildings = {

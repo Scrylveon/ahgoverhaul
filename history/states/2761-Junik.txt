@@ -6,7 +6,9 @@ state={
 		owner = YUG 
 		add_core_of = SER
 		add_core_of = KOS
-		add_claim_by = MNT
+		add_core_of = MNT
+		add_core_of = YUG
+		add_core_of = ILY
 		buildings = {
 			infrastructure = 4
 			

@@ -9,11 +9,12 @@ state={
 
 		}
 		add_core_of = AST
+		add_core_of = WAT
 
 	}
 
 	provinces={
-		2201 5207 8209 8247 10937 10958 11016
+		11016 8247
 	}
 	manpower=5000
 	buildings_max_level_factor=1.000

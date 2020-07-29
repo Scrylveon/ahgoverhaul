@@ -9,6 +9,10 @@ state={
 
 		}
 		add_core_of = GRE
+		add_core_of = ION
+		victory_points = {
+			10203 5 
+		}
 
 	}
 

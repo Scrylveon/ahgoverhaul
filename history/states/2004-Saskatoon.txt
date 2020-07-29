@@ -6,6 +6,8 @@ state={
 	history={
 		owner = CAN
 		add_core_of = CAN
+		add_core_of = MNB
+		add_core_of = MET
 		buildings = {
 			infrastructure = 4
 
@@ -14,7 +16,7 @@ state={
 	}
 
 	provinces={
-		3721 4218 4872 5119 12636 12688 
+		4218 12636 12688 15318
 	}
 	manpower=12049
 	buildings_max_level_factor=1.000

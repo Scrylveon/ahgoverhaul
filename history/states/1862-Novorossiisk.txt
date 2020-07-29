@@ -4,18 +4,14 @@ state={
 	state_category=rural
 
 	history={
-		owner = SOV
+		owner = RUS
 		buildings = {
 			infrastructure = 4
-			719 = {
-				naval_base = 3
-				coastal_bunker = 1
-
-			}
 		}
 		add_core_of = SOV
+		add_core_of = KUB
 		add_core_of = RUS
-		add_core_of = DKU
+		add_core_of = CSS
 
 	}
 	

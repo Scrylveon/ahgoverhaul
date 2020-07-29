@@ -16,37 +16,27 @@ set_convoys = 5
 	set_popularities = {
 		democratic 
 			 = 5
-		fascism
-			 = 5
+		republican_fascism
+			 = 70
 		communism
-			 = 40
+			 = 5
 		neutrality 
-			 = 40
+			 = 20
 		}
 	set_politics = { 
- ruling_party = neutrality
+ ruling_party = republican_fascism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
-create_country_leader = {
-	
-	name = "Amílcar Cabral"
-	picture = "gfx/leaders/Africa/Amilcar_Cabral.dds"
-	expire = "1973.1.20"
-	ideology = marxism
-	traits = {
-		#
-	}
-}
 
 create_country_leader = {
 	
 	name = "Luís António de Carvalho Viegas"
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_2.dds"
-	expire = "1965.10.29"
-	ideology = despotism
+	picture = "viegas.dds"
+	expire = "1975.11.22"
+	ideology = repfash
 	traits = {
 		#
 	}

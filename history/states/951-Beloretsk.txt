@@ -6,7 +6,7 @@ state={
 	}
 
 	history={
-		owner = SOV
+		owner = RUS
 		buildings = {
 			infrastructure = 5
 
@@ -18,7 +18,7 @@ state={
 	}
 
 	provinces={
-		1406 4261 4265 4311 4383 7300 7373 10185 12200 
+		1406 4261 4311 4383 10185 12200 
 	}
 	manpower=420400
 	buildings_max_level_factor=1.000

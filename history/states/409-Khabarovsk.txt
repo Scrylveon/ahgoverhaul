@@ -10,7 +10,7 @@ state={
 	state_category = rural
 
 	history={
-		owner = SOV
+		owner = RUS
 		victory_points = {
 			12189 1
 		}
@@ -26,6 +26,7 @@ state={
 		add_core_of = RUS
 		add_core_of = SBR
 		add_core_of = KHA
+		add_core_of = TRA
 	}
 
 	provinces={

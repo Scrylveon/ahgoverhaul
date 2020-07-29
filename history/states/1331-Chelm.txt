@@ -11,11 +11,12 @@ state={
 
 		}
 		add_core_of = POL
+		add_core_of = LBL
 
 	}
 	
 	provinces={
-		9452 11466 
+		9452 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

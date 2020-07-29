@@ -9,12 +9,13 @@ state={
 
 		}
 		add_core_of = GER
-		add_core_of = PRS
+		add_core_of = PRE
 		add_core_of = POM
+		add_core_of = DDR
 	}
 
 	provinces={
-		6334 6390 
+		6334  
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

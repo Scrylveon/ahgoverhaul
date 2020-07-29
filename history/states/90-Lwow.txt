@@ -13,11 +13,15 @@ state={
 
 		}
 		add_core_of = POL
+		add_core_of = KIE
+		victory_points = {
+			6416 1 
+		}
 
 	}
 
 	provinces={
-		562 3458 3497 6416 11430 14185 14186 14183 14184
+		6416
 	}
 	manpower=1835700
 	buildings_max_level_factor=1.000

@@ -10,10 +10,12 @@ state={
 
 		}
 		victory_points = {
-			11581 3 
+			11581 25
 		}
 		add_core_of = YUG
 		add_core_of = CRO
+		add_core_of = SVA
+		add_core_of = ILY
 
 	}
 

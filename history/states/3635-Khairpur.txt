@@ -2,16 +2,18 @@ state={
 	id=3635
 	name="STATE_3635"
 	provinces={
-		7084
+		15032 15031
 	}
 	manpower = 1000
 	
 	state_category = pastoral
 
 	history={
-		owner = RAJ
+		owner = KPU
 		add_core_of = PAK
-		add_core_of = SND
+		add_core_of = KPU
+		add_core_of = SND 
+		add_core_of = MAH
 		buildings = {
 			infrastructure = 1
 		}

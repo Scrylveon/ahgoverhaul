@@ -15,14 +15,12 @@ state={
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
-			12505 = {
-				naval_base = 1
-			}
 		}
 		add_core_of = NFL
+		add_core_of = CAN
 	}
 
 	provinces={
-		7758 7788 12680 12698 
+		7758 7788 12680 
 	}
 }

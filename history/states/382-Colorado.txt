@@ -13,11 +13,15 @@ state={
 
 		}
 		add_core_of = USA
+		add_core_of = CLR
 
+		victory_points = {
+			7999 1 
+		}
 	}
 
 	provinces={
-		7684 7999 9792 13325
+		7999 9792
 	}
 	manpower=343535
 	buildings_max_level_factor=1.000

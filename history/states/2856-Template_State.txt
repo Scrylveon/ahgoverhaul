@@ -5,13 +5,14 @@ state={
 		
 		owner = CAN 
 		add_core_of = CAN
+		add_core_of = YUK
 		buildings = {
 			infrastructure = 4
 			
 		}
 	}
 	provinces={
-		14266
+		3606
 	}
 	manpower=1000 
   state_category=pastoral

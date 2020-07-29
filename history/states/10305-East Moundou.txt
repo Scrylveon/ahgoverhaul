@@ -1,0 +1,15 @@
+state={
+	id=10305
+	name="STATE_10305"
+	provinces={
+		19644
+	}
+	history={
+	    owner = FEA
+        add_core_of = CHD
+	add_core_of = LCH
+    }	
+	manpower=1000
+	state_category = wasteland
+	buildings_max_level_factor=1.000
+}

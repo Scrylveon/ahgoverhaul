@@ -11,11 +11,11 @@ state={
 		}
 		add_core_of = SWI
 		add_core_of = GRI
-
+		add_core_of = KGR
 	}
 
 	provinces={
-		3660 3662 
+		3660 
 	}
 	manpower=420300
 	buildings_max_level_factor=1.000

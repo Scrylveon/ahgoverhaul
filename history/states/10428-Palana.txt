@@ -1,0 +1,21 @@
+state={
+	id=10428
+	name="STATE_10428"
+	provinces={
+		1823 1839 19833 19855 
+	}
+	history={
+		owner = KYK
+		buildings = {
+			infrastructure = 8
+
+		}
+		add_core_of = SOV
+		add_core_of = RUS
+		add_core_of = KYK
+
+	}
+	manpower = 1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

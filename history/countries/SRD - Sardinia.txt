@@ -1,4 +1,4 @@
-﻿capital = 114
+﻿capital = 3448
 
 oob = "VNC_1936"
 
@@ -19,11 +19,11 @@ set_technology = {
 
 	set_popularities = {
 		democratic 
-			 = 96
+			 = 20
 		fascism
-			 = 0
+			 = 10
 		neutrality
-			 = 100
+			 = 70
 		}
 	set_politics = { 
  ruling_party = neutrality

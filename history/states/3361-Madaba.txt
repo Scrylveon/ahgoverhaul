@@ -2,7 +2,7 @@ state={
 	id=3361
 	name="STATE_3361"
 	provinces={
-		10089 14391 14392 
+		10089 14391 14392 14390
 	}
 	manpower = 1000
 	
@@ -11,6 +11,7 @@ state={
 	history={
 		owner = JOR
 		add_core_of = JOR
+		add_claim_by = OML
 		buildings = {
 			infrastructure = 1
 		}

@@ -4,20 +4,20 @@ state={
 	state_category=rural
 
 	history={
-		owner = SOV
+		owner = KBK
 		buildings = {
 			infrastructure = 4
 
 		}
 		add_core_of = SOV
 		add_core_of = RUS
-		add_core_of = DKU
+		add_core_of = CSS
 		add_core_of = KBK
 
 	}
 	
 	provinces={
-		685 9649 9647
+		685
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

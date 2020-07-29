@@ -9,6 +9,9 @@ state={
 
 	history={
 		owner = ENG
+		add_core_of = ENG
+		add_core_of = EGL
+		add_core_of = NUD 
 		victory_points = {
 			351 10 
 		}
@@ -17,22 +20,15 @@ state={
 			industrial_complex = 1
 			dockyard = 4
 			air_base = 6
-			351 = {
-				naval_base = 6
-
-			}
 
 		}
-		add_core_of = ENG
-		add_core_of = EGL
 		
-
 	}
 
 	provinces={
-		219 351 11299 
+		219 351 
 	}
-	manpower=2024430
+	manpower=1000
 	buildings_max_level_factor=1.000
 	state_category=city
 }

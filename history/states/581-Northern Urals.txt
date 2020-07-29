@@ -8,7 +8,7 @@ state={
 	}
 
 	history={
-		owner = SOV
+		owner = YML
 		buildings = {
 			infrastructure = 1
 
@@ -16,13 +16,14 @@ state={
 		add_core_of = SOV
 		add_core_of = RUS
 		add_core_of = URL
+		add_core_of = YML
 
 	}
 
 	provinces={
-		12502 
+		11098 12502 19934 
 	}
 	manpower=48831
 	buildings_max_level_factor=1.000
-	state_category=wasteland
+	state_category=pastoral
 }

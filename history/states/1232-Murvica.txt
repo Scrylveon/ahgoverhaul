@@ -19,12 +19,13 @@ state={
 		}
 		add_core_of = YUG
 		add_core_of = CRO
+		add_core_of = ILY
 
 
 		add_core_of = DLM	}
 	
 	provinces={
-		3924 13373 13374 
+		3924
 	}
 	
 	manpower=321416

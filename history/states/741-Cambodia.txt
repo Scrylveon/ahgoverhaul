@@ -9,12 +9,12 @@ state={
 
 	history={
 		add_core_of = CAM
-		owner = VIN
+	    owner = IND
 
 	}
 
 	provinces={
-		1324 1620 4330 4639 7319 7376 7432 7645 10204 10289 10317 12260 12447 12475 
+		1620 4330 7645 10204 12260 
 	}
 	manpower=4428321
 	buildings_max_level_factor=1.000

@@ -2,7 +2,6 @@
 
 oob = "VCT_1936"
 
-give_military_access = SWI
 
 set_research_slots = 3
 
@@ -14,11 +13,11 @@ set_technology = {
 	set_popularities = {
 		democratic 
 			 = 0
-		neutrality
+		theocratic
 			 = 100
 		}
 	set_politics = { 
- ruling_party = neutrality
+ ruling_party = theocratic
 	last_election = "1932.2.6"
 	election_frequency = 60
 	elections_allowed = yes
@@ -37,7 +36,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_Vatican_Pope.dds"
 	expire = "1939.2.11"
-	ideology = despotism
+	ideology = christian
 	traits = {
 		#
 	}

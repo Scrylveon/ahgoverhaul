@@ -14,11 +14,12 @@ state={
 		add_core_of = YUG
 		add_core_of = CRO
 		add_core_of = RAG
+		add_core_of = ILY
 
 		add_core_of = DLM	}
 	
 	provinces={
-		6889 13272 
+		6889 
 	}
 	manpower=90577
 	buildings_max_level_factor=1.000

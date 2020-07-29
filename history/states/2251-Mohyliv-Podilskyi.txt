@@ -4,7 +4,7 @@ state={
 	name="STATE_2251"
 
 	history={
-		owner = SOV
+		owner = UKR
 		buildings = {
 			infrastructure = 3
 
@@ -15,7 +15,7 @@ state={
 	}
 
 	provinces={
-		6455 9423 9576
+		9423
 	}
 	manpower=300674
 	buildings_max_level_factor=1.000

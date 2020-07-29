@@ -4,7 +4,7 @@ state={
 	history={
 		set_demilitarized_zone = yes
 		
-		owner = FIN 
+		owner = ALN 
 		add_core_of = FIN
 		add_core_of = SWE
 		add_core_of = ALN

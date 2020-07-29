@@ -9,16 +9,17 @@ state={
 			infrastructure = 6
 			industrial_complex = 3
 			air_base = 3
-			1132 = {
-				naval_base = 1
-
-			}
 
 		}
 		add_core_of = USA
 		add_core_of = CSA
+		add_core_of = NCR
+		add_core_of = NAF
 		victory_points = {
 			7138 3 
+		}
+		victory_points = {
+			7045 1 
 		}
 
 	}

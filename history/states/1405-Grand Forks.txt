@@ -11,9 +11,12 @@ state={
 			infrastructure = 4
 		}
 		add_core_of = USA
+		add_core_of = NDA
+		add_core_of = MET
+		add_core_of = GMA
 	}
 
 	provinces={
-		1870 3719 12685 13442
+		3719
 	}
 }

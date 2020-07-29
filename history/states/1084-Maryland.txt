@@ -15,11 +15,12 @@ state={
 
 		}
 		add_core_of = USA
+		add_core_of = MRY
 
 	}
 
 	provinces={
-		6892 9758 
+		9758 14873
 	}
 	manpower=503021
 	buildings_max_level_factor=1.000

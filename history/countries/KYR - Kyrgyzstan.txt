@@ -2,6 +2,7 @@
 
 oob = "KYR_1936"
 
+set_cosmetic_tag = KYR_SOV
 set_research_slots = 3
 
 # Starting tech
@@ -52,7 +53,7 @@ set_technology = {
 	}
 
 	set_politics = { 
- ruling_party = communism
+ ruling_party = vanguardism
 	last_election = "1936.1.1"
 	election_frequency = 50
 	elections_allowed = no

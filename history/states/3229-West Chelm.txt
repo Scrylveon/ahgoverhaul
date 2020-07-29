@@ -11,9 +11,10 @@ state={
 			infrastructure = 1
 		}
 		add_core_of = POL
+		add_core_of = LBL
 	}
 	provinces={
-		14379 14380 14381 
+		14381 
 	}
 	buildings_max_level_factor=1.000
 }

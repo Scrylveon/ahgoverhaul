@@ -28,18 +28,19 @@ set_technology = {
 	motorised_infantry = 1
 }
 
+set_popularities = {
+	liberal_republic 
+		= 67
+	conservative_monarchism
+		= 20
+	socialism_ideology
+		= 7
+	democratic
+		= 6
+}
 
-
-	set_popularities = {
-		democratic 
-			 = 51
-		fascism
-			 = 4
-		communism
-			 = 45
-		}
-	set_politics = { 
- ruling_party = democratic
+set_politics = { 
+	ruling_party = liberal_republic
 	last_election = "1933.2.16"
 	election_frequency = 36
 	elections_allowed = yes
@@ -47,6 +48,7 @@ set_technology = {
 
 set_convoys = 150
 set_stability = 0.5
+set_cosmetic_tag = CAT_SPR
 
 
 create_country_leader = {

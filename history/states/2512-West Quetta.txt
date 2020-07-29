@@ -2,14 +2,15 @@ state={
 	id=2512
 	name="STATE_2512"
 	provinces={
-		8098 5105
+		8098
 	}
 	history={
-		owner = RAJ
+		owner = KLA
 		buildings = {
 			infrastructure = 3
 			air_base = 4
 		}
+		add_core_of = KLA
 		add_core_of = PAK
 		add_core_of = BLO
 	}

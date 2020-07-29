@@ -3,8 +3,9 @@ state={
 	name="STATE_2874"
 	history={
 		
-		owner = OMA 
-		add_core_of = OMA
+		owner = IMO 
+		add_core_of = OMN
+		add_core_of = IMO
 		add_core_of = SAU
 		buildings = {
 			infrastructure = 4
@@ -16,5 +17,6 @@ state={
 	}
 	manpower=1000 
   state_category=pastoral
+	impassable = yes
 	buildings_max_level_factor=1.000
 }

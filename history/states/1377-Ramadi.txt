@@ -12,11 +12,12 @@ state={
 
 		}
 		add_core_of = IRQ
+        add_core_of = ETC
 
 	}
 	
 	provinces={
-		12046 3795 
+		3795 
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

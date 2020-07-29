@@ -2,14 +2,15 @@ state={
 	id=3391
 	name="STATE_3391"
 	provinces={
-		14412 14413 
+		14412 
 	}
 	manpower = 1000
 	
 	state_category = pastoral
-
+	impassable = yes
 	history={
-		owner = UAE
+		owner = ABD
+		add_core_of = ABD
 		add_core_of = UAE
 		buildings = {
 			infrastructure = 1

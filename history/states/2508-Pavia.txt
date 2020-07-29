@@ -8,12 +8,12 @@ state={
 		owner = ITA
 		buildings = {
 			infrastructure = 7
-			arms_factory = 5
 
 		}
 		add_core_of = ITA
 		add_claim_by = PIE
 		add_core_of = LOM
+		add_core_of = RSI
 		
 
 	}

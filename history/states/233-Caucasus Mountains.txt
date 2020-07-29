@@ -7,20 +7,20 @@ state={
 	}
 
 	history={
-		owner = SOV
+		owner = KRC
 		buildings = {
 			infrastructure = 3
 
 		}
 		add_core_of = SOV
 		add_core_of = RUS
-		add_core_of = DKU
+		add_core_of = CSS
 		add_core_of = KRC
 
 	}
 
 	provinces={
-		11664 6692
+		6692
 	}
 	manpower=1463970
 	buildings_max_level_factor=1.000

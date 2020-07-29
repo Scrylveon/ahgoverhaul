@@ -15,12 +15,12 @@ set_cosmetic_tag = ZAN_ENG
 			 = 0
 		communism
 			 = 0
-		neutrality 
+		authoritarian_monarchism 
 			 = 100
 		
 	}
 	set_politics = { 
- ruling_party = neutrality
+ ruling_party = authoritarian_monarchism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes
@@ -31,7 +31,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_Khalifa_bin_Harub.dds"
 	expire = "1960.1.1"
-	ideology = despotism
+	ideology = authmon
 	traits = {
 		
 	}

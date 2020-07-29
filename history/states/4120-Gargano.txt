@@ -14,8 +14,10 @@ state={
 			infrastructure = 1
 		}
 		add_core_of = ITA
-		add_core_of = KTS
 		add_core_of = NAP
+		victory_points = {
+			6980 1 
+		}
 	}
 	buildings_max_level_factor=1.000
 }

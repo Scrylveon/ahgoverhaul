@@ -3,8 +3,9 @@ state={
 	name="STATE_1186"
 
 	history={
-		owner = RAJ
-		add_core_of = RAJ
+		owner = BHW
+		add_core_of = PAK
+		add_core_of = BHW
 		add_core_of = KHL
 		buildings = {
 			infrastructure = 5
@@ -14,7 +15,7 @@ state={
 	}
 
 	provinces={
-		10772 10843 10898 12792 
+		10843 10898 12792 
 	}
 	manpower=3215478
 	buildings_max_level_factor=1.000

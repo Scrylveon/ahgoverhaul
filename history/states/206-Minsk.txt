@@ -7,7 +7,7 @@ state={
 	state_category = city
 
 	history={
-		owner = SOV
+		owner = BLR
 		victory_points = {
 			11370 20
 		}
@@ -22,6 +22,6 @@ state={
 	}
 
 	provinces={
-		216 294 342 3267 3378 6292 9289 11216 11322 11370 
+		3267 11216 11370 
 	}
 }

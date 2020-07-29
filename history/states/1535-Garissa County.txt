@@ -9,11 +9,13 @@ state={
 
 		}
 		add_core_of = KEN
+		add_claim_by = JUB
+		add_claim_by = SOM
 
 	}
 	
 	provinces={
-		8133 
+		8133
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

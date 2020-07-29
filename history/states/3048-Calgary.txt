@@ -5,13 +5,18 @@ state={
 		
 		owner = CAN 
 		add_core_of = CAN
+		add_core_of = ALT
+		add_core_of = MET
 		buildings = {
 			infrastructure = 4
 			
 		}
+		victory_points = {
+			3706 1 
+		}
 	}
 	provinces={
-		1262 3706 4765 7718 
+		1262 3706 4765 
 	}
 	manpower=1000 
  state_category=pastoral

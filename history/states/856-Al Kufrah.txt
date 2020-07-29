@@ -11,11 +11,12 @@ state={
 
 		}
 		add_core_of = LBA
+		add_core_of = CYR
 
 	}
 
 	provinces={
-		1057 4191 7076 10104 10754 13251 13253 
+		1057 4191 10754 
 	}
 	manpower=10000
 	buildings_max_level_factor=1.000

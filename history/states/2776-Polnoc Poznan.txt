@@ -8,14 +8,14 @@ state={
 		add_core_of = KSH
 		add_core_of = PWP
 		add_core_of = POS
-		add_core_of = PRS
+		add_core_of = PRE
 		buildings = {
 			infrastructure = 4
 			
 		}
 	}
 	provinces={
-		388 11232 
+		388 
 	}
 	manpower=1000 
   state_category=pastoral

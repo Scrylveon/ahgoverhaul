@@ -10,13 +10,10 @@ state={
 		owner = JAP
 		add_core_of = JAP
 		add_core_of = EZO
-		#add_claim_by = SOV # Removed because of too much aggression
+		add_core_of = PRJ
+		add_core_of = HOK
 		buildings = {
 			infrastructure = 3
-			1399 = {
-				naval_base = 3
-
-			}
 
 		}
 

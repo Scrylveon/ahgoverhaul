@@ -12,10 +12,13 @@ state={
 		add_core_of = ENG
 		add_core_of = IRE
 		add_core_of = NIR
+		victory_points = {
+			276 5
+		}
 	}
 
 	provinces={
-		3329 276
+		276
 	}
 	manpower=1
 	buildings_max_level_factor=1

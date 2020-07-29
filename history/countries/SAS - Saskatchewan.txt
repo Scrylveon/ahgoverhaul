@@ -1,4 +1,4 @@
-﻿capital = 378 #LA
+﻿capital = 2006 #LA
 
 oob = "CAL_1936"
 
@@ -33,62 +33,30 @@ set_technology = {
 	transport = 1
 	superior_firepower = 1
 	base_strike = 1
-
 }
 
 set_convoys = 30
 
+set_popularities = {
+	liberal_republic
+		= 91
+	socialism_ideology
+		= 9
+}
 
-
-	set_popularities = {
-		democratic 
-			 = 92
-		fascism
-			 = 5
-		communism
-			 = 3
-		}
-	set_politics = { 
- ruling_party = democratic
+set_politics = { 
+	ruling_party = liberal_republic
 	last_election = "1932.11.8"
 	election_frequency = 48
 	elections_allowed = no
 }
 
-add_ideas = {
-	disarmed_nation
-	free_trade
-}
-
-
 create_country_leader = {
-	name = "Arnold Wackol"
+	name = "William John Patterson"
 	desc = ""
-	picture = "gfx/leaders/USA/Portrait_USA_Generic_3.dds"
+	picture = "SAS_Patterson.tga"
 	expire = "1950.1.1"
-	ideology = liberalism
+	ideology = socdem
 	traits = {
-	}
-}
-
-create_country_leader = {
-	name = "Stanley Hamilton"
-	desc = ""
-	picture = "gfx/leaders/USA/Portrait_USA_Generic_3.dds"
-	expire = "1965.1.1"
-	ideology = fascism_ideology
-	traits = {
-		
-	}
-}
-
-create_country_leader = {
-	name = "Louvell Gibson"
-	desc = ""
-	picture = "gfx/leaders/USA/Portrait_USA_Generic_3.dds"
-	expire = "1965.1.1"
-	ideology = marxism
-	traits = {
-		
 	}
 }

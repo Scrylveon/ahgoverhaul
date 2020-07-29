@@ -10,14 +10,16 @@ state={
 
 		}
 		add_core_of = GER
-		add_core_of = PRS
+		add_core_of = PRE
 		add_core_of = POM
+		add_core_of = DDR
+		add_core_of = MBV
 		
 
 	}
 
 	provinces={
-		349 3340 9388 
+		3340 
 	}
 	manpower=1006221
 	buildings_max_level_factor=1.000

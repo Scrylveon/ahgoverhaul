@@ -15,10 +15,10 @@ state={
 			infrastructure = 2
 		}
 		add_core_of = PER
-		add_core_of = BLO
+		add_claim_by = BLO
 	}
 
 	provinces={
-		2039 2070 10782 13082 
+		10782 13082 
 	}
 }

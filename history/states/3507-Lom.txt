@@ -2,7 +2,7 @@ state={
 	id=3507
 	name="STATE_3507"
 	provinces={
-		793 11754 
+		11754 
 	}
 	manpower = 1000
 	
@@ -11,6 +11,9 @@ state={
 	history={
 		owner = BUL
 		add_core_of = BUL
+		victory_points = {
+			11754 5
+		}
 		buildings = {
 			infrastructure = 1
 		}

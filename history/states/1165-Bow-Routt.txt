@@ -9,12 +9,13 @@ state={
 
 		}
 		add_core_of = USA
+		add_core_of = CLR
 		add_claim_by = TEX
 
 	}
 	
 	provinces={
-		1658 13256 
+		13256 
 	}
 	manpower=98412
 	buildings_max_level_factor=1.000

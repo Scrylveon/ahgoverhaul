@@ -6,6 +6,7 @@ state={
 	history={
 		owner = PER
 		add_core_of = PER
+        add_core_of = SAZ
 		buildings = {
 			infrastructure = 3
 
@@ -14,7 +15,7 @@ state={
 	}
 
 	provinces={
-		4901 10454 
+		10454 
 	}
 	manpower=254781
 	buildings_max_level_factor=1.000

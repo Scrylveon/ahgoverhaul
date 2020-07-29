@@ -10,11 +10,12 @@ state={
 
 		}
 		add_core_of = LBA
+		add_core_of = FZN
 
 	}
 
 	provinces={
-		12022 5004
+		5004
 	}
 	manpower=14000
 	buildings_max_level_factor=1.000

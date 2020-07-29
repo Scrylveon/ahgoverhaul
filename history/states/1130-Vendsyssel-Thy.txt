@@ -16,7 +16,11 @@ state={
 			}
 
 		}
+		add_core_of = VDS
 		add_core_of = DEN
+		victory_points = {
+			316 1 
+		}
 
 	}
 

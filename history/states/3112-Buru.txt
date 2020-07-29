@@ -5,6 +5,8 @@ state={
 		
 		owner = INS 
 		add_core_of = INS
+		add_core_of = SMK
+		add_core_of = MLK
 		buildings = {
 			infrastructure = 4
 			

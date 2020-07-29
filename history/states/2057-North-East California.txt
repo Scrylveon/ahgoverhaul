@@ -11,12 +11,15 @@ state={
 		}
 		add_core_of = USA
 		add_core_of = CAL
-		
+		add_core_of = JFR
+		victory_points = {
+			6745 1 
+		}
 
 	}
 
 	provinces={
-		768 6772 6745 11658 
+		6745 
 	}
 	manpower=534564
 	buildings_max_level_factor=1.000

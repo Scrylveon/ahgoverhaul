@@ -21,14 +21,14 @@ set_technology = {
 
 
 	set_popularities = {
-		fascism 
+		republican_fascism 
 			 = 90
 		
 		democratic
 			 = 10
 		}
 	set_politics = { 
- ruling_party = fascism
+ ruling_party = republican_fascism
 	last_election = "1936.1.1"
 	election_frequency = 50
 	elections_allowed = no
@@ -46,7 +46,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_Gino_Gozi.dds"
 	expire = "1960.1.1"
-	ideology = fascism_ideology
+	ideology = repfash
 	traits = {
 		
 	}

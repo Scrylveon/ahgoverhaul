@@ -9,13 +9,17 @@ state={
 
 		}
 		add_core_of = GER
-		add_core_of = PRS
+		add_core_of = PRE
 		add_core_of = SIL
+		add_core_of = DDR
+		victory_points = {
+			9570 25 
+		}
 
 	}
 	
 	provinces={
-		3545 9570 
+		9570 
 	}
 	manpower=85194
 	buildings_max_level_factor=1.000

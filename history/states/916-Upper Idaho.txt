@@ -12,11 +12,14 @@ state={
 
 		}
 		add_core_of = USA
+		add_core_of = CAS
+		add_core_of = IDH
+		add_core_of = LIN
 
 	}
 
 	provinces={
-		1832 3781 4778 12124 
+		1832 12124 
 	}
 	manpower=203001
 	buildings_max_level_factor=1.000

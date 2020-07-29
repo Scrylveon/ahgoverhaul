@@ -3,12 +3,13 @@ state={
 	name="STATE_2733"
 	history={
 		
-		owner = JAP
+		owner = KOR
 		buildings = {
 			infrastructure = 4
 			
 		}
 		add_core_of = KOR
+		add_core_of = ROK
 	}
 	provinces={
 		13286

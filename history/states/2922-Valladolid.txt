@@ -5,13 +5,14 @@ state={
 		
 		owner = SPR 
 		add_core_of = SPR
+		add_core_of = CST
 		buildings = {
 			infrastructure = 4
 			
 		}
 	}
 	provinces={
-		939 3820 3874 9800 9827 9846 11809 
+		3820 9800 9827 9846 11809 
 	}
 	manpower=1000 
  state_category=pastoral

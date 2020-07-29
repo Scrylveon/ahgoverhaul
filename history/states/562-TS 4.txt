@@ -4,7 +4,7 @@ state={
 	name="STATE_562"
 
 	history={
-		owner = SOV
+		owner = RUS
 		buildings = {
 			infrastructure = 1
 
@@ -16,9 +16,9 @@ state={
 	}
 
 	provinces={
-		1714 1805 1865 4744 4810 4881 7772 10540 10572 10598 11607 12518 12551 12650 12683 
+		1865 10540 12518 12551 12683 19905 19921 19938 
 	}
 	manpower=126961
 	buildings_max_level_factor=1.000
-	state_category=wasteland
+	state_category=pastoral
 }

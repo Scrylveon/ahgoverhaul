@@ -9,22 +9,17 @@ state={
 	history={
 		owner = YUG
 		victory_points = {
-			11899 5 
-		}
-		buildings = {
-			infrastructure = 5
-			industrial_complex = 2
-			air_base = 2
-
+			11899 25 
 		}
 		add_core_of = YUG
 		add_core_of = BOS
 		add_core_of = SRP
+		add_core_of = ILY
 
 	}
 
 	provinces={
-		9588 9591 
+		9588 
 	}
 	manpower=500000
 	buildings_max_level_factor=1.000

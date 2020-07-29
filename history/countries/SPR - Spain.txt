@@ -24,20 +24,41 @@ set_technology = {
 	early_battleship = 1
 	transport = 1
 }
-give_guarantee = TGR
 
+#set_popularities = {
+#	socialism_ideology
+#		= 21
+#	liberal_republic
+#	 	= 29
+#	vanguardism
+#	 	= 5
+#	democratic
+#	 	= 13
+#	neutrality
+#	 	= 27
+#	monarchism
+#		= 3
+#	authoritarian_monarchism
+#		= 2
+#}
+	
+set_popularities = {
+	socialism_ideology
+		= 17
+	democratic
+		= 31
+	conservative_monarchism
+		= 8
+	neutrality
+		= 34
+	authoritarian_monarchism
+		= 5
+	monarchism
+		= 5
+}
 
-
-	set_popularities = {
-		democratic 
-			 = 47
-		fascism
-			 = 46
-		communism
-			 = 7
-		}
-	set_politics = { 
- ruling_party = democratic
+set_politics = { 
+	ruling_party = democratic
 	last_election = "1933.2.16"
 	election_frequency = 36
 	elections_allowed = yes
@@ -45,6 +66,7 @@ give_guarantee = TGR
 
 set_convoys = 150
 set_stability = 0.5
+
 #if = {
 #	limit = {
 #		has_dlc = "Together for Victory"
@@ -77,68 +99,10 @@ create_country_leader = {
 create_country_leader = {
 	name = "José Díaz"
 	desc = "POLITICS_JOSE_DIAZ_DESC"
-	picture = "Portrait_Spain_Jose_Diaz.dds"
+	picture = "SPR_Diaz.tga"
 	expire = "1965.1.1"
-	ideology = stalinism
+	ideology = totsoc
 	traits = {
 		#
-	}
-}
-
-create_country_leader = {
-	name = "José Sanjurjo"
-	desc = ""
-	picture = "Portrait_Jose_Sanjurjo.dds"
-	expire = "1965.1.1"
-	ideology = fascism_ideology
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "Alejandro Lerroux"
-	desc = "POLITICS_ALEJANDRO_LERROUX_DESC"
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_5.dds"
-	expire = "1965.1.1"
-	ideology = centrism
-	traits = {
-		#
-	}
-}
-
-create_field_marshal = {
-	name = "José Asensio Torrado"
-	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_land_2.dds"
-	traits = { defensive_doctrine }
-	skill = 2
-    attack_skill = 1
-    defense_skill = 3
-    planning_skill = 2
-    logistics_skill = 1
-}
-
-
-### Ship Variants ###
-
-create_equipment_variant = {
-	name = "C Class"
-	type = submarine_1
-	upgrades = {
-		ship_reliability_upgrade = 1
-		sub_engine_upgrade = 1
-		sub_stealth_upgrade = 1
-		sub_torpedo_upgrade = 1
-	}
-}
-
-create_equipment_variant = {
-	name = "Príncipe Alfonso Class"
-	type = light_cruiser_1
-	upgrades = {
-		ship_reliability_upgrade = 1
-		ship_engine_upgrade = 1
-		ship_gun_upgrade = 1
-		ship_anti_air_upgrade = 1
 	}
 }

@@ -11,11 +11,15 @@ state={
 		}
 		add_core_of = POL
 		add_core_of = UKR
+		add_core_of = VLH
+		victory_points = {
+			572 5 
+		}
 
 	}
 
 	provinces={
-		513 572 3412 6435 6520 6557 11543 
+		572 6435 6520 6557 11543 
 	}
 	manpower=1985600
 	buildings_max_level_factor=1.000

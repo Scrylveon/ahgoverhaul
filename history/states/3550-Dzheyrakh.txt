@@ -5,14 +5,14 @@ state={
 		13740
 	}
 	history={
-		owner = SOV
+		owner = CHE
 		buildings = {
 			infrastructure = 4
 
 		}
 		add_core_of = SOV
 		add_core_of = RUS
-		add_core_of = DKU
+		add_core_of = CSS
 		add_core_of = ING
 
 	}

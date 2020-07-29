@@ -46,16 +46,40 @@ set_technology = {
 #	}
 #}
 
-	set_popularities = {
-		democratic 
-			 = 93
-		fascism
-			 = 4
-		communism
-			 = 3
-		}
-	set_politics = { 
- ruling_party = democratic
+#set_popularities = {
+#	neutrality
+#		= 30
+#	socialism_ideology
+#		= 23
+#	conservative_monarchism
+#		= 33
+#	democratic_monarchism
+#		= 6
+#	republican_fascism
+#		= 4
+#	vanguardism
+#		= 3
+#	communism
+#		= 1
+#}
+
+set_popularities = {
+	neutrality
+		= 32
+	socialism_ideology
+		= 23
+	conservative_monarchism
+		= 25
+	democratic_monarchism
+		= 14
+	vanguardism
+		= 4
+	communism
+		= 2
+}
+
+set_politics = { 
+	ruling_party = conservative_monarchism
 	last_election = "1933.4.26"
 	election_frequency = 48
 	elections_allowed = yes
@@ -69,73 +93,8 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_Wilhelmina.dds"
 	expire = "1947.1.1"
-	ideology = conservatism
+	ideology = conservative_constitutionalism
 	traits = {
 		#
-	}
-}
-
-create_country_leader = {
-	name = "Anton Mussert"
-	desc = "POLITICS_ANTON_MUSSERT_DESC"
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_4.dds"
-	expire = "1965.1.1"
-	ideology = fascism_ideology
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "Lou de Visser"
-	desc = "POLITICS_LOU_DE_VISSER_DESC"
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_1.dds"
-	expire = "1965.1.1"
-	ideology = leninism
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "Hendrikus Colijn"
-	desc = "POLITICS_HENDRIKUS_COLJIN_DESC"
-	picture = "GFX_portrait_holland_hendrikus_colijn"
-	expire = "1965.1.1"
-	ideology = centrism
-	traits = {
-		#
-	}
-}
-
-create_corps_commander = {
-	name = "Petrus Wilhelmus Best"
-	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_land_4.dds"
-	traits = { armor_officer fortress_buster }
-	skill = 4
-	attack_skill = 3
-	defense_skill = 3
-	planning_skill = 3
-	logistics_skill = 4
-}
-
-create_navy_leader = {
-	name = "Johannes Theodorus Furstner"
-	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_navy_1.dds"
-	traits = { blockade_runner superior_tactician }
-	skill = 4
-}
-
-
-### Ship Variants ###
-
-create_equipment_variant = {
-	name = "K-XIV Class"
-	type = submarine_1
-	upgrades = {
-		ship_reliability_upgrade = 2
-		sub_engine_upgrade = 2
-		sub_stealth_upgrade = 2
-		sub_torpedo_upgrade = 2
 	}
 }

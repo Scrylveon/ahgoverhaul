@@ -9,11 +9,12 @@ state={
 
 		}
 		add_core_of = BRA
+		add_core_of = PRB
 
 	}
 	
 	provinces={
-		1446 2227 7561 10989 13564 13565
+		1446 2227 7561 10989 13565
 	}
 	
 	manpower=481743

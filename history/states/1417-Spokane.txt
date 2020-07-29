@@ -13,12 +13,14 @@ state={
 		}
 		add_core_of = USA
 		add_core_of = CAS
+		add_core_of = WSH
+		add_core_of = LIN
 		victory_points = {
 			1690 1 
 		}
 	}
 
 	provinces={
-		1690 10693 10327 4747 12673
+		1690 12673
 	}
 }

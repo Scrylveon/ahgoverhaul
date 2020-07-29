@@ -1,4 +1,4 @@
-﻿capital = 305
+﻿capital = 9128
 
 oob = "ECU_1936"
 
@@ -14,7 +14,7 @@ set_convoys = 5
 
 
 	set_popularities = {
-		democratic 
+		socialism_ideology 
 			 = 100
 		fascism
 			 = 0
@@ -23,7 +23,7 @@ set_convoys = 5
 			
 		}
 	set_politics = { 
- ruling_party = democratic
+ ruling_party = socialism_ideology
 	last_election = "1933.12.15"
 	election_frequency = 84
 	elections_allowed = yes
@@ -34,7 +34,7 @@ create_country_leader = {
 	desc = "POLITICS_FEDERICO_PAEZ_DESC"
 	picture = "Portrait_ecuador_federico_paez.dds"
 	expire = "1965.1.1"
-	ideology = socialism
+	ideology = demsoc
 	traits = {
 		#
 	}

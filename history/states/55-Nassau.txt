@@ -12,12 +12,14 @@ state={
 		}
 		add_core_of = GER
 		add_core_of = HES
+		add_core_of = WGR
+		add_core_of = HSN
 		
 
 	}
 
 	provinces={
-		6549 3397
+		6549
 	}
 	manpower=3011235
 	buildings_max_level_factor=1.000

@@ -4,7 +4,7 @@ state={
 	name="STATE_230"
 
 	history={
-		owner = SOV
+		owner = TSC
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 2
@@ -19,7 +19,7 @@ state={
 	}
 
 	provinces={
-		11708 12380 
+		11708 
 	}
 	manpower=80041
 	buildings_max_level_factor=1.000

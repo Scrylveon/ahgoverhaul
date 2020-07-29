@@ -9,14 +9,16 @@ state={
 
 		}
 		add_core_of = GER
-		add_core_of = PRS
+		add_core_of = PRE
 		add_core_of = HKA
 		add_core_of = HEN
+		add_core_of = WGR
+		add_core_of = HSN
 
 	}
 	
 	provinces={
-		9524 11445 14652
+		9524
 	}
 	manpower=17074
 	buildings_max_level_factor=1.000

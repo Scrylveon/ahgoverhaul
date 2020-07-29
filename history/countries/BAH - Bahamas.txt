@@ -1,4 +1,4 @@
-﻿capital = 690
+﻿capital = 2709
 
 set_cosmetic_tag = BAH_ENG
 
@@ -24,11 +24,11 @@ set_technology = {
 			 = 5
 		communism
 			 = 5
-		neutrality
+		authoritarian_monarchism
 			 = 80
 		}
 	set_politics = { 
- ruling_party = neutrality
+ ruling_party = authoritarian_monarchism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -63,7 +63,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_Charles_Dundas.dds"
 	expire = "1956.4.26"
-	ideology = despotism
+	ideology = authmon
 	traits = {
 		#
 	}

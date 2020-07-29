@@ -12,11 +12,11 @@ state={
 			infrastructure = 3
 		}
 		add_core_of = MEX
-		add_core_of = SON
+		add_core_of = CUU
 	}
 
 	provinces={
-		2037 8097 10809 10830 12745 12827 
+		2037 8097 10809 12745 12827 
 	}
 	
 }

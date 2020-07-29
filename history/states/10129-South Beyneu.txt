@@ -1,0 +1,15 @@
+state={
+	id=10129
+	name="STATE_10129"
+	provinces={
+		10262 16384 19462 19463 19464 
+	}
+	history={
+	    owner = KAZ
+        add_core_of = SOV
+        add_core_of = KAZ
+    }	
+	manpower=1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

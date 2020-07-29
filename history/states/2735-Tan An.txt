@@ -3,12 +3,14 @@ state={
 	name="STATE_2735"
 	history={
 		
-		owner = VIN
+	    owner = IND
 		buildings = {
 			infrastructure = 4
 			
 		}
 		add_core_of = VIN
+		add_core_of = SVI
+		add_core_of = CCH
 		
 	}
 	provinces={

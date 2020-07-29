@@ -12,6 +12,8 @@ state={
 
 		}
 		add_core_of = GRE
+		add_core_of = ATT
+		add_core_of = ION
 
 	}
 	

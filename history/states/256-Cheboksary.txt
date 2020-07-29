@@ -4,18 +4,20 @@ state={
 	name="STATE_256"
 
 	history={
-		owner = SOV
+		owner = CVS
 		buildings = {
 			infrastructure = 4
 
 		}
 		add_core_of = SOV
 		add_core_of = RUS
+		add_core_of = ULA
+		add_core_of = CVS
 
 	}
 
 	provinces={
-		3282 6253 6312 6357 9244 9259 9307 9354 9373 11243 11292 11356 
+		19842 3315 19840 19834
 	}
 	manpower=1572061
 	buildings_max_level_factor=1.000

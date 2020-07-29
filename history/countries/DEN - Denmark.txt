@@ -1,4 +1,4 @@
-﻿capital = 37
+﻿capital = 5609
 
 oob = "DEN_1936"
 
@@ -36,7 +36,7 @@ set_technology = {
 
 
 	set_popularities = {
-		democratic 
+		democratic_monarchism 
 			 = 97
 		fascism
 			 = 1
@@ -44,7 +44,7 @@ set_technology = {
 			 = 2
 		}
 	set_politics = { 
- ruling_party = democratic
+ ruling_party = democratic_monarchism
 	last_election = "1935.10.22"
 	election_frequency = 48
 	elections_allowed = yes
@@ -58,7 +58,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_Christian_X.dds"
 	expire = "1965.1.1"
-	ideology = socialism
+	ideology = liberal_constitutionalism
 	traits = {
 		#
 	}

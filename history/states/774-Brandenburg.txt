@@ -17,14 +17,15 @@ state={
 
 		}
 		add_core_of = GER
-		add_core_of = PRS
+		add_core_of = PRE
 		add_core_of = BDB
+		add_core_of = DDR
 		
 
 	}
 
 	provinces={
-		3499 9428 9496 11505 
+		3499 
 	}
 	manpower=3420010
 	buildings_max_level_factor=1.000

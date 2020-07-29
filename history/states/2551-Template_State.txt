@@ -4,6 +4,8 @@ state={
 	history={
 		owner = NZL
 		add_claim_by = USA
+		add_claim_by = ESM
+		add_core_of = TKL
 		buildings = {
 			infrastructure = 4
 			

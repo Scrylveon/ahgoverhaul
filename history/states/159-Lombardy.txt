@@ -6,7 +6,7 @@ state={
 	history={
 		owner = ITA
 		victory_points = {
-			3780 15 
+			3780 25 
 		}
 		buildings = {
 			infrastructure = 8
@@ -17,12 +17,14 @@ state={
 		}
 		add_core_of = ITA
 		add_core_of = LOM
+		add_core_of = VNC
+		add_core_of = RSI
 		
 
 	}
 
 	provinces={
-		773 969 3780 11598  
+		3780  
 	}
 	manpower=5625677
 	buildings_max_level_factor=1.000

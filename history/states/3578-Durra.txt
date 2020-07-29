@@ -9,7 +9,7 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = SOV
+		owner = NGK
 		buildings = {
 			infrastructure = 0
 
@@ -17,6 +17,7 @@ state={
 		add_core_of = SOV
 		add_core_of = AZR
 		add_core_of = NGK
+		add_core_of = TSC
 
 	}
 	buildings_max_level_factor=1.000

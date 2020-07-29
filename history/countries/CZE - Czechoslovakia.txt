@@ -23,7 +23,7 @@ set_research_slots = 3
 
 
 	set_popularities = {
-		democratic 
+		liberal_republic 
 			 = 65
 		neutrality 
 			 = 20
@@ -33,7 +33,7 @@ set_research_slots = 3
 			 = 10
 		}
 	set_politics = { 
- ruling_party = democratic
+ ruling_party = liberal_republic
 	last_election = "1935.5.19"
 	election_frequency = 60
 	elections_allowed = yes
@@ -44,7 +44,7 @@ create_country_leader = {
 	desc = "POLITICS_EDVARD_BENES_DESC"
 	picture = "Portrait_Czech_Edvard_Benes.dds"
 	expire = "1965.1.1"
-	ideology = conservatism
+	ideology = socdem
 	traits = {
 		#
 	}
@@ -124,8 +124,6 @@ if = {
 		CZE_skoda_works
 		CZE_divided_nation
 }
-	give_guarantee = YUG
-	give_guarantee = ROM
 }
 
 if = {

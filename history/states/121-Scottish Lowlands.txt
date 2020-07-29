@@ -17,11 +17,12 @@ state={
 		}
 		add_core_of = ENG
 		add_core_of = SCO
+		add_claim_by = NUD
 
 	}
 
 	provinces={
-		9314 9392 11378 
+		9392 11378 
 	}
 	manpower=1431624
 	buildings_max_level_factor=1.000

@@ -6,13 +6,15 @@ state={
 		owner = ENG 
 		add_core_of = ENG
 		add_core_of = EGL
+		add_core_of = LCS
+		add_claim_by = NUD
 		buildings = {
 			infrastructure = 4
 			
 		}
 	}
 	provinces={
-		6268 9397 
+		6268 
 	}
 	manpower=1000
 	state_category = pastoral

@@ -5,14 +5,14 @@ state={
 		
 		owner = SPR 
 		add_core_of = SPR
-		add_core_of = VAL
+		add_core_of = MRC
 		buildings = {
 			infrastructure = 4
 			
 		}
 	}
 	provinces={
-		3835 6856 11884 
+		3835 11884 
 	}
 	manpower=1000 
  state_category=pastoral

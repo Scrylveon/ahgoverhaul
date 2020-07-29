@@ -1,0 +1,15 @@
+state={
+	id=10140
+	name="STATE_10140"
+	provinces={
+		6486 9455 
+	}
+	history={
+	    owner = RUS
+        add_core_of = RUS
+        add_core_of = SOV
+    }	
+	manpower=1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

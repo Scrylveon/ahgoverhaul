@@ -11,11 +11,12 @@ state={
 		add_core_of = ITA
 		add_core_of = PIE
 		add_core_of = GEN
+		add_core_of = RSI
 
 	}
 	
 	provinces={
-		3772 6788 
+		6788 
 	}
 	manpower=1467000
 	buildings_max_level_factor=1.000

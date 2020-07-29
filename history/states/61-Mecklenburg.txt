@@ -11,20 +11,18 @@ state={
 		buildings = {
 			infrastructure = 6
 			arms_factory = 3
-			321 = {
-				naval_base = 6
-
-			}
 			air_base = 3
 
 		}
 		add_core_of = GER
-		add_core_of = MCK
+		add_core_of = MEK
+		add_core_of = DDR
+		add_core_of = MBV
 
 	}
 
 	provinces={
-		268 293 321 9294 11276 
+		321 
 	}
 	manpower=836353
 	buildings_max_level_factor=1.000

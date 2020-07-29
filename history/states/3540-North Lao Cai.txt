@@ -6,7 +6,9 @@ state={
 	}
 	history={
 		add_core_of = VIN
-		owner = VIN
+	    owner = IND
+		add_core_of = TKI
+		add_core_of = NVI
 		add_claim_by = CHI
 		add_claim_by = PRC
 		buildings = {

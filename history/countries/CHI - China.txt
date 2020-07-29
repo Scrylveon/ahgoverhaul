@@ -53,14 +53,14 @@ set_convoys = 40
 
 	set_popularities = {
 		democratic 
-			 = 0
+			 = 40
 		fascism
 			 = 0
 		communism
 			 = 0
 			
 		neutrality 
-			 = 100
+			 = 60
 		}
 	set_politics = { 
  ruling_party = neutrality
@@ -106,7 +106,7 @@ create_country_leader = {
 	desc = "POLITICS_ZHANG_LAN_DESC"
 	picture = "gfx/leaders/Asia/Portrait_Asia_Generic_land_3.dds"
 	expire = "1965.1.1"
-	ideology = socialism
+	ideology = demsoc
 	traits = {
 		#
 	}

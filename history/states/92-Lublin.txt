@@ -12,12 +12,16 @@ state={
 
 		}
 		add_core_of = POL
+		add_core_of = LBL
+		victory_points = {
+			6484 25
+		}
 		
 
 	}
 
 	provinces={
-		3521 3559 6484 9521 9544 11399 
+		6484
 	}
 	manpower=2464600
 	buildings_max_level_factor=1.000

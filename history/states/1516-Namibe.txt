@@ -3,7 +3,7 @@ state={
 	name="STATE_1516"
 	
 	history={
-		owner = POR
+		owner = ANG
 		buildings = {
 			infrastructure = 1
 
@@ -13,7 +13,7 @@ state={
 	}
 	
 	provinces={
-		8138 8202 12985 
+		8138 12985 
 	}
 	
 	manpower=612379

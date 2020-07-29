@@ -18,12 +18,13 @@ state={
 		}
 		add_core_of = GER
 		add_core_of = SAX
+		add_core_of = DDR
 		
 
 	}
 
 	provinces={
-		3535 6559 9441 9471 11481 
+		9471 
 	}
 	manpower=3556521
 	buildings_max_level_factor=1.000

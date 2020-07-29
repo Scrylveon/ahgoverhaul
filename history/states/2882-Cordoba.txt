@@ -5,14 +5,17 @@ state={
 		
 		owner = SPR 
 		add_core_of = SPR
-		add_core_of = ANL
+		add_core_of = ADU
+		victory_points = {
+			7183 25 
+		}
 		buildings = {
 			infrastructure = 4
 			
 		}
 	}
 	provinces={
-		1178 6744 7183 
+		7183 
 	}
 	manpower=1000 
  state_category=pastoral

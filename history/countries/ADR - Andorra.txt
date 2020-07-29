@@ -5,7 +5,6 @@ oob = "ADR_1936"
 set_research_slots = 3
 set_stability = 0.75
 
-give_military_access = FRA
 
 
 # Starting tech
@@ -25,11 +24,11 @@ set_technology = {
 	set_popularities = {
 		democratic 
 			 = 10
-		neutrality
+		theocratic
 			 = 90
 		}
 	set_politics = { 
- ruling_party = neutrality
+ ruling_party = theocratic
 	last_election = "1936.1.1"
 	election_frequency = 50
 	elections_allowed = no
@@ -47,7 +46,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_Justi_Guitart_i_Vilardebo.dds"
 	expire = "1960.1.1"
-	ideology = despotism
+	ideology = christian
 	traits = {
 		
 	}

@@ -14,12 +14,13 @@ state={
 			9508 1 
 		}
 		add_core_of = POL
+		add_core_of = LDZ
 		
 
 	}
 
 	provinces={
-		493 548 13295 
+		493
 	}
 	manpower=1531000
 	buildings_max_level_factor=1.000

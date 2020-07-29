@@ -10,6 +10,9 @@ state={
 		}
 		add_core_of = YUG
 		add_core_of = CRO
+		add_core_of = SVA
+		add_core_of = PKM
+		add_core_of = ILY
 
 	}
 	

@@ -12,7 +12,9 @@ state={
 		owner = GER
 		add_core_of = GER
 		add_core_of = SCG
-		add_claim_by = BAV
+		add_core_of = THU
+		add_claim_by = BAY
+		add_core_of = WGR
 		buildings = {
 			infrastructure = 5
 		}

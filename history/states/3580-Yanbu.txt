@@ -9,13 +9,13 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = SOV
+		owner = PMR
 		buildings = {
 			infrastructure = 0
 
 		}
 		add_core_of = SOV
-		add_core_of = TJK
+		add_core_of = TAJ
 		add_core_of = PMR
 		add_core_of = BKH
 

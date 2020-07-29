@@ -9,11 +9,13 @@ state={
 
 		}
 		add_core_of = AST
+		add_core_of = NAT
+		add_core_of = CET
 
 	}
 
 	provinces={
-		11013 8237
+		11013
 	}
 	manpower=500
 	buildings_max_level_factor=1.000

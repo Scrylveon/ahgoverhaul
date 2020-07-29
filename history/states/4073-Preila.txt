@@ -10,9 +10,10 @@ state={
 			infrastructure = 5
 
 		}
-		add_core_of = PRS
+		add_core_of = PRE
 		add_core_of = LIT
 		add_core_of = KON
+		add_core_of = MML
 
 	}
 	manpower=1000

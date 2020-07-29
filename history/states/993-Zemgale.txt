@@ -12,12 +12,11 @@ state={
 
 		}
 		add_core_of = LAT
-		add_core_of = LIV
 		add_core_of = COU
 	}
 
 	provinces={
-		3255 11358 
+		11358 
 	}
 	manpower=210000
 	buildings_max_level_factor=1.000

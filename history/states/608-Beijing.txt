@@ -4,9 +4,14 @@ state={
 	name="STATE_608"
 
 	history={
-		owner = CHI
+		owner = HPC
+		add_core_of = HPC
 		add_core_of = CHI
 		add_core_of = PRC
+		add_core_of = PKG
+		add_core_of = RGC
+		add_core_of = CIL
+		add_core_of = PSC
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 1
@@ -24,7 +29,7 @@ state={
 	}
 
 	provinces={
-		9843 11761 
+		9843 
 	}
 	manpower=5426928
 	buildings_max_level_factor=1.000

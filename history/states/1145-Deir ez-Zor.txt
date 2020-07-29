@@ -11,11 +11,13 @@ state={
 		}
 		add_core_of = SYR
 		add_core_of = KUR
+        add_core_of = ASY
+        add_core_of = ETC
 
 	}
 
 	provinces={
-		901 10882 
+		10882 
 	}
 	manpower=62548
 	buildings_max_level_factor=1.000

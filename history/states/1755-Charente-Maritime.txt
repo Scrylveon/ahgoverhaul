@@ -17,11 +17,12 @@ state={
 
 		}
 		add_core_of = FRA
+		add_core_of = AQT
 
 	}
 
 	provinces={
-		6657 9597 
+		6657 
 	}
 	manpower=422278
 	buildings_max_level_factor=1.000

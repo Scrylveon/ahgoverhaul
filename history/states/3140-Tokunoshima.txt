@@ -5,6 +5,7 @@ state={
 		
 		owner = JAP 
 		add_core_of = JAP
+		add_core_of = GSH
 		buildings = {
 			infrastructure = 4
 			

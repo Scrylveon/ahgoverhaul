@@ -2,7 +2,7 @@ state={
 	id=3704
 	name="STATE_3704"
 	provinces={
-		4594 11509 
+		11509 14853
 	}
 	manpower = 1000
 	
@@ -12,6 +12,8 @@ state={
 		owner = USA
 		add_core_of = USA
 		add_core_of = CSA
+		add_core_of = ALM
+		add_core_of = NAF
 		buildings = {
 			infrastructure = 1
 		}

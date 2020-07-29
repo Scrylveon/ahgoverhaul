@@ -3,7 +3,8 @@ state={
 	name="STATE_1324"
 	
 	history={
-		owner = RAJ
+		owner = RAJ 
+		add_core_of = UTT
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1

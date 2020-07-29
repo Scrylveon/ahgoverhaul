@@ -5,15 +5,11 @@ state={
 
 	history={
 		owner = RAJ
-		buildings = {
-			infrastructure = 4
-
-		}
-
+		add_core_of = MAH
 	}
 
 	provinces={
-		7150 7205 11993 
+		11952
 	}
 	manpower=3090100
 	buildings_max_level_factor=1.000

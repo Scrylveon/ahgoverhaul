@@ -16,11 +16,11 @@ state={
 
 		}
 		add_core_of = SWI
-
+		add_core_of = KBE
 	}
 
 	provinces={
-		636 9618 
+		9618 
 	}
 	manpower=1271375
 	buildings_max_level_factor=1.000

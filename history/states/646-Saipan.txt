@@ -8,16 +8,10 @@ state=
 	{
 		owner = PAC
 		add_core_of = PAC
+		add_core_of = NMI
 		buildings = {
 			infrastructure = 3
 			air_base = 3
-			3995 = {
-				naval_base = 1
-
-			}
-			13023 = {
-				naval_base = 1
-			}
 		}	
 		victory_points = {
 			3995 1

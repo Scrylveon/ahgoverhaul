@@ -9,12 +9,14 @@ state={
 
 		}
 		add_core_of = USA
+		add_core_of = CLR
+		add_core_of = GMA
 		add_claim_by = TEX
 
 	}
 
 	provinces={
-		1738 12627 
+		15129 
 	}
 	manpower=183613
 	buildings_max_level_factor=1.000

@@ -15,10 +15,11 @@ state={
 
 		}
 		victory_points = {
-			514 5 
+			514 25 
 		}
 		add_core_of = GER
 		add_core_of = SAX
+		add_core_of = DDR
 
 	}
 

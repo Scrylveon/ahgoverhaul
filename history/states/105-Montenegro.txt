@@ -10,7 +10,7 @@ state={
 	history={
 		owner = YUG
 		victory_points = {
-			13267 10 
+			13267 25
 		}
 		add_core_of = MNT
 		buildings = {
@@ -19,6 +19,7 @@ state={
 
 		}
 		add_core_of = YUG
+		add_core_of = ILY
 
 	}
 

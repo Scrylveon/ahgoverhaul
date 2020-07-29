@@ -2,7 +2,7 @@ state={
 	id=3676
 	name="STATE_3676"
 	provinces={
-		7921 
+		7921 18720
 	}
 	manpower = 1000
 	
@@ -11,6 +11,7 @@ state={
 	history={
 		owner = MEX
 		add_core_of = MEX
+		add_core_of = DRG
 		buildings = {
 			infrastructure = 1
 		}

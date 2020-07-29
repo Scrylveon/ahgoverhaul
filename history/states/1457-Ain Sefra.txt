@@ -4,17 +4,18 @@ state={
 	name="STATE_1457"
 
 	history={
-		owner = FRA
+		owner = SGR
 		buildings = {
 			infrastructure = 1
 
 		}
+		add_core_of = SGR
 		add_core_of = ALG
 
 	}
 
 	provinces={
-		1901 1958 8088 13410 
+		13410 
 	}
 	manpower=5233
 	impassable = yes

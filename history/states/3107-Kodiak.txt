@@ -3,8 +3,9 @@ state={
 	name="STATE_3107"
 	history={
 		
-		owner = USA 
+		owner = ALA 
 		add_core_of = USA
+		add_core_of = ALA
 		buildings = {
 			infrastructure = 4
 			

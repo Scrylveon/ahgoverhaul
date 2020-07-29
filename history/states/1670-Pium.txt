@@ -9,6 +9,8 @@ state={
 
 		}
 		add_core_of = BRA
+		add_core_of = TCT
+		add_core_of = GOI
 
 	}
 	

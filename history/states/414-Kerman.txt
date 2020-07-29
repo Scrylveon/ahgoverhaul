@@ -16,11 +16,12 @@ state={
 			10913 1 
 		}
 		add_core_of = PER
+		add_core_of = KRM
 
 	}
 
 	provinces={
-		1986 10913 11249 12809 
+		10913 11249 16307
 	}
 	manpower=486013
 	buildings_max_level_factor=1.000

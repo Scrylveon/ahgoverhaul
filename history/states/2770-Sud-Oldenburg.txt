@@ -5,14 +5,17 @@ state={
 		
 		owner = GER 
 		add_core_of = GER
+		add_core_of = WGR
 		add_core_of = OLD
+		add_core_of = HAN
+		add_core_of = NSA
 		buildings = {
 			infrastructure = 4
 			
 		}
 	}
 	provinces={
-		247 309 
+		247 
 	}
 	manpower=1000 
   state_category=pastoral

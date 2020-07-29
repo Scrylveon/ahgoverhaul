@@ -21,6 +21,7 @@ state={
 		}
 		add_core_of = USA
 		add_core_of = NEG
+		add_core_of = MAS
 		victory_points = {
 			6732 20 
 		}
@@ -28,7 +29,7 @@ state={
 	}
 
 	provinces={
-		715 905 3710 3906 6732 
+		6732 
 	}
 	manpower=2300150
 	buildings_max_level_factor=1.000

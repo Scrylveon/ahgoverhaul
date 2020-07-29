@@ -17,6 +17,8 @@ state={
 
 		}
 		add_core_of = USA
+		add_core_of = GMA
+		add_claim_by = SUP
 		add_core_of = MCH
 		victory_points = {
 			6710 20 
@@ -26,7 +28,7 @@ state={
 	}
 
 	provinces={
-		3766 6782 7420 9747 10233 10303 11714 11731 
+		7420 9747 10233 11731
 	}
 	manpower=3341322
 	buildings_max_level_factor=1.000

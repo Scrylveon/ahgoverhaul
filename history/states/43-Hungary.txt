@@ -19,12 +19,12 @@ state={
 			air_base = 4
 		}
 		victory_points = {
-			9660 20 
+			6716 5 
 		}
 		add_core_of = HUN
 	}
 
 	provinces={
-		684 716 3713 3731 6716 6751 9660 9690 11520 
+		6716 
 	}
 }

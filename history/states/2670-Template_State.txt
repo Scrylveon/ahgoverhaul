@@ -4,6 +4,8 @@ state={
 	history={
 		owner = USA 
 		add_core_of = USA
+		add_core_of = WDC
+		add_core_of = MRY
 		buildings = {
 			infrastructure = 4
 			

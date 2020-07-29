@@ -10,10 +10,11 @@ state={
 		buildings = {
 			infrastructure = 7
 		}
+		add_core_of = LEI
 		add_core_of = IRE
 	}
 
 	provinces={
-		303 369 3359
+		3359
 	}
 }

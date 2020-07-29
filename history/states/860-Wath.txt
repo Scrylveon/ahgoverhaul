@@ -9,12 +9,13 @@ state={
 
 		}
 		add_core_of = LBA
+		add_core_of = CYR
 
 	}
 
 
 	provinces={
-		1060 13266 
+		13266 
 	}
 	manpower=200
 	buildings_max_level_factor=1.000

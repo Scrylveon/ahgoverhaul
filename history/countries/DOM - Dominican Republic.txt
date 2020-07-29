@@ -14,14 +14,14 @@ set_convoys = 5
 	set_popularities = {
 		democratic 
 			 = 0
-		fascism
+		republican_fascism
 			 = 100
 		communism
 			 = 0
 			
 		}
 	set_politics = { 
- ruling_party = fascism
+ ruling_party = republican_fascism
 	last_election = "1934.5.16"
 	election_frequency = 48
 	elections_allowed = no
@@ -32,7 +32,7 @@ create_country_leader = {
 	desc = "POLITICS_RAFAEL_TRUJILLO_DESC"
 	picture = "Portrait_rafael_trujillo.dds"
 	expire = "1965.1.1"
-	ideology = fascism_ideology
+	ideology = repfash
 	traits = {
 		#
 	}

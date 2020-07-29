@@ -27,11 +27,11 @@ set_convoys = 5
 		communism
 			 = 0
 			
-		neutrality 
+		authoritarian_monarchism 
 			 = 60
 		}
 	set_politics = { 
- ruling_party = neutrality
+ ruling_party = authoritarian_monarchism
 	last_election = "1931.6.21"
 	election_frequency = 48
 	elections_allowed = no
@@ -43,7 +43,7 @@ create_country_leader = {
 	desc = "POLITICS_BORIS_III_DESC"
 	picture = "Portrait_Bulgaria_Boris_III.dds"
 	expire = "1965.1.1"
-	ideology = despotism
+	ideology = authmon
 	traits = {
 		#
 	}

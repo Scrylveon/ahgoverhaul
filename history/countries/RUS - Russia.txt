@@ -2,6 +2,7 @@
 
 oob = "RUS_1936"
 
+set_cosmetic_tag = RUS_SOV
 set_research_slots = 3
 
 # Starting tech
@@ -50,11 +51,11 @@ set_war_support = 0.8
 			 = 15 #shared between all set_popularities, should add to 100
 		fascism
 			 = 5
-		communism
+		vanguardism
 			 = 80
 		}
 	set_politics = { 
- ruling_party = communism
+ ruling_party = vanguardism
 	last_election = "1933.7.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -63,9 +64,9 @@ set_war_support = 0.8
 create_country_leader = {
 	name = "Mikhail Kalinin"
 	desc = ""
-	picture = "gfx/leaders/SOV/Portrait_Soviet_Generic_1.dds"
+	picture = "Mikhail_Kalinin.dds"
 	expire = "1953.3.1"
-	ideology = stalinism
+	ideology = totsoc
 	traits = {
 		
 	}

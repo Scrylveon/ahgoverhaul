@@ -26,30 +26,28 @@ set_technology = {
 set_convoys = 80		# biggest merchant marine in the world
 set_stability = 0.7
 
+set_popularities = {
+	democratic_monarchism 
+		= 96
+	fascism
+		= 2
+	communism
+		= 2
+	}
 
-
-	set_popularities = {
-		democratic 
-			 = 96
-		fascism
-			 = 2
-		communism
-			 = 2
-		}
-	set_politics = { 
- ruling_party = democratic
+set_politics = { 
+	ruling_party = democratic_monarchism
 	last_election = "1933.10.16"
 	election_frequency = 36
 	elections_allowed = yes
 }
 
-
 create_country_leader = {
 	name = "Haakon VII av Glücksburg"
 	desc = ""
-	picture = "Portrait_Haakon_VII.dds"
+	picture = "NOR_HaakonVII.tga"
 	expire = "1965.1.1"
-	ideology = socialism
+	ideology = liberal_constitutionalism
 	traits = {
 		#
 	}
@@ -58,7 +56,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Vidkun Quisling"
 	desc = "POLITICS_VIDKUN_QUISLING_DESC"
-	picture = "Portrait_Norway_Vidkun_Quisling.dds"
+	picture = "NOR_Quisling.tga"
 	expire = "1965.1.1"
 	ideology = nazism
 	traits = {
@@ -69,7 +67,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Johan Ludwig Mowinckel"
 	desc = "POLITICS_JOHAN_LUDWIG_MOWINCKEL_DESC"
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_3.dds"
+	picture = "NOR_Mowinckel.tga"
 	expire = "1965.1.1"
 	ideology = centrism
 	traits = {
@@ -80,28 +78,10 @@ create_country_leader = {
 create_country_leader = {
 	name = "Adam Egede-Nissen"
 	desc = "POLITICS_ADAM_EGEDE_NISSEN_DESC"
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_5.dds"
+	picture = "NOR_EgedeNissen.tga"
 	expire = "1965.1.1"
 	ideology = marxism
 	traits = {
 		#
 	}
-}
-
-create_corps_commander = {
-	name = "Carl Gustav Fleischer"
-	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_land_1.dds"
-	traits = {  trickster winter_specialist }
-	skill = 4
-	attack_skill = 3
-	defense_skill = 4
-	planning_skill = 2
-	logistics_skill = 4
-}
-
-create_navy_leader = {
-	name = "Elias Corneliussen"
-	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_navy_2.dds"
-	traits = { spotter }
-	skill = 3
 }

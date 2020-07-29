@@ -21,12 +21,13 @@ state={
 			air_base = 6
 		}
 		add_core_of = GER
-		add_core_of = BAV
+		add_core_of = BAY
+		add_core_of = WGR
 
 		
 	}
 
 	provinces={
-		692 708 3705 6693 9652 9666 11620 11638 11653 
+		692 6693 11653 
 	}
 }

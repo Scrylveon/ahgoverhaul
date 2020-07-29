@@ -3,17 +3,18 @@ state={
 	name="STATE_1785"
 	
 	history={
-		owner = JAP
+		owner = KOR
 		buildings = {
 			infrastructure = 4
 
 		}
 		add_core_of = KOR
+		add_core_of = DPK
 
 	}
 	
 	provinces={
-		13613 
+		13613 19109
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

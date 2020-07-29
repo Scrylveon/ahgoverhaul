@@ -18,12 +18,14 @@ state={
 
 		}
 		add_core_of = FRA
+		add_core_of = PIC
+		add_core_of = ART
 		
 
 	}
 
 	provinces={
-		3476 3536 6504 9500 
+		3476 3536 9500 
 	}
 	manpower=1112066
 	buildings_max_level_factor=1.000

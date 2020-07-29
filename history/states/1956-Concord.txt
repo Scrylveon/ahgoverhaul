@@ -12,11 +12,14 @@ state={
 		add_core_of = USA
 		add_core_of = NHM
 		add_core_of = NEG
-
+		
+		victory_points = {
+			3715 1 
+		}
 	}
 
 	provinces={
-		3712 3715 
+		3715 
 	}
 	manpower=350000
 	buildings_max_level_factor=1.000

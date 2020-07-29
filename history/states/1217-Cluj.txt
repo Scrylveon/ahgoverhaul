@@ -13,7 +13,7 @@ state={
 
 		}
 		victory_points = {
-			6711 5 
+			6711 25 
 		}
 		add_core_of = ROM
 		add_core_of = TRV

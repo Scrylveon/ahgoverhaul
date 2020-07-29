@@ -11,12 +11,13 @@ state={
 
 		}
 		add_core_of = GRE
+		add_core_of = CMC
 		add_claim_by = BUL
 
 	}
 	
 	provinces={
-		966 3844 
+		3844 
 	}
 	
 	manpower=1

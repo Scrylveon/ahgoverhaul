@@ -11,15 +11,17 @@ state={
 
 		}
 		victory_points = {
-			11581 3 
+			11581 25 
 		}
 		add_core_of = YUG
 		add_core_of = CRO
+		add_core_of = SVA
+		add_core_of = ILY
 
 	}
 
 	provinces={
-		624 9611 11581 11594 
+		11581 
 	}
 	manpower=1730000
 	buildings_max_level_factor=1.000

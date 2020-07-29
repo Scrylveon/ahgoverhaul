@@ -16,16 +16,16 @@ set_convoys = 5
 
 	set_popularities = {
 		democratic 
-			 = 5
+			 = 10
 		fascism
-			 = 5
+			 = 10
 		communism
 			 = 20
-		neutrality 
+		conservative_monarchism 
 			 = 60
 		}
 	set_politics = { 
- ruling_party = neutrality
+ ruling_party = conservative_monarchism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -36,7 +36,7 @@ create_country_leader = {
 	name = "Walter McNicoll"
 	picture = "gfx/leaders/Pacific/Walter_McNicoll.dds"
 	expire = "1947.12.24"
-	ideology = despotism
+	ideology = conservative_constitutionalism
 	traits = {
 		#
 	}

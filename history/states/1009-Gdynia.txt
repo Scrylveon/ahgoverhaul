@@ -10,15 +10,10 @@ state={
 		}
 		buildings = {
 			infrastructure = 6
-			dockyard = 1
-			9263 = {
-				naval_base = 2
-
-			}
 
 		}
 		add_core_of = POL
-		add_core_of = PRS
+		add_core_of = PRE
 		add_core_of = WPR
 		add_core_of = PWP
 		add_core_of = KSH
@@ -30,7 +25,7 @@ state={
 	}
 
 	provinces={
-		389 3324 
+		389 
 	}
 	manpower=640100
 	buildings_max_level_factor=1.000

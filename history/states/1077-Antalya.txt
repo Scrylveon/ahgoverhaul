@@ -18,11 +18,11 @@ state={
 
 		}
 		add_core_of = TUR
-
+		add_core_of = TEK
 	}
 
 	provinces={
-		1005 1119 
+		1005 
 	}
 	manpower=180320
 	buildings_max_level_factor=1.000

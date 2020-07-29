@@ -10,6 +10,8 @@ state={
 		owner = JAP
 		add_core_of = JAP
 		add_core_of = EZO
+		add_core_of = PRJ
+		add_core_of = HOK
 		buildings = {
 			infrastructure = 3
 		}
@@ -23,6 +25,6 @@ state={
 	}
 
 	provinces={
-		7532 10444 10512 12421 12493 
+		10444 10512 12421 12493 
 	}
 }

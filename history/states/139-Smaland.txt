@@ -15,10 +15,6 @@ state={
 			infrastructure = 5
 			industrial_complex = 1
 			air_base = 2
-			11380 = {
-				naval_base = 1
-
-			}
 
 		}
 		add_core_of = SWE
@@ -26,7 +22,7 @@ state={
 	}
 
 	provinces={
-		11380 11390 11289 9406 6397 6311 9308 9393
+		11289 9406 6397 6311 9393
 	}
 	manpower=416563
 	buildings_max_level_factor=1.000

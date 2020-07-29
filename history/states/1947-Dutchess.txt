@@ -11,10 +11,13 @@ state={
 		add_core_of = USA
 		add_core_of = NWY
 
+		victory_points = {
+			3806 1 
+		}
 	}
 	
 	provinces={
-		3806 6911 
+		3806 
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

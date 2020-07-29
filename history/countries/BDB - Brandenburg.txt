@@ -46,34 +46,24 @@ set_technology = {
 
 set_convoys = 50
 
+set_popularities = {
+	national_socialism
+		= 100
+}
 
-
-
-	set_popularities = {
-		democratic 
-			 = 15
-		fascism
-			 = 80
-		communism
-			 = 5
-		}
-	set_politics = { 
- ruling_party = fascism
-	last_election = "1936.1.1"
-	election_frequency = 48
+set_politics = { 
+	ruling_party = national_socialism
+	last_election = "1960.1.1"
+	election_frequency = 50
 	elections_allowed = no
 }
 
-add_ideas = {
-	limited_conscription
-}
-
 create_country_leader = {
-	name = "Heinrich Himmler"
-	desc = "POLITICS_HEINRICH_HIMMLER_DESC"
-	picture = "gfx/leaders/GER/Portrait_Germany_Heinrich_Himmler.dds"
-	expire = "1965.1.1"
-	ideology = nazism
+	name = "Wilhelm Kube"
+	desc = ""
+	picture = "BDB_Kube.tga"
+	expire = "1960.1.1"
+	ideology = natsoc
 	traits = {
-	}
+		#
 }

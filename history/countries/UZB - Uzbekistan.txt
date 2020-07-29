@@ -42,7 +42,7 @@ set_technology = {
 	set_popularities = {
 		democratic 
 			 = 10
-		communism
+		vanguardism
 			 = 60
 		
         neutrality 
@@ -50,18 +50,18 @@ set_technology = {
 	}
 	
 	set_politics = { 
- ruling_party = communism
+ ruling_party = vanguardism
 	last_election = "1936.1.1"
 	election_frequency = 50
 	elections_allowed = no
 }
 
 create_country_leader = {
-	name = "Mahkam Rahmatov"
+	name = "Yuldash Akhunbabayev"
 	desc = ""
-	picture = "gfx/leaders/SAU/Portrait_Arabia_Generic_1.dds"
+	picture = "Yuldash.dds"
 	expire = "1960.1.1"
-	ideology = stalinism
+	ideology = totsoc
 	traits = {
 		
 	}

@@ -10,7 +10,9 @@ state={
 
 	history={
 		owner = POL
+		add_core_of = LBL
 		add_core_of = POL
+		add_core_of = MSV
 		buildings = {
 			infrastructure = 1
 		}

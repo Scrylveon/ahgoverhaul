@@ -16,6 +16,8 @@ state={
 			industrial_complex = 3
 		}
 		add_core_of = USA
+		add_core_of = GMA
+		add_core_of = WSC
 		victory_points = {
 			12357 5 
 		}
@@ -23,6 +25,6 @@ state={
 	}
 
 	provinces={
-		703 926 1560 4166 4738 4834 9657 12357 12456 
+		9657 12357 14864
 	}
 }

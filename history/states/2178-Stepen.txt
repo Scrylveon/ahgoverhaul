@@ -12,11 +12,12 @@ state={
 		add_core_of = YUG
 		add_core_of = BOS
 		add_core_of = SRP
+		add_core_of = ILY
 
 	}
 
 	provinces={
-		953 11845 
+			11845 
 	}
 	manpower=56200
 	buildings_max_level_factor=1.000

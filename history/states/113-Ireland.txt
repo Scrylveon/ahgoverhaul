@@ -18,9 +18,10 @@ state={
 			air_base = 3
 		}
 		add_core_of = IRE
+		add_core_of = LEI
 	}
 
 	provinces={
-		285 3342 7377 
+		285 
 	}
 }

@@ -7,7 +7,7 @@ state={
 		owner = GER
 		controller = GER
 		victory_points = {
-			6332 10 
+			6332 25 
 		}
 		buildings = {
 			infrastructure = 6
@@ -26,7 +26,7 @@ state={
 		}
 		add_core_of = GER
 		add_core_of = KON
-		add_core_of = PRS
+		add_core_of = PRE
 
 	}
 

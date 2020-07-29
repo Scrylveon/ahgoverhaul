@@ -2,11 +2,13 @@ state={
 	id=1246
 	name="STATE_1246"
 	provinces={
-		4090 4132 7207 10118 12037 
+		10118 7207 
 	}
 	
 	history={
-		owner = RAJ
+		owner = RJK
+		add_core_of = RJK
+		add_core_of = RAJ
 		buildings = {
 			infrastructure = 4
 			arms_factory = 1

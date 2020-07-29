@@ -9,12 +9,13 @@ state={
 
 		}
 		add_core_of = CHA
+		add_core_of = LCH
 
 	}
 
 
 	provinces={
-		13243 13245 
+		13243 
 	}
 	manpower=21011
 	buildings_max_level_factor=1.000

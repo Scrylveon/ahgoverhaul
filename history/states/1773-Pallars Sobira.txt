@@ -2,10 +2,10 @@ state={
 	id=1773
 	name="STATE_1773"
 	
-	state_category=wasteland
+	state_category=pastoral
 	
 	history={
-		owner = SPR
+		owner = CAT
 		buildings = {
 			infrastructure = 8
 

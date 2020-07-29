@@ -20,15 +20,19 @@ state={
 
 		}
 		add_core_of = USA
+		add_core_of = PEN
 		victory_points = {
 			6845 20 
+		}
+		victory_points = {
+			14889 1 
 		}
 		
 
 	}
 
 	provinces={
-		891 894 3824 3897 6845 6869 9820 11785 11799 
+		6845 6869 11785 11799 14889
 	}
 	manpower=9631346
 	buildings_max_level_factor=1.000

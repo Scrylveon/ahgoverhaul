@@ -17,12 +17,13 @@ state={
 		}
 		add_core_of = ENG
 		add_core_of = EGL
+		add_core_of = MER
 		
 
 	}
 
 	provinces={
-		364 3353 9250 9268 11279 6270
+		364 9268 11279
 	}
 	manpower=2212021
 	buildings_max_level_factor=1.000

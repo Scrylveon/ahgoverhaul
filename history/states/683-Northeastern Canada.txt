@@ -11,11 +11,12 @@ state={
 		}
 		add_core_of = CAN
 		add_core_of = NUN
+		add_core_of = NWT
 
 	}
 
 	provinces={
-		2947 10721 
+		10721 
 	}
 	manpower=46135
 	buildings_max_level_factor=1.000

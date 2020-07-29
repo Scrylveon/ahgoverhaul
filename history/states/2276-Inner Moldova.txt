@@ -12,10 +12,9 @@ state={
 		}
 
 		add_core_of = ROM
-		add_claim_by = TRV
-		add_claim_by = BUK
-		add_claim_by = GLC
-		add_core_of = MOL
+		add_core_of = BUK
+		add_claim_by = GAL
+        add_core_of = MLV
 
 	}
 

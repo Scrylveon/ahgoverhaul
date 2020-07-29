@@ -6,6 +6,7 @@ state={
 	history={
 		owner = FWA
 		add_core_of = NGR
+		add_core_of = AGD
 		buildings = {
 			infrastructure = 0
 
@@ -14,7 +15,7 @@ state={
 	}
 
 	provinces={
-		1956 7939 8128 10917 13461
+		13461 19239
 	}
 	manpower=762301
 	buildings_max_level_factor=1.000

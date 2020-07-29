@@ -19,14 +19,18 @@ state={
 
 		}
 		add_core_of = GER
-		add_core_of = PRS
+		add_core_of = PRE
 		add_core_of = SMA
+		add_core_of = WGR
+		add_core_of = THU
+		add_core_of = SME
+        add_core_of = DDR
 		
 
 	}
 
 	provinces={
-		3561 
+		17962 
 	}
 	manpower=3005214
 	buildings_max_level_factor=1.000

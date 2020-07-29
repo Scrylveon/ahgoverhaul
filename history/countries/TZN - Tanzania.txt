@@ -22,11 +22,11 @@ set_convoys = 5
 		communism
 			 = 0
 			
-		neutrality 
+		authoritarian_monarchism 
 			 = 100
 		}
 	set_politics = { 
- ruling_party = neutrality
+ ruling_party = authoritarian_monarchism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -56,7 +56,7 @@ create_country_leader = {
 	name = "Harold MacMichael"
 	picture = "gfx/leaders/TZN/Portrait_Harold_MacMichael.dds"
 	expire = "1969.2.19"
-	ideology = moderatism
+	ideology = authmon
 	traits = { }
 }
 

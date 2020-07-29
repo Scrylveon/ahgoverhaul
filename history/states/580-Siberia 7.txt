@@ -1,13 +1,10 @@
 
 state={
 	id=580
-	name="STATE_580" # Tobolsk
-	manpower = 88126
-	
-	state_category = wasteland
+	name="STATE_580"
 
 	history={
-		owner = SOV
+		owner = KTM
 		buildings = {
 			infrastructure = 1
 
@@ -15,10 +12,14 @@ state={
 		add_core_of = SOV
 		add_core_of = RUS
 		add_core_of = SBR
-		add_core_of = YML
+		add_core_of = KTM
+
 	}
 
 	provinces={
-		1744 4710 4746 4774 4846 7733 7768 7796 7895 10604 12630 12700
+		1744 1771 1841 4710 4746 4774 4813 4846 7733 7768 7796 7895 10604 10720 12630 12700 19869 19875 19883 19932 
 	}
+	manpower=88126
+	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

@@ -10,7 +10,7 @@ state={
 	history={
 		owner = POL
 		victory_points = {
-			9427 10 
+			9427 25 
 		}
 		buildings = {
 			infrastructure = 6
@@ -20,7 +20,8 @@ state={
 
 		}
 		add_core_of = POL
-		add_core_of = GLC
+		add_core_of = GAL
+		add_core_of = KRW
 	}
 
 	provinces={

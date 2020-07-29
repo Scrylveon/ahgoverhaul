@@ -11,13 +11,12 @@ state={
 
 		}
 		add_core_of = ITA
-		add_core_of = KTS
 		add_core_of = NAP
 
 	}
 
 	provinces={
-		3901 10027 12098 
+		3901 
 	}
 	manpower=2966315
 	buildings_max_level_factor=1.000

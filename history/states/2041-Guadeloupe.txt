@@ -6,7 +6,7 @@ state={
 	state_category = rural
 
 	history={
-		owner = FRA
+		owner = GDL
 		add_core_of = GDL
 		buildings = {
 			infrastructure = 4
@@ -14,6 +14,9 @@ state={
 			9377 = {
 				naval_base = 1
 			}
+		}
+		victory_points = {
+			9377 1 
 		}
 	}
 	

@@ -15,11 +15,12 @@ state={
 		}
 		add_core_of = CAN
 		add_core_of = ALT
+		add_core_of = MET
 
 	}
 
 	provinces={
-		1804 3010 7348 12166 
+		7348 
 	}
 	manpower=690800
 	buildings_max_level_factor=1.000

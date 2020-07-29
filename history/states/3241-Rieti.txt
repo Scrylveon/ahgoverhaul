@@ -15,6 +15,9 @@ state={
 			infrastructure = 1
 		}
 		add_core_of = ITA
+		add_core_of = SPL
+		add_core_of = RSI
+		add_claim_by = VCT
 	}
 	buildings_max_level_factor=1.000
 }

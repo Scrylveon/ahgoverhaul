@@ -14,12 +14,13 @@ state={
 		}
 		add_core_of = AUS
 		add_core_of = LAS
+		add_core_of = EAS
 		
 
 	}
 
 	provinces={
-		704 6690 11651 11666 13361 
+		6690 
 	}
 	manpower=1486019
 	buildings_max_level_factor=1.000

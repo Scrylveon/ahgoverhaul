@@ -24,12 +24,13 @@ state={
 		}
 		add_core_of = ITA
 		add_core_of = PIE
+		add_core_of = RSI
 		
 
 	}
 
 	provinces={
-		770 771 9741 11723 11726 11730 
+		11723 
 	}
 	manpower=3125260
 	buildings_max_level_factor=1.000

@@ -9,11 +9,13 @@ state={
 
 		}
 		add_core_of = COG
+		add_core_of = SDK
+		add_core_of = LCN
 
 	}
 	
 	provinces={
-		2024
+		7716 
 	}
 	
 	manpower=201841

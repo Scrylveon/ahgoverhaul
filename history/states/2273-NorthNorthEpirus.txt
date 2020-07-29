@@ -19,12 +19,13 @@ state={
 			}
 		}
 		add_core_of = ALB
+		add_core_of = EPR
 		add_claim_by = ITA
 
 	}
 
 	provinces={
-		11767 3884 
+		11767 
 	}
 	manpower=22000
 	buildings_max_level_factor=1.000

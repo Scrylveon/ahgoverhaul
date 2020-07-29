@@ -6,7 +6,7 @@ state={
 	history={
 		owner = GER
 		victory_points = {
-			495 5 
+			495 25 
 		}
 		buildings = {
 			infrastructure = 8
@@ -16,14 +16,16 @@ state={
 
 		}
 		add_core_of = GER
-		add_core_of = PRS
+		add_core_of = PRE
 		add_core_of = WSF
+		add_core_of = WGR
+		add_core_of = NRW
 		
 
 	}
 
 	provinces={
-		3398 495
+		495
 	}
 	manpower=5109333
 	buildings_max_level_factor=1.000

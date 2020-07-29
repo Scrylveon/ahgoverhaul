@@ -11,12 +11,13 @@ state={
 		}
 		add_core_of = ROM
 		add_core_of = MOL
+        add_core_of = MLV
 		add_core_of = GAU
 
 	}
 
 	provinces={
-		3724 13472 
+		3724 
 	}
 	manpower=35754
 	buildings_max_level_factor=1.000

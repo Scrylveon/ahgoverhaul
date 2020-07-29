@@ -5,13 +5,15 @@ state={
 		
 		owner = USA 
 		add_core_of = USA
+		add_core_of = PEN
+		add_core_of = GMA
 		buildings = {
 			infrastructure = 4
 			
 		}
 	}
 	provinces={
-		6899 
+		6899 14885
 	}
 	manpower=1000 
  state_category=pastoral

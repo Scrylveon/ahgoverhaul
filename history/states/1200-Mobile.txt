@@ -18,7 +18,10 @@ state={
 		}
 		add_core_of = USA
 		add_claim_by = FLO
+		add_claim_by = WFL
+		add_core_of = ALM
 		add_core_of = CSA
+		add_core_of = NAF
 		victory_points = {
 			7480 1 
 		}

@@ -30,7 +30,7 @@ set_technology = {
 
 
 	set_popularities = {
-		democratic 
+		authoritarian_monarchism 
 			 = 90
 		fascism
 			 = 10
@@ -39,7 +39,7 @@ set_technology = {
 			
 		}
 	set_politics = { 
- ruling_party = democratic
+ ruling_party = authoritarian_monarchism
 	last_election = "1935.10.14"
 	election_frequency = 60
 	elections_allowed = yes
@@ -50,7 +50,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_Humphrey_Walwyn.dds"
 	expire = "1965.1.1"
-	ideology = liberalism
+	ideology = authmon
 	traits = {
 		#
 	}

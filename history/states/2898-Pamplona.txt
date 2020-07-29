@@ -6,13 +6,14 @@ state={
 		owner = SPR 
 		add_core_of = SPR
 		add_core_of = BSQ
+		add_core_of = NAV
 		buildings = {
 			infrastructure = 4
 			
 		}
 	}
 	provinces={
-		932 9857 3735
+		9857
 	}
 	manpower=1000 
  state_category=pastoral

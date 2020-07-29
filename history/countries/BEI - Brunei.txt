@@ -50,13 +50,13 @@ set_technology = {
 			 = 10
 		communism
 			 = 5
-		neutrality
+		monarchism
 			 = 70
 		
 	}
 
 	set_politics = { 
- ruling_party = neutrality
+ ruling_party = monarchism
 	last_election = "1933.2.16"
 	election_frequency = 36
 	elections_allowed = no
@@ -70,7 +70,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_Ahmad_Tajuddin.dds"
 	expire = "1953.3.1"
-	ideology = despotism
+	ideology = absolutism
 	traits = {
 		
 	}

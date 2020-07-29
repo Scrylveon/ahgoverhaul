@@ -11,11 +11,12 @@ state={
 
 		}
 		add_core_of = BRA
+		add_core_of = AMZ
 
 	}
 
 	provinces={
-		13571 13572 13674 
+		13572 13674 
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

@@ -1,4 +1,4 @@
-﻿capital = 2240
+﻿capital = 1050
 
 # Starting tech
 set_technology = {
@@ -15,12 +15,12 @@ set_cosmetic_tag = SWZ_ENG
 			 = 0
 		communism
 			 = 0
-		neutrality 
+		authoritarian_monarchism 
 			 = 100
 		
 	}
 	set_politics = { 
- ruling_party = neutrality
+ ruling_party = authoritarian_monarchism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes
@@ -29,7 +29,7 @@ create_country_leader = {
 	name = "Allan Graham Marwick"
 	desc = ""
 	picture = "Portrait_Allan_Graham_Marwick.dds"
-	ideology = despotism
+	ideology = authmon
 	expire = "1978.10.27"
 	traits = {
 		#

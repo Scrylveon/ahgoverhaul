@@ -19,12 +19,12 @@ set_convoys = 10
         
         communism =  15 
         fascism =  5 
-        neutrality =  80 
+        authoritarian_monarchism =  80 
 
 	}
 	
 	set_politics = { 
- ruling_party = neutrality
+ ruling_party = authoritarian_monarchism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -35,7 +35,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_Arthur_Evelyn_Francis_Murray.dds"
 	expire = "1965.1.1"
-	ideology = despotism
+	ideology = authmon
 	traits = {
 		#
 	}

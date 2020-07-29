@@ -3,7 +3,7 @@ state={
 	name="STATE_1035"
 
 	history={
-		owner = SOV
+		owner = TSC
 		victory_points = {
 			1467 1
 		}
@@ -19,7 +19,7 @@ state={
 	}
 
 	provinces={
-		1467 9715 
+		1467 
 	}
 	manpower=420023
 	buildings_max_level_factor=1.000

@@ -9,6 +9,7 @@ state={
 	history={
 		owner = SIK
 		add_core_of = SIK
+		add_core_of = ZGH
 		add_core_of = CHI
 		add_core_of = PRC
 		buildings = {
@@ -19,6 +20,6 @@ state={
 	}
 
 	provinces={
-		4714 4788 4849 7737 10674 10691 
+		4714 4788 4849 7737 10674 10691 12671 
 	}
 }

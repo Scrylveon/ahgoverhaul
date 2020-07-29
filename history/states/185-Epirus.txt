@@ -15,11 +15,13 @@ state={
 
 		}
 		add_core_of = GRE
+		add_core_of = EPR
+        add_core_of = WGC
 
 	}
 
 	provinces={
-		1205 11895 
+		1205 
 	}
 	manpower=140534
 	buildings_max_level_factor=1.000

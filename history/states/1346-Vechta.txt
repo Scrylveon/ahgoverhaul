@@ -10,13 +10,15 @@ state={
 
 		}
 		add_core_of = GER
-		add_core_of = PRS
+		add_core_of = PRE
 		add_core_of = WSF
+		add_core_of = WGR
+		add_core_of = NRW
 
 	}
 
 	provinces={
-		9509 11431 9443 3355
+		9509
 	}
 	manpower=21467
 	buildings_max_level_factor=1.000

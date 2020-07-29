@@ -1,4 +1,4 @@
-﻿capital = 1590
+﻿capital = 5219
 
 oob = "NMB_1936"
 set_cosmetic_tag = NMB_ENG
@@ -12,7 +12,7 @@ set_technology = {
 
 
 	set_popularities = {
-		democratic 
+		conservative_monarchism 
 			 = 80
 		fascism
 			 = 0
@@ -23,7 +23,7 @@ set_technology = {
 			 = 0
 		}
 	set_politics = { 
- ruling_party = democratic
+ ruling_party = conservative_monarchism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -43,7 +43,7 @@ create_country_leader = {
 	name = "David Gideon Conradie"
 	picture = "gfx/leaders/NMB/Portrait_David_Gideon_Conradie.dds"
 	expire = "1965.1.1"
-	ideology = conservatism
+	ideology = conservative_constitutionalism
 	traits = {
 		#
 	}

@@ -12,19 +12,16 @@ state={
 			arms_factory = 1
 			industrial_complex = 2
 			air_base = 2
-			11818 = {
-				naval_base = 3
-
-			}
 
 		}
 		add_core_of = GRE
 		add_claim_by = BUL
+		add_core_of = CMC
 
 	}
 	
 	provinces={
-		895 3936 11818 
+		895 
 	}
 	
 	manpower=270000

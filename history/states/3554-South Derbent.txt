@@ -5,14 +5,14 @@ state={
 		7624
 	}
 	history={
-		owner = SOV
+		owner = DAG
 		buildings = {
 			infrastructure = 4
 
 		}
 		add_core_of = SOV
 		add_core_of = RUS
-		add_core_of = DKU
+		add_core_of = CSS
 		add_core_of = DAG
 		add_core_of = LZG
 		add_claim_by = AZR

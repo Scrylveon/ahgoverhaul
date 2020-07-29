@@ -3,7 +3,9 @@ state={
 	name="STATE_1005"
 
 	history={
-		owner = RAJ
+		owner = JIP
+		add_core_of = RAJ
+		add_core_of = JIP
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
@@ -13,7 +15,7 @@ state={
 	}
 
 	provinces={
-		2054 4915 7905 
+		15012 15010 14974 15013 15011 
 	}
 	manpower=1513000
 	buildings_max_level_factor=1.000

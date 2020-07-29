@@ -2,7 +2,7 @@ state={
 	id=3695
 	name="STATE_3695"
 	provinces={
-		1927 4884 
+		1927 4884 2042 15141 15138 14144
 	}
 	manpower = 1000
 	
@@ -15,6 +15,9 @@ state={
 		add_core_of = TEX
 		buildings = {
 			infrastructure = 1
+		}
+		victory_points = {
+			1927 5
 		}
 	}
 	buildings_max_level_factor=1.000

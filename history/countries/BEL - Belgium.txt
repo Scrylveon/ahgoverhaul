@@ -37,23 +37,43 @@ set_technology = {
 #	}
 #}
 
+#set_popularities = {
+#	socialism 
+#		= 32
+#	conservative_monarchism
+#		= 30
+#	democratic_monarchism
+#		= 12
+#	fascism
+#		= 11
+#	republican_fascism
+#		= 7
+#	vanguardism
+#		= 4
+#	communism
+#		= 4
+#}
+
+set_popularities = {
+	conservative_monarchism
+		= 42
+	socialism_ideology
+		= 39
+	democratic_monarchism
+		= 13
+	republican_fascism
+		= 4
+	vanguardism
+		= 2
+}
 
 
-	set_popularities = {
-		democratic 
-			 = 83
-		fascism
-			 = 11
-		communism
-			 = 6
-		}
-	set_politics = { 
- ruling_party = democratic
+set_politics = { 
+	ruling_party = conservative_monarchism
 	last_election = "1932.11.27"
 	election_frequency = 48
 	elections_allowed = yes
 }
-
 
 set_convoys = 80
 set_stability = 0.75
@@ -63,59 +83,8 @@ create_country_leader = {
 	desc = "POLITICS_HUBERT_PIERLOT_DESC"
 	picture = "Portrait_Belgium_Leopold_iii.dds"
 	expire = "1965.1.1"
-	ideology = conservatism
+	ideology = conservative_constitutionalism
 	traits = {
 		#
 	}
-}
-
-create_country_leader = {
-	name = "Joseph Jacquemotte"
-	desc = "POLITICS_JOSEPH_JACQUEMOTTE_DESC"
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_1.dds"
-	expire = "1965.1.1"
-	ideology = anarchist_communism
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "Léon Degrelle"
-	desc = "POLITICS_LEON_DEGRELLE_DESC"
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_1.dds"
-	expire = "1965.1.1"
-	ideology = rexism
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "Leopold III"
-	desc = "POLITICS_LEOPOLD_III_DESC"
-	picture = "Portrait_Belgium_Leopold_iii.dds"
-	expire = "1965.1.1"
-	ideology = despotism
-	traits = {
-		popular_figurehead
-	}
-}
-
-create_corps_commander = {
-	name = "M.C.L. Keyaerts"
-	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_land_2.dds"
-	traits = { trait_mountaineer hill_fighter }
-	skill = 4
-	attack_skill = 3
-	defense_skill = 2
-	planning_skill = 4
-	logistics_skill = 4
-}
-
-create_navy_leader = {
-	name = "Georges Timmermans"
-	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_navy_3.dds"
-	traits = { seawolf }
-	skill = 4
 }

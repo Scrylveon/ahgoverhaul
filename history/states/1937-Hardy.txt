@@ -9,11 +9,13 @@ state={
 
 		}
 		add_core_of = USA
+		add_core_of = WVR
+		add_core_of = CSA
 
 	}
 	
 	provinces={
-		6958 11888 
+		14869 11888 
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

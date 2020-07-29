@@ -9,7 +9,8 @@ state={
 
 		}
 		add_core_of = USA
-		add_core_of = UTH
+		add_core_of = NVA	
+		add_claim_by = CSA
 
 	}
 	

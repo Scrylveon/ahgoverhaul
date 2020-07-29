@@ -7,16 +7,9 @@ state={
 	history={
 		owner = INS
 		add_core_of = INS
+		add_core_of = MLK
 		buildings = {
 			infrastructure = 3
-			1351 = {
-				naval_base = 1
-
-			}
-			7413 = {
-				naval_base = 1
-
-			}
 		}
 	}
 	provinces={

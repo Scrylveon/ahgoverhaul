@@ -1,0 +1,17 @@
+state={
+	id=10216
+	name="STATE_10216"
+	provinces={
+		19558 
+	}
+	history={
+	    owner = SGR
+        add_core_of = SGR
+        add_core_of = ALG
+	add_core_of = LKM
+    }	
+	manpower=1000
+	state_category = pastoral
+	impassable = yes
+	buildings_max_level_factor=1.000
+}

@@ -3,13 +3,14 @@ state={
 	name="STATE_2134"
 
 	history={
-		owner = OMA
+		owner = IMO
 		buildings = {
 			infrastructure = 0
 
 		}
 		add_core_of = SAU
-		add_core_of = OMA
+		add_core_of = IMO
+		add_core_of = OMN
 
 	}
 
@@ -17,6 +18,7 @@ state={
 		12740 
 	}
 	manpower=4
+	impassable = yes
 	buildings_max_level_factor=1.000
 	state_category=wasteland
 }

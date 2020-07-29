@@ -21,11 +21,11 @@ set_convoys = 5
 			 = 5
 		communism
 			 = 5
-		neutrality 
+		authoritarian_monarchism 
 			 = 85
 		}
 	set_politics = { 
- ruling_party = neutrality
+ ruling_party = authoritarian_monarchism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -44,10 +44,10 @@ create_country_leader = {
 
 create_country_leader = {
 	
-	name = "Murchison Fletcher"
-	picture = "gfx/leaders/British Colonial/Murchison_Fletcher.dds"
+	name = "Sir Arthur Murchison Fletcher"
+	picture = "Portrait_Sir_Arthur_Murchison_Fletcher.dds"
 	expire = "1954.7.28"
-	ideology = despotism
+	ideology = authmon
 	traits = {
 		#
 	}

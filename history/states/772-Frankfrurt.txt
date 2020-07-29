@@ -11,12 +11,14 @@ state={
 
 		}
 		victory_points = {
-			6488 20 
+			9547 10 
 		}
 		add_core_of = GER
-		add_core_of = PRS
+		add_core_of = PRE
 		add_core_of = NSU
 		add_core_of = HEN
+		add_core_of = WGR
+		add_core_of = HSN
 		1936.3.7 = {
 			set_demilitarized_zone = no
 

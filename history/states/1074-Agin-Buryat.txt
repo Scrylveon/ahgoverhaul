@@ -1,9 +1,10 @@
+
 state={
 	id=1074
 	name="STATE_1074"
 
 	history={
-		owner = SOV
+		owner = RUS
 		buildings = {
 			infrastructure = 3
 			air_base = 2
@@ -16,7 +17,7 @@ state={
 	}
 
 	provinces={
-		1672 4677 4719 7725 7786 10559 10683 12622 
+		1672 4677 4719 7725 7786 10559 12622 
 	}
 	manpower=520100
 	buildings_max_level_factor=1.000

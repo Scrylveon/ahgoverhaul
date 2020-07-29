@@ -9,33 +9,32 @@ set_technology = {
 }
 
 set_convoys = 20
+set_cosmetic_tag = PUE_USA
 
+set_popularities = {
+	stratocratic 
+		= 45
+	fascism
+		= 0
+	communism
+		= 0
+	liberal_republic = 45
+	democratic = 10
+	}
 
-
-
-
-	set_popularities = {
-		democratic 
-			 = 95
-		fascism
-			 = 5
-		communism
-			 = 0
-			
-		}
-	set_politics = { 
- ruling_party = democratic
-	last_election = "1936.1.10"
+set_politics = { 
+	ruling_party = stratocratic
+	last_election = "1932.11.8"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 create_country_leader = {
-	name = "Manoel Ambrósio Leal"
+	name = "Blanton C. Winship"
 	desc = ""
-	picture = "gfx/leaders/South America/Portrait_South_America_Generic_2.dds"
+	picture = "PUE_Winship.dds"
 	expire = "1965.1.1"
-	ideology = liberalism
+	ideology = militarism
 	traits = {
 		#
 	}

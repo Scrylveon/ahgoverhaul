@@ -24,7 +24,7 @@ set_convoys = 10
 			 = 10
 		communism
 			 = 10
-		neutrality 
+		neutrality
 			 = 50
 		}
 	set_politics = { 

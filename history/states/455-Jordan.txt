@@ -14,11 +14,12 @@ state={
 			7151 1 
 		}
 		add_core_of = JOR
+		add_claim_by = OML
 
 	}
 
 	provinces={
-		7001 7151 7170 
+		7151 
 	}
 	manpower=911000
 	buildings_max_level_factor=1.000

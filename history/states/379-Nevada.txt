@@ -15,12 +15,15 @@ state={
 
 		}
 		add_core_of = USA
-		add_core_of = UTH
+		add_core_of = NVA	
 
+		victory_points = {
+			4607 5
+		}
 	}
 
 	provinces={
-		1862 4521 4607 4736 4816 10422 12134 12399 12425 
+		4607 4736 10422 12134  
 	}
 	manpower=71024
 	buildings_max_level_factor=1.000

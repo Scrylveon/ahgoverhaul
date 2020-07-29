@@ -10,11 +10,12 @@ state={
 
 		}
 		add_core_of = BUL
+		add_core_of = ERU
 
 	}
 
 	provinces={
-		6814 6952 6982 6967
+		6982
 	}
 	manpower=116107
 	buildings_max_level_factor=1.000

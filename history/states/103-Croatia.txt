@@ -5,22 +5,14 @@ state={
 
 	history={
 		owner = YUG
-		buildings = {
-			infrastructure = 5
-			dockyard = 1
-			industrial_complex = 2
-			
-
-		}
 		add_core_of = YUG
 		add_core_of = CRO
-
-
+		add_core_of = ILY
 		add_core_of = DLM
 		}
 
 	provinces={
-		984 3974 11816 13372 
+		13372 
 	}
 	manpower=412500
 	buildings_max_level_factor=1.000

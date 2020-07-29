@@ -15,13 +15,14 @@ state={
 			}
 		}
 		add_core_of = MEX
+		add_core_of = VRC
 		victory_points = {
 			12810 1
 		}
 	}
 
 	provinces={
-		8079 10732 12810 
+		12810
 	}
 	
 }

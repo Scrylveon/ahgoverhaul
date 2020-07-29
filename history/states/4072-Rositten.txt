@@ -12,8 +12,9 @@ state={
 
 		}
 		add_core_of = GER
-		add_core_of = PRS
+		add_core_of = PRE
 		add_core_of = KON
+		add_claim_by = MML
 
 	}
 	manpower=1000

@@ -18,6 +18,7 @@ state={
 		}
 		add_core_of = MEX
 		add_core_of = RGA
+		add_core_of = CAU
 		victory_points = {
 			12835 1
 		}
@@ -25,7 +26,7 @@ state={
 	}
 
 	provinces={
-		10746 10800 
+		10746 18744
 	}
 	
 }

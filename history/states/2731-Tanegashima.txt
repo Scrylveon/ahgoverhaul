@@ -9,6 +9,8 @@ state={
 			
 		}
 		add_core_of = JAP
+		add_core_of = ROJ
+		add_core_of = GSH
 	}
 	provinces={
 		4198

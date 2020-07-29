@@ -35,7 +35,7 @@ guiTypes = {
 		{
 			name ="frontend_game_logo"
 			spriteType = "GFX_frontend_game_logo"
-			position = { x= 0 y = -275 }
+			position = { x= -229 y = -415 }
 		}
 		
 	}
@@ -90,15 +90,12 @@ guiTypes = {
 		size = { width = 421 height = 492}
 		Orientation = lower_left
 		Origo = lower_left		
-				
-		background = {
-			name = "Background"		
-			quadTextureSprite ="GFX_newmenu"
-		}
+			
 		
 		ButtonType = {
 			name = "sp_continue_button"
-			position = { x = 65 y = 110 }
+			position = { x = -10 y = 50 }
+			scale = 0.65
 			quadTextureSprite ="GFX_continuebutton"	
 			clicksound = click_default
 			oversound = ui_menu_over
@@ -107,7 +104,7 @@ guiTypes = {
 		iconType = {
 			name = "sp_continue_flag_left"
 			quadTextureSprite ="GFX_flag_small2_not_masked"
-			position = { x= 35 y = 5000 }
+			position = { x= -35 y = 5000 }
 			Orientation = "UPPER_LEFT"
 			alwaystransparent = yes
 		}
@@ -123,7 +120,7 @@ guiTypes = {
 		iconType = {
 			name = "sp_continue_flag_right"
 			quadTextureSprite ="GFX_flag_small2_not_masked"
-			position = { x= 280 y = 105 }
+			position = { x= 450 y = -5000 }
 			Orientation = "UPPER_LEFT"
 			alwaystransparent = yes
 		}
@@ -131,14 +128,15 @@ guiTypes = {
 		iconType = {
 			name = "sp_continue_flag_right_overlay"
 			quadTextureSprite ="GFX_flag_small2_not_masked"
-			position = { x= 280 y = 105 }
+			position = { x= 450 y = -5000 }
 			Orientation = "UPPER_LEFT"
 			alwaystransparent = yes
 		}
 		
 		ButtonType = {
 			name = "sp_new_button"
-			position = { x = 70 y = 170}
+			position = { x = -5 y = 116}
+			scale = 0.65
 			quadTextureSprite ="GFX_newgamebutton"	
 			clicksound = click_default
 			oversound = ui_menu_over
@@ -146,7 +144,8 @@ guiTypes = {
 		
 		ButtonType = {
 			name = "sp_load_button"
-			position = { x = 75 y = 235 }
+			position = { x = 8 y = 180 }
+			scale = 0.65
 			quadTextureSprite ="GFX_loadgamebutton"	
 			clicksound = click_default
 			oversound = ui_menu_over
@@ -154,7 +153,8 @@ guiTypes = {
 		
 		ButtonType = {
 			name = "sp_tutorial_button"
-			position = {  x = 80 y = 300 }
+			position = {  x = -11 y = 246 }
+			scale = 0.65
 			quadTextureSprite ="GFX_tutorialbutton"	
 			clicksound = click_default
 			oversound = ui_menu_over
@@ -162,7 +162,8 @@ guiTypes = {
 		
 		ButtonType = {
 			name = "sp_back_button"
-			position = { x = 90 y = 395 }
+			position = { x = -71 y = 376 }
+			scale = 0.65
 			quadTextureSprite ="GFX_backbutton"	
 			clicksound = click_close
 			oversound = ui_menu_over
@@ -178,14 +179,11 @@ guiTypes = {
 		Orientation = lower_left
 		Origo = lower_left		
 				
-		background = { 
-			name = "Background"		
-			quadTextureSprite ="GFX_newmenu"
-		}
 			
 		ButtonType = {
 			name = "single_player_button"
-			position = { x = 63 y = 110 }
+			position = { x = 27 y = 45 }
+			scale = 0.75
 			quadTextureSprite ="GFX_singleplayerbutton"			
 			clicksound = click_default			
 			oversound = ui_menu_over
@@ -193,7 +191,8 @@ guiTypes = {
 		
 		ButtonType = {
 			name = "multi_player_button"
-			position = { x = 70 y = 170}
+			position = { x = 14 y = 110}
+			scale = 0.75
 			quadTextureSprite ="GFX_multiplayerbutton"
 			clicksound = click_default
 			oversound = ui_menu_over
@@ -202,9 +201,9 @@ guiTypes = {
 		instantTextBoxType = {
 
 			name ="version_label"
-			position = { x = -30 y = 470 }
+			position = { x = 1700 y = 470 }
 			textureFile = ""
-			font = "hoi_18b"
+			font = "hoi4_typewriter22"
 			borderSize = {x = 0 y = 0}
 			text = "ALPHA"	
 			format = centre
@@ -215,7 +214,8 @@ guiTypes = {
 		
 		ButtonType = {
 			name = "settings_button"
-			position = { x = 70 y = 230 }
+			position = { x = -51 y = 175 }
+			scale = 0.75
 			quadTextureSprite ="GFX_optionsbutton"	
 			clicksound = click_default
 			oversound = ui_menu_over
@@ -224,7 +224,8 @@ guiTypes = {
 
 		ButtonType = {
 			name = "credits_button"
-			position = {  x = 80 y = 290 }
+			position = {  x = -51 y = 240 }
+			scale = 0.75
 			quadTextureSprite ="GFX_creditsbutton"	
 			clicksound = click_default
 			oversound = ui_menu_over
@@ -232,14 +233,16 @@ guiTypes = {
 		
 		ButtonType = {
 			name = "nudge_button"
-			position = { x = 275 y = 34 }
+			position = { x = -81 y = 305 }
+			scale = 0.75
 			quadTextureSprite ="GFX_nudgebutton"	
 		}
 		
 
 		ButtonType = {
 			name = "exit_button"
-			position = { x = 90 y = 395 }
+			position = { x = -100 y = 370 }
+			scale = 0.75
 			quadTextureSprite ="GFX_exitbutton"	
 			clicksound = click_default
 			oversound = ui_menu_over

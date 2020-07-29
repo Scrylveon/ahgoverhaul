@@ -20,6 +20,7 @@ state={
 		}
 		add_core_of = AUS
 		add_core_of = STY
+		add_core_of = WAS
 		1938.3.12 = {
 			owner = GER
 			controller = GER
@@ -30,7 +31,7 @@ state={
 	}
 
 	provinces={
-		653 6687 6691 9648 9650 9679 13360 
+		9648 
 	}
 	manpower=723212
 	buildings_max_level_factor=1.000

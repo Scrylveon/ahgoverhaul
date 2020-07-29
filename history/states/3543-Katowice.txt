@@ -11,8 +11,11 @@ state={
 
 		}
 		add_core_of = POL
-		add_core_of = PRS
+		add_core_of = PRE
 		add_core_of = SIL
+		victory_points = {
+			506 25 
+		}
 
 	}
 	manpower=1000 

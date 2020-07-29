@@ -7,17 +7,10 @@ state={
 	}
 
 	history={
+		add_core_of = NAN
 		owner = GRE
 		buildings = {
 			infrastructure = 4
-			8435 = {
-				naval_base = 1
-
-			}
-			6550 = {
-				naval_base = 1
-
-			}
 
 		}
 		add_core_of = GRE
@@ -27,7 +20,7 @@ state={
 	}
 
 	provinces={
-		6550 8435 
+		6550 
 	}
 	manpower=100000
 	buildings_max_level_factor=1.000

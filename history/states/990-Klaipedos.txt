@@ -12,11 +12,12 @@ state={
 
 		}
 		add_core_of = LIT
+		add_core_of = SGO
 
 	}
 
 	provinces={
-		3354 6314 
+		6314 
 	}
 	manpower=340000
 	buildings_max_level_factor=1.000

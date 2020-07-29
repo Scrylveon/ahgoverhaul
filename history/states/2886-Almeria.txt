@@ -5,14 +5,14 @@ state={
 		
 		owner = SPR 
 		add_core_of = SPR
-		add_core_of = ANL
+		add_core_of = ADU
 		buildings = {
 			infrastructure = 4
 			
 		}
 	}
 	provinces={
-		747 1090 1176 4095 10063 10111 
+		1090 4095 10111 
 	}
 	manpower=1000 
  state_category=pastoral

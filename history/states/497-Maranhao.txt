@@ -16,12 +16,13 @@ state={
 
 		}
 		add_core_of = BRA
+		add_core_of = MRH
 		
 
 	}
 
 	provinces={
-		2150 5220 12913 12933 12947
+		2150 5220 12913 12947
 	}
 	manpower=2950100
 	buildings_max_level_factor=1.000

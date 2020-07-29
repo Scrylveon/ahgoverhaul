@@ -3,20 +3,20 @@ state={
 	name="STATE_947"
 
 	history={
-		owner = SOV
+		owner = DAG
 		buildings = {
 			infrastructure = 4
 
 		}
 		add_core_of = SOV
 		add_core_of = RUS
-		add_core_of = DKU
+		add_core_of = CSS
 		add_core_of = DAG
 
 	}
 
 	provinces={
-		7554 1455 3668 3682 6689 6701 9645 
+		9645 6689
 	}
 	manpower=320101
 	buildings_max_level_factor=1.000

@@ -10,11 +10,13 @@ state={
 
 		}
 		add_core_of = BRA
+		add_core_of = AMP
+		add_core_of = IGU
 
 	}
 
 	provinces={
-		4980 13581 13583 13587 
+		4980 
 	}
 	manpower=689194
 	buildings_max_level_factor=1.000

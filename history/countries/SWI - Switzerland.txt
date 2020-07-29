@@ -38,7 +38,6 @@ add_ideas = {
 }
 
 set_stability = 0.85
-give_guarantee = LIE
 
 create_country_leader = {
 	name = "Rudolf Minger"

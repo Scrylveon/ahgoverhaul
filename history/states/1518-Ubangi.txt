@@ -9,11 +9,12 @@ state={
 
 		}
 		add_core_of = COG
+		add_core_of = LCN
 
 	}
 	
 	provinces={
-		7931 10883 12741 12824  
+		10883 12741  
 	}
 	
 	manpower=198238

@@ -1,4 +1,4 @@
-﻿capital = 769
+capital = 769
 
 set_research_slots = 3
 
@@ -18,64 +18,24 @@ set_technology = {
 	transport = 1
 }
 
+set_popularities = {
+	national_socialism
+		= 100
+}
 
-
-	set_popularities = {
-		democratic 
-			 = 30
-		fascism
-			 = 30
-		communism
-			 = 0
-		neutrality
-			 = 40
-		}
-	set_politics = { 
- ruling_party = neutrality
+set_politics = { 
+	ruling_party = national_socialism
 	last_election = "1960.1.1"
 	election_frequency = 50
 	elections_allowed = no
 }
 
 create_country_leader = {
-	name = " Josef Bürckel"
+	name = "Josef Bürckel"
 	desc = ""
-	picture = "gfx/leaders/GER/Portrait_Germany_Generic_3.dds"
+	picture = "SAR_Buerckel.tga"
 	expire = "1960.1.1"
-	ideology = nazism
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "Daniel Kohlberg"
-	desc = ""
-	picture = "gfx/leaders/GER/Portrait_Germany_Generic_1.dds"
-	expire = "1960.1.1"
-	ideology = stalinism
-	traits = {
-		
-	}
-}
-
-create_country_leader = {
-	name = "Augustin Vetter"
-	desc = ""
-	picture = "gfx/leaders/GER/Portrait_Germany_Generic_2.dds"
-	expire = "1960.1.1"
-	ideology = socialism
-	traits = {
-		
-	}
-}
-
-create_country_leader = {
-	name = "Marvin Tarr"
-	desc = ""
-	picture = "gfx/leaders/GER/Portrait_Germany_Generic_3.dds"
-	expire = "1960.1.1"
-	ideology = despotism
+	ideology = natsoc
 	traits = {
 		#
 	}

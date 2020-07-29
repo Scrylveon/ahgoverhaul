@@ -10,7 +10,8 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = RAJ
+		owner = RAJ 
+		add_core_of = BIH
 		buildings = {
 			infrastructure = 1
 		}

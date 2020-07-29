@@ -8,10 +8,12 @@ state={
 		owner = GER
 		set_demilitarized_zone = yes
 		add_core_of = GER
-		add_core_of = PRS
+		add_core_of = PRE
 		add_core_of = HEN
 		add_core_of = HHO
+		add_core_of = WGR
 		add_claim_by = HES
+		add_core_of = HSN
 		buildings = {
 			infrastructure = 5
 		}

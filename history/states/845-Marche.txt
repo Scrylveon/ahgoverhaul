@@ -18,12 +18,14 @@ state={
 
 		}
 		add_core_of = ITA
+		add_core_of = SPL
+		add_core_of = RSI
 		add_claim_by = VCT
 
 	}
 
 	provinces={
-		925 11790 13400
+		925
 	}
 	manpower=1604005
 	buildings_max_level_factor=1.000

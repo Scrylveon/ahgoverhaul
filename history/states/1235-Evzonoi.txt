@@ -3,14 +3,16 @@ state={
 	id=1235
 	name="STATE_1235"
 
-	history={
+	history={	
+	add_core_of = EMC
 		owner = GRE
 		buildings = {
 			infrastructure = 3
 
 		}
 		add_core_of = GRE
-		add_claim_by = BUL
+		add_core_of = THR
+		add_core_of = BUL
 
 	}
 

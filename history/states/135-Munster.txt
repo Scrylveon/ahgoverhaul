@@ -14,11 +14,12 @@ state={
 			7394 1 
 		}
 		add_core_of = IRE
+		add_core_of = MUN
 
 	}
 
 	provinces={
-		6289 6405 
+		6405 
 	}
 	manpower=941400
 	buildings_max_level_factor=1.000

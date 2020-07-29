@@ -2,6 +2,7 @@
 
 oob = "BLR_1936"
 
+set_cosmetic_tag = BLR_SOV
 set_research_slots = 3
 
 # Starting tech
@@ -44,13 +45,13 @@ set_technology = {
 			 = 15
 		neutrality
 			 = 20
-		communism
+		vanguardism
 			 = 60
 		fascism 
 			 = 5
 		}
 	set_politics = { 
- ruling_party = communism
+ ruling_party = vanguardism
 	last_election = "1933.7.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -79,11 +80,11 @@ create_country_leader = {
 }
 
 create_country_leader = {
-    name = "Panteleimon Ponomarenko"
+    name = "Aleksandr Grigoryevich Chervyakov"
     desc = ""
-    picture = "gfx/leaders/Europe/Portrait_Europe_Generic_1.dds"
+    picture = "Chervyakov.dds"
     expire = "1965.1.1"
-    ideology = stalinism
+    ideology = totsoc
     traits = {
         #
     }

@@ -2,7 +2,7 @@ state={
 	id=3902
 	name="STATE_3902"
 	provinces={
-		14640 
+		17988 
 	}
 	manpower = 1000
 	
@@ -11,6 +11,8 @@ state={
 	history={
 		owner = GER
 		add_core_of = GER
+		add_core_of = THU
+		add_core_of = DDR
 		add_core_of = RGR
 		buildings = {
 			infrastructure = 5

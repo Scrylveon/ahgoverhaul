@@ -10,11 +10,11 @@ state={
 
 		}
 		add_core_of = SWI
-
+		add_core_of = KVA
 	}
 
 	provinces={
-		3612 9587
+		9587
 	}
 	manpower=31751
 	buildings_max_level_factor=1.000

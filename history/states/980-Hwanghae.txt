@@ -4,7 +4,7 @@ state={
 	name="STATE_980"
 
 	history={
-		owner = JAP
+		owner = KOR
 		buildings = {
 			infrastructure = 4
 
@@ -13,11 +13,12 @@ state={
 			12040 1 
 		}
 		add_core_of = KOR
+		add_core_of = DPK
 
 	}
 
 	provinces={
-		7070 7155 11915 12040 
+		12040 4107 11915
 	}
 	manpower=1201000
 	buildings_max_level_factor=1.000

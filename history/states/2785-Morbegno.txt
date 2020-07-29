@@ -6,8 +6,10 @@ state={
 		owner = ITA 
 		add_core_of = ITA
 		add_core_of = VNC
-		add_core_of = GRI
+		add_core_of = KGR
 		add_claim_by = SWI
+		add_core_of = LOM
+		add_core_of = RSI
 		buildings = {
 			infrastructure = 4
 			

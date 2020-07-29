@@ -9,11 +9,13 @@ state={
 
 		}
 		add_core_of = POL
+		add_core_of = WSW
+		add_core_of = MSV
 
 	}
 	
 	provinces={
-		6321 9290 9316 
+		9290 
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

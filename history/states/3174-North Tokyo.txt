@@ -1,19 +1,24 @@
+
 state={
 	id=3174
 	name="STATE_3174"
+
 	history={
-		
-		owner = JAP 
+		owner = JAP
 		add_core_of = JAP
+		add_core_of = ROJ
+		add_core_of = TKO
 		buildings = {
 			infrastructure = 4
-			
+
 		}
+
 	}
+
 	provinces={
-		14289 
+		19046 19050 19056 19058 
 	}
 	manpower=1000000
-	state_category = metropolis
 	buildings_max_level_factor=1.000
+	state_category=metropolis
 }

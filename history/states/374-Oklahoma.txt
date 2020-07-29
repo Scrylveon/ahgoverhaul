@@ -16,7 +16,9 @@ state={
 
 		}
 		add_core_of = USA
+		add_core_of = OKH
 		add_core_of = CSA
+		add_core_of = CYA
 		victory_points = {
 			1806 1 
 		}
@@ -25,7 +27,7 @@ state={
 	}
 
 	provinces={
-		1618 5103 7762 10798 
+		10798 
 	}
 	manpower=2396039
 	buildings_max_level_factor=1.000

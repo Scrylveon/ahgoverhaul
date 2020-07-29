@@ -16,12 +16,13 @@ state={
 			11544 10 
 		}
 		add_core_of = GER
-		add_core_of = BAV
+		add_core_of = BAY
+		add_core_of = WGR
 
 		
 	}
 
 	provinces={
-		561 9416 9557 9572 11529 11544 
+		561 11529 11544 
 	}
 }

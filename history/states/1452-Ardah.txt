@@ -4,13 +4,14 @@ state={
 	name="STATE_1452"
 
 	history={
-		owner = SOV
+		owner = KYR
 		buildings = {
 			infrastructure = 1
 
 		}
 		add_core_of = SOV
 		add_core_of = KYR
+		add_core_of = KOK
 
 	}
 
@@ -19,5 +20,5 @@ state={
 	}
 	manpower=1
 	buildings_max_level_factor=1.000
-	state_category=wasteland
+	state_category=pastoral
 }
