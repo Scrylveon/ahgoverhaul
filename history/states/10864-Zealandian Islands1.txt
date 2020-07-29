@@ -1,0 +1,15 @@
+state={
+	id=10864
+	name="STATE_10864"
+	provinces={
+		20217 20218 20219 20220 20221 20222 20224 20225 20226 20228 20233 20234 20235 
+	}
+	history={
+		owner = WTR
+		add_core_of = WTR
+
+	}
+	manpower = 1
+	state_category = wasteland
+	buildings_max_level_factor=1.000
+}
