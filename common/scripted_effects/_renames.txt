@@ -5,7 +5,328 @@
 ### Credits to the Kaiserreich Team for the code                                                                                ###
 ###################################################################################################################################
 
+do_sorbian_renames = {
+
+	if = {
+		limit = {
+			state = 1017
+		}		
+		set_province_name = {
+			id = 3485
+			name = "Kladsko"
+		}
+	}
+	if = {
+		limit = {
+			state = 1455
+		}		
+		set_province_name = {
+			id = 9570
+			name = "Wrocław"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 65
+		}		
+		set_province_name = {
+			id = 514
+			name = "Drježdźany"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4829
+		}		
+		set_province_name = {
+			id = 11415
+			name = "Chóśebuz"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5975
+		}		
+		set_province_name = {
+			id = 16430
+			name = "Frankfurt nad Odrą"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5076
+		}		
+		set_province_name = {
+			id = 444
+			name = "Drzonów"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5075
+		}		
+		set_province_name = {
+			id = 3438
+			name = "Głogów"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3530
+		}		
+		set_province_name = {
+			id = 552
+			name = "Legnica"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 67
+		}		
+		set_province_name = {
+			id = 9511
+			name = "Ôpole"
+		}
+	}
+}
 do_french_renames = {
+
+	if = {
+		limit = {
+			state = 275
+		}		
+		set_province_name = {
+			id = 10400
+			name = "Prétorie"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2240
+		}		
+		set_province_name = {
+			id = 7900
+			name = "Mbabané"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5446
+		}		
+		set_province_name = {
+			id = 1494
+			name = "Gué de Rorke"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1620
+		}		
+		set_province_name = {
+			id = 1468
+			name = "D'Urban"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1624
+		}		
+		set_province_name = {
+			id = 4696
+			name = "Port-Élisabeth"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 681
+		}		
+		set_province_name = {
+			id = 12589
+			name = "Le Cap"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1014
+		}		
+		set_province_name = {
+			id = 12725
+			name = "Port-Soudan"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 1205
+		}		
+		set_province_name = {
+			id = 1086
+			name = "Jérusalem"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 447
+		}		
+		set_province_name = {
+			id = 4076
+			name = "Alexandrie"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 446
+		}		
+		set_province_name = {
+			id = 7011
+			name = "Le Caire"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 9784
+		}		
+		set_province_name = {
+			id = 1071
+			name = "Ménas"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 5219
+		}		
+		set_province_name = {
+			id = 4879
+			name = "Le Coin du Vent"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 1508
+		}		
+		set_province_name = {
+			id = 8248
+			name = "Louanda"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 540
+		}		
+		set_province_name = {
+			id = 10966
+			name = "Nouvelle-Lisbonne"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 451
+		}		
+		set_province_name = {
+			id = 1130
+			name = "Tobrouk"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 786
+		}		
+		set_province_name = {
+			id = 9498
+			name = "Roterdam"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 705
+		}		
+		set_province_name = {
+			id = 13015
+			name = "Saint-Thomas"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 1565
+		}		
+		set_province_name = {
+			id = 2050
+			name = "Lacs"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 274
+		}		
+		set_province_name = {
+			id = 10862
+			name = "Ecra"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 298
+		}		
+		set_province_name = {
+			id = 7959
+			name = "Monrovie"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 700
+		}		
+		set_province_name = {
+			id = 2038
+			name = "La Ville Libre"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 698
+		}		
+		set_province_name = {
+			id = 1751
+			name = "Pointe fine"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 697
+		}		
+		set_province_name = {
+			id = 3118
+			name = "Fenouil"
+		}
+	}
 		
 	if = {
 		limit = {
@@ -13,7 +334,7 @@ do_french_renames = {
 		}		
 		set_province_name = {
 			id = 14222
-			name = "Prage"
+			name = "Plage"
 		}
 	}
 		
@@ -9108,6 +9429,116 @@ do_english_renames = {
 
 	if = {
 		limit = {
+			state = 275
+		}		
+		set_province_name = {
+			id = 10400
+			name = "Pretoria"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2240
+		}		
+		set_province_name = {
+			id = 7900
+			name = "Mbabane"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5446
+		}		
+		set_province_name = {
+			id = 1494
+			name = "Rorke's Drift"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1620
+		}		
+		set_province_name = {
+			id = 1468
+			name = "Durban"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1624
+		}		
+		set_province_name = {
+			id = 4696
+			name = "Port Elizabeth"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 681
+		}		
+		set_province_name = {
+			id = 12589
+			name = "Cape Town"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 5219
+		}		
+		set_province_name = {
+			id = 4879
+			name = "Windhoek"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 1565
+		}		
+		set_province_name = {
+			id = 2050
+			name = "Lagos"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 274
+		}		
+		set_province_name = {
+			id = 10862
+			name = "Accra"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 298
+		}		
+		set_province_name = {
+			id = 7959
+			name = "Monrovia"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 700
+		}		
+		set_province_name = {
+			id = 2038
+			name = "Freetown"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 4936
 		}		
 		set_province_name = {
@@ -14124,6 +14555,26 @@ do_polish_renames = {
 
 	if = {
 		limit = {
+			state = 3530
+		}		
+		set_province_name = {
+			id = 552
+			name = "Legnica"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 67
+		}		
+		set_province_name = {
+			id = 9511
+			name = "Opole"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 5077
 		}		
 		set_province_name = {
@@ -14149,26 +14600,6 @@ do_polish_renames = {
 		set_province_name = {
 			id = 11288
 			name = "Chojnice"
-		}
-	}
-
-	if = {
-		limit = {
-			state = 3530
-		}		
-		set_province_name = {
-			id = 552
-			name = "Legnica"
-		}
-	}
-
-	if = {
-		limit = {
-			state = 67
-		}		
-		set_province_name = {
-			id = 9511
-			name = "Opole"
 		}
 	}
 
@@ -15185,6 +15616,16 @@ do_lithuanian_renames = {
 	}
 }
 do_czech_renames = {
+
+	if = {
+		limit = {
+			state = 5523
+		}		
+		set_province_name = {
+			id = 15944
+			name = "Svatý Mořic"
+		}
+	}
 		
 	if = {
 		limit = {
@@ -24244,6 +24685,36 @@ do_italian_renames = {
 	}
 }
 do_portuguese_renames = {
+	
+	if = {
+		limit = {
+			state = 1508
+		}		
+		set_province_name = {
+			id = 8248
+			name = "Luanda"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 540
+		}		
+		set_province_name = {
+			id = 10966
+			name = "Nova Lisbon"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 705
+		}		
+		set_province_name = {
+			id = 13015
+			name = "São Tome"
+		}
+	}
 		
 	if = {
 		limit = {
@@ -24646,7 +25117,7 @@ do_esperanto_renames = {
 		}
 	}
 	
-+	if = {
+	if = {
 		limit = {
 			state = 2914
 		}		
