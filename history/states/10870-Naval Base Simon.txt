@@ -1,0 +1,15 @@
+state={
+	id=10870
+	name="STATE_10870"
+	provinces={
+		20250 
+	}
+	history={
+		owner = ENG
+		add_core_of = ENG
+
+	}
+	manpower = 1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}
