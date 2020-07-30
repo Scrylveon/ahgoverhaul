@@ -37,6 +37,8 @@
  SOV_neutrality_DEF:0 "The State of Russia"
  SOV_communism:0 "Union of Soviet Socialist Republics"
  SOV_communism_DEF:0 "The Union of Soviet Socialist Republics"
+ SOV_vanguardism:0 "Union of Soviet Socialist Republics"
+ SOV_vanguardism_DEF:0 "The Union of Soviet Socialist Republics"
  SOV_monarchism:0 "Russian Empire" 
  SOV_monarchism_DEF:0 "The Russian Empire" 
  SOV_monarchism_ADJ:0 "Russian"
@@ -44,6 +46,7 @@
  SOV_democratic_ADJ:0 "Russian"
  SOV_neutrality_ADJ:0 "Russian"
  SOV_communism_ADJ:0 "Soviet"
+ SOV_vanguardism_ADJ:0 "Soviet"
  
  USA_fascism:0 "Free American Empire"
  USA_fascism_DEF:0 "The Free American Empire"
