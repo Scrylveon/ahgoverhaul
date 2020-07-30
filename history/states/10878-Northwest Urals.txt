@@ -1,7 +1,7 @@
 
 state={
-	id=3015
-	name="STATE_3015"
+	id=10878
+	name="STATE_10878"
 
 	history={
 		owner = KTM
@@ -17,7 +17,7 @@ state={
 	}
 
 	provinces={
-		7824 10551 10677 19898 
+		19939
 	}
 	manpower=1000
 	buildings_max_level_factor=1.000

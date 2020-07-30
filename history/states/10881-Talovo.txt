@@ -1,14 +1,13 @@
 
 state={
-	id=3015
-	name="STATE_3015"
+	id=10881
+	name="STATE_10881"
 
 	history={
-		owner = KTM
+		owner = RUS
 		add_core_of = SOV
 		add_core_of = RUS
 		add_core_of = URL
-		add_core_of = KTM
 		buildings = {
 			infrastructure = 4
 
@@ -17,7 +16,7 @@ state={
 	}
 
 	provinces={
-		7824 10551 10677 19898 
+		4802
 	}
 	manpower=1000
 	buildings_max_level_factor=1.000
