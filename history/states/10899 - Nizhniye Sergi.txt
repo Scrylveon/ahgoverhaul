@@ -1,7 +1,7 @@
 
 state={
-	id=10884
-	name="STATE_10884"
+	id=10899
+	name="STATE_10899"
 
 	history={
 		owner = RUS
@@ -16,7 +16,7 @@ state={
 	}
 
 	provinces={
-		361
+		3280
 	}
 	manpower=1000
 	buildings_max_level_factor=1.000
