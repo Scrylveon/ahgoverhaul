@@ -17311,6 +17311,176 @@ do_hungarian_renames = {
 
 	if = {
 		limit = {
+			state = 3466
+		}		
+		set_province_name = {
+			id = 6418
+			name = "Pilszen"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 10592
+		}		
+		set_province_name = {
+			id = 20095
+			name = "Lúgánó"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 765
+		}		
+		set_province_name = {
+			id = 13219
+			name = "Fádúc"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5523
+		}		
+		set_province_name = {
+			id = 15944
+			name = "Szent Mór"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 7538
+		}		
+		set_province_name = {
+			id = 17096
+			name = "Veróna"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 160
+		}		
+		set_province_name = {
+			id = 11584
+			name = "Velence"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 159
+		}		
+		set_province_name = {
+			id = 3780
+			name = "Milánó"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5171
+		}		
+		set_province_name = {
+			id = 673
+			name = "Innhídja"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 795
+		}		
+		set_province_name = {
+			id = 688
+			name = "Sóvár"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2342
+		}		
+		set_province_name = {
+			id = 3703
+			name = "Velsz"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1110
+		}		
+		set_province_name = {
+			id = 732
+			name = "Linc"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 9
+		}		
+		set_province_name = {
+			id = 11542
+			name = "Prága"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 88
+		}		
+		set_province_name = {
+			id = 9427
+			name = "Krakkó"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2752
+		}		
+		set_province_name = {
+			id = 9494
+			name = "Zsesó"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 91
+		}		
+		set_province_name = {
+			id = 11479
+			name = "Ilyvó"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 80
+		}		
+		set_province_name = {
+			id = 9548
+			name = "Csernovic"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 74
+		}		
+		set_province_name = {
+			id = 3583
+			name = "Osztrává"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 1791
 		}		
 		set_province_name = {
