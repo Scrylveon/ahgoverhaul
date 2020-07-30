@@ -4992,7 +4992,6 @@ NFT = {
 color = rgb { 170 10 10 }
 color_ui = rgb { 170 10 10 }
 }
-<<<<<<< HEAD
 TEK = {
 color = rgb { 150 150 150 }
 color_ui = rgb { 150 150 150 }
@@ -5000,7 +4999,7 @@ color_ui = rgb { 150 150 150 }
 PET = {
 color = rgb { 150 150 150 }
 color_ui = rgb { 150 150 150 }
-=======
+}
 KNS = {
 color = rgb { 150 150 150 }
 color_ui = rgb { 150 150 150 }
