@@ -321,7 +321,7 @@ strategic_region={
 		20511
 		20512
 		20513
-		20514
+		20514 20515
 	} 
 	weather={
 		period={
