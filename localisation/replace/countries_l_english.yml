@@ -14,7 +14,11 @@
  PUE_democratic_ADJ:0 "Puerto Rican"
  PUE_neutrality_ADJ:0 "Puerto Rican"
  PUE_communism_ADJ:0 "Puerto Rican"
- 
+
+ CHI_neutrality:0 "Republic of China"
+ CHI_neutrality_DEF:0 "The Republic of China"
+ CHI_neutrality_ADJ:0 "Chinese"
+
  ENG_fascism:0 "British Empire"
  ENG_fascism_DEF:0 "The British Empire"
  ENG_democratic:0 "United Kingdom of Great Britain and Northern Ireland"

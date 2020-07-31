@@ -1,7 +1,7 @@
 
 state={
-	id=9004
-	name="STATE_9004"
+	id=10917
+	name="STATE_10917"
 
 	history={
 		owner = AST
@@ -10,12 +10,13 @@ state={
 
 		}
 		add_core_of = AST
-		add_core_of = SAT
+		add_core_of = QNS
+		add_core_of = NQS
 
 	}
 
 	provinces={
-		18305
+		1644
 	}
 	manpower=310100
 	buildings_max_level_factor=1.000
