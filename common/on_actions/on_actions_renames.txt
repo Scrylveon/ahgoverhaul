@@ -378,6 +378,14 @@ on_actions = {
 							ROOT = {has_cosmetic_tag = MRN_ESP}
 						}
 						do_esperanto_renames = yes
+					}
+
+					### LIV ###
+					if = {
+						limit = {
+							ROOT = {tag = LIV}
+						}
+						do_livonian_renames = yes
 					}	
 
 					### RKS ###
