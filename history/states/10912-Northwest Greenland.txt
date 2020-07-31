@@ -1,0 +1,16 @@
+state={
+	id=10912
+	name="STATE_10912"
+	provinces={
+		10245
+	}
+	impassable = yes
+	manpower=1000
+	
+	state_category=wasteland
+	
+	history={
+		owner = DEN
+		add_core_of = GRL
+	}
+}

@@ -1,0 +1,15 @@
+state={
+	id=10913
+	name="STATE_10913"
+	provinces={
+		205181
+	}
+	history={
+		owner = DEN
+		add_core_of = GRL
+
+	}
+	manpower = 1
+	state_category = wasteland
+	buildings_max_level_factor=1.000
+}
