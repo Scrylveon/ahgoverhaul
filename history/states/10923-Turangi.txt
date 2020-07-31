@@ -1,6 +1,6 @@
 state={
-	id=3155
-	name="STATE_3155"
+	id=10923
+	name="STATE_10923"
 	history={
 		
 		owner = NZL 
@@ -12,7 +12,7 @@ state={
 		}
 	}
 	provinces={
-		4718
+		1786
 	}
 	manpower=1000 
  state_category = small_island
