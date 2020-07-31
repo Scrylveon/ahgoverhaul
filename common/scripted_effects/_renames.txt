@@ -4534,6 +4534,26 @@ do_german_renames = {
 
 	if = {
 		limit = {
+			state = 5049
+		}		
+		set_province_name = {
+			id = 9490
+			name = "Troyen"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5392
+		}		
+		set_province_name = {
+			id = 13011
+			name = "Rheimen"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 35
 		}		
 		set_province_name = {
@@ -6356,7 +6376,7 @@ do_german_renames = {
 		}		
 		set_province_name = {
 			id = 9340
-			name = "Riga"
+			name = "Rīgõ"
 		}
 	}
 
@@ -9543,7 +9563,7 @@ do_english_renames = {
 		}		
 		set_province_name = {
 			id = 6301
-			name = "Amwythig"
+			name = "Shrewsbury"
 		}
 	}
 
@@ -9604,16 +9624,6 @@ do_english_renames = {
 		set_province_name = {
 			id = 9332
 			name = "York"
-		}
-	}
-
-	if = {
-		limit = {
-			state = 4936
-		}		
-		set_province_name = {
-			id = 6301
-			name = "Shrewsbury"
 		}
 	}
 
@@ -9913,6 +9923,316 @@ do_english_renames = {
 }
 
 do_latin_renames = {
+
+	if = {
+		limit = {
+			state = 848
+		}		
+		set_province_name = {
+			id = 13224
+			name = "Isthmobacae"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5630
+		}		
+		set_province_name = {
+			id = 15978
+			name = "Stornavagum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4957
+		}		
+		set_province_name = {
+			id = 3159
+			name = "Inferatnessus"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5629
+		}		
+		set_province_name = {
+			id = 15980
+			name = "Portus Regis"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 133
+		}		
+		set_province_name = {
+			id = 3273
+			name = "Glasgua"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5163
+		}		
+		set_province_name = {
+			id = 11136
+			name = "Aberdonia"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4955
+		}		
+		set_province_name = {
+			id = 3150
+			name = "Taodunum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4936
+		}		
+		set_province_name = {
+			id = 6301
+			name = "Salopia"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1898
+		}		
+		set_province_name = {
+			id = 7394
+			name = "Corcagia"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1831
+		}		
+		set_province_name = {
+			id = 11293
+			name = "Dublinum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4961
+		}		
+		set_province_name = {
+			id = 11257
+			name = "Insula Cethlennisis"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1839
+		}		
+		set_province_name = {
+			id = 276
+			name = "Derria"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1828
+		}		
+		set_province_name = {
+			id = 3379
+			name = "Belfastum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4950
+		}		
+		set_province_name = {
+			id = 9332
+			name = "Eboracum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4934
+		}		
+		set_province_name = {
+			id = 11361
+			name = "Flumina ore duorum Cleddau"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1829
+		}		
+		set_province_name = {
+			id = 9239
+			name = "Radinga"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4938
+		}		
+		set_province_name = {
+			id = 11446
+			name = "Brightonia"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 935
+		}		
+		set_province_name = {
+			id = 3311
+			name = "Monapia"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 698
+		}		
+		set_province_name = {
+			id = 1751
+			name = "Puncta Delicata"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 697
+		}		
+		set_province_name = {
+			id = 3118
+			name = "Fenuculumalis"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 10664
+		}		
+		set_province_name = {
+			id = 6986
+			name = "Ebora"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 10663
+		}		
+		set_province_name = {
+			id = 6880
+			name = "Ossonoba"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2812
+		}		
+		set_province_name = {
+			id = 14222
+			name = "Plagia"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 10662
+		}		
+		set_province_name = {
+			id = 3798
+			name = "Conimbriga"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 10632
+		}		
+		set_province_name = {
+			id = 6866
+			name = "Norba Caesarina"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 7735
+		}		
+		set_province_name = {
+			name = "Arunda"
+			id = 10094
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2805
+		}		
+		set_province_name = {
+			id = 14215
+			name = "Palmae Canariae"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2890
+		}		
+		set_province_name = {
+			id = 4098
+			name = "Lucentum"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 10630
+		}		
+		set_province_name = {
+			id = 3794
+			name = "Segobia"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 10629
+		}		
+		set_province_name = {
+			id = 3874
+			name = "Salmantica"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 10627
+		}		
+		set_province_name = {
+			id = 1176
+			name = "Granata"
+		}
+	}
 
 	if = {
 		limit = {
@@ -13317,6 +13637,37 @@ do_latin_renames = {
 }
 
 do_belarussian_renames = {
+
+	if = {
+		limit = {
+			state = 97
+		}		
+		set_province_name = {
+			id = 290
+			name = "Biełastok"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2227
+		}		
+		set_province_name = {
+			id = 14365
+			name = "Pinsk"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1086
+		}		
+		set_province_name = {
+			id = 3393
+			name = "Hrodna"
+		}
+	}
+	
 	if = {
 		limit = {
 			state = 96
@@ -13369,6 +13720,16 @@ do_belarussian_renames = {
 }
 
 do_ukrainian_renames = {
+	
+	if = {
+		limit = {
+			state = 93
+		}		
+		set_province_name = {
+			id = 572
+			name = "Lutsk"
+		}
+	}
 
 	if = {
 		limit = {
@@ -15533,6 +15894,430 @@ do_polish_renames = {
 	}
 }
 do_lithuanian_renames = {
+
+	if = {
+		limit = {
+			state = 2357
+		}		
+		set_province_name = {
+			id = 3686
+			name = "Sevastopolis"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2482
+		}		
+		set_province_name = {
+			id = 6704
+			name = "Jalta"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 223
+		}		
+		set_province_name = {
+			id = 6262
+			name = "Tula"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 222
+		}		
+		set_province_name = {
+			id = 9355
+			name = "Oriolas"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 224
+		}		
+		set_province_name = {
+			id = 3335
+			name = "Brianskas"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 242
+		}		
+		set_province_name = {
+			id = 306
+			name = "Smolenskas"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 220
+		}		
+		set_province_name = {
+			id = 3580
+			name = "Kurskas"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 93
+		}		
+		set_province_name = {
+			id = 572
+			name = "Luckas"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 78
+		}		
+		set_province_name = {
+			id = 3707
+			name = "Kišiniovas"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 791
+		}		
+		set_province_name = {
+			id = 6727
+			name = "Dniestro Bilhorodas"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 80
+		}		
+		set_province_name = {
+			id = 9548
+			name = "Černivciai"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 91
+		}		
+		set_province_name = {
+			id = 11479
+			name = "Lvovas"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 198
+		}		
+		set_province_name = {
+			id = 476
+			name = "Vinycia"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 192
+		}		
+		set_province_name = {
+			id = 11670
+			name = "Odesa"
+		}
+    }
+	
+	if = {
+		limit = {
+			state = 202
+		}		
+		set_province_name = {
+			id = 525
+			name = "Kijevas"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 226
+		}		
+		set_province_name = {
+			id = 11561
+			name = "Kryvyj Rihas"
+		}	
+		set_province_name = {
+			id = 11437
+			name = "Dnipras"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 5028
+		}		
+		set_province_name = {
+			id = 418
+			name = "Charkovas"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 200
+		}		
+		set_province_name = {
+			id = 11405
+			name = "Zaporožė"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 227
+		}		
+		set_province_name = {
+			id = 6474
+			name = "Doneckas"
+		}
+	}
+	if = {
+		limit = {
+			state = 3227
+		}		
+		set_province_name = {
+			id = 9461
+			name = "Luhanskas"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1081
+		}		
+		set_province_name = {
+			id = 415
+			name = "Petseri"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 191
+		}		
+		set_province_name = {
+			id = 9221
+			name = "Tartu"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 13
+		}		
+		set_province_name = {
+			id = 3152
+			name = "Talinas"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 995
+		}		
+		set_province_name = {
+			id = 185
+			name = "Kuresarė"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 1135
+		}		
+		set_province_name = {
+			id = 9340
+			name = "Ryga"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 190
+		}		
+		set_province_name = {
+			id = 9262
+			name = "Liepoja"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 4843
+		}		
+		set_province_name = {
+			id = 3296
+			name = "Ventspilis"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 4845
+		}		
+		set_province_name = {
+			id = 3194
+			name = "Talsai"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 994
+		}		
+		set_province_name = {
+			id = 6342
+			name = "Mintauja"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 993
+		}		
+		set_province_name = {
+			id = 11358
+			name = "Subačius"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 3542
+		}		
+		set_province_name = {
+			id = 310
+			name = "Daugpilis"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 992
+		}		
+		set_province_name = {
+			id = 341
+			name = "Rėzeknė"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1389
+		}		
+		set_province_name = {
+			id = 6375
+			name = "Olštynas"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 5773
+		}		
+		set_province_name = {
+			id = 15986
+			name = "Leičių"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 97
+		}		
+		set_province_name = {
+			id = 290
+			name = "Balstogė"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2227
+		}		
+		set_province_name = {
+			id = 14365
+			name = "Pinskas"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1086
+		}		
+		set_province_name = {
+			id = 3393
+			name = "Gardinas"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 96
+		}		
+		set_province_name = {
+			id = 3320
+			name = "Vilnia"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4023
+		}		
+		set_province_name = {
+			id = 3392
+			name = "Lietuvos Brasta"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 206
+		}		
+		set_province_name = {
+			id = 11370
+			name = "Minskas"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 241
+		}		
+		set_province_name = {
+			id = 9288
+			name = "Gomelis"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 207
+		}		
+		set_province_name = {
+			id = 11241
+			name = "Vitebskas"
+		}
+	}
+
 	if = {
 		limit = {
 			state = 85
@@ -16258,6 +17043,90 @@ do_czech_renames = {
 	}
 }
 do_latvian_renames = {
+
+	if = {
+		limit = {
+			state = 11
+		}		
+		set_province_name = {
+			id = 6296
+			name = "Kauņa"
+		}
+	}
+	if = {
+		limit = {
+			state = 990
+		}		
+		set_province_name = {
+			id = 6314
+			name = "Klaipēda"
+		}
+	}
+	if = {
+		limit = {
+			state = 189
+		}		
+		set_province_name = {
+			id = 9483
+			name = "Šauļi"
+		}
+	}
+	if = {
+		limit = {
+			state = 991
+		}		
+		set_province_name = {
+			id = 9438
+			name = "Panevēža"
+		}
+	}
+	if = {
+		limit = {
+			state = 96
+		}		
+		set_province_name = {
+			id = 3320
+			name = "Viļņa"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1081
+		}		
+		set_province_name = {
+			id = 415
+			name = "Pečori"
+		}
+	}
+	if = {
+		limit = {
+			state = 191
+		}		
+		set_province_name = {
+			id = 9221
+			name = "Tērbata"
+		}
+	}
+	if = {
+		limit = {
+			state = 13
+		}		
+		set_province_name = {
+			id = 3152
+			name = "Tallina"
+		}
+	}
+	if = {
+		limit = {
+			state = 995
+		}		
+		set_province_name = {
+			id = 185
+			name = "Kuresāre"
+		}
+	}
+
 	if = {
 		limit = {
 			state = 1135
@@ -16332,6 +17201,137 @@ do_latvian_renames = {
 	}
 }
 do_estonian_renames = {
+
+	if = {
+		limit = {
+			state = 11
+		}		
+		set_province_name = {
+			id = 6296
+			name = "Kaunas"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 990
+		}		
+		set_province_name = {
+			id = 6314
+			name = "Klaipėda"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 189
+		}		
+		set_province_name = {
+			id = 9483
+			name = "Šiauliai"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 991
+		}		
+		set_province_name = {
+			id = 9438
+			name = "Panevėžys"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 96
+		}		
+		set_province_name = {
+			id = 3320
+			name = "Vilnius"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 1135
+		}		
+		set_province_name = {
+			id = 9340
+			name = "Riia"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 190
+		}		
+		set_province_name = {
+			id = 9262
+			name = "Liibavi"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 4843
+		}		
+		set_province_name = {
+			id = 3296
+			name = "Vindavi"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 4845
+		}		
+		set_province_name = {
+			id = 3194
+			name = "Talsi"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 994
+		}		
+		set_province_name = {
+			id = 6342
+			name = "Miitavi"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 993
+		}		
+		set_province_name = {
+			id = 11358
+			name = "Subate"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 3542
+		}		
+		set_province_name = {
+			id = 310
+			name = "Väinalinn"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 992
+		}		
+		set_province_name = {
+			id = 341
+			name = "Räisaku"
+		}
+	}
+
 	if = {
 		limit = {
 			state = 1081
@@ -16366,6 +17366,18 @@ do_estonian_renames = {
 		set_province_name = {
 			id = 185
 			name = "Kuressaare"
+		}
+	}
+}
+do_livonian_renames = {
+
+	if = {
+		limit = {
+			state = 1135
+		}		
+		set_province_name = {
+			id = 9340
+			name = "Rīgõ"
 		}
 	}
 }
