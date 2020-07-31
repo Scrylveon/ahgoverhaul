@@ -5128,3 +5128,7 @@ LSB = {
        color = rgb { 237 114 210 }
        color_ui = rgb { 237 114 210 }
 }
+JMY = {
+       color = rgb { 255 255 255 }
+       color_ui = rgb { 255 255 255 }
+}
