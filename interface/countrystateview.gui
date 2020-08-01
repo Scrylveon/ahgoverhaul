@@ -29,12 +29,12 @@ guiTypes = {
 		hide_animation_type = accelerated
 		animation_time = 300
 		orientation = lower_left
-		size = { width=436 height=350 }
+		size = { width=436 height=240 }
 		
 		containerWindowType = {
 			name = "state_info_window"
 			position = { x = 0 y = 0 }
-			size = { width=436 height=350 }
+			size = { width=436 height=240 }
 			
 			
 			background = {
@@ -45,15 +45,13 @@ guiTypes = {
 						
 			instantTextboxType = {
 				name = "state_name"
-				position = { x = 95 y = 20 }
+				position = { x = 65 y = 25 }
 				textureFile = ""
-				font = "hoi_36header"
+				font = "hoi_18mbs"
 				text = "STATE_NAME_TEST"
-				maxWidth = 250
-				maxHeight = 36
+				maxWidth = 380
+				maxHeight = 30
 				Orientation = "UPPER_LEFT"
-                                truncate = yes
-				format = center
 			}
 			
 			gridBoxType = {
@@ -88,14 +86,14 @@ guiTypes = {
 			iconType ={
 				name ="victory_points_bg"
 				spriteType = "GFX_victorypoint_stateview_bg"
-				position = { x = -170 y = -70 }
+				position = { x = 17 y = 20 }
 			}
 			
 			instantTextboxType = {
 				name = "victory_points"
-				position = { x = 300 y = 180 }
+				position = { x = -13 y = 22 }
 				textureFile = ""
-				font = "hoi_36header"
+				font = "hoi_18mbs"
 				text = ""
 				maxWidth = 70
 				maxHeight = 30
@@ -103,59 +101,48 @@ guiTypes = {
 			}
 			
 			instantTextboxType = {
-				name = "victory_points_name"
-				position = { x = 60 y = 180 }
-				textureFile = ""
-				font = "hoi_36header"
-				text = "Victory Ponts :"
-				maxWidth = 700
-				maxHeight = 30
-				format = left
-			}
-			
-			instantTextboxType = {
 				name = "claims"
-				position = { x = 15 y = 120 }
+				position = { x = 15 y = 112 }
 				textureFile = ""
-				font = "hoi_36header"
+				font = "hoi_18mbs"
 				text = ""
-				maxWidth = 300
+				maxWidth = 140
 				maxHeight = 30
 				fixedsize = yes
-				format = left			
+				format = center				
 			}
 			
 			OverlappingElementsBoxType = {
 				name = "state_claims"
-				position = { x = 305 y = 125 }
+				position = { x = 35 y = 133 }
 				size = { x = 110 y = 40 }
-				format = right
+				format = left
 				spacing = 1.0
 			}
 			
 			instantTextboxType = {
 				name = "owner"
-				position = { x = 15 y = 60 }
+				position = { x = 15 y = 55 }
 				textureFile = ""
-				font = "hoi_36header"
+				font = "hoi_18mbs"
 				text = ""
-				maxWidth = 300
+				maxWidth = 140
 				maxHeight = 30
 				fixedsize = yes
-				format = left	
+				format = center
 			}
 			
 			buttonType = {
 				name = "owner_flag"
-				quadTextureSprite ="GFX_shield_medium"
-				position = { x= 325 y = 57 }
+				quadTextureSprite ="GFX_flag_small2"
+				position = { x= 34 y = 77 }
 			}
 			
 			iconType ={
 				name ="owner_flag_border"
-				quadTextureSprite = "GFX_diplo_flag_frame"
-				position = { x= 299 y = 46 }
-#				alwaystransparent = yes
+				quadTextureSprite = "GFX_diplo_countrylist_flag_frame"
+				position = { x= 30 y = 73 }
+				alwaystransparent = yes
 			}
 			
 			buttonType = {
