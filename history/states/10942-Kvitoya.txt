@@ -5,8 +5,8 @@ state={
 		20444 
 	}
 	history={
-		owner = NOR
-		add_core_of = NOR
+		owner = SVB
+		add_core_of = SVB
 
 	}
 	manpower = 1000

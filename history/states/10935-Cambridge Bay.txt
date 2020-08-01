@@ -1,9 +1,8 @@
+
 state={
 	id=10935
 	name="STATE_10935"
-	provinces={
-		20359 20413 20465 20504 
-	}
+
 	history={
 		owner = CAN
 		add_core_of = CAN
@@ -11,7 +10,11 @@ state={
 		add_core_of = NWT
 
 	}
-	manpower = 1000
-	state_category = pastoral
+
+	provinces={
+		20359 20465 20504 
+	}
+	manpower=1000
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

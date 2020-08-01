@@ -5,7 +5,8 @@ state={
 		20518
 	}
 	history={
-		owner = DEN
+		owner = SG1
+		add_core_of = SG1
 		add_core_of = GRL
 
 	}
