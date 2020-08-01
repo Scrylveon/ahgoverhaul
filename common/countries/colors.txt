@@ -5136,3 +5136,19 @@ MGN = {
        color = rgb { 125 125 125 }
        color_ui = rgb { 125 125 125 }
 }
+SVB = {
+color = rgb { 206 244 243 }
+color_ui = rgb { 206 244 243 }
+}
+NG1 = {
+color = rgb { 142 68 62 }
+color_ui = rgb { 142 68 62 }
+}
+SG1 = {
+color = rgb { 142 68 62 }
+color_ui = rgb { 142 68 62 }
+}
+ERL = {
+color = rgb { 119 156 183 }
+color_ui = rgb { 119 156 183 }
+}
