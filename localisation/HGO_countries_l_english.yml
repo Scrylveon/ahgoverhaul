@@ -67,8 +67,8 @@
  LCN_ADJ:0 "Lake Congolese"
 
  JMY:0 "Jan Mayen"
- JMY:0 "Jan Mayen"
- JMY:0 "Ursine"  
+ JMY_DEF:0 "Jan Mayen"
+ JMY_ADJ:0 "Ursine"  
 
  MGN_neutrality:0 "Magnitogorsk"
  MGN_neutrality_DEF:0 "Magnitogorsk"
