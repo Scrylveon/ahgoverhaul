@@ -1,7 +1,8 @@
-﻿capital = 10930
+﻿capital = 10950
 
 oob = "ERL_1936"
 
+set_cosmetic_tag = ERL_NOR
 set_popularities = {
         anarchism_ideology = 0
         monarchism = 0

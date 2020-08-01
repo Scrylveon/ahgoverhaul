@@ -2,6 +2,7 @@
 
 oob = "SVB_1936"
 
+set_cosmetic_tag = SVB_NOR
 set_popularities = {
         anarchism_ideology = 0
         monarchism = 0

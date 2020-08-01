@@ -1,7 +1,8 @@
-﻿capital = 3613
+﻿capital = 10949
 
 oob = "NG1_1936"
 
+set_cosmetic_tag = NG1_DEN
 set_popularities = {
         anarchism_ideology = 0
         monarchism = 0

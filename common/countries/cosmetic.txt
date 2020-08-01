@@ -634,7 +634,23 @@ KED_ENG = {
 	color = rgb { 150 26 10 }
 	color_ui = rgb { 150 26 10 }
 }
+SVB_NOR = {
+	color = rgb { 119 156 183 }
+	color_ui = rgb { 119 156 183 }
+}
 ICE_DEN = {
+	color = rgb { 142 68 62 }
+	color_ui = rgb { 142 68 62 }
+}
+GRL_DEN = {
+	color = rgb { 142 68 62 }
+	color_ui = rgb { 142 68 62 }
+}
+SG1_DEN = {
+	color = rgb { 142 68 62 }
+	color_ui = rgb { 142 68 62 }
+}
+NG1_DEN = {
 	color = rgb { 142 68 62 }
 	color_ui = rgb { 142 68 62 }
 }

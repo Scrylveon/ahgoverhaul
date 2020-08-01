@@ -2,6 +2,7 @@
 
 oob = "GRL_1936"
 
+set_cosmetic_tag = GRL_DEN
 set_research_slots = 3
 
 add_ideas = {
