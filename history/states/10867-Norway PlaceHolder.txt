@@ -1,15 +1,18 @@
+
 state={
 	id=10867
 	name="STATE_10867"
-	provinces={
-		20352 20353 20405 20444 
-	}
-	manpower=1000
-	
-	state_category=pastoral
-	
+
 	history={
 		owner = NOR
-		add_core_of =NOR
+		add_core_of = NOR
+
 	}
+
+	provinces={
+		20352 20353 
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

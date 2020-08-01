@@ -1,0 +1,17 @@
+state={
+	id=10940
+	name="STATE_10940"
+	provinces={
+		13204 20217 
+	}
+	history={
+		owner = CCI
+		add_core_of = CCI
+		add_core_of = RUS
+		add_core_of = SOV
+
+	}
+	manpower = 1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

@@ -1,15 +1,18 @@
+
 state={
 	id=10868
 	name="STATE_10868"
-	provinces={
-		20217 20266 20271 20274 20275 20276 20277 20278 20279 20280 20281 20282 20283 20284 20285 20286 20287 20288 20314 20341 20360 20367 20398 20399 20407 20429 20441 20442 20446 
-	}
-	manpower=1000
-	
-	state_category=pastoral
-	
+
 	history={
 		owner = RUS
 		add_core_of = RUS
+
 	}
+
+	provinces={
+		20399 20407 20441 20442 
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

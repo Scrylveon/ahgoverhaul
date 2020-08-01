@@ -1,0 +1,16 @@
+state={
+	id=10945
+	name="STATE_10945"
+	provinces={
+		20242 
+	}
+	history={
+		owner = DEN
+		add_core_of = DEN
+		add_core_of = GRL
+
+	}
+	manpower = 1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}
