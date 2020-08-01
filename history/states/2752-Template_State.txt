@@ -6,6 +6,7 @@ state={
 		owner = POL 
 		add_core_of = POL
 		add_core_of = GAL
+		add_core_of = WUK
 		victory_points = {
 			9494 1 
 		}
