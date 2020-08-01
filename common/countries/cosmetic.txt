@@ -634,7 +634,7 @@ KED_ENG = {
 	color = rgb { 150 26 10 }
 	color_ui = rgb { 150 26 10 }
 }
-SVB_NOR = {
+SLB_NOR = {
 	color = rgb { 119 156 183 }
 	color_ui = rgb { 119 156 183 }
 }

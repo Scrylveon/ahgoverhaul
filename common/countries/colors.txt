@@ -5136,7 +5136,7 @@ MGN = {
        color = rgb { 125 125 125 }
        color_ui = rgb { 125 125 125 }
 }
-SVB = {
+SLB = {
 color = rgb { 206 244 243 }
 color_ui = rgb { 206 244 243 }
 }
