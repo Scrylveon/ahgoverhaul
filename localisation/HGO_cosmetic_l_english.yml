@@ -5702,9 +5702,9 @@
  VEN_GER_DEF:0 "Klein-Venedig"
  VEN_GER_ADJ:0 "German"
 
- SVB_NOR:0 "Svalbard of the Kingdom of Norway"
- SVB_NOR_DEF:0 "The Svalbard of the Kingdom of Norway"
- SVB_NOR_ADJ:0 "Svalbardian"
+ SLB_NOR:0 "Svalbard of the Kingdom of Norway"
+ SLB_NOR_DEF:0 "The Svalbard of the Kingdom of Norway"
+ SLB_NOR_ADJ:0 "Svalbardian"
  
  NG1_DEN:0 "Colony of North Greenland"
  NG1_DEN_DEF:0 "The Colony of North Greenland"
