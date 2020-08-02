@@ -8,7 +8,6 @@ state={
 			
 		}
 		add_core_of = ATC
-		add_core_of = UNC
 		add_claim_by = NOR
 	}
 	provinces={

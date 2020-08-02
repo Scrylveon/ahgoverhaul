@@ -1,4 +1,4 @@
-﻿capital = 8925
+﻿capital = 10985
 
 set_cosmetic_tag = UNC_ANT
 
