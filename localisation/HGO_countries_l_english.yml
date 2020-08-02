@@ -70,6 +70,10 @@
  JMY_DEF:0 "Jan Mayen"
  JMY_ADJ:0 "Ursine"  
 
+ UCL:0 "Unclaimed Land"
+ UCL_DEF:0 "Unclaimed Land"
+ UCL_ADJ:0 "Unclaimed"
+
  MGN_neutrality:0 "Magnitogorsk"
  MGN_neutrality_DEF:0 "Magnitogorsk"
  MGN_monarchism:0 "Duchy of Magnitogorsk"

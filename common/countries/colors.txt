@@ -5132,6 +5132,10 @@ JMY = {
        color = rgb { 255 255 255 }
        color_ui = rgb { 255 255 255 }
 }
+UCL = {
+       color = rgb { 255 255 255 }
+       color_ui = rgb { 255 255 255 }
+}
 MGN = {
        color = rgb { 125 125 125 }
        color_ui = rgb { 125 125 125 }

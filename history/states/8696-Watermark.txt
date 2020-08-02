@@ -13,6 +13,7 @@ state={
 		add_core_of = NOM
 		add_core_of = WTR
 		add_core_of = INN
+		add_core_of = UCL
 
 	}
 	manpower = 1

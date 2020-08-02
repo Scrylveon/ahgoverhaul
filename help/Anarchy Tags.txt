@@ -46,3 +46,6 @@ International Zone
     Fascism - International Waters - For international waters if you want to do those, or any islands you want to include within them.
     Vanguardism - Demilitarized Zone - A demilitarized international zone.
     Absolute Monarchism - Neutral Zone - A neutral zone, somewhat similar to an international zone.
+
+Unclaimed Land
+	Current a work in progress. Only has one name, "Unclaimed Land"
