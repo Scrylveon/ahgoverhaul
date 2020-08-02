@@ -6,7 +6,10 @@ state={
 		buildings = {
 			infrastructure = 4
 			
-		}
+		}		
+		add_core_of = ATC
+		add_claim_by = FAL
+		add_claim_by = ARG
 	}
 	provinces={
 		14817
