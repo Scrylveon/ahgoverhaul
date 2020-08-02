@@ -11,10 +11,10 @@ state={
 		add_core_of = GRL
 		add_core_of = NUN
 		add_core_of = NWT
+	set_demilitarized_zone = yes
 
 	}
 	manpower = 1000
 	state_category = pastoral
 	buildings_max_level_factor=1.000
-	set_demilitarized_zone = yes
 }
