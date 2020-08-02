@@ -1,12 +1,7 @@
+
 state={
 	id=3690
 	name="STATE_3690"
-	provinces={
-		8033 4977 18751 18745
-	}
-	manpower = 1000
-	
-	state_category = pastoral
 
 	history={
 		owner = MEX
@@ -14,7 +9,15 @@ state={
 		add_core_of = SON
 		buildings = {
 			infrastructure = 1
+
 		}
+
 	}
+
+	provinces={
+		4977 8033 
+	}
+	manpower=1000
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

@@ -16,15 +16,14 @@ state={
 		add_core_of = USA
 		add_core_of = CAL
 		add_core_of = CLC
-		
-
 		victory_points = {
-			6861 5
+			6861 5 
 		}
+
 	}
 
 	provinces={
-		986 3784 3840 6861 9637 6876
+		986 3784 3840 6861 9637 
 	}
 	manpower=200452
 	buildings_max_level_factor=1.000
