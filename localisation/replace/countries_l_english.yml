@@ -19779,6 +19779,9 @@
  SNL_fascism:0 "Sinaloan State"
  SNL_fascism_DEF:0 "Sinaloan State"
  SNL_fascism_ADJ:0 "Sinaloan"
+ SNL_right_anarchism:0 "Sinaloa Cartel"
+ SNL_right_anarchism_DEF:0 "The Sinaloa Cartel"
+ SNL_right_anarchism_ADJ:0 "Sinaloan"
 
  CUU_neutrality:0 "Chihuahua"
  CUU_neutrality_DEF:0 "Chihuahua"
