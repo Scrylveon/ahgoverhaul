@@ -4868,7 +4868,7 @@ do_german_renames = {
 		}		
 		set_province_name = {
 			id = 11159
-			name = "Petrozavodsk"
+			name = "Petrosawodsk"
 		}
 	}
 
@@ -5445,7 +5445,7 @@ do_german_renames = {
 			state = 4832
 		}		
 		set_province_name = {
-			id = 6283
+			id = 6235
 			name = "Aalburg"
 		}
     }
@@ -23459,6 +23459,199 @@ do_finnish_renames = {
 
 	if = {
 		limit = {
+			state = 1135
+		}		
+		set_province_name = {
+			id = 9340
+			name = "Riika"
+		}
+	}
+	if = {
+		limit = {
+			state = 190
+		}		
+		set_province_name = {
+			id = 9262
+			name = "Liepāja"
+		}
+	}
+	if = {
+		limit = {
+			state = 4843
+		}		
+		set_province_name = {
+			id = 3296
+			name = "Ventspils"
+		}
+	}
+	if = {
+		limit = {
+			state = 4845
+		}		
+		set_province_name = {
+			id = 3194
+			name = "Talsi"
+		}
+	}
+	if = {
+		limit = {
+			state = 994
+		}		
+		set_province_name = {
+			id = 6342
+			name = "Jelgava"
+		}
+	}
+	if = {
+		limit = {
+			state = 993
+		}		
+		set_province_name = {
+			id = 11358
+			name = "Subate"
+		}
+	}
+	if = {
+		limit = {
+			state = 3542
+		}		
+		set_province_name = {
+			id = 310
+			name = "Väinänlinna"
+		}
+	}
+	if = {
+		limit = {
+			state = 992
+		}		
+		set_province_name = {
+			id = 341
+			name = "Reezekne"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1081
+		}		
+		set_province_name = {
+			id = 415
+			name = "Petseri"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 191
+		}		
+		set_province_name = {
+			id = 9221
+			name = "Tartto"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 13
+		}		
+		set_province_name = {
+			id = 3152
+			name = "Tallinna"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 995
+		}		
+		set_province_name = {
+			id = 185
+			name = "Kuresaari"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4861
+		}		
+		set_province_name = {
+			id = 11202
+			name = "Pikhova"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4868
+		}		
+		set_province_name = {
+			id = 3140
+			name = "Tihvinä"
+		}
+    }
+
+	if = {
+		limit = {
+			state = 4869
+		}		
+		set_province_name = {
+			id = 117
+			name = "Uusikaupunki"
+		}
+    }
+
+	if = {
+		limit = {
+			state = 195
+		}		
+		set_province_name = {
+			id = 3151
+			name = "Pietari"
+		}
+    }
+
+	if = {
+		limit = {
+			state = 4884
+		}		
+		set_province_name = {
+			id = 3338
+			name = "Vienankaupunki"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 216
+		}		
+		set_province_name = {
+			id = 11159
+			name = "Petroskoi"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 213
+		}		
+		set_province_name = {
+			id = 3134
+			name = "Muurmanni"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4911
+		}		
+		set_province_name = {
+			id = 9108
+			name = "Luulaja"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 149
 		}		
 		set_province_name = {
@@ -23484,6 +23677,16 @@ do_finnish_renames = {
 		set_province_name = {
 			id = 11105
 			name = "Helsinki"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 147
+		}		
+		set_province_name = {
+			id = 197
+			name = "Salla"
 		}
 	}
 
@@ -24274,7 +24477,7 @@ do_danish_renames = {
 			state = 4832
 		}		
 		set_province_name = {
-			id = 6283
+			id = 6235
 			name = "Aalborg"
 		}
     }
@@ -24531,6 +24734,16 @@ do_norwegian_renames = {
 
 	if = {
 		limit = {
+			state = 939
+		}		
+		set_province_name = {
+			id = 192
+			name = "Narvik"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 938
 		}		
 		set_province_name = {
@@ -24545,7 +24758,7 @@ do_norwegian_renames = {
 		}		
 		set_province_name = {
 			id = 3022
-			name = "Trondheim"
+			name = "Trøndheim"
 		}
 	}
 
@@ -24560,6 +24773,217 @@ do_norwegian_renames = {
 	}
 }
 do_swedish_renames = {
+
+	if = {
+		limit = {
+			state = 100
+		}		
+		set_province_name = {
+			id = 12674
+			name = "Rökvik"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 10626
+		}		
+		set_province_name = {
+			id = 20128
+			name = "Ribe"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2298
+		}		
+		set_province_name = {
+			id = 13822
+			name = "Dybböl Socken"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1130
+		}		
+		set_province_name = {
+			id = 316
+			name = "Klitmöller"
+		}
+    }
+
+	if = {
+		limit = {
+			state = 4832
+		}		
+		set_province_name = {
+			id = 6235
+			name = "Ålborg"
+		}
+    }
+
+	if = {
+		limit = {
+			state = 99
+		}		
+		set_province_name = {
+			id = 6364
+			name = "Århus"
+		}
+    }
+
+	if = {
+		limit = {
+			state = 5609
+		}		
+		set_province_name = {
+			id = 6287
+			name = "Köpenhamn"
+		}
+    }
+
+	if = {
+		limit = {
+			state = 5839
+		}		
+		set_province_name = {
+			id = 399
+			name = "Esberg"
+		}
+    }
+
+	if = {
+		limit = {
+			state = 1131
+		}		
+		set_province_name = {
+			id = 3325
+			name = "Odense"
+		}
+    }
+
+	if = {
+		limit = {
+			state = 10625
+		}		
+		set_province_name = {
+			id = 20127
+			name = "Sönderborg"
+		}
+    }
+
+
+	if = {
+		limit = {
+			state = 147
+		}		
+		set_province_name = {
+			id = 197
+			name = "Salla"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 149
+		}		
+		set_province_name = {
+			id = 3122
+			name = "Vasa"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1097
+		}		
+		set_province_name = {
+			id = 3083
+			name = "Åbo"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 111
+		}		
+		set_province_name = {
+			id = 11105
+			name = "Helsingfors"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3859
+		}		
+		set_province_name = {
+			id = 3137
+			name = "Tammerfors"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1878
+		}		
+		set_province_name = {
+			id = 9206
+			name = "Viborg"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 938
+		}		
+		set_province_name = {
+			id = 10
+			name = "Ostlandet"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 939
+		}		
+		set_province_name = {
+			id = 192
+			name = "Narvik"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1272
+		}		
+		set_province_name = {
+			id = 3022
+			name = "Tröndheim"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 142
+		}		
+		set_province_name = {
+			id = 122
+			name = "Bergen"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4911
+		}		
+		set_province_name = {
+			id = 9108
+			name = "Luleå"
+		}
+	}
 
 	if = {
 		limit = {
