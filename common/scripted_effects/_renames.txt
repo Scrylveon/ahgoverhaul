@@ -4534,6 +4534,26 @@ do_german_renames = {
 
 	if = {
 		limit = {
+			state = 950
+		}		
+		set_province_name = {
+			id = 11599
+			name = "Suchomi"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1135
+		}		
+		set_province_name = {
+			id = 9340
+			name = "Riga"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 5049
 		}		
 		set_province_name = {
@@ -6367,16 +6387,6 @@ do_german_renames = {
 		set_province_name = {
 			id = 13424
 			name = "Vienna"
-		}
-	}
-
-	if = {
-		limit = {
-			state = 1135
-		}		
-		set_province_name = {
-			id = 9340
-			name = "Rīgõ"
 		}
 	}
 

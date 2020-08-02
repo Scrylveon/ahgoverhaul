@@ -149,6 +149,7 @@ guiTypes = {
 				name ="owner_flag_border"
 				quadTextureSprite = "GFX_diplo_flag_frame"
 				position = { x= 299 y = 46 }
+				alwaystransparent = yes
 			}
 
 			buttonType = {
@@ -159,13 +160,13 @@ guiTypes = {
 			buttonType = {
 				name = "controller_flag"
 				quadTextureSprite = "GFX_flag_small2"
-				position = { x= 74 y = 73 }
+				position = { x= 365 y = 80}
 			}	
 
 			iconType ={
 				name ="controller_flag_border"
 				quadTextureSprite = "GFX_diplo_countrylist_flag_frame"
-				position = { x= 70 y = 69 }
+				position = { x= 361 y = 77 }
 				alwaystransparent = yes
 			}
 
