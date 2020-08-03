@@ -421,6 +421,29 @@ on_actions = {
 							              has_cosmetic_tag = BGN_GER}}
 						}
 						do_german_renames = yes
+					}	
+
+					### ITA ###
+					if = {
+						limit = {
+							ROOT = {OR = {has_cosmetic_tag = LBA_ITA
+						                  has_cosmetic_tag = ERI_ITA
+						                  has_cosmetic_tag = SOM_ITA
+						                  has_cosmetic_tag = ETH_ITA
+						                  has_cosmetic_tag = EGY_ITA
+						                  has_cosmetic_tag = SUD_ITA
+						                  has_cosmetic_tag = ALG_ITA
+						                  has_cosmetic_tag = SYR_ITA
+						                  has_cosmetic_tag = PAL_ITA
+						                  has_cosmetic_tag = ALB_ITA
+						                  has_cosmetic_tag = CRO_ITA
+						                  has_cosmetic_tag = SER_ITA
+						                  has_cosmetic_tag = GRE_ITA
+						                  has_cosmetic_tag = TUR_ITA
+							              has_cosmetic_tag = SAU_ITA
+							              has_cosmetic_tag = IRQ_ITA}}
+						}
+						do_italian_renames = yes
 					}				
 			}
 		}

@@ -1678,16 +1678,6 @@ do_french_renames = {
 
 	if = {
 		limit = {
-			state = 5698
-		}		
-		set_province_name = {
-			id = 12473
-			name = "Antakya"
-		}
-	}
-
-	if = {
-		limit = {
 			state = 898
 		}		
 		set_province_name = {
@@ -12593,7 +12583,6 @@ do_latin_renames = {
 		}
 	}
 
-
 	if = {
 		limit = {
 			state = 1205
@@ -17702,117 +17691,6 @@ do_catalonian_renames = {
 			name = "Saragossa"
 		}
 	}
-	
-	if = {
-		limit = {
-			state = 458
-		}		
-		set_province_name = {
-			id = 11969
-			name = "Tunisi"
-		}
-	}
-	
-	if = {
-		limit = {
-			state = 3425
-		}		
-		set_province_name = {
-			id = 9994
-			name = "Biserta"
-		}
-	}
-
-	if = {
-		limit = {
-			state = 116
-		}		
-		set_province_name = {
-			id = 12003
-			name = "La Valletta"
-		}
-	}
-	
-	if = {
-		limit = {
-			state = 448
-		}		
-		set_province_name = {
-			id = 1149
-			name = "Tripoli"
-		}
-	}
-	
-	if = {
-		limit = {
-			state = 450
-		}		
-		set_province_name = {
-			id = 11954
-			name = "Bengasi"
-		}
-	}
-	
-	if = {
-		limit = {
-			state = 451
-		}		
-		set_province_name = {
-			id = 1130
-			name = "Tobruch"
-		}
-	}
-	
-	if = {
-		limit = {
-			state = 447
-		}		
-		set_province_name = {
-			id = 4076
-			name = "Alessandria"
-		}
-	}
-
-	if = {
-		limit = {
-			state = 446
-		}		
-		set_province_name = {
-			id = 7011
-			name = "Il Cairo"
-		}
-	}
-
-	if = {
-		limit = {
-			state = 1014
-		}		
-		set_province_name = {
-			id = 12725
-			name = "Porto Sudan"
-		}
-	}
-
-	if = {
-		limit = {
-			state = 10493
-		}		
-		set_province_name = {
-			id = 12806
-			name = "Khartum"
-		}
-	}
-
-	if = {
-		limit = {
-			state = 271
-		}		
-		set_province_name = {
-			id = 5010
-			name = "Addis Abeba"
-		}
-	}
-
 }
 do_luxembourgish_renames = {
 
@@ -23306,21 +23184,21 @@ do_turkish_renames = {
 
 	if = {
 		limit = {
-			state = 554
-		}		
-		set_province_name = {
-			id = 4111
-			name = "Dimaşk"
-		}
-	}
-
-	if = {
-		limit = {
 			state = 291
 		}		
 		set_province_name = {
 			id = 2097
 			name = "Bağdat"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 676
+		}		
+		set_province_name = {
+			id = 10106
+			name = "Musul"
 		}
 	}
 
@@ -23336,11 +23214,11 @@ do_turkish_renames = {
 
 	if = {
 		limit = {
-			state = 676
+			state = 554
 		}		
 		set_province_name = {
-			id = 10106
-			name = "Musul"
+			id = 4111
+			name = "Dimaşk"
 		}
 	}
 
@@ -23401,7 +23279,7 @@ do_turkish_renames = {
 		}		
 		set_province_name = {
 			id = 11747
-			name = "Ankara"
+			name = "Angora"
 		}
 	}
 
@@ -25093,6 +24971,374 @@ do_ethiopian_renames = {
 	}	
 }
 do_italian_renames = {
+
+	if = {
+		limit = {
+			state = 1796
+		}		
+		set_province_name = {
+			id = 3865
+			name = "Bitola"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 7329
+		}		
+		set_province_name = {
+			id = 13366
+			name = "Scitip"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 344
+		}		
+		set_province_name = {
+			id = 11746
+			name = "Antiochia di Cilicia"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 354
+		}		
+		set_province_name = {
+			id = 9932
+			name = "Trebisonda"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 49
+		}		
+		set_province_name = {
+			id = 11747
+			name = "Angora"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 346
+		}		
+		set_province_name = {
+			id = 940
+			name = "Conia"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 347
+		}		
+		set_province_name = {
+			id = 890
+			name = "Prusiade"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2357
+		}		
+		set_province_name = {
+			id = 3686
+			name = "Sebastopoli"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2482
+		}		
+		set_province_name = {
+			id = 6704
+			name = "Jalta"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 294
+		}		
+		set_province_name = {
+			id = 10760
+			name = "Mascate"
+		}
+	}
+	if = {
+		limit = {
+			state = 3389
+		}		
+		set_province_name = {
+			id = 7960
+			name = "Abu Dabi"
+		}
+	}
+	if = {
+		limit = {
+			state = 893
+		}		
+		set_province_name = {
+			id = 13208
+			name = "Manama"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 894
+		}		
+		set_province_name = {
+			id = 8051
+			name = "Doha"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 293
+		}		
+		set_province_name = {
+			id = 10840
+			name = "Sana'a"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2215
+		}		
+		set_province_name = {
+			id = 12727
+			name = "Riad"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 679
+		}		
+		set_province_name = {
+			id = 1923
+			name = "La Mecca"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3372
+		}		
+		set_province_name = {
+			id = 12758
+			name = "Medina"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 656
+		}		
+		set_province_name = {
+			id = 8085
+			name = "Cuveit"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1373
+		}		
+		set_province_name = {
+			id = 2089
+			name = "Bassora"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 291
+		}		
+		set_province_name = {
+			id = 2097
+			name = "Bagdad"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 676
+		}		
+		set_province_name = {
+			id = 10106
+			name = "Mossul"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3362
+		}		
+		set_province_name = {
+			id = 792
+			name = "Berito"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5698
+		}		
+		set_province_name = {
+			id = 12473
+			name = "Aleppo"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 554
+		}		
+		set_province_name = {
+			id = 4111
+			name = "Damasco"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 1446
+		}		
+		set_province_name = {
+			id = 9893
+			name = "Antep"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 898
+		}		
+		set_province_name = {
+			id = 12029
+			name = "Antiochia"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1208
+		}		
+		set_province_name = {
+			id = 13352
+			name = "Kazrin"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 455
+		}		
+		set_province_name = {
+			id = 7151
+			name = "Filadelfia"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1206
+		}		
+		set_province_name = {
+			id = 13351
+			name = "Nazaret"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3382
+		}		
+		set_province_name = {
+			id = 4206
+			name = "Giaffa"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1205
+		}		
+		set_province_name = {
+			id = 1086
+			name = "Gerusalemme"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 451
+		}		
+		set_province_name = {
+			id = 1130
+			name = "Tobruch"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 447
+		}		
+		set_province_name = {
+			id = 4076
+			name = "Alessandria"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 446
+		}		
+		set_province_name = {
+			id = 7011
+			name = "Il Cairo"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1014
+		}		
+		set_province_name = {
+			id = 12725
+			name = "Porto Sudan"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 10493
+		}		
+		set_province_name = {
+			id = 12806
+			name = "Khartum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1890
+		}		
+		set_province_name = {
+			id = 778
+			name = "Annecy"
+		}
+	}	
 
 	if = {
 		limit = {
