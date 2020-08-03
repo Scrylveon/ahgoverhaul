@@ -11,7 +11,7 @@ A: The anarchy releasables lack a flag deliberately due to not being countries. 
 
 Q: What do all the ideologies mean?
 A: See this list:
-	Total Anarchism - No real government.
+	Total Anarchism - No real government. Also used for tribes, since they are not a really a nation.
 	Left Anarchism - "Anarchism" that is left wing, like Anarcho-Syndicalism.
 	Right Anarchism - "Anarchism" that is right wing, like Anarcho-Capitalism
 	Vanguardism - Authoritarian communism, such as Stalinism and Maoism.
