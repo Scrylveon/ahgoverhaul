@@ -15,8 +15,7 @@ guiTypes = {
 		show_sound = menu_open_window
 		
 		background = {
-			name = "Background"		
-			size = { width = 1%% height = 1%% }
+			name = "Background"	
 			position = { x = 10000 y = 10000}	
 			spriteType ="GFX_tiled_bg"
 		}
@@ -380,7 +379,6 @@ guiTypes = {
 				background = {
 					name = "Background"
 					position = { x = 8000 y= 6 }
-					size = { width=1%% height=1%% }
 					spriteType ="GFX_tiled_window_1b_thin_border"
 				}
 

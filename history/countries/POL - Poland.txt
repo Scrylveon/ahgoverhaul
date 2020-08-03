@@ -52,7 +52,7 @@ create_country_leader = {
 	desc = "POLITICS_WLADYSLAW_SIKORSKI_DESC"
 	picture = "Portrait_Poland_Wladyslaw_Sikorski.dds"
 	expire = "1965.1.1"
-	ideology = centrist_republicanism
+	ideology = centrist_republic
 	traits = {
 		#
 	}
