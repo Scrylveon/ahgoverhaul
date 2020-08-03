@@ -25096,6 +25096,46 @@ do_italian_renames = {
 
 	if = {
 		limit = {
+			state = 1547
+		}		
+		set_province_name = {
+			id = 1984
+			name = "Gondar"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 271
+		}		
+		set_province_name = {
+			id = 5010
+			name = "Addis Abeba"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 5322
+		}		
+		set_province_name = {
+			id = 7980
+			name = "Harrar"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 550
+		}		
+		set_province_name = {
+			id = 12766
+			name = "Asmera"
+		}
+	}	
+
+	if = {
+		limit = {
 			state = 461
 		}		
 		set_province_name = {
