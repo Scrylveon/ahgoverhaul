@@ -4521,6 +4521,207 @@ do_celtic_renames = {
 
 }
 do_german_renames = {
+		
+	if = {
+		limit = {
+			state = 10913
+		}		
+		set_state_name = Guthoff
+	}
+
+	if = {
+		limit = {
+			state = 149
+		}		
+		set_province_name = {
+			id = 3122
+			name = "Wasa"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1097
+		}		
+		set_province_name = {
+			id = 3083
+			name = "Aabo"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 111
+		}		
+		set_province_name = {
+			id = 11105
+			name = "Hälsingfors"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 147
+		}		
+		set_province_name = {
+			id = 197
+			name = "Salla"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3859
+		}		
+		set_province_name = {
+			id = 3137
+			name = "Tammerfors"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1878
+		}		
+		set_province_name = {
+			id = 9206
+			name = "Wiburg"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 939
+		}		
+		set_province_name = {
+			id = 192
+			name = "Narwick"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 938
+		}		
+		set_province_name = {
+			id = 10
+			name = "Ostland"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1272
+		}		
+		set_province_name = {
+			id = 3022
+			name = "Drontheim"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 142
+		}		
+		set_province_name = {
+			id = 122
+			name = "Bergen"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 944
+		}		
+		set_province_name = {
+			id = 156
+			name = "Fahlun"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 140
+		}		
+		set_province_name = {
+			id = 11114
+			name = "Karlstadt"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4911
+		}		
+		set_province_name = {
+			id = 9108
+			name = "Luleaa"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 141
+		}		
+		set_province_name = {
+			id = 6050
+			name = "Stockholm"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 4077
+		}		
+		set_state_name = "Westgotland"
+	}
+		
+	if = {
+		limit = {
+			state = 124
+		}		
+		set_state_name = "Ostgotland"
+	}
+
+	if = {
+		limit = {
+			state = 4922
+		}		
+		set_province_name = {
+			id = 11380
+			name = "Nordminderstadt"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1781
+		}		
+		set_province_name = {
+			id = 383
+			name = "Gothenburg"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 138
+		}		
+		set_province_name = {
+			id = 11215
+			name = "Karlskrone"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1132
+		}		
+		set_province_name = {
+			id = 9279
+			name = "Malmö"
+		}
+	}
 
 	if = {
 		limit = {
@@ -5321,7 +5522,7 @@ do_german_renames = {
 		}		
 		set_province_name = {
 			id = 6363
-			name = "MMarienkirche in einer Senke bei den weißen Haseln in der Nähe des schnellen Wirbels und der Thysiliokirche bei der roten Höhle"
+			name = "Marienkirche in einer Senke bei den weißen Haseln in der Nähe des schnellen Wirbels und der Thysiliokirche bei der roten Höhle"
 		}
 	}
 
@@ -17696,6 +17897,16 @@ do_luxembourgish_renames = {
 
 	if = {
 		limit = {
+			state = 2434
+		}		
+		set_province_name = {
+			id = 14669
+			name = "Verviers"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 769
 		}		
 		set_province_name = {
@@ -23589,6 +23800,13 @@ do_finnish_renames = {
 	}
 }
 do_danish_renames = {
+		
+	if = {
+		limit = {
+			state = 10913
+		}		
+		set_state_name = Godthåb
+	}
 
 	if = {
 		limit = {
@@ -24855,6 +25073,26 @@ do_swedish_renames = {
 
 	if = {
 		limit = {
+			state = 140
+		}		
+		set_province_name = {
+			id = 11114
+			name = "Karlstad"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 944
+		}		
+		set_province_name = {
+			id = 156
+			name = "Falun"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 4911
 		}		
 		set_province_name = {
@@ -24971,6 +25209,16 @@ do_ethiopian_renames = {
 	}	
 }
 do_italian_renames = {
+
+	if = {
+		limit = {
+			state = 9784
+		}		
+		set_province_name = {
+			id = 1071
+			name = "El-Alamein"
+		}
+	}
 
 	if = {
 		limit = {
