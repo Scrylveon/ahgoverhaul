@@ -386,7 +386,7 @@ on_actions = {
 							ROOT = {tag = LIV}
 						}
 						do_livonian_renames = yes
-					}	
+					}
 
 					### RKS ###
 					if = {
@@ -444,6 +444,32 @@ on_actions = {
 							              has_cosmetic_tag = IRQ_ITA}}
 						}
 						do_italian_renames = yes
+					}	
+
+					### FRA ###
+					if = {
+						limit = {
+							ROOT = {OR = {has_cosmetic_tag = MOR_FRA
+						                  has_cosmetic_tag = TUN_FRA
+						                  has_cosmetic_tag = ALG_FRA
+						                  has_cosmetic_tag = FWA_FRA
+						                  has_cosmetic_tag = FEA_FRA
+						                  has_cosmetic_tag = DJI_FRA
+						                  has_cosmetic_tag = MAD_FRA
+						                  has_cosmetic_tag = TOG_FRA
+						                  has_cosmetic_tag = EGY_FRA
+						                  has_cosmetic_tag = SUD_FRA
+						                  has_cosmetic_tag = CMR_FRA
+						                  has_cosmetic_tag = NMB_FRA
+						                  has_cosmetic_tag = SYR_FRA
+						                  has_cosmetic_tag = LEB_FRA
+						                  has_cosmetic_tag = IND_FRA
+						                  has_cosmetic_tag = SAF_FRA
+						                  has_cosmetic_tag = LEZ_FRA
+						                  has_cosmetic_tag = SWZ_FRA
+						                  has_cosmetic_tag = MZB_FRA}}
+						}
+						do_french_renames = yes
 					}				
 			}
 		}

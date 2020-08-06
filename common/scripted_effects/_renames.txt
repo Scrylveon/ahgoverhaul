@@ -97,6 +97,136 @@ do_sorbian_renames = {
 	}
 }
 do_french_renames = {
+	
+	if = {
+		limit = {
+			state = 559
+		}		
+		set_province_name = {
+			id = 12991
+			name = "Mogadiscio"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1547
+		}		
+		set_province_name = {
+			id = 1984
+			name = "Gondar"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 271
+		}		
+		set_province_name = {
+			id = 5010
+			name = "Addis-Abeba"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 5322
+		}		
+		set_province_name = {
+			id = 7980
+			name = "Harar"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 550
+		}		
+		set_province_name = {
+			id = 12766
+			name = "Asmere"
+		}
+	}	
+
+	if = {
+		limit = {
+			state = 547
+		}		
+		set_province_name = {
+			id = 5210
+			name = "Mombasse"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 546
+		}		
+		set_province_name = {
+			id = 2196
+			name = "Daressalam"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 455
+		}		
+		set_province_name = {
+			id = 7151
+			name = "Philadelphie"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3382
+		}		
+		set_province_name = {
+			id = 4206
+			name = "Jophé"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5008
+		}		
+		set_province_name = {
+			id = 7872
+			name = "Lousaca"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1593
+		}		
+		set_province_name = {
+			id = 10929
+			name = "Salisbourg"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1495
+		}		
+		set_province_name = {
+			id = 8245
+			name = "Laurent Marc"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 458
+		}		
+		set_province_name = {
+			id = 11969
+			name = "Tunes"
+		}
+	}
 
 	if = {
 		limit = {
@@ -9647,6 +9777,46 @@ do_persian_renames = {
 }
 
 do_english_renames = {
+
+	if = {
+		limit = {
+			state = 547
+		}		
+		set_province_name = {
+			id = 5210
+			name = "Mombasa"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 546
+		}		
+		set_province_name = {
+			id = 2196
+			name = "Dar es Salaam"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5008
+		}		
+		set_province_name = {
+			id = 7872
+			name = "Lusaka"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1593
+		}		
+		set_province_name = {
+			id = 10929
+			name = "Salisbury"
+		}
+	}
 
 	if = {
 		limit = {
@@ -25209,6 +25379,16 @@ do_ethiopian_renames = {
 	}	
 }
 do_italian_renames = {
+	
+	if = {
+		limit = {
+			state = 559
+		}		
+		set_province_name = {
+			id = 12991
+			name = "Mogadiscio"
+		}
+	}
 
 	if = {
 		limit = {
@@ -26835,6 +27015,16 @@ do_italian_renames = {
 	}
 }
 do_portuguese_renames = {
+
+	if = {
+		limit = {
+			state = 1495
+		}		
+		set_province_name = {
+			id = 8245
+			name = "Lourenço Marques"
+		}
+	}
 	
 	if = {
 		limit = {
