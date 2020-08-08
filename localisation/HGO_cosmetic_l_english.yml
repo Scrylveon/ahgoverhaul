@@ -5701,3 +5701,29 @@
  VEN_GER:0 "Klein-Venedig"
  VEN_GER_DEF:0 "Klein-Venedig"
  VEN_GER_ADJ:0 "German"
+
+#bonk's territory don't touch
+
+ SOV_ENG:0 "British Far Eastern Territories"
+ SOV_ENG_DEF:0 "the British Far Eastern Territories"
+ SOV_ENG_ADJ:0 "British"
+
+ SBR_ENG:0 "Sibir Industrial Zone"
+ SBR_ENG_DEF:0 "the Sibir Industrial Zone"
+ SBR_ENG_ADJ:0 "Siberian"
+
+ LIN_ENG:0 "Nez Perce Resevation"
+ LIN_ENG_DEF:0 "the Nez Perce Resevation"
+ LIN_ENG_ADJ:0 "British"
+
+ ORG_ENG:0 "Blackfoot Resevation"
+ ORG_ENG_DEF:0 "the Blackfoot Resevation"
+ ORG_ENG_ADJ:0 "British"
+
+ FWA_ENG:0 "British West Africa"
+ FWA_ENG_DEF:0 "British West Africa"
+ FWA_ENG_ADJ:0 "East African"
+
+ ANG_ENG:0 "Portugese Africa"
+ ANG_ENG_DEF:0 "Portugese Africa"
+ ANG_ENG_ADJ:0 "Portugese African"
