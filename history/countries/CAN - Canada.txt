@@ -2,7 +2,7 @@
 
 oob = "CAN_1936"
 
-set_cosmetic_tag = CAN_UK
+set_cosmetic_tag = CAN_ENG
 set_research_slots = 3
 set_country_flag = monroe_doctrine
 set_stability = 0.8

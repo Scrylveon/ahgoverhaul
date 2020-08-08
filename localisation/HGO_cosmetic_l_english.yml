@@ -404,6 +404,9 @@
  USA_ENG_DEF:0 "the Commonwealth of America"
  USA_ENG_ADJ:0 "American"
 
+ CAN_ENG:0 "Dominion of Canada"
+ CAN_ENG_DEF:0 "The Dominion of Canada"
+ 
  PER_ENG_right_anarchism:0 "Anglo-Persian Oil Company"
  PER_ENG_right_anarchism_DEF:0 "Anglo-Persian Oil Company"
  PER_ENG_right_anarchism_ADJ:0 "Anglo-Persian"
@@ -2065,6 +2068,8 @@
 
  INS_HOL_conservative_monarchism:0 "Colony of the Dutch East Indies"
  INS_HOL_conservative_monarchism_DEF:0 "The Colony of the Dutch East Indies"
+ INS_HOL:0 "Colony of the Dutch East Indies"
+ INS_HOL_DEF:0 "The Colony of the Dutch East Indies"
 
  BALK_fascism:0 "Balkan Empire"
  BALK_fascism_DEF:0 "The Balkan Empire"
@@ -5851,6 +5856,10 @@
  SG1_DEN:0 "Colony of South Greenland"
  SG1_DEN_DEF:0 "The Colony of South Greenland"
  SG1_DEN_ADJ:0 "South Greenlander"
+ 
+ FAR_DEN:0 "County of the Faroe Islands"
+ FAR_DEN_DEF:0 "The County of the Faroe Islands"
+ FAR_DEN_ADJ:0 "Faroese"
  
  ERL_NOR:0 "Eirik Raudes Land"
  ERL_NOR_DEF:0 "Eirik Raudes Land"

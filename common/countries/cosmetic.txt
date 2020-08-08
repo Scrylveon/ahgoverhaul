@@ -30,6 +30,10 @@ SWZ_FRA = {
 	color = rgb { 37 72 155 }
 	color_ui = rgb { 37 72 155 }
 }
+CAN_ENG = {
+	color = rgb { 117 56 56 }
+	color_ui = rgb { 117 56 56 }
+}
 MZB_FRA = {
 	color = rgb { 37 72 155 }
 	color_ui = rgb { 37 72 155 }
@@ -650,6 +654,10 @@ SG1_DEN = {
 	color = rgb { 142 68 62 }
 	color_ui = rgb { 142 68 62 }
 }
+FAR_DEN = {
+	color = rgb { 142 68 62 }
+	color_ui = rgb { 142 68 62 }
+}
 NG1_DEN = {
 	color = rgb { 142 68 62 }
 	color_ui = rgb { 142 68 62 }
@@ -735,6 +743,10 @@ SUR_HOL = {
     color_ui = rgb { 173 116 64 }
 }
 CRC_HOL = {
+    color = rgb { 173 116 64 }
+    color_ui = rgb { 173 116 64 }
+}
+INS_HOL = {
     color = rgb { 173 116 64 }
     color_ui = rgb { 173 116 64 }
 }
