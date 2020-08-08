@@ -14,7 +14,7 @@ set_technology = {
 }
 
 	set_popularities = {
-		democratic 
+		conservative_monarchism 
 			 = 70
 		fascism
 			 = 5
@@ -24,7 +24,7 @@ set_technology = {
 			 = 20
 		}
 	set_politics = { 
- ruling_party = democratic
+ ruling_party = conservative_monarchism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes
@@ -43,11 +43,11 @@ create_country_leader = {
 
 
 	create_country_leader = {
-		name = "Erlendur Patursson"
+		name = "Johan Poulsen"
 		desc = ""
-		picture = "gfx/leaders/Europe/Erlendur_Patursson.dds"
+		picture = "Johan_Poulsen.dds"
 		expire = "1986.6.16"
-		ideology = liberalism
+		ideology = conservative_constitutionalism
 		traits = {
 			#
 		}
