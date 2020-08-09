@@ -340,10 +340,10 @@ do_french_renames = {
 
 	if = {
 		limit = {
-			state = 681
+			state = 7794
 		}		
 		set_province_name = {
-			id = 12589
+			id = 17474
 			name = "Le Cap"
 		}
 	}
@@ -4622,10 +4622,10 @@ do_german_renames = {
 
 	if = {
 		limit = {
-			state = 681
+			state = 7794
 		}		
 		set_province_name = {
-			id = 12589
+			id = 17474
 			name = "Kapstadt"
 		}
 	}
@@ -6333,7 +6333,7 @@ do_german_renames = {
 		}		
 		set_province_name = {
 			id = 6416
-			name = "Radom"
+			name = "Kieltz"
 		}
 	}
 
@@ -9958,6 +9958,16 @@ do_english_renames = {
 
 	if = {
 		limit = {
+			state = 7794
+		}		
+		set_province_name = {
+			id = 17474
+			name = "Cape Town"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 523
 		}		
 		set_province_name = {
@@ -10093,16 +10103,6 @@ do_english_renames = {
 		set_province_name = {
 			id = 4696
 			name = "Port Elizabeth"
-		}
-	}
-
-	if = {
-		limit = {
-			state = 681
-		}		
-		set_province_name = {
-			id = 12589
-			name = "Cape Town"
 		}
 	}
 	
@@ -18425,6 +18425,106 @@ do_dutch_renames = {
 
 	if = {
 		limit = {
+			state = 7794
+		}		
+		set_province_name = {
+			id = 17474
+			name = "Kaapstad"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1495
+		}		
+		set_province_name = {
+			id = 8245
+			name = "Laurens Mark"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1593
+		}		
+		set_province_name = {
+			id = 10929
+			name = "Soutburg"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1626
+		}		
+		set_province_name = {
+			id = 8214
+			name = "Gaborone"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 275
+		}		
+		set_province_name = {
+			id = 10400
+			name = "Pretoria"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2240
+		}		
+		set_province_name = {
+			id = 7900
+			name = "Embabane"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5446
+		}		
+		set_province_name = {
+			id = 1494
+			name = "Rorkes Drift"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1620
+		}		
+		set_province_name = {
+			id = 1468
+			name = "Port Natal"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1624
+		}		
+		set_province_name = {
+			id = 4696
+			name = "Die Baai"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 5219
+		}		
+		set_province_name = {
+			id = 4879
+			name = "Windhoek"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 669
 		}		
 		set_province_name = {
@@ -24208,6 +24308,467 @@ do_finnish_renames = {
 	}
 }
 do_danish_renames = {
+
+	if = {
+		limit = {
+			state = 1898
+		}		
+		set_province_name = {
+			id = 7394
+			name = "Kork"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1831
+		}		
+		set_province_name = {
+			id = 11293
+			name = "Daablen"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4961
+		}		
+		set_province_name = {
+			id = 11257
+			name = "Enniskilden"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1839
+		}		
+		set_province_name = {
+			id = 276
+			name = "Lindundair"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1828
+		}		
+		set_province_name = {
+			id = 3379
+			name = "Bælfeir"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 848
+		}		
+		set_province_name = {
+			id = 13224
+			name = "Skalpabugt"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5630
+		}		
+		set_province_name = {
+			id = 15978
+			name = "Styrebugt"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4957
+		}		
+		set_province_name = {
+			id = 3159
+			name = "Næsmund"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5629
+		}		
+		set_province_name = {
+			id = 15980
+			name = "Kiltraglen"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 133
+		}		
+		set_province_name = {
+			id = 3273
+			name = "Gråhul"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5163
+		}		
+		set_province_name = {
+			id = 11136
+			name = "Dismund"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4955
+		}		
+		set_province_name = {
+			id = 3150
+			name = "Ilfort"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4950
+		}		
+		set_province_name = {
+			id = 9332
+			name = "Jorvik"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4936
+		}		
+		set_province_name = {
+			id = 6301
+			name = "Srævensbund"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4934
+		}		
+		set_province_name = {
+			id = 11361
+			name = "Melfjord"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1829
+		}		
+		set_province_name = {
+			id = 9239
+			name = "Readasfolk"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4938
+		}		
+		set_province_name = {
+			id = 11446
+			name = "Lyssted"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 935
+		}		
+		set_province_name = {
+			id = 3311
+			name = "Isle af Mann"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4939
+		}		
+		set_province_name = {
+			id = 11253
+			name = "Nordhivn"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1835
+		}		
+		set_province_name = {
+			id = 377
+			name = "Kærdag"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2188
+		}		
+		set_province_name = {
+			id = 13471
+			name = "Lindun"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 986
+		}		
+		set_province_name = {
+			id = 540
+			name = "Plaimund"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 338
+		}		
+		set_province_name = {
+			id = 3369
+			name = "Brosted"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1838
+		}		
+		set_province_name = {
+			id = 6363
+			name = "Marias kirke i sænkningen ved den hvide hassel nær en stærk hvirvelstrøm og Tysilios kirke nær den røde hule"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 132
+		}		
+		set_province_name = {
+			id = 6318
+			name = "Brøstfort"
+		}	
+		set_province_name = {
+			id = 6384
+			name = "Mudhavn"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 130
+		}		
+		set_province_name = {
+			id = 11297
+			name = "Kongsby på Huld"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3170
+		}		
+		set_province_name = {
+			id = 9297
+			name = "Baarmenhjem"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4951
+		}		
+		set_province_name = {
+			id = 9379
+			name = "Ledes"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 131
+		}		
+		set_province_name = {
+			id = 351
+			name = "Nyborg på Tine"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 121
+		}		
+		set_province_name = {
+			id = 9392
+			name = "Edinborg"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 11
+		}		
+		set_province_name = {
+			id = 6296
+			name = "Koven"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 990
+		}		
+		set_province_name = {
+			id = 6314
+			name = "Memel"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 189
+		}		
+		set_province_name = {
+			id = 9483
+			name = "Solby"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 991
+		}		
+		set_province_name = {
+			id = 9438
+			name = "Pånevæs"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1135
+		}		
+		set_province_name = {
+			id = 9340
+			name = "Riga"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 190
+		}		
+		set_province_name = {
+			id = 9262
+			name = "Liebo"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 4843
+		}		
+		set_province_name = {
+			id = 3296
+			name = "Ventaborg"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 4845
+		}		
+		set_province_name = {
+			id = 3194
+			name = "Talsen"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 994
+		}		
+		set_province_name = {
+			id = 6342
+			name = "Midtå"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 993
+		}		
+		set_province_name = {
+			id = 11358
+			name = "Subbadet"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 3542
+		}		
+		set_province_name = {
+			id = 310
+			name = "Dyneborg"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 992
+		}		
+		set_province_name = {
+			id = 341
+			name = "Rosætten"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1081
+		}		
+		set_province_name = {
+			id = 415
+			name = "Petseri"
+		}
+	}
+	if = {
+		limit = {
+			state = 191
+		}		
+		set_province_name = {
+			id = 9221
+			name = "Dorpat"
+		}
+	}
+	if = {
+		limit = {
+			state = 13
+		}		
+		set_province_name = {
+			id = 3152
+			name = "Lyndanisse"
+		}
+	}
+	if = {
+		limit = {
+			state = 995
+		}		
+		set_province_name = {
+			id = 185
+			name = "Arensborg"
+		}
+	}
 		
 	if = {
 		limit = {

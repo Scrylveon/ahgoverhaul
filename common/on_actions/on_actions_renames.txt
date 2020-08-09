@@ -458,10 +458,22 @@ on_actions = {
 						do_italian_renames = yes
 					}	
 
+					### HOL ###
+					if = {
+						limit = {
+							ROOT = {OR = {has_cosmetic_tag = SAF_HOL
+							              has_cosmetic_tag = SUR_HOL
+						                  has_cosmetic_tag = INS_DEI
+						                  has_cosmetic_tag = CRC_HOL}}
+						}
+						do_dutch_renames = yes
+					}
+
 					### FRA ###
 					if = {
 						limit = {
-							ROOT = {OR = {has_cosmetic_tag = MOR_FRA
+							ROOT = {OR = {has_cosmetic_tag = FRA_BLUE
+							              has_cosmetic_tag = MOR_FRA
 						                  has_cosmetic_tag = TUN_FRA
 						                  has_cosmetic_tag = ALG_FRA
 						                  has_cosmetic_tag = FWA_FRA
