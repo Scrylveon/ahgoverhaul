@@ -569,6 +569,202 @@ country_event = { #Decolonise Arabia
 
 #rename city
 country_event = {
+	id = hgo.986
+	title = hgo.986.t
+	desc = hgo.986.desc
+	picture = GFX_report_event_german_reichstag_gathering
+
+	fire_only_once = yes
+
+	trigger = {
+		tag = GER
+		GER = {
+			has_government = fascism
+			owns_state = 217 
+			owns_state = 195 
+		}
+	}
+
+	option = { #a great idea!
+		name = hgo.986.a
+		ai_chance = {
+			base = 100
+		}
+		set_province_name = { id = 9833 name = "Istanbul"}
+		341 = { set_state_name = Istanbul }
+	}
+}
+
+#rename city
+country_event = {
+	id = hgo.987
+	title = hgo.987.t
+	desc = hgo.987.desc
+	picture = GFX_report_event_german_reichstag_gathering
+
+	fire_only_once = yes
+
+	trigger = {
+		tag = GER
+		GER = {
+			has_government = fascism
+			owns_state = 217 
+			owns_state = 195 
+		}
+	}
+
+	option = { #a great idea!
+		name = hgo.987.a
+		ai_chance = {
+			base = 100
+		}
+		set_province_name = { id = 9833 name = "Konstantinoúpoli"}
+		341 = { set_state_name = Konstantinoúpoli }
+	}
+}
+
+#rename city
+country_event = {
+	id = hgo.988
+	title = hgo.988.t
+	desc = hgo.988.desc
+	picture = GFX_report_event_german_reichstag_gathering
+
+	fire_only_once = yes
+
+	trigger = {
+		tag = GER
+		GER = {
+			has_government = fascism
+			owns_state = 217 
+			owns_state = 195 
+		}
+	}
+
+	option = { #a great idea!
+		name = hgo.988.a
+		ai_chance = {
+			base = 100
+		}
+		set_province_name = { id = 9833 name = "Constantinople"}
+		341 = { set_state_name = Constantinople }
+	}
+}
+
+#rename city
+country_event = {
+	id = hgo.989
+	title = hgo.989.t
+	desc = hgo.989.desc
+	picture = GFX_report_event_german_reichstag_gathering
+
+	fire_only_once = yes
+
+	trigger = {
+		tag = GER
+		GER = {
+			has_government = fascism
+			owns_state = 217 
+			owns_state = 195 
+		}
+	}
+
+	option = { #a great idea!
+		name = hgo.989.a
+		ai_chance = {
+			base = 100
+		}
+		set_province_name = { id = 9833 name = "Byzantion"}
+		341 = { set_state_name = Byzantion }
+	}
+}
+
+#rename city
+country_event = {
+	id = hgo.990
+	title = hgo.990.t
+	desc = hgo.990.desc
+	picture = GFX_report_event_german_reichstag_gathering
+
+	fire_only_once = yes
+
+	trigger = {
+		tag = GER
+		GER = {
+			has_government = fascism
+			owns_state = 217 
+			owns_state = 195 
+		}
+	}
+
+	option = { #a great idea!
+		name = hgo.990.a
+		ai_chance = {
+			base = 100
+		}
+		set_province_name = { id = 9833 name = "Nova Roma"}
+		341 = { set_state_name = Nova Roma }
+	}
+}
+
+#rename city
+country_event = {
+	id = hgo.991
+	title = hgo.991.t
+	desc = hgo.991.desc
+	picture = GFX_report_event_german_reichstag_gathering
+
+	fire_only_once = yes
+
+	trigger = {
+		tag = GER
+		GER = {
+			has_government = fascism
+			owns_state = 217 
+			owns_state = 195 
+		}
+	}
+
+	option = { #a great idea!
+		name = hgo.991.a
+		ai_chance = {
+			base = 100
+		}
+		set_province_name = { id = 9833 name = "Kostantiniyye"}
+		341 = { set_state_name = Kostantiniyye }
+	}
+}
+
+#rename city
+country_event = {
+	id = hgo.992
+	title = hgo.992.t
+	desc = hgo.992.desc
+	picture = GFX_report_event_german_reichstag_gathering
+
+	fire_only_once = yes
+
+	trigger = {
+		tag = GER
+		GER = {
+			has_government = fascism
+			owns_state = 217 
+			owns_state = 195 
+		}
+	}
+
+	option = { #a great idea!
+		name = hgo.992.a
+		ai_chance = {
+			base = 100
+		}
+		set_province_name = { id = 9833 name = "Tsargrad"}
+		341 = { set_state_name = Tsargrad }
+	}
+}
+
+#rename city
+country_event = {
 	id = hgo.993
 	title = hgo.993.t
 	desc = hgo.993.desc
