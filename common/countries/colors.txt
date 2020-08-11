@@ -5128,6 +5128,10 @@ JMY = {
        color = rgb { 255 255 255 }
        color_ui = rgb { 255 255 255 }
 }
+DDS = {
+    color = rgb { 122 154 1 }
+    color_ui = rgb { 122 154 1 }
+}
 UCL = {
        color = rgb { 255 255 255 }
        color_ui = rgb { 255 255 255 }

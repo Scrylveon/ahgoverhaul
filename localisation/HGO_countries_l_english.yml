@@ -58,6 +58,10 @@
  LSA_DEF:0 "South African Lakes"
  LSA_ADJ:0 "South African"
 
+ DDS:0 "Davenport Downs Station"
+ DDS_DEF:0 "Davenport Downs Station"
+ DDS_ADJ:0 "Queenslander"
+
  CED:0 "Chott el Djerid"
  CED_DEF:0 "Chott el Djerid"
  CED_ADJ:0 "Djerid"
