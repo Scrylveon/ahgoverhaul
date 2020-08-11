@@ -12,11 +12,11 @@ state={
 		owner = NCL
 		add_core_of = NCL
 		victory_points = {
-			4268 1 
+			1263 1 
 		}
 		buildings = {
 			infrastructure = 3
-			4268 = {
+			1263 = {
 				naval_base = 1
 
 			}
