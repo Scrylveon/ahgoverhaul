@@ -111,7 +111,7 @@ on_actions = {
 					### HOL ###
 					if = {
 						limit = {
-							ROOT = {tag = HOL}
+							ROOT = {OR = {tag = CAP tag = HOL}}
 						}
 						do_dutch_renames = yes
 					}
@@ -213,7 +213,7 @@ on_actions = {
 					### JAP ###
 					if = {
 						limit = {
-							ROOT = {OR = {tag = JAP tag = MEN tag = PSC tag = EHC}}
+							ROOT = {OR = {tag = JAP tag = MEN tag = PSC tag = RGC tag = EHC}}
 						}
 						do_japanese_renames = yes
 					}
@@ -400,6 +400,7 @@ on_actions = {
 						                  has_cosmetic_tag = TOG_GER
 						                  has_cosmetic_tag = CMR_GER
 						                  has_cosmetic_tag = NMB_GER
+						                  has_cosmetic_tag = ZAM_GER
 						                  has_cosmetic_tag = NGU_GER
 						                  has_cosmetic_tag = IND_GER
 						                  has_cosmetic_tag = SAF_GER

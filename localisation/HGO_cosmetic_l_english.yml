@@ -869,6 +869,9 @@
  GOA_POR_ADJ:0 "Portuguese Indian"
 
  #ITA colonies
+ 
+ ETH_ITA:0 "Italian East Africa"
+ ETH_ITA_DEF:0 "Italian East Africa"
 
  CYP_ITA_autonomy_satellite:0 "Cyprus"
  CYP_ITA_autonomy_reichsprotectorate:0 "Italian Protectorate of Cyprus"
@@ -876,8 +879,8 @@
  CYP_ITA_autonomy_satellite_DEF:0 "Cyprus"
  CYP_ITA_autonomy_reichsprotectorate_DEF:0 "The Italian Protectorate of Cyprus"
  CYP_ITA_autonomy_reichskommissariat_DEF:0 "Italian Cyprus"
- CYP_ITA_neutrality:0 "Italian Cyprus"
- CYP_ITA_neutrality_DEF:0 "Italian Cyprus"
+ CYP_ITA:0 "Italian Cyprus"
+ CYP_ITA_DEF:0 "Italian Cyprus"
 
  ALB_ITA_autonomy_satellite:0 "Albanian Kingdom"
  ALB_ITA_autonomy_reichsprotectorate:0 "Italian Protectorate of Albania"
@@ -885,8 +888,8 @@
  ALB_ITA_autonomy_satellite_DEF:0 "The Albanian Kingdom"
  ALB_ITA_autonomy_reichsprotectorate_DEF:0 "The Italian Protectorate of Albania"
  ALB_ITA_autonomy_reichskommissariat_DEF:0 "Italian Albania"
- ALB_ITA_neutrality:0 "Italian Albania"
- ALB_ITA_neutrality_DEF:0 "Italian Albania"
+ ALB_ITA:0 "Italian Albania"
+ ALB_ITA_DEF:0 "Italian Albania"
 
  GRE_ITA_autonomy_satellite:0 "Hellenic State"
  GRE_ITA_autonomy_reichsprotectorate:0 "Italian Protectorate of Greece"
@@ -894,8 +897,8 @@
  GRE_ITA_autonomy_satellite_DEF:0 "The Hellenic State"
  GRE_ITA_autonomy_reichsprotectorate_DEF:0 "The Italian Protectorate of Greece"
  GRE_ITA_autonomy_reichskommissariat_DEF:0 "Italian Greece"
- GRE_ITA_neutrality:0 "Italian Greece"
- GRE_ITA_neutrality_DEF:0 "Italian Greece"
+ GRE_ITA:0 "Italian Greece"
+ GRE_ITA_DEF:0 "Italian Greece"
 
  EGY_ITA_autonomy_satellite:0 "Kingdom of Egypt"
  EGY_ITA_autonomy_reichsprotectorate:0 "Italian Protectorate of Egypt"
@@ -903,8 +906,8 @@
  EGY_ITA_autonomy_satellite_DEF:0 "The Kingdom of Egypt"
  EGY_ITA_autonomy_reichsprotectorate_DEF:0 "The Italian Protectorate of Egypt"
  EGY_ITA_autonomy_reichskommissariat_DEF:0 "Italian Egypt"
- EGY_ITA_neutrality:0 "Italian Egypt"
- EGY_ITA_neutrality_DEF:0 "Italian Egypt"
+ EGY_ITA:0 "Italian Egypt"
+ EGY_ITA_DEF:0 "Italian Egypt"
 
  SUD_ITA_autonomy_satellite:0 "Kingdom of Sudan"
  SUD_ITA_autonomy_reichsprotectorate:0 "Italian Protectorate of Sudan"
@@ -912,8 +915,8 @@
  SUD_ITA_autonomy_satellite_DEF:0 "The Kingdom of Sudan"
  SUD_ITA_autonomy_reichsprotectorate_DEF:0 "The Italian Protectorate of Sudan"
  SUD_ITA_autonomy_reichskommissariat_DEF:0 "Italian Sudan"
- SUD_ITA_neutrality:0 "Italian Sudan"
- SUD_ITA_neutrality_DEF:0 "Italian Sudan"
+ SUD_ITA:0 "Italian Sudan"
+ SUD_ITA_DEF:0 "Italian Sudan"
 
  SAU_ITA_autonomy_satellite:0 "Kingdom of Arabia"
  SAU_ITA_autonomy_reichsprotectorate:0 "Italian Protectorate of Arabia"
@@ -921,8 +924,8 @@
  SAU_ITA_autonomy_satellite_DEF:0 "The Kingdom of Arabia"
  SAU_ITA_autonomy_reichsprotectorate_DEF:0 "The Italian Protectorate of Arabia"
  SAU_ITA_autonomy_reichskommissariat_DEF:0 "Italian Arabia"
- SAU_ITA_neutrality:0 "Italian Arabia"
- SAU_ITA_neutrality_DEF:0 "Italian Arabia"
+ SAU_ITA:0 "Italian Arabia"
+ SAU_ITA_DEF:0 "Italian Arabia"
  SAU_ITA_ADJ:0 "Arabian"
 
  IRQ_ITA_autonomy_satellite:0 "Kingdom of Mesopotamia"
@@ -931,8 +934,8 @@
  IRQ_ITA_autonomy_satellite_DEF:0 "The Kingdom of Mesopotamia"
  IRQ_ITA_autonomy_reichsprotectorate_DEF:0 "The Italian Protectorate of Mesopotamia"
  IRQ_ITA_autonomy_reichskommissariat_DEF:0 "Italian Mesopotamia"
- IRQ_ITA_neutrality:0 "Italian Mesopotamia"
- IRQ_ITA_neutrality_DEF:0 "Italian Mesopotamia"
+ IRQ_ITA:0 "Italian Mesopotamia"
+ IRQ_ITA_DEF:0 "Italian Mesopotamia"
  IRQ_ITA_ADJ:0 "Mesopotamian"
 
  PAL_ITA_autonomy_satellite:0 "Kingdom of Palestine"
@@ -941,8 +944,8 @@
  PAL_ITA_autonomy_satellite_DEF:0 "The Kingdom of Palestine"
  PAL_ITA_autonomy_reichsprotectorate_DEF:0 "The Italian Protectorate of Palestine"
  PAL_ITA_autonomy_reichskommissariat_DEF:0 "Italian Palestine"
- PAL_ITA_neutrality:0 "Italian Palestine"
- PAL_ITA_neutrality_DEF:0 "Italian Palestine"
+ PAL_ITA:0 "Italian Palestine"
+ PAL_ITA_DEF:0 "Italian Palestine"
  PAL_ITA_ADJ:0 "Palestinian"
 
  ALG_ITA_autonomy_satellite:0 "Kingdom of Algeria"
@@ -951,8 +954,8 @@
  ALG_ITA_autonomy_satellite_DEF:0 "The Kingdom of Algeria"
  ALG_ITA_autonomy_reichsprotectorate_DEF:0 "The Italian Protectorate of Algeria"
  ALG_ITA_autonomy_reichskommissariat_DEF:0 "Italian Algeria"
- ALG_ITA_neutrality:0 "Italian Algeria"
- ALG_ITA_neutrality_DEF:0 "Italian Algeria"
+ ALG_ITA:0 "Italian Algeria"
+ ALG_ITA_DEF:0 "Italian Algeria"
  ALG_ITA_ADJ:0 "Algerian"
 
  OMA_ITA_autonomy_satellite:0 "Kingdom of Oman"
@@ -961,8 +964,8 @@
  OMA_ITA_autonomy_satellite_DEF:0 "The Kingdom of Oman"
  OMA_ITA_autonomy_reichsprotectorate_DEF:0 "The Italian Protectorate of Oman"
  OMA_ITA_autonomy_reichskommissariat_DEF:0 "Italian Oman"
- OMA_ITA_neutrality:0 "Italian Oman"
- OMA_ITA_neutrality_DEF:0 "Italian Oman"
+ OMA_ITA:0 "Italian Oman"
+ OMA_ITA_DEF:0 "Italian Oman"
  OMA_ITA_ADJ:0 "Omani"
 
  TUR_ITA_autonomy_satellite:0 "Kingdom of Anatolia"
@@ -971,8 +974,8 @@
  TUR_ITA_autonomy_satellite_DEF:0 "The Kingdom of Anatolia"
  TUR_ITA_autonomy_reichsprotectorate_DEF:0 "The Italian Protectorate of Anatolia"
  TUR_ITA_autonomy_reichskommissariat_DEF:0 "Italian Anatolia"
- TUR_ITA_neutrality:0 "Italian Anatolia"
- TUR_ITA_neutrality_DEF:0 "Italian Anatolia"
+ TUR_ITA:0 "Italian Anatolia"
+ TUR_ITA_DEF:0 "Italian Anatolia"
  TUR_ITA_ADJ:0 "Anatolian"
 
  CRO_ITA_autonomy_satellite:0 "Free State of Croatia"
@@ -981,8 +984,8 @@
  CRO_ITA_autonomy_satellite_DEF:0 "The Free State of Croatia"
  CRO_ITA_autonomy_reichsprotectorate_DEF:0 "The Italian Protectorate of Croatia"
  CRO_ITA_autonomy_reichskommissariat_DEF:0 "Italian Croatia"
- CRO_ITA_neutrality:0 "Italian Croatia"
- CRO_ITA_neutrality_DEF:0 "Italian Croatia"
+ CRO_ITA:0 "Italian Croatia"
+ CRO_ITA_DEF:0 "Italian Croatia"
  CRO_ITA_ADJ:0 "Croatian"
 
  NEAF_ITA_autonomy_satellite:0 "Italian Protectorate of Northeast Africa"
@@ -991,8 +994,8 @@
  NEAF_ITA_autonomy_satellite_DEF:0 "The Italian Protectorate of Northeast Africa"
  NEAF_ITA_autonomy_reichsprotectorate_DEF:0 "The Italian Colony of Northeast Africa"
  NEAF_ITA_autonomy_reichskommissariat_DEF:0 "Italian Northeast Africa"
- NEAF_ITA_neutrality:0 "Italian Northeast Africa"
- NEAF_ITA_neutrality_DEF:0 "Italian Northeast Africa"
+ NEAF_ITA:0 "Italian Northeast Africa"
+ NEAF_ITA_DEF:0 "Italian Northeast Africa"
  NEAF_ITA_ADJ:0 "Northeast African"
 
  #JAP colonies
@@ -3094,8 +3097,8 @@
  GEO_GER_autonomy_reichskommissariat_DEF:0 "Das Reichskommissariat Kaukasus"
  GEO_GER_autonomy_reichsprotectorate_DEF:0 "Das Reichsprotektorat Kaukasus"
  GEO_GER_autonomy_satellite_DEF:0 "Kaukasus"
- GER_GER_DEF:0 "Das Reichskommissariat Kaukasus"
- GER_GER:0 "Reichskommissariat Kaukasus"
+ GEO_GER_DEF:0 "Das Reichskommissariat Kaukasus"
+ GEO_GER:0 "Reichskommissariat Kaukasus"
 
  GEO_GER_autonomy_integrated_puppet:0 "Reichskommissariat Kaukasus"
  GEO_GER_autonomy_puppet:0 "Reichsprotektorat Kaukasus"
@@ -3249,6 +3252,27 @@
  ZIM_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Mittelafrika"
  ZIM_GER_autonomy_colony_DEF:0 "Das Reichsland Mittelafrika"
  ZIM_GER_autonomy_dominion_DEF:0 "Mittelafrika"
+
+ GER_reichscolonie_sudostafrika:0 "Reichscolonie Mittelafrika"
+ GER_reichscolonie_sudostafrika_DEF:0 "Das Reichscolonie Mittelafrika"
+
+ ZAM_GER_autonomy_reichscolonie:0 "Reichscolonie Sudostafrika"
+ ZAM_GER_autonomy_reichsprotectorate:0 "Reichsprotektorat Sudostafrika"
+ ZAM_GER_autonomy_satellite:0 "Sudostafrika"
+ ZAM_GER_autonomy_reichscolonie_DEF:0 "Das Reichscolonie Sudostafrika"
+ ZAM_GER_autonomy_reichsprotectorate_DEF:0 "Das Reichsprotektorat Sudostafrika"
+ ZAM_GER_autonomy_satellite_DEF:0 "Sudostafrika"
+ ZAM_GER_DEF:0 "Reichscolonie Sudostafrika"
+ ZAM_GER:0 "Reichcolonie Sudostafrika"
+  
+ ZAM_GER_autonomy_integrated_puppet:0 "Reichscolonie Sudostafrika"
+ ZAM_GER_autonomy_puppet:0 "Reichsprotektorat Sudostafrika"
+ ZAM_GER_autonomy_colony:0 "Reichsland Sudostafrika"
+ ZAM_GER_autonomy_dominion:0 "Sudostafrika"
+ ZAM_GER_autonomy_integrated_puppet_DEF:0 "Das Reichscolonie Sudostafrika"
+ ZAM_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Sudostafrika"
+ ZAM_GER_autonomy_colony_DEF:0 "Das Reichsland Sudostafrika"
+ ZAM_GER_autonomy_dominion_DEF:0 "Sudostafrika"
 
  GER_reichscolonie_ostafrika:0 "Reichscolonie Ostafrika"
  GER_reichscolonie_ostafrika_DEF:0 "Das Reichscolonie Ostafrika"
@@ -3571,8 +3595,8 @@
  BGN_GER_autonomy_reichskommissariat_DEF:0 "Das Reichskommissariat Burgund"
  BGN_GER_autonomy_reichsprotectorate_DEF:0 "Das Reichsprotektorat Burgund"
  BGN_GER_autonomy_satellite_DEF:0 "Das SS-Staat Burgund"
- HOL_GER_DEF:0 "Reichskommissariat Burgund"
- HOL_GER:0 "Reichskommissariat Burgund"
+ BGN_GER_DEF:0 "Reichskommissariat Burgund"
+ BGN_GER:0 "Reichskommissariat Burgund"
 
  BGN_GER_autonomy_integrated_puppet:0 "Reichskommissariat Burgund"
  BGN_GER_autonomy_puppet:0 "Reichsprotektorat Burgund"
@@ -3592,8 +3616,8 @@
  SBR_GER_autonomy_reichskommissariat_DEF:0 "Das Reichskommissariat Sibirien"
  SBR_GER_autonomy_reichsprotectorate_DEF:0 "Das Reichsprotektorat Sibirien"
  SBR_GER_autonomy_satellite_DEF:0 "Sibirien"
- HOL_GER_DEF:0 "Reichskommissariat Sibirien"
- HOL_GER:0 "Reichskommissariat Sibirien"
+ SBR_GER_DEF:0 "Reichskommissariat Sibirien"
+ SBR_GER:0 "Reichskommissariat Sibirien"
 
  SBR_GER_autonomy_integrated_puppet:0 "Reichskommissariat Sibirien"
  SBR_GER_autonomy_puppet:0 "Reichsprotektorat Sibirien"
@@ -4159,8 +4183,8 @@
  DON_GER_autonomy_reichskommissariat_DEF:0 "Das Reichskommissariat Don-Wolga"
  DON_GER_autonomy_reichsprotectorate_DEF:0 "Das Reichsprotektorat Don-Wolga"
  DON_GER_autonomy_satellite_DEF:0 "Don-Wolga"
- DIN_GER_DEF:0 "Reichkommissariat Don-Wolga"
- DIN_GER:0 "Reichskommissariat Don-Wolga"
+ DON_GER_DEF:0 "Reichkommissariat Don-Wolga"
+ DON_GER:0 "Reichskommissariat Don-Wolga"
 
  GER_NFRA:0 "Reichskommissariat Nordfrankreich"
  GER_NFRA_DEF:0 "Das Reichskommissariat Nordfrankreich"
@@ -5795,6 +5819,8 @@
  EGY_FRA_autonomy_integrated_puppet_DEF:0 "French Egypt"
  EGY_FRA_monarchism:0 "Kingdom of Egypt and Sudan"
  EGY_FRA_monarchism_DEF:0 "the Kingdom of Egypt and Sudan"
+ EGY_FRA:0 "Kingdom of Egypt and Sudan"
+ EGY_FRA_DEF:0 "the Kingdom of Egypt and Sudan"
  EGY_FRA_ADJ:0 "Egyptian"
 
  SUD_FRA:0 "Franco-Egyptian Condominium of Sudan"
@@ -5829,9 +5855,9 @@
  LES_FRA_DEF:0 "the Lesotho Resevation"
  LES_FRA_ADJ:0 "Lesotho"
 
- BEL_GER:0 "Flandern-Wallonien"
- BEL_GER_DEF:0 "Das Flandern-Wallonien"
- BEL_GER_ADJ:0 "Belgian"
+ FLA_WLL_GER:0 "Flandern-Wallonien"
+ FLA_WLL_GER_DEF:0 "Das Flandern-Wallonien"
+ FLA_WLL_GER_ADJ:0 "Belgian"
 
  EMC_TUR:0 "Provisional Government of Western Thrace"
  EMC_TUR_DEF:0 "The Provisional Government of Western Thrace"

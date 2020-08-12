@@ -1363,6 +1363,14 @@ BAN_PAK = {
 	color = rgb { 44 81 48 }
 	color_ui = rgb { 44 81 48 }
 }
+ANG_GER = {
+	color = rgb { 63 63 63 }
+	color_ui = rgb { 115 115 115 }
+}
+MZB_GER = {
+	color = rgb { 63 63 63 }
+	color_ui = rgb { 115 115 115 }
+}
 TOG_GER = {
 	color = rgb { 63 63 63 }
 	color_ui = rgb { 115 115 115 }
@@ -1607,6 +1615,11 @@ KPK_SOV = {
 }
 
 VGR_SOV = {
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 125 13 24 }
+}
+
+SBR_SOV = {
 	color = rgb { 125 13 24 }
 	color_ui = rgb { 125 13 24 }
 }
@@ -2447,8 +2460,8 @@ color_ui = rgb { 200 10 10 }
 }
 
 SOV_SCC = {
-color = rgb { 120 13 24 }
-color_ui = rgb { 153 17 31 }
+color = rgb { 125 13 24 }
+color_ui = rgb { 125 13 24 }
 }
 
 SWE_SCC = {
