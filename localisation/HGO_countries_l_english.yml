@@ -92,6 +92,16 @@
  NA2_authoritarian_monarchism_DEF:0 "The Colony of North Australia"
  NA2_authoritarian_monarchism_ADJ:0 "North Australian"
 
+ HRP_anarchism_ideology:0 "Nunda"
+ HRP_anarchism_ideology_DEF:0 "Nunda People"
+ HRP_anarchism_ideology_ADJ:0 "Nunda"
+ HRP_authoritarian_monarchism:0 "Hutt River Province"
+ HRP_authoritarian_monarchism_DEF:0 "The Hutt River Province"
+ HRP_authoritarian_monarchism_ADJ:0 "Hutt Riverian"
+ HRP_monarchism:0 "Principality of Hutt River"
+ HRP_monarchism_DEF:0 "Principality of Hutt River"
+ HRP_monarchism_ADJ:0 "Hutt Riverian"
+
  MGN_neutrality:0 "Magnitogorsk"
  MGN_neutrality_DEF:0 "Magnitogorsk"
  MGN_monarchism:0 "Duchy of Magnitogorsk"

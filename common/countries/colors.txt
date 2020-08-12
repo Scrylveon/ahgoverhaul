@@ -5184,3 +5184,7 @@ NA2 = {
 color = rgb { 150 26 10 }
 color_ui = rgb { 150 26 10 }
 }
+HRP = {
+color = rgb { 0 0 152 }
+color_ui = rgb { 0 0 152 }
+}
