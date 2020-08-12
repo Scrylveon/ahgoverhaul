@@ -5180,3 +5180,7 @@ GOL = {
 color = rgb { 100 167 88 }
 color_ui = rgb { 100 167 88 }
 }
+NA2 = {
+color = rgb { 150 26 10 }
+color_ui = rgb { 150 26 10 }
+}
