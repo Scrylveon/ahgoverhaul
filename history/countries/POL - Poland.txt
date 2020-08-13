@@ -45,19 +45,6 @@ set_convoys = 10
 	elections_allowed = no
 }
 
-
-
-create_country_leader = {
-	name = "Władysław Sikorski"
-	desc = "POLITICS_WLADYSLAW_SIKORSKI_DESC"
-	picture = "Portrait_Poland_Wladyslaw_Sikorski.dds"
-	expire = "1965.1.1"
-	ideology = centrist_republic
-	traits = {
-		#
-	}
-}
-
 create_country_leader = {
 	name = "Ignacy Mościcki"
 	desc = "POLITICS_IGNACY_MOSCICKI_DESC"
@@ -70,111 +57,212 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Władysław Gomułka"
-	desc = "POLITICS_WLADYSLAW_GOMULKA_DESC"
-	picture = "Portrait_Poland_Wladyslaw_Gomulka.dds"
+	name = "Tribal Leadership"
+	desc = ""
+	picture = ""
 	expire = "1965.1.1"
-	ideology = leninism
+	ideology = total_anarchist
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Collective Leadership"
+	desc = ""
+	picture = ""
+	expire = "1965.1.1"
+	ideology = ancom
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Bolesław Bierut"
+	desc = ""
+	picture = "Portrait_Boleslaw_Bierut.dds"
+	expire = "1965.1.1"
+	ideology = totsoc
 	traits = {
 		#
+	}
+}
+
+create_country_leader = {
+	name = "Władysław Gomułka"
+	desc = ""
+	picture = "Portrait_Wladyslaw_Gomulka.dds"
+	expire = "1965.1.1"
+	ideology = marxism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Tomasz Stefan Arciszewski"
+	desc = ""
+	picture = "Portrait_Tomasz_Arciszewski.dds"
+	expire = "1965.1.1"
+	ideology = demsoc
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Augustyn I z Czartoryski"
+	desc = ""
+	picture = "Portrait_Augustyn_Czartoryski.dds"
+	expire = "1965.1.1"
+	ideology = monsoc
+	traits = {
 	}
 }
 
 create_country_leader = {
 	name = "Wincenty Witos"
-	desc = "POLITICS_WINCENTY_WITOS_DESC"
-	picture = "GFX_POL_wincenty_witos"
+	desc = ""
+	picture = "Portrait_Wincenty_Witos.dds"
+	expire = "1965.1.1"
+	ideology = socdem
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Walery Sławek"
+	desc = ""
+	picture = "Portrait_Walery_Slawek.dds"
 	expire = "1965.1.1"
 	ideology = conservatism
 	traits = {
-		#
+	}
+}
+
+create_country_leader = {
+	name = "Friedrich Christian I von Wettin"
+	desc = ""
+	picture = "Portrait_Fryderyk_Krystian_Wettin.dds"
+	expire = "1965.1.1"
+	ideology = liberal_constitutionalism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Fryderyk Krystian I z Wettin"
+	desc = ""
+	picture = "Portrait_Fryderyk_Krystian_Wettin.dds"
+	expire = "1965.1.1"
+	ideology = conservative_constitutionalism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Władysław Sikorski"
+	desc = ""
+	picture = "Portrait_Wladyslaw_Sikorski.dds"
+	expire = "1965.1.1"
+	ideology = cenrep
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Wanda I z Piłsudski"
+	desc = ""
+	picture = "Portrait_Wanda_Pilsudski.dds"
+	expire = "1965.1.1"
+	ideology = cenmon
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Edward Rydz-Smigly"
+	desc = ""
+	picture = "Portrait_Edward_Rydz_Smigly.dds"
+	expire = "1965.1.1"
+	ideology = militarism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Jan I z Piłsudski"
+	desc = ""
+	picture = "Portrait_Jan_Pilsudski.dds"
+	expire = "1965.1.1"
+	ideology = stratmon
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Karl Albrecht z Habsburg"
+	desc = ""
+	picture = "Portrait_Karl_Albrecht_Habsburg.dds"
+	expire = "1965.1.1"
+	ideology = authmon
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Mendog I i III z Württemberg"
+	desc = ""
+	picture = "Portrait_Mendog_Wurttemberg.dds"
+	expire = "1965.1.1"
+	ideology = absolutism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "August Hlond"
+	desc = ""
+	picture = "Portrait_August_Hlond.dds"
+	expire = "1965.1.1"
+	ideology = christian
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Augustus IV z Hohenzollern"
+	desc = ""
+	picture = "Portrait_August_Hohenzollern.dds"
+	expire = "1965.1.1"
+	ideology = fascism_ideology
+	traits = {
 	}
 }
 
 create_country_leader = {
 	name = "Bolesław Piasecki"
-	desc = "POLITICS_BOLESLAW_PIASECKI_DESC"
-	picture = "GFX_POL_boleslaw_piasecki"
+	desc = ""
+	picture = "Portrait_Boleslaw_Piasecki.dds"
 	expire = "1965.1.1"
-	ideology = falangism
+	ideology = repfash
 	traits = {
-		#
 	}
 }
 
-create_field_marshal = {
-	name = "Władysław Sikorski"
-	picture = "Portrait_Poland_Wladyslaw_Sikorski.dds"
-	traits = { defensive_doctrine }
-	skill = 3
-	attack_skill = 2
-	defense_skill = 3
-	planning_skill = 2
-	logistics_skill = 3
+create_country_leader = {
+	name = "Hans Frank"
+	desc = ""
+	picture = "Portrait_Hans_Frank.dds"
+	expire = "1965.1.1"
+	ideology = natsoc
+	traits = {
+	}
 }
 
-create_field_marshal = {
-	name = "Władysław Bortnowski"
-	gfx = "GFX_POL_wladyslaw_bortnowski"
-	traits = {  thorough_planner }
-	skill = 3
-	attack_skill = 2
-	defense_skill = 3
-	planning_skill = 3
-	logistics_skill = 2
-}
-
-create_field_marshal = {
-	name = "Stanisław Kopański"
-	gfx = "GFX_POL_stanislav_kopanski"
-	traits = {  offensive_doctrine }
-	skill = 3
-	attack_skill = 3
-	defense_skill = 2
-	planning_skill = 3
-	logistics_skill = 2
-}
-
-create_corps_commander = {
-	name = "Władysław Anders"
-	gfx = "GFX_POL_wladislaw_anders"
-	traits = {  armor_officer }
-	skill = 4
-	attack_skill = 4
-	defense_skill = 3
-	planning_skill = 3
-	logistics_skill = 3
-}
-
-create_corps_commander = {
-	name = "Roman Abraham"
-	gfx = "GFX_POL_roman_abraham"
-	traits = {  }
-	skill = 4
-	attack_skill = 3
-	defense_skill = 4
-	planning_skill = 3
-	logistics_skill = 3
-}
-
-create_corps_commander = {
-	name = "Wincenty Kowalski"
-	gfx = "GFX_POL_wincenty_kowalski"
-	traits = { trickster }
-	skill = 3
-	attack_skill = 3
-	defense_skill = 2
-	planning_skill = 2
-	logistics_skill = 3
-}
-
-create_equipment_variant = {
-	name = "PZL P.24"
-	type = fighter_equipment_0
-	upgrades = {
-		plane_gun_upgrade = 3
-		plane_range_upgrade = 0  
-		plane_engine_upgrade = 1
-		plane_reliability_upgrade = 3
+create_country_leader = {
+	name = "Company Leadership"
+	desc = ""
+	picture = ""
+	expire = "1965.1.1"
+	ideology = ancap
+	traits = {
 	}
 }
