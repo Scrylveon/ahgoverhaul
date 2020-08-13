@@ -175,3 +175,213 @@ create_country_leader = {
 	traits = {
 	}
 }
+
+create_country_leader = {
+	name = "Tribal Leadership"
+	desc = ""
+	picture = ""
+	expire = "1965.1.1"
+	ideology = total_anarchist
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Collective Leadership"
+	desc = ""
+	picture = ""
+	expire = "1965.1.1"
+	ideology = ancom
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Maurice Thorez"
+	desc = ""
+	picture = "Portrait_Maurice_Thorez.dds"
+	expire = "1965.1.1"
+	ideology = totsoc
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Marceau Pivert"
+	desc = ""
+	picture = "Portrait_Marceau_Pivert.dds"
+	expire = "1965.1.1"
+	ideology = marxism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "André Léon Blum"
+	desc = ""
+	picture = "Portrait_Leon_Blum.dds"
+	expire = "1965.1.1"
+	ideology = demsoc
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Jean III of Orléans"
+	desc = ""
+	picture = "Portrait_Jean_III.dds"
+	expire = "1965.1.1"
+	ideology = monsoc
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Édouard Daladier"
+	desc = ""
+	picture = "Portrait_Edouard_Daladier.dds"
+	expire = "1965.1.1"
+	ideology = socdem
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Jean III of Orléans"
+	desc = ""
+	picture = "Portrait_Jean_III.dds"
+	expire = "1965.1.1"
+	ideology = liberal_constitutionalism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Jean III of Orléans"
+	desc = ""
+	picture = "Portrait_Jean_III.dds"
+	expire = "1965.1.1"
+	ideology = conservative_constitutionalism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "François de La Rocque"
+	desc = ""
+	picture = "Portrait_Francois_de_La_Rocque.dds"
+	expire = "1965.1.1"
+	ideology = cenrep
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Napoleon VI of Bonaparte"
+	desc = ""
+	picture = "Portrait_Napoleon_VI.dds"
+	expire = "1965.1.1"
+	ideology = cenmon
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Charles de Gaulle"
+	desc = ""
+	picture = "Portrait_Charles_de_Gaulle.dds"
+	expire = "1965.1.1"
+	ideology = despotism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Maurice Gustave Gamelin"
+	desc = ""
+	picture = "Portrait_Maurice_Gamelin.dds"
+	expire = "1965.1.1"
+	ideology = militarism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Napoleon VI of Bonaparte"
+	desc = ""
+	picture = "Portrait_Napoleon_VI.dds"
+	expire = "1965.1.1"
+	ideology = stratmon
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Charles XII of Bourbon"
+	desc = ""
+	picture = "Portrait_Charles_XII.dds"
+	expire = "1965.1.1"
+	ideology = authmon
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Charles XII of Bourbon"
+	desc = ""
+	picture = "Portrait_Charles_XII.dds"
+	expire = "1965.1.1"
+	ideology = absolutism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Jean Verdier"
+	desc = ""
+	picture = "Portrait_Jean_Verdier.dds"
+	expire = "1965.1.1"
+	ideology = christian
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Napoleon VI of Bonaparte"
+	desc = ""
+	picture = "Portrait_Napoleon_VI.dds"
+	expire = "1965.1.1"
+	ideology = fascism_ideology
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Henri Philippe Benoni Omer Pétain"
+	desc = ""
+	picture = "Portrait_Philippe_Petain.dds"
+	expire = "1965.1.1"
+	ideology = repfash
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Jacques Doriot"
+	desc = ""
+	picture = "Portrait_Jacques_Doriot.dds"
+	expire = "1965.1.1"
+	ideology = natsoc
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Company Leadership"
+	desc = ""
+	picture = ""
+	expire = "1965.1.1"
+	ideology = ancap
+	traits = {
+	}
+}
