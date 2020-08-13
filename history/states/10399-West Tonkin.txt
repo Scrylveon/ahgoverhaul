@@ -1,0 +1,19 @@
+
+state={
+	id=10399
+	name="STATE_10399"
+
+	history={
+		owner = IND
+		add_core_of = IND
+		add_core_of = LAO
+
+	}
+
+	provinces={
+		19734 19735 
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

@@ -1,0 +1,15 @@
+state={
+	id=9939
+	name="STATE_9939"
+	provinces={
+		19283 
+	}
+	history={
+	    owner = FEA
+        add_core_of = CHA
+    }	
+	manpower=1000
+	state_category = pastoral
+	impassable = yes
+	buildings_max_level_factor=1.000
+}

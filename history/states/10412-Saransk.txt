@@ -1,0 +1,21 @@
+state={
+	id=10412
+	name="STATE_10412"
+	provinces={
+		6294 6357 19800 19811 19819 19825 
+	}
+	history={
+		owner = MRD
+		buildings = {
+			infrastructure = 8
+
+		}
+		add_core_of = SOV
+		add_core_of = RUS
+		add_core_of = MRD
+
+	}
+	manpower = 1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

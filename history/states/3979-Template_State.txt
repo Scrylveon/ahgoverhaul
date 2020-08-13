@@ -1,0 +1,20 @@
+state={
+	id=3979
+	name="STATE_3979"
+	history={
+		owner = UNC
+		buildings = {
+			infrastructure = 4
+			
+		}
+		add_core_of = ATC
+		add_claim_by = NOR
+		add_claim_by = GER
+	}
+	provinces={
+		14793
+	}
+	manpower = 1
+	state_category = wasteland
+	buildings_max_level_factor=1.000
+}

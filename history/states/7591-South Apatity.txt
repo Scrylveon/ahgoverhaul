@@ -1,0 +1,17 @@
+state={
+	id=7591
+	name="STATE_7591"
+	provinces={
+		15 6181 
+	}
+	history={
+	    owner = RUS
+        add_core_of = SOV
+        add_core_of = RUS
+	add_core_of = SAP
+	add_core_of = MRM
+    }	
+	manpower=1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

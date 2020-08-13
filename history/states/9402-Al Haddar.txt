@@ -1,0 +1,15 @@
+state={
+	id=9402
+	name="STATE_9402"
+	provinces={
+		18620 
+	}
+	history={
+	    owner = SAU
+        add_core_of = SAU
+    }	
+	manpower=10
+	impassable = yes
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

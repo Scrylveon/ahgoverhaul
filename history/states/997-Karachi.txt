@@ -1,0 +1,23 @@
+state={
+	id=997
+	name="STATE_997"
+
+	history={
+		owner = RAJ 
+		victory_points = {
+			3456 3 
+		     }
+		add_core_of = PAK
+		add_claim_by = BLO
+		add_core_of = SND 
+		add_core_of = MAH
+
+	}
+
+	provinces={
+		3456 7049 10108 10735 
+	}
+	manpower=2087000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}
