@@ -277,9 +277,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Napoleon VI of Bonaparte"
+	name = "Charles XII of Bourbon"
 	desc = ""
-	picture = "Portrait_Napoleon_VI.dds"
+	picture = "Portrait_Charles_XII.dds"
 	expire = "1965.1.1"
 	ideology = cenmon
 	traits = {
