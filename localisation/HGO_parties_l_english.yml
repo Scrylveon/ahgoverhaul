@@ -371,3 +371,6 @@
  CHI_vanguardism_party_long:0 "Chungkuo Kungch'antang"
  CHI_neutrality_party:0 "Guomindang"
  CHI_neutrality_party_long:0 "Zhongguo Guomindang"
+
+ AST_conservative_monarchism_party:0 "UAP"
+ AST_conservative_monarchism_party_long:0 "United Australia Party"
