@@ -1,0 +1,16 @@
+state={
+	id=7067
+	name="STATE_7067"
+	provinces={
+		17339 
+	}
+	history={
+	    owner = NFT 
+		add_core_of = NFT
+		add_core_of = ASM
+        add_core_of = RAJ
+    }	
+	manpower=1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

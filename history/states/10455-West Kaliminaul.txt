@@ -1,0 +1,21 @@
+state={
+	id=10455
+	name="STATE_10455"
+	provinces={
+		19754 
+	}
+	history={
+		owner = KBK
+		buildings = {
+			infrastructure = 8
+
+		}
+		add_core_of = SOV
+		add_core_of = RUS
+		add_core_of = KBK
+
+	}
+	manpower = 1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

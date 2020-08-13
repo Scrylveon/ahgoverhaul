@@ -1,0 +1,22 @@
+state={
+	id=3444
+	name="STATE_3444"
+	provinces={
+		12888 
+	}
+	manpower = 1000
+	
+	impassable = yes
+	state_category = pastoral
+
+	history={
+	    owner = SGR
+        add_core_of = SGR
+        add_core_of = ALG
+	add_core_of = CED
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	buildings_max_level_factor=1.000
+}

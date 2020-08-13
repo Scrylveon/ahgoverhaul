@@ -1,0 +1,21 @@
+state={
+	id=10443
+	name="STATE_10443"
+	provinces={
+		7691 19849 
+	}
+	history={
+		owner = YKT
+		buildings = {
+			infrastructure = 8
+
+		}
+		add_core_of = SOV
+		add_core_of = RUS
+		add_core_of = YKT
+
+	}
+	manpower = 1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,29 @@
+
+state={
+	id=574
+	name="STATE_574"
+
+	history={
+		owner = YKT
+		victory_points = {
+			10641 1 
+		}
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+
+		}
+		add_core_of = SOV
+		add_core_of = RUS
+		add_core_of = YKT
+		add_core_of = SBR
+
+	}
+
+	provinces={
+		1714 1730 1748 1795 1852 1878 4726 4752 4798 4821 4855 7746 7765 7772 7817 7844 10589 10608 10641 10667 10701 10714 12591 12611 12623 12694 19839 19860 19866 19870 19880 19882 19891 
+	}
+	manpower=407866
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

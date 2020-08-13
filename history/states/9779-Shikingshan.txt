@@ -1,0 +1,16 @@
+state={
+	id=9779
+	name="STATE_9779"
+	provinces={
+		19127 
+	}
+	history={
+	    owner = HPC
+        add_core_of = HPC
+        add_core_of = CHI
+        add_core_of = PRC
+    }	
+	manpower=1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}
