@@ -1,4 +1,0 @@
-SLB = "countries/Svalbard.txt"
-NG1 = "countries/North Greenland.txt"
-SG1 = "countries/South Greenland.txt"
-ERL = "countries/Norwegian Greenland.txt"
