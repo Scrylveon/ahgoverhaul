@@ -1,0 +1,18 @@
+state={
+	id=8087
+	name="STATE_8087"
+	provinces={
+		17858 
+	}
+	history={
+		owner = TSC
+		add_core_of = SOV 
+		add_core_of = TSC
+		add_core_of = AZR
+        add_core_of = ARM
+        add_core_of = NAK
+	}
+	manpower = 1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

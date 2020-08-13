@@ -1,0 +1,25 @@
+
+state={
+	id=516
+	name="STATE_516"
+
+	history={
+		owner = TMY
+		buildings = {
+			infrastructure = 0
+
+		}
+		add_core_of = SOV
+		add_core_of = RUS
+		add_core_of = SBR
+		add_core_of = TMY
+
+	}
+
+	provinces={
+		2900 2923 2972 4692 4859 11122 11261 11328 13064 19943 19944 19950 19951 19952 19955 19959 19963 20274 20275 20276 20277 20360 
+	}
+	manpower=43948
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

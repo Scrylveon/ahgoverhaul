@@ -1,0 +1,16 @@
+state={
+	id=6284
+	name="STATE_6284"
+	provinces={
+		16610 
+	}
+	manpower=1000
+	history={
+		owner = PNA
+		add_core_of = RAJ
+		add_core_of = PNA
+	}
+ 
+	state_category=pastoral
+	buildings_max_level_factor=1.000
+}

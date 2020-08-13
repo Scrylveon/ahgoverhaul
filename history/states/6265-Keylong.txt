@@ -1,0 +1,17 @@
+state={
+	id=6265
+	name="STATE_6265"
+	provinces={
+		 16652 
+	}
+	manpower=1000
+	history={
+		owner = CHM
+		add_core_of = RAJ
+		add_claim_by = PAK
+		add_core_of = CHM
+	}
+ 
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

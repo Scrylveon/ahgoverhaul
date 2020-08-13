@@ -1,0 +1,16 @@
+state={
+	id=3098
+	name="STATE_3098"
+	history={
+	    owner = NFT 
+		add_core_of = NFT
+		add_core_of = ASM
+        add_core_of = RAJ
+    }	
+	provinces={
+		1996 
+	}
+	manpower=1000 
+ state_category=pastoral
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,15 @@
+state={
+	id=10522
+	name="STATE_10522"
+	provinces={
+		20030 
+	}
+	history={
+	    owner = YMM
+        add_core_of = YMM
+        add_core_of = BRA
+    }	
+	manpower=1000
+	state_category=pastoral
+	buildings_max_level_factor=1.000
+}

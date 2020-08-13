@@ -1,0 +1,17 @@
+state={
+	id=10118
+	name="STATE_10118"
+	provinces={
+		19443 19447 
+	}
+	history={
+		owner = TMS
+		add_core_of = SOV
+		add_core_of = TMS
+
+	}
+
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}
