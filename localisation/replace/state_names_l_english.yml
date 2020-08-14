@@ -4076,7 +4076,7 @@
  STATE_4077:0 "West Gotland"
  STATE_4078:0 "Utena"
  STATE_4079:0 "Zarasai"
- STATE_4080:0 "Rokiskis"
+ STATE_4080:0 "Birzai"
  STATE_4081:0 "Elektrenai"
  STATE_4082:0 "Sirvintos"
  STATE_4083:0 "Plunge"
@@ -11001,4 +11001,3 @@
  STATE_11000:0 "Inner Greenland"
  STATE_11001:0 "LithuaniaWW1Border"
  STATE_11002:0 "LithuaniaWW1Border"
- STATE_11003:0 "Birzai"
