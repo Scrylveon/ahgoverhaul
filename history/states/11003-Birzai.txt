@@ -1,18 +1,16 @@
 
 state={
-	id=11002
-	name="STATE_11002"
+	id=11003
+	name="STATE_11003"
 
 	history={
-		owner = LAT
-		add_core_of = LAT
-		add_core_of = COU
+		owner = LIT
 		add_core_of = LIT
 
 	}
 	
 	provinces={
-		20561
+		20559
 	}
 	manpower=1000
 	buildings_max_level_factor=1.000
