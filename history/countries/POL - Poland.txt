@@ -208,7 +208,7 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Mendog I i III z Württemberg"
+	name = "Mendog I i III z Urach"
 	desc = ""
 	picture = "Portrait_Mendog_Wurttemberg.dds"
 	expire = "1965.1.1"
