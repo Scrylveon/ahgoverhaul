@@ -6,7 +6,7 @@ state={
 		4812 9224 12687 13065 19940 19961 
 	}
 	history={
-		owner = EVK
+		owner = RUS
 		buildings = {
 			infrastructure = 8
 

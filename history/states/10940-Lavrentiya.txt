@@ -4,7 +4,7 @@ state={
 	name="STATE_10940"
 
 	history={
-		owner = CCI
+		owner = RUS
 		add_core_of = CCI
 		add_core_of = RUS
 		add_core_of = SOV

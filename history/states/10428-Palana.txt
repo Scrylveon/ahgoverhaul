@@ -5,7 +5,7 @@ state={
 		1823 1839 19833 19855 
 	}
 	history={
-		owner = KYK
+		owner = RUS
 		buildings = {
 			infrastructure = 8
 

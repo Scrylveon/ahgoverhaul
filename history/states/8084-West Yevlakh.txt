@@ -5,7 +5,7 @@ state={
 		17861 
 	}
 	history={
-		owner = NGK
+		owner = TSC
 		add_core_of = SOV 
 		add_core_of = TSC
 		add_core_of = AZR

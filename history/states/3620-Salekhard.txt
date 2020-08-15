@@ -4,7 +4,7 @@ state={
 	name="STATE_3620"
 
 	history={
-		owner = YML
+		owner = RUS
 		add_core_of = RUS
 		add_core_of = URL
 		add_core_of = SOV

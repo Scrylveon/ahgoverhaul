@@ -6,7 +6,7 @@ state={
 		1666 1826 4675 4762 4832 7785 10565 10643 10681 19771 19772 19783 19857 19828 12565
 	}
 	history={
-		owner = VMO
+		owner = RUS
 		buildings = {
 			infrastructure = 8
 

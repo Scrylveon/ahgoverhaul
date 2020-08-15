@@ -44,7 +44,7 @@ set_cosmetic_tag = CRM_SOV
 			 = 0
 		communism
 			 = 0
-		neutrality
+		vanguardism
 			 = 100
 		}
 	set_politics = { 

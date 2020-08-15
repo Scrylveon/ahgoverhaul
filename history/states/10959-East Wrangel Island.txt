@@ -9,7 +9,7 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = CCI
+		owner = RUS
 		add_core_of = CCI
 		add_core_of = SOV
 		add_core_of = RUS

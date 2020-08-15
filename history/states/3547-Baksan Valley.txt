@@ -5,7 +5,7 @@ state={
 		13739
 	}
 	history={
-		owner = KBK
+		owner = RUS
 		buildings = {
 			infrastructure = 4
 

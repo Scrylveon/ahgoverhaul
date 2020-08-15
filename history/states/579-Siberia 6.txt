@@ -4,7 +4,7 @@ state={
 	name="STATE_579"
 
 	history={
-		owner = YML
+		owner = RUS
 		buildings = {
 			infrastructure = 1
 

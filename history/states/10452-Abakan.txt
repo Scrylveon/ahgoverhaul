@@ -6,7 +6,7 @@ state={
 		1702 1816 10580 10649 19776 19778 19788 19805 19972 
 	}
 	history={
-		owner = KKS
+		owner = RUS
 		buildings = {
 			infrastructure = 8
 

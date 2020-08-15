@@ -5,7 +5,7 @@ state={
 		105 3147 6040 6192 9205 10207 11119 11182 
 	}
 	history={
-		owner = PCR
+		owner = RUS
 		buildings = {
 			infrastructure = 8
 
