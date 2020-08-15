@@ -1323,8 +1323,24 @@ MEN_JAP = {
 	color = rgb { 165 69 117 }
 	color_ui = rgb { 165 69 117 }
 }
+VIN_JAP = {
+	color = rgb { 165 69 117 }
+	color_ui = rgb { 165 69 117 }
+}
 CHI_JAP = {
 	color = rgb { 165 69  117 }
+	color_ui = rgb { 165 69 117 }
+}
+TIB_JAP = {
+	color = rgb { 165 69 117 }
+	color_ui = rgb { 165 69 117 }
+}
+SIK_JAP = {
+	color = rgb { 165 69 117 }
+	color_ui = rgb { 165 69 117 }
+}
+XSM_JAP = {
+	color = rgb { 165 69 117 }
 	color_ui = rgb { 165 69 117 }
 }
 GXC_JAP = {
@@ -1823,6 +1839,10 @@ IND_JAP = {
 	color_ui = rgb { 165 69 117 }
 }
 CAM_JAP = {
+	color = rgb { 165 69 117 }
+	color_ui = rgb { 165 69 117 }
+}
+ANN_JAP = {
 	color = rgb { 165 69 117 }
 	color_ui = rgb { 165 69 117 }
 }
