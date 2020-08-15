@@ -18,17 +18,17 @@ set_convoys = 10
 
 
 	set_popularities = {
-		democratic 
+		neutrality 
 			 = 30
 		fascism
 			 = 10
 		communism
 			 = 10
-		neutrality
+		republican_fascism
 			 = 50
 		}
 	set_politics = { 
- ruling_party = neutrality
+ ruling_party = republican_fascism
 	last_election = "1926.5.8"
 	election_frequency = 120
 	elections_allowed = no
@@ -40,7 +40,7 @@ create_country_leader = {
 	desc = "POLITICS_ANTANAS_SMETONA_DESC"
 	picture = "Portrait_lithuania_antanas_smetona.dds"
 	expire = "1965.1.1"
-	ideology = oligarchism
+	ideology = repfash
 	traits = {
 		#
 	}
