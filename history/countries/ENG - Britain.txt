@@ -431,3 +431,217 @@ create_country_leader = {
 		
 	}
 }
+
+create_country_leader = {
+	name = "George V of Windsor"
+	desc = ""
+	picture = "Portrait_Britain_George_V.dds"
+	expire = "1965.1.1"
+	ideology = absolutism
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Robert I of Wittelsbach"
+	desc = ""
+	picture = "BAV_Rupprecht.dds"
+	expire = "1965.1.1"
+	ideology = authmon
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Archibald Maule Ramsay"
+	desc = ""
+	picture = "Portrait_Archibald_Ramsay.dds"
+	expire = "1965.1.1"
+	ideology = oligarchism
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Tribal Leadership"
+	desc = ""
+	picture = ""
+	expire = "1965.1.1"
+	ideology = total_anarchist
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Collective Leadership"
+	desc = ""
+	picture = ""
+	expire = "1965.1.1"
+	ideology = ancom
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Harry Pollitt"
+	desc = ""
+	picture = "Portrait_Harry_Pollitt.dds"
+	expire = "1965.1.1"
+	ideology = totsoc
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Jock Haston"
+	desc = ""
+	picture = "Portrait_Jock_Haston.dds"
+	expire = "1965.1.1"
+	ideology = marxism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "George Lansbury"
+	desc = ""
+	picture = "Portrait_George_Lansbury.dds"
+	expire = "1965.1.1"
+	ideology = demsoc
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Elizabeth II of Windsor"
+	desc = ""
+	picture = "Portrait_Princess_Elizabeth.dds"
+	expire = "1965.1.1"
+	ideology = monsoc
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "James Maxton"
+	desc = ""
+	picture = "Portrait_James_Maxton.dds"
+	expire = "1965.1.1"
+	ideology = socdem
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Stanley Baldwin"
+	desc = ""
+	picture = "Portrait_Britain_Stanley_Baldwin.dds"
+	expire = "1965.1.1"
+	ideology = conservatism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "George VI of Windsor"
+	desc = ""
+	picture = "Portrait_Prince_Albert.dds"
+	expire = "1965.1.1"
+	ideology = liberal_constitutionalism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Sir Archibald Henry Macdonald Sinclair"
+	desc = ""
+	picture = "Portrait_Archibald_Sinclair.dds"
+	expire = "1965.1.1"
+	ideology = cenrep
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Edward VIII of Windsor"
+	desc = ""
+	picture = "Portrait_Prince_David.dds"
+	expire = "1965.1.1"
+	ideology = cenmon
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Sir Archibald Armar Montgomery-Massingberd"
+	desc = ""
+	picture = "Portrait_Archibald_Montgomery_Massingberd.dds"
+	expire = "1965.1.1"
+	ideology = militarism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Henry IX of Windsor"
+	desc = ""
+	picture = "Portrait_Prince_Henry.dds"
+	expire = "1965.1.1"
+	ideology = stratmon
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Cosmo Gordon Lang"
+	desc = ""
+	picture = "Portrait_Cosmo_Gordon_Lang.dds"
+	expire = "1965.1.1"
+	ideology = christian
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Edward VIII of Windsor"
+	desc = ""
+	picture = "Portrait_Prince_David.dds"
+	expire = "1965.1.1"
+	ideology = fascism_ideology
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Sir Oswald Ernald Mosley"
+	desc = ""
+	picture = "Portrait_Oswald_Mosley.dds"
+	expire = "1965.1.1"
+	ideology = repfash
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Arnold Leese"
+	desc = ""
+	picture = "Portrait_Arnold_Leese.dds"
+	expire = "1965.1.1"
+	ideology = natsoc
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Company Leadership"
+	desc = ""
+	picture = ""
+	expire = "1965.1.1"
+	ideology = ancap
+	traits = {
+	}
+}
