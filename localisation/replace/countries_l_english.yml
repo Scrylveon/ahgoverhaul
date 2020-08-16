@@ -3196,8 +3196,11 @@
  EGL_neutrality_ADJ:0 "English"
  EGL_communism_ADJ:0 "English"
  EGL_monarchism:0 "Kingdom of England"
- EGL_monarchism_DEF:0 "The Kingdom of England"
+ EGL_monarchism_DEF:0 "English"
  EGL_monarchism_ADJ:0 "English"
+ EGL_theocratic:0 "Kingdom of Saint George"
+ EGL_theocratic_DEF:0 "The Kingdom of Saint George"
+ EGL_theocratic_ADJ:0 "English"
  
  SOM_fascism:0 "Nationalist State of Somalia"
  SOM_fascism_DEF:0 "The Nationalist State of Somalia"
