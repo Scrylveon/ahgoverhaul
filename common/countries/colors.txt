@@ -5169,8 +5169,8 @@ color = rgb { 200 188 45 }
 color_ui = rgb { 200 188 45 }
 }
 NOL = {
-color = rgb { 173 156 177 }
-color_ui = rgb { 173 156 177 }
+color = rgb { 100 150 180 }
+color_ui = rgb { 100 150 180 }
 }
 SVE = {
 color = rgb { 173 156 177 }
