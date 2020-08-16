@@ -5890,3 +5890,23 @@
  ERL_NOR:0 "Eirik Raudes Land"
  ERL_NOR_DEF:0 "Eirik Raudes Land"
  ERL_NOR_ADJ:0 "Norwegian-Greenlander"
+
+ AST_JAP:0 "Australian Government-General"
+ AST_JAP_DEF:0 "The Australian Government-General"
+ AST_JAP_ADJ:0 "Australian"
+
+ NZL_JAP:0 "New Zealand Government-General"
+ NZL_JAP_DEF:0 "The New Zealand Government-General"
+ NZL_JAP_ADJ:0 "New Zealandian"
+
+ SRI_JAP:0 "Ceylon Government-General"
+ SRI_JAP_DEF:0 "The Ceylon Government-General"
+ SRI_JAP_ADJ:0 "South Indian"
+
+ ALA_JAP:0 "Alaska Government-General"
+ ALA_JAP_DEF:0 "The Alaska Government-General"
+ ALA_JAP_ADJ:0 "Alaskan"
+
+ RAJ_JAP:0 "Azad Hind"
+ RAJ_JAP_DEF:0 "Azad Hind"
+ RAJ_JAP_ADJ:0 "Indian"
