@@ -1830,13 +1830,59 @@ SOVIET = {
 	color_ui = rgb { 125 13 24 }
 }
 
+AST_JAP = {
+	color = rgb { 142 59 80 }
+	color_ui = rgb { 125 13 24 }
+}
+
 SIA_JAP = {
 	color = rgb { 142 59 80 }
 	color_ui = rgb { 125 13 24 }
 }
+
+PAC_JAP = {
+	color = rgb { 142 59 80 }
+	color_ui = rgb { 125 13 24 }
+}
+NZL_JAP = {
+	color = rgb { 165 69 117 }
+	color_ui = rgb { 165 69 117 }
+}
+FIJ_JAP = {
+	color = rgb { 165 69 117 }
+	color_ui = rgb { 165 69 117 }
+}
+CHL_JAP = {
+	color = rgb { 165 69 117 }
+	color_ui = rgb { 165 69 117 }
+}
+PRU_JAP = {
+	color = rgb { 165 69 117 }
+	color_ui = rgb { 165 69 117 }
+}
+SAM_JAP = {
+	color = rgb { 165 69 117 }
+	color_ui = rgb { 165 69 117 }
+}
+ALA_JAP = {
+	color = rgb { 165 69 117 }
+	color_ui = rgb { 165 69 117 }
+}
+CAS_JAP = {
+	color = rgb { 165 69 117 }
+	color_ui = rgb { 165 69 117 }
+}
 IND_JAP = {
 	color = rgb { 165 69 117 }
 	color_ui = rgb { 165 69 117 }
+}
+TML_JAP = {
+	color = rgb { 165 69 117 }
+	color_ui = rgb { 165 69 117 }
+}
+RAJ_JAP = {
+	color = rgb { 142 59 80 }
+	color_ui = rgb { 125 13 24 }
 }
 CAM_JAP = {
 	color = rgb { 165 69 117 }
