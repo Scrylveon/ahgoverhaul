@@ -364,6 +364,14 @@ on_actions = {
 						do_swedish_renames = yes
 					}
 					
+					### SIA ###
+					if = {
+						limit = {
+							ROOT = {tag = SIA}
+						}
+						do_siamese_renames = yes
+					}	
+					
 					### ETH ###
 					if = {
 						limit = {
@@ -457,6 +465,37 @@ on_actions = {
 							              has_cosmetic_tag = IRQ_ITA}}
 						}
 						do_italian_renames = yes
+					}
+
+					### JAP ###
+					if = {
+						limit = {
+							ROOT = {OR = {has_cosmetic_tag = EHC_JAP
+						                  has_cosmetic_tag = MEN_JAP
+						                  has_cosmetic_tag = SIA_JAP
+						                  has_cosmetic_tag = PAC_JAP
+						                  has_cosmetic_tag = CHI_JAP
+						                  has_cosmetic_tag = SHX_JAP
+						                  has_cosmetic_tag = YUN_JAP
+						                  has_cosmetic_tag = GXC_JAP
+						                  has_cosmetic_tag = XSM_JAP
+						                  has_cosmetic_tag = SIK_JAP
+						                  has_cosmetic_tag = TIB_JAP
+						                  has_cosmetic_tag = PHI_JAP
+						                  has_cosmetic_tag = INS_JAP
+						                  has_cosmetic_tag = PNG_JAP
+						                  has_cosmetic_tag = ANN_JAP
+							              has_cosmetic_tag = VIN_JAP
+							              has_cosmetic_tag = IND_JAP
+							              has_cosmetic_tag = LAO_JAP
+							              has_cosmetic_tag = CAM_JAP
+							              has_cosmetic_tag = BRM_JAP
+							              has_cosmetic_tag = TWN_JAP
+							              has_cosmetic_tag = KOR_JAP
+							              has_cosmetic_tag = CHI_PGROC
+							              has_cosmetic_tag = CHI_RNGOC}}
+						}
+						do_japanese_renames = yes
 					}	
 
 					### HOL ###
@@ -492,6 +531,8 @@ on_actions = {
 						                  has_cosmetic_tag = SAF_FRA
 						                  has_cosmetic_tag = LEZ_FRA
 						                  has_cosmetic_tag = SWZ_FRA
+						                  has_cosmetic_tag = ETH_FRA
+						                  has_cosmetic_tag = SOM_FRA
 						                  has_cosmetic_tag = MZB_FRA}}
 						}
 						do_french_renames = yes

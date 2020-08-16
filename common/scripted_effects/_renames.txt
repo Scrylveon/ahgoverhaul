@@ -8138,7 +8138,377 @@ do_german_renames = {
 		}
 	}
 }
+do_siamese_renames = {
+
+	if = {
+		limit = {
+			state = 3101
+		}		
+		set_province_name = {
+			id = 7236
+			name = "Hat Mai"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 289
+		}		
+		set_province_name = {
+			id = 7408
+			name = "Krungthepmahanakhon"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1062
+		}		
+		set_province_name = {
+			id = 10438
+			name = "Nakhon Ratchasima"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1060
+		}		
+		set_province_name = {
+			id = 1488
+			name = "Chiang Mai"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 671
+		}		
+		set_province_name = {
+			id = 4075
+			name = "Kanai"
+		}
+	}
+}
 do_japanese_renames = {
+
+	if = {
+		limit = {
+			state = 634
+		}		
+		set_province_name = {
+			id = 1279
+			name = "Gadarukanaru"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1106
+		}		
+		set_province_name = {
+			id = 4378
+			name = "Būgenbiru"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 737
+		}		
+		set_province_name = {
+			id = 1251
+			name = "Rabauru"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 523
+		}		
+		set_province_name = {
+			id = 4329
+			name = "Moresubīpōto"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 902
+		}		
+		set_province_name = {
+			id = 12237
+			name = "Rae"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 902
+		}		
+		set_province_name = {
+			id = 12237
+			name = "Rae"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 661
+		}		
+		set_province_name = {
+			id = 12371
+			name = "Jayapura"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 661
+		}		
+		set_province_name = {
+			id = 12371
+			name = "Jayapura"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2160
+		}		
+		set_province_name = {
+			id = 10263
+			name = "Makassaru"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2159
+		}		
+		set_province_name = {
+			id = 10257
+			name = "Barikupapan"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3809
+		}		
+		set_province_name = {
+			id = 4608
+			name = "Surabaya"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 335
+		}		
+		set_province_name = {
+			id = 7381
+			name = "Jakaruta"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3798
+		}		
+		set_province_name = {
+			id = 12268
+			name = "Parenban"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 672
+		}		
+		set_province_name = {
+			id = 4652
+			name = "Fīrudo"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 965
+		}		
+		set_province_name = {
+			id = 7387
+			name = "Suribugawantaun"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1927
+		}		
+		set_province_name = {
+			id = 7371
+			name = "Kuchin"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3214
+		}		
+		set_province_name = {
+			id = 7329
+			name = "Kotabaru"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5566
+		}		
+		set_province_name = {
+			id = 10297
+			name = "Kuararumpūru"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 966
+		}		
+		set_province_name = {
+			id = 12299
+			name = "Shingapōru"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2220
+		}		
+		set_province_name = {
+			id = 4425
+			name = "Mitchīna"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 640
+		}		
+		set_province_name = {
+			id = 1492
+			name = "Mandarē"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 288
+		}		
+		set_province_name = {
+			id = 1330
+			name = "Yangon"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1062
+		}		
+		set_province_name = {
+			id = 10438
+			name = "Nakonrachashima"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1060
+		}		
+		set_province_name = {
+			id = 1488
+			name = "Chenmai"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 671
+		}		
+		set_province_name = {
+			id = 4075
+			name = "Kanai"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1067
+		}		
+		set_province_name = {
+			id = 4401
+			name = "Saikon"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 627
+		}		
+		set_province_name = {
+			id = 4241
+			name = "Dabao"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 628
+		}		
+		set_province_name = {
+			id = 12118
+			name = "Sebu"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3135
+		}		
+		set_province_name = {
+			id = 4288
+			name = "Kara pan"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 327
+		}		
+		set_province_name = {
+			id = 10265
+			name = "Meinira"
+		}	
+		set_province_name = {
+			id = 1221
+			name = "Batangasu"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 623
+		}		
+		set_province_name = {
+			id = 1415
+			name = "Dagupan"
+		}	
+		set_province_name = {
+			id = 12213
+			name = "Apari"
+		}
+	}
 
 	if = {
 		limit = {
@@ -10543,6 +10913,36 @@ do_persian_renames = {
 }
 
 do_english_renames = {
+
+	if = {
+		limit = {
+			state = 2220
+		}		
+		set_province_name = {
+			id = 4425
+			name = "Myitkyina"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 640
+		}		
+		set_province_name = {
+			id = 1492
+			name = "Mandalay"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 288
+		}		
+		set_province_name = {
+			id = 1330
+			name = "Rangoon"
+		}
+	}
 
 	if = {
 		limit = {
