@@ -703,7 +703,7 @@ country_event = {
 			base = 100
 		}
 		set_province_name = { id = 9833 name = "Nova Roma"}
-		341 = { set_state_name = Nova Roma }
+		341 = { set_state_name = "Nova Roma" }
 	}
 }
 
