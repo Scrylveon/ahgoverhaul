@@ -4,6 +4,9 @@ state={
 	
 	history={
 		owner = PAL
+		victory_points = {
+			1065 50 
+		}
 		buildings = {
 			infrastructure = 1
 			}

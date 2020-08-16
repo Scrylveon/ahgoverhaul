@@ -10,6 +10,9 @@ state={
 
 	history={
 		owner = PAL
+		victory_points = {
+			1015 50 
+		}
 		add_core_of = PAL
 		add_core_of = ISR
                 add_claim_by = SIN
