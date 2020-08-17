@@ -1,13 +1,13 @@
 state={
-	id=2891
-	name="STATE_2891"
+	id=11009
+	name="STATE_11009"
 	history={
 		
 		owner = SPR 
 		add_core_of = SPR
 		add_core_of = VAL
 		victory_points = {
-			6817 1 
+			962 5 
 		}
 		buildings = {
 			infrastructure = 4
@@ -15,7 +15,7 @@ state={
 		}
 	}
 	provinces={
-		3873 6817 9896 
+		962
 	}
 	manpower=1000 
  state_category=pastoral
