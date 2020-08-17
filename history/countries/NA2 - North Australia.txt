@@ -46,3 +46,13 @@ create_country_leader = {
 		#
 	}
 }
+
+create_country_leader = {
+	name = "Colonel George Barney"
+	desc = ""
+	picture = "Portrait_NA2_Barney.dds"
+	expire = "1965.1.1"
+	ideology = stratmon
+	traits = {
+	}
+}

@@ -93,3 +93,13 @@ create_country_leader = {
 		
 	}
 }
+
+create_country_leader = {
+	name = "Huey Long"
+	desc = ""
+	picture = "Portrait_Huey_Long.dds"
+	expire = "1965.1.1"
+	ideology = despotism
+	traits = {
+	}
+}

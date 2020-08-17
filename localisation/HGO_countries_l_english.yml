@@ -91,6 +91,9 @@
  NA2_authoritarian_monarchism:0 "Colony of North Australia"
  NA2_authoritarian_monarchism_DEF:0 "The Colony of North Australia"
  NA2_authoritarian_monarchism_ADJ:0 "North Australian"
+ NA2_stratocratic_monarchism:0 "Colony of North Australia"
+ NA2_stratocratic_monarchism_DEF:0 "The Colony of North Australia"
+ NA2_stratocratic_monarchism_ADJ:0 "North Australian"
 
  HRP_anarchism_ideology:0 "Nunda"
  HRP_anarchism_ideology_DEF:0 "Nunda People"
