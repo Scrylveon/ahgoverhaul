@@ -95,3 +95,203 @@ create_country_leader = {
 	traits = {
 	}
 }
+
+create_country_leader = {
+	name = "Hermann Drewitz"
+	desc = ""
+	picture = "Portrait_Hermann_Drewitz.dds"
+	expire = "1965.1.1"
+	ideology = conservatism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Tribal Leadership"
+	desc = ""
+	picture = ""
+	expire = "1965.1.1"
+	ideology = total_anarchist
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Collective Leadership"
+	desc = ""
+	picture = ""
+	expire = "1965.1.1"
+	ideology = ancom
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Ernst Thälmann"
+	desc = ""
+	picture = "Portrait_Ernst_Thalmann.dds"
+	expire = "1965.1.1"
+	ideology = totsoc
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Otto Rühle"
+	desc = ""
+	picture = "Portrait_Otto_Ruhle.dds"
+	expire = "1965.1.1"
+	ideology = marxism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Otto Wels"
+	desc = ""
+	picture = "Portrait_Otto_Wels.dds"
+	expire = "1965.1.1"
+	ideology = demsoc
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Victoria I von Hohenzollern"
+	desc = ""
+	picture = "Portrait_Victoria_Hohenzollern.dds"
+	expire = "1965.1.1"
+	ideology = monsoc
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Hermann Dietrich"
+	desc = ""
+	picture = "Portrait_Hermann_Dietrich.dds"
+	expire = "1965.1.1"
+	ideology = socdem
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Wilhelm III von Hohenzollern"
+	desc = ""
+	picture = "Portrait_Wilhelm3_Hohenzollern.dds"
+	expire = "1965.1.1"
+	ideology = liberal_constitutionalism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Wilhelm III von Hohenzollern"
+	desc = ""
+	picture = "Portrait_Wilhelm3_Hohenzollern.dds"
+	expire = "1965.1.1"
+	ideology = conservative_constitutionalism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Ludwig Kaas"
+	desc = ""
+	picture = "Portrait_Ludwig_Kaas.dds"
+	expire = "1965.1.1"
+	ideology = cenrep
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "August Wilhelm I von Hohenzollern"
+	desc = ""
+	picture = "Portrait_August_Hohenzollern.dds"
+	expire = "1965.1.1"
+	ideology = cenmon
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Kuno von Westarp"
+	desc = ""
+	picture = "Portrait_Kuno_von_Westarp.dds"
+	expire = "1965.1.1"
+	ideology = despotism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Walther Karl Friedrich Ernst Emil Freiherr von Lüttwitz"
+	desc = ""
+	picture = "Portrait_Walther_von_Luttwitz.dds"
+	expire = "1965.1.1"
+	ideology = militarism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Hans Oster"
+	desc = ""
+	picture = "Portrait_Hans_Oster.dds"
+	expire = "1965.1.1"
+	ideology = stratmon
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Wilhelm II von Hohenzollern"
+	desc = ""
+	picture = "Portrait_Germany_Wilhelm_II.dds"
+	expire = "1965.1.1"
+	ideology = authmon
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Heinrich Himmler"
+	desc = ""
+	picture = "Portrait_Heinrich_Himmler.dds"
+	expire = "1965.1.1"
+	ideology = christian
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "August Wilhelm I von Hohenzollern"
+	desc = ""
+	picture = "Portrait_August_Hohenzollern.dds"
+	expire = "1965.1.1"
+	ideology = fascism_ideology
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Otto Strasser"
+	desc = ""
+	picture = "Portrait_Otto_Strasser.dds"
+	expire = "1965.1.1"
+	ideology = repfash
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Company Leadership"
+	desc = ""
+	picture = ""
+	expire = "1965.1.1"
+	ideology = ancap
+	traits = {
+	}
+}
