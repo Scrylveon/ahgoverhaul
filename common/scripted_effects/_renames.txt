@@ -16,6 +16,7 @@ do_sorbian_renames = {
 			name = "Kladsko"
 		}
 	}
+	
 	if = {
 		limit = {
 			state = 1455
@@ -97,6 +98,416 @@ do_sorbian_renames = {
 	}
 }
 do_french_renames = {
+		
+	if = {
+		limit = {
+			state = 310
+		}		
+		set_province_name = {
+			id = 12885
+			name = "Cayenne"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 309
+		}		
+		set_province_name = {
+			id = 10806
+			name = "Paramibo"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 687
+		}		
+		set_province_name = {
+			id = 4982
+			name = "Georgesville"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 695
+		}		
+		set_province_name = {
+			id = 153
+			name = "Orangeville"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2312
+		}		
+		set_province_name = {
+			id = 13806
+			name = "Guillaumeville"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2313
+		}		
+		set_province_name = {
+			id = 13817
+			name = "Coraildigue"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 691
+		}		
+		set_province_name = {
+			id = 3284
+			name = "Port d'Espagne"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2036
+		}		
+		set_province_name = {
+			id = 13012
+			name = "Scarbourg"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2037
+		}		
+		set_province_name = {
+			id = 11106
+			name = "du Saint-Georges"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2038
+		}		
+		set_province_name = {
+			id = 379
+			name = "Roiville"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 692
+		}		
+		set_province_name = {
+			id = 11350
+			name = "Bridgeville"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2039
+		}		
+		set_province_name = {
+			id = 13009
+			name = "Castries"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2040
+		}		
+		set_province_name = {
+			id = 177
+			name = "Fort-de-France"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2042
+		}		
+		set_province_name = {
+			id = 7123
+			name = "Roseau"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2041
+		}		
+		set_province_name = {
+			id = 9377
+			name = "Pointe-à-Pitre"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 308
+		}		
+		set_province_name = {
+			id = 4450
+			name = "Plimmue"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2318
+		}		
+		set_province_name = {
+			id = 13808
+			name = "du Saint-Jean"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2315
+		}		
+		set_province_name = {
+			id = 13821
+			name = "Charlesville"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2316
+		}		
+		set_province_name = {
+			id = 13816
+			name = "Basseterre"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2317
+		}		
+		set_province_name = {
+			id = 13804
+			name = "Codrington"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2395
+		}		
+		set_province_name = {
+			id = 13877
+			name = "Orangeville"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2393
+		}		
+		set_province_name = {
+			id = 13875
+			name = "Gustavie"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2394
+		}		
+		set_province_name = {
+			id = 13876
+			name = "Le fond"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2314
+		}		
+		set_province_name = {
+			id = 13811
+			name = "Philippebourg"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 694
+		}		
+		set_province_name = {
+			id = 13084
+			name = "Marigot"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2392
+		}		
+		set_province_name = {
+			id = 13874
+			name = "Anguille"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 930
+		}		
+		set_province_name = {
+			id = 13279
+			name = "Routeville"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2320
+		}		
+		set_province_name = {
+			id = 13809
+			name = "Charlotte-Amélie"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 686
+		}		
+		set_province_name = {
+			id = 1440
+			name = "Saint-Jean"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 689
+		}		
+		set_province_name = {
+			id = 12304
+			name = "Roiville"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2044
+		}		
+		set_province_name = {
+			id = 12477
+			name = "Georgesville"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 315
+		}		
+		set_province_name = {
+			id = 13848
+			name = "La Havane"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 1029
+		}		
+		set_province_name = {
+			id = 7590
+			name = "Guantanamo"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 319
+		}		
+		set_province_name = {
+			id = 13826
+			name = "Saint-Domingue"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 3786
+		}		
+		set_province_name = {
+			id = 13801
+			name = "Saint-Jacques des Chevaliers"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 318
+		}		
+		set_province_name = {
+			id = 4641
+			name = "Port-au-Prince"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 10664
+		}		
+		set_province_name = {
+			id = 6986
+			name = "Evora"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 41
+		}		
+		set_province_name = {
+			id = 3938
+			name = "Matrice"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2043
+		}		
+		set_province_name = {
+			id = 13951
+			name = "Cocburnvile"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 696
+		}		
+		set_province_name = {
+			id = 13010
+			name = "Hamilton"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2709
+		}		
+		set_province_name = {
+			id = 13969
+			name = "Nassovie"
+		}
+	}
 
 	if = {
 		limit = {
@@ -504,7 +915,7 @@ do_french_renames = {
 		}		
 		set_province_name = {
 			id = 1751
-			name = "Pointe fine"
+			name = "Pointe Délicate"
 		}
 	}
 		
