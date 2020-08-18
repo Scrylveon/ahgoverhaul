@@ -17,14 +17,14 @@ set_technology = {
 
 
 	set_popularities = {
-		neutrality 
-			 = 20
 		republican_fascism
 			 = 50
+		democratic
+			 = 10
 		liberal_republic
-			 = 5
+			 = 10
 		national_socialism
-			 = 25
+			 = 30
 		}
 	set_politics = { 
  ruling_party = republican_fascism
