@@ -301,8 +301,8 @@
 
  GER_anarchism_ideology:0 "Germania"
  GER_anarchism_ideology_DEF:0 "Germania"
- GER_left_anarchism_ideology:0 "Free Territory of Germany"
- GER_left_anarchism_ideology_DEF:0 "The Free Territory of Germany"
+ GER_left_anarchism:0 "Free Territory of Germany"
+ GER_left_anarchism_DEF:0 "The Free Territory of Germany"
  GER_vanguardism:0 "Deutsche Räterepublik"
  GER_vanguardism_DEF:0 "The Deutsche Räterepublik"
  GER_communism:0 "German Commune"
