@@ -11,7 +11,7 @@ state={
 	history={
 		owner = PAL
 		victory_points = {
-			14389 50 
+			14389 10 
 		}
 		add_core_of = PAL
 		add_claim_by = OML
