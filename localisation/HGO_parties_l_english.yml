@@ -270,8 +270,8 @@
 
  GER_anarchism_ideology_party:0 "Germanics"
  GER_anarchism_ideology_party_long:0 "Germanic Tribes"
- GER_left_anarchism_ideology_party:0 "FAUD"
- GER_left_anarchism_ideology_party_long:0 "Freie Arbeiter Union Deutschlands"
+ GER_left_anarchism_party:0 "FAUD"
+ GER_left_anarchism_party_long:0 "Freie Arbeiter Union Deutschlands"
  GER_vanguardism_party:0 "KPD"
  GER_vanguardism_party_long:0 "Kommunistische Partei Deutschlands"
  GER_communism_party:0 "KAPD"
