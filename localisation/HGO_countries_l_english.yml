@@ -3037,6 +3037,8 @@
 
  MNB:0 "Manitoba"
  MNB_DEF:0 "Manitoba"
+ MNB_right_anarchism:0 "Red River Colony"
+ MNB_right_anarchism_DEF:0 "The Red River Colony"
  MNB_ADJ:0 "Manitoban"
 
  SAS:0 "Sasketchewan"
