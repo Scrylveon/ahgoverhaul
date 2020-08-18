@@ -5188,3 +5188,23 @@ HRP = {
 color = rgb { 0 0 152 }
 color_ui = rgb { 0 0 152 }
 }
+BKT = {
+color = rgb { 181 187 204 }
+color_ui = rgb { 181 187 204 }
+}
+JJT = {
+color = rgb { 181 187 204 }
+color_ui = rgb { 181 187 204 }
+}
+BJA = {
+color = rgb { 181 187 204 }
+color_ui = rgb { 181 187 204 }
+}
+SYN = {
+color = rgb { 181 187 204 }
+color_ui = rgb { 181 187 204 }
+}
+BJH = {
+color = rgb { 181 187 204 }
+color_ui = rgb { 181 187 204 }
+}

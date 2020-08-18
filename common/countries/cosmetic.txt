@@ -242,6 +242,26 @@ LMS_NEP = {
 	color = rgb { 152 130 191 }
 	color_ui = rgb { 198 169 248 }
 }
+BKT_NEP = {
+	color = rgb { 152 130 191 }
+	color_ui = rgb { 198 169 248 }
+}
+JJT_NEP = {
+	color = rgb { 152 130 191 }
+	color_ui = rgb { 198 169 248 }
+}
+BJA_NEP = {
+	color = rgb { 152 130 191 }
+	color_ui = rgb { 198 169 248 }
+}
+SYN_NEP = {
+	color = rgb { 152 130 191 }
+	color_ui = rgb { 198 169 248 }
+}
+BJH_NEP = {
+	color = rgb { 152 130 191 }
+	color_ui = rgb { 198 169 248 }
+}
 LMS_NEP_RAJ = {
 	color = rgb { 170 10 10 }
 	color_ui = rgb { 200 10 10 }
