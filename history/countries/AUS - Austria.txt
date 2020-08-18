@@ -18,13 +18,13 @@ set_technology = {
 
 	set_popularities = {
 		neutrality 
-			 = 48
+			 = 20
 		republican_fascism
 			 = 50
-		democratic
-			 = 1
-		communism
-			 = 1
+		liberal_republic
+			 = 5
+		national_socialism
+			 = 25
 		}
 	set_politics = { 
  ruling_party = republican_fascism
@@ -35,27 +35,6 @@ set_technology = {
 
 set_stability = 0.50
 
-create_country_leader = {
-	name = "Wilhelm Miklas"
-	desc = ""
-	picture = "Portrait_Wilhelm_Miklas.dds"
-	expire = "1965.1.1"
-	ideology = centrism
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "Karl Renner"
-	desc = "POLITICS_KARL_RENNER_DESC"
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_2.dds"
-	expire = "1965.1.1"
-	ideology = socialism
-	traits = {
-		#
-	}
-}
 
 create_country_leader = {
 	name = "Wilhelm Miklas"
@@ -69,23 +48,211 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Alfred Klahr"
-	desc = "POLITICS_ALFRED_KLAHR_DESC"
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_3.dds"
+	name = "Josef Bürckel"
+	desc = ""
+	picture = "Portrait_Josef_Burckel.dds"
 	expire = "1965.1.1"
-	ideology = marxism
+	ideology = natsoc
 	traits = {
-		#
 	}
 }
 
-create_corps_commander = {
-	name = "Karl Eglseer"
-	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_land_2.dds"
-	traits = { trait_mountaineer trickster }
-	skill = 3
-	attack_skill = 2
-	defense_skill = 3
-	planning_skill = 3
-	logistics_skill = 2
+create_country_leader = {
+	name = "Otto I von Habsburg"
+	desc = ""
+	picture = "Portrait_Otto_Habsburg.dds"
+	expire = "1965.1.1"
+	ideology = absolutism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Carl Vaugoin"
+	desc = ""
+	picture = "Portrait_Carl_Vaugoin.dds"
+	expire = "1965.1.1"
+	ideology = conservatism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Tribal Leadership"
+	desc = ""
+	picture = ""
+	expire = "1965.1.1"
+	ideology = total_anarchist
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Collective Leadership"
+	desc = ""
+	picture = ""
+	expire = "1965.1.1"
+	ideology = ancom
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Johann Koplenig"
+	desc = ""
+	picture = "Portrait_Johann_Koplenig.dds"
+	expire = "1965.1.1"
+	ideology = totsoc
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Ruth Fischer"
+	desc = ""
+	picture = "Portrait_Ruth_Fischer.dds"
+	expire = "1965.1.1"
+	ideology = marxism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Karl Seitz"
+	desc = ""
+	picture = "Portrait_Karl_Seitz.dds"
+	expire = "1965.1.1"
+	ideology = demsoc
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Otto I von Habsburg"
+	desc = ""
+	picture = "Portrait_Otto_Habsburg.dds"
+	expire = "1965.1.1"
+	ideology = monsoc
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Karl Seitz"
+	desc = ""
+	picture = "Portrait_Karl_Seitz.dds"
+	expire = "1965.1.1"
+	ideology = socdem
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Otto I von Habsburg"
+	desc = ""
+	picture = "Portrait_Otto_Habsburg.dds"
+	expire = "1965.1.1"
+	ideology = liberal_constitutionalism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Otto I von Habsburg"
+	desc = ""
+	picture = "Portrait_Otto_Habsburg.dds"
+	expire = "1965.1.1"
+	ideology = conservative_constitutionalism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Franz Winkler"
+	desc = ""
+	picture = "Portrait_Franz_Winkler.dds"
+	expire = "1965.1.1"
+	ideology = cenrep
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Otto I von Habsburg"
+	desc = ""
+	picture = "Portrait_Otto_Habsburg.dds"
+	expire = "1965.1.1"
+	ideology = cenmon
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Michael Arthur Josef Jakob Hainisch"
+	desc = ""
+	picture = "Portrait_Michael_Hainisch.dds"
+	expire = "1965.1.1"
+	ideology = despotism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Alfred Johann Theophil Janša Edler von Tannenau"
+	desc = ""
+	picture = "Portrait_Alfred_Jansa.dds"
+	expire = "1965.1.1"
+	ideology = militarism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Felix I von Habsburg"
+	desc = ""
+	picture = "Portrait_Felix_Habsburg.dds"
+	expire = "1965.1.1"
+	ideology = stratmon
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Karl I von Habsburg"
+	desc = ""
+	picture = "Portrait_Karl_Habsburg.dds"
+	expire = "1965.1.1"
+	ideology = authmon
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Sigismund Waitz"
+	desc = ""
+	picture = "Portrait_Sigismund_Waitz.dds"
+	expire = "1965.1.1"
+	ideology = christian
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Otto I von Habsburg"
+	desc = ""
+	picture = "Portrait_Otto_Habsburg.dds"
+	expire = "1965.1.1"
+	ideology = fascism_ideology
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Company Leadership"
+	desc = ""
+	picture = ""
+	expire = "1965.1.1"
+	ideology = ancap
+	traits = {
+	}
 }
