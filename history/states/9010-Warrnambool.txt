@@ -20,6 +20,9 @@ state={
 		
 		add_core_of = AST
 		add_core_of = VCR
+ 		victory_points = {
+			7811 5 
+		}
 	}
 
 	provinces={

@@ -11,7 +11,9 @@ state={
 		}
 		add_core_of = AST
 		add_core_of = SAT
-
+  		victory_points = {
+			18304 5 
+		}
 	}
 
 	provinces={

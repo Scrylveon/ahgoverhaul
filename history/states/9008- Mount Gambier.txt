@@ -11,6 +11,9 @@ state={
 		}
 		add_core_of = AST
 		add_core_of = SAT
+  		victory_points = {
+			1773 5 
+		}
 
 	}
 

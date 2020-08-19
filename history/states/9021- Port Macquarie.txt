@@ -19,6 +19,9 @@ state={
 		
 		add_core_of = AST
 		add_core_of = NSW
+		victory_points = {
+			7450 5 
+		}
 	}
 
 	provinces={

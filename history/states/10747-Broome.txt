@@ -6,7 +6,9 @@ state={
 		owner = AST
 		add_core_of = AST
 		add_core_of = WAT
-
+  		victory_points = {
+			8209 5 
+		}
 	}
 
 	provinces={

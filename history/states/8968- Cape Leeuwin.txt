@@ -5,6 +5,9 @@ state={
 		owner = AST
 		add_core_of = AST
 		add_core_of = WAT
+		victory_points = {
+			7453 5 
+		}
 		buildings = {
 			infrastructure = 2
 			

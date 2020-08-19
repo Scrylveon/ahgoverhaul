@@ -11,6 +11,9 @@ state={
 		add_core_of = AST
 		add_core_of = QNS
 		add_core_of = NA2
+		victory_points = {
+			12308 5 
+		}
 
 	}
 

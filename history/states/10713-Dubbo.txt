@@ -6,7 +6,9 @@ state={
 		owner = AST
 		add_core_of = AST
 		add_core_of = NSW
-
+		victory_points = {
+			4500 5 
+		}
 	}
 
 	provinces={

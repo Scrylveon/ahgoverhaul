@@ -10,7 +10,9 @@ state={
 		}
 		add_core_of = AST
 		add_core_of = TAS
-
+  		victory_points = {
+			10665 5 
+		}
 	}
 
 	provinces={

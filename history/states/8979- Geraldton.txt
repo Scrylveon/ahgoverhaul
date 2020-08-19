@@ -15,7 +15,9 @@ state={
 		
 		add_core_of = AST
 		add_core_of = WAT
-
+		victory_points = {
+			1540 5 
+		}
 	}
 
 	provinces={
