@@ -65,9 +65,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Harold Holt"
+	name = "Willem Powerfish"
 	desc = ""
-	picture = "Portrait_Harold_Holt.dds"
+	picture = "Portrait_Willem_Powerfish.dds"
 	expire = "1965.1.1"
 	ideology = oligarchism
 	traits = {
@@ -76,9 +76,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Harold Holt"
+	name = "Willem Powerfish"
 	desc = ""
-	picture = "Portrait_Harold_Holt.dds"
+	picture = "Portrait_Willem_Powerfish.dds"
 	expire = "1965.1.1"
 	ideology = ancom
 	traits = {
@@ -86,9 +86,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Harold Holt"
+	name = "Willem Powerfish"
 	desc = ""
-	picture = "Portrait_Harold_Holt.dds"
+	picture = "Portrait_Willem_Powerfish.dds"
 	expire = "1965.1.1"
 	ideology = totsoc
 	traits = {
@@ -97,9 +97,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Harold Holt"
+	name = "Willem Powerfish"
 	desc = ""
-	picture = "Portrait_Harold_Holt.dds"
+	picture = "Portrait_Willem_Powerfish.dds"
 	expire = "1965.1.1"
 	ideology = marxism
 	traits = {
@@ -107,9 +107,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Harold Holt"
+	name = "Willem Powerfish"
 	desc = ""
-	picture = "Portrait_Harold_Holt.dds"
+	picture = "Portrait_Willem_Powerfish.dds"
 	expire = "1965.1.1"
 	ideology = demsoc
 	traits = {
@@ -127,9 +127,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Harold Holt"
+	name = "Willem Powerfish"
 	desc = ""
-	picture = "Portrait_Harold_Holt.dds"
+	picture = "Portrait_Willem_Powerfish.dds"
 	expire = "1965.1.1"
 	ideology = socdem
 	traits = {
@@ -137,9 +137,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Harold Holt"
+	name = "Willem Powerfish"
 	desc = ""
-	picture = "Portrait_Harold_Holt.dds"
+	picture = "Portrait_Willem_Powerfish.dds"
 	expire = "1965.1.1"
 	ideology = conservatism
 	traits = {
@@ -157,9 +157,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Harold Holt"
+	name = "Willem Powerfish"
 	desc = ""
-	picture = "Portrait_Harold_Holt.dds"
+	picture = "Portrait_Willem_Powerfish.dds"
 	expire = "1965.1.1"
 	ideology = cenrep
 	traits = {
@@ -177,9 +177,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Harold Holt"
+	name = "Willem Powerfish"
 	desc = ""
-	picture = "Portrait_Harold_Holt.dds"
+	picture = "Portrait_Willem_Powerfish.dds"
 	expire = "1965.1.1"
 	ideology = militarism
 	traits = {
@@ -217,9 +217,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Harold Holt"
+	name = "Willem Powerfish"
 	desc = ""
-	picture = "Portrait_Harold_Holt.dds"
+	picture = "Portrait_Willem_Powerfish.dds"
 	expire = "1965.1.1"
 	ideology = repfash
 	traits = {
@@ -227,9 +227,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Harold Holt"
+	name = "Willem Powerfish"
 	desc = ""
-	picture = "Portrait_Harold_Holt.dds"
+	picture = "Portrait_Willem_Powerfish.dds"
 	expire = "1965.1.1"
 	ideology = natsoc
 	traits = {
@@ -237,9 +237,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Harold Holt"
+	name = "Willem Powerfish"
 	desc = ""
-	picture = "Portrait_Harold_Holt.dds"
+	picture = "Portrait_Willem_Powerfish.dds"
 	expire = "1965.1.1"
 	ideology = ancap
 	traits = {

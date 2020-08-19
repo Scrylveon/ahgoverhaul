@@ -122,7 +122,7 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "Tribal Leadership"
-	desc = ""
+	desc = "POLITICS_TRIBAL_LEADERSHIP_DESC"
 	picture = ""
 	expire = "1965.1.1"
 	ideology = total_anarchist
