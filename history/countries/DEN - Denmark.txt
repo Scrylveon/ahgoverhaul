@@ -37,17 +37,17 @@ set_technology = {
 
 	set_popularities = {
 		socialist_monarchy 
-			 = 43
+			 = 42
 		centrist_monarchism
-			 = 25
+			 = 24
 		conservative_monarchism
-			 = 19
+			 = 17
 		democratic_monarchism
-			 = 10
+			 = 9
 		communism
-			 = 2
+			 = 5
 		national_socialism
-			 = 1
+			 = 3
 		}
 	set_politics = { 
  ruling_party = socialist_monarchy
