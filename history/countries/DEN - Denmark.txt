@@ -36,15 +36,21 @@ set_technology = {
 
 
 	set_popularities = {
-		democratic_monarchism 
-			 = 97
-		fascism
-			 = 1
+		socialist_monarchy 
+			 = 43
+		centrist_monarchism
+			 = 25
+		conservative_monarchism
+			 = 19
+		democratic_monarchism
+			 = 10
 		communism
 			 = 2
+		national_socialism
+			 = 1
 		}
 	set_politics = { 
- ruling_party = democratic_monarchism
+ ruling_party = socialist_monarchy
 	last_election = "1935.10.22"
 	election_frequency = 48
 	elections_allowed = yes
@@ -54,57 +60,222 @@ set_technology = {
 set_convoys = 40
 
 create_country_leader = {
+	name = "Karl Rudolf Werner Best"
+	desc = ""
+	picture = "Portrait_Werner_Best.dds"
+	expire = "1965.1.1"
+	ideology = natsoc
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Christian X af Glücksburg"
+	desc = ""
+	picture = "Portrait_Christian_X.dds"
+	expire = "1965.1.1"
+	ideology = absolutism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Guido Leo John Christmas Møller"
+	desc = ""
+	picture = "Portrait_Christmas_Moller.dds"
+	expire = "1965.1.1"
+	ideology = conservatism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Tribal Leadership"
+	desc = ""
+	picture = ""
+	expire = "1965.1.1"
+	ideology = total_anarchist
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Collective Leadership"
+	desc = ""
+	picture = ""
+	expire = "1965.1.1"
+	ideology = ancom
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Aksel Larsen"
+	desc = ""
+	picture = "Portrait_Aksel_Larsen.dds"
+	expire = "1965.1.1"
+	ideology = totsoc
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Aksel Larsen"
+	desc = ""
+	picture = "Portrait_Aksel_Larsen.dds"
+	expire = "1965.1.1"
+	ideology = marxism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Thorvald August Marinus Stauning"
+	desc = ""
+	picture = "Portrait_Santa_Claus.dds"
+	expire = "1965.1.1"
+	ideology = demsoc
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Christian X af Glücksburg"
+	desc = ""
+	picture = "Portrait_Christian_X.dds"
+	expire = "1965.1.1"
+	ideology = monsoc
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Peter Rochegune Munch"
+	desc = ""
+	picture = "Portrait_Peter_Rochegune_Munch.dds"
+	expire = "1965.1.1"
+	ideology = socdem
+	traits = {
+	}
+}
+
+create_country_leader = {
 	name = "Christian X af Glücksburg"
 	desc = ""
 	picture = "Portrait_Christian_X.dds"
 	expire = "1965.1.1"
 	ideology = liberal_constitutionalism
 	traits = {
-		#
+	}
+}
+
+create_country_leader = {
+	name = "Christian X af Glücksburg"
+	desc = ""
+	picture = "Portrait_Christian_X.dds"
+	expire = "1965.1.1"
+	ideology = conservative_constitutionalism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Thomas Madsen-Mygdal"
+	desc = ""
+	picture = "Portrait_Madsen_Mygdal.dds"
+	expire = "1965.1.1"
+	ideology = cenrep
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Christian X af Glücksburg"
+	desc = ""
+	picture = "Portrait_Christian_X.dds"
+	expire = "1965.1.1"
+	ideology = cenmon
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Arne Christian Sørensen"
+	desc = ""
+	picture = "Portrait_Arne_Sorensen.dds"
+	expire = "1965.1.1"
+	ideology = despotism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Erik With"
+	desc = ""
+	picture = "Portrait_Erik_With.dds"
+	expire = "1965.1.1"
+	ideology = militarism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Frederik IX af Glücksburg"
+	desc = ""
+	picture = "Portrait_Prince_Frederick_of_Glucksburg.dds"
+	expire = "1965.1.1"
+	ideology = stratmon
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Christian X af Glücksburg"
+	desc = ""
+	picture = "Portrait_Christian_X.dds"
+	expire = "1965.1.1"
+	ideology = authmon
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Hans Fuglsang-Damgaard"
+	desc = ""
+	picture = "Portrait_Hans_Fuglsang_Damgaard.dds"
+	expire = "1965.1.1"
+	ideology = christian
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Christian X af Glücksburg"
+	desc = ""
+	picture = "Portrait_Christian_X.dds"
+	expire = "1965.1.1"
+	ideology = fascism_ideology
+	traits = {
 	}
 }
 
 create_country_leader = {
 	name = "Frits Clausen"
-	desc = "POLITICS_FRITS_CLAUSEN_DESC"
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_3.dds"
+	desc = ""
+	picture = "Portrait_Frits_Clausen.dds"
 	expire = "1965.1.1"
-	ideology = nazism
+	ideology = repfash
 	traits = {
-		#
 	}
 }
 
 create_country_leader = {
-	name = "Aksel Larsen"
-	desc = "POLITICS_AKSEL_LARSEN_DESC"
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_1.dds"
+	name = "Ole Kirk Christiansen"
+	desc = ""
+	picture = "Portrait_Lego_man.dds"
 	expire = "1965.1.1"
-	ideology = leninism
+	ideology = ancap
 	traits = {
-		#
 	}
-}
-
-create_country_leader = {
-	name = "Peter Rochegune Munch"
-	desc = "POLITICS_PETER_ROCHEGUNE_MUNCH_DESC"
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_4.dds"
-	expire = "1965.1.1"
-	ideology = centrism
-	traits = {
-		#
-	}
-}
-
-
-create_corps_commander = {
-	name = "Wilhelm Wain Prior"
-	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_land_2.dds"
-	traits = { trickster }
-	skill = 3
-	attack_skill = 2
-	defense_skill = 3
-	planning_skill = 3
-	logistics_skill = 2
 }
