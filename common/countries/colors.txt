@@ -5208,3 +5208,6 @@ BJH = {
 color = rgb { 181 187 204 }
 color_ui = rgb { 181 187 204 }
 }
+NZG = {
+	color = rgb { 63 63 63 }
+	color_ui = rgb { 63 63 63 }
