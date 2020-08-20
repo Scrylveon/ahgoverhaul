@@ -189,7 +189,7 @@ on_actions = {
 					### POR ###
 					if = {
 						limit = {
-							ROOT = {tag = POR}
+							ROOT = {OR = {tag = POR tag = BRA}}
 						}
 						do_portuguese_renames = yes
 					}

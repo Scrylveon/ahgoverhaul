@@ -372,17 +372,7 @@ do_french_renames = {
 			name = "Saint-Jacques de Guayaquil"
 		}
 	}
-		
-	if = {
-		limit = {
-			state = 9128
-		}		
-		set_province_name = {
-			id = 12798
-			name = "Quito"
-		}
-	}
-		
+	
 	if = {
 		limit = {
 			state = 9128
@@ -409,7 +399,7 @@ do_french_renames = {
 		}		
 		set_province_name = {
 			id = 2023
-			name = "Métalline"
+			name = "Medeline"
 		}
 	}
 		
@@ -1029,7 +1019,7 @@ do_french_renames = {
 		}		
 		set_province_name = {
 			id = 10806
-			name = "Paramibo"
+			name = "Paramaribo"
 		}
 	}
 		
@@ -3480,7 +3470,7 @@ do_spanish_renames = {
 		}		
 		set_province_name = {
 			id = 10806
-			name = "Paramibo"
+			name = "Paramaribo"
 		}
 	}
 		
@@ -24701,6 +24691,56 @@ do_turkish_renames = {
 		
 	if = {
 		limit = {
+			state = 3375
+		}		
+		set_province_name = {
+			id = 1015
+			name = "Eylat"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 3376
+		}		
+		set_province_name = {
+			id = 14389
+			name = "Gazze"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 1207
+		}		
+		set_province_name = {
+			id = 13350
+			name = "Nablus"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 3385
+		}		
+		set_province_name = {
+			id = 1201
+			name = "Hayfa"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 1209
+		}		
+		set_province_name = {
+			id = 1065
+			name = "Safet"
+		}
+	}
+		
+	if = {
+		limit = {
 			state = 698
 		}		
 		set_province_name = {
@@ -31007,6 +31047,220 @@ do_italian_renames = {
 	}
 }
 do_portuguese_renames = {
+		
+	if = {
+		limit = {
+			state = 306
+		}		
+		set_province_name = {
+			id = 10747
+			name = "Bogota"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 3719
+		}		
+		set_province_name = {
+			id = 2023
+			name = "Medeline"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 493
+		}		
+		set_province_name = {
+			id = 12790
+			name = "Cartagena"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 1694
+		}		
+		set_province_name = {
+			id = 1944
+			name = "Maracaibo"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 307
+		}		
+		set_province_name = {
+			id = 8113
+			name = "Caracas"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 7558
+		}		
+		set_province_name = {
+			id = 2210
+			name = "Arequipa"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 303
+		}		
+		set_province_name = {
+			id = 12997
+			name = "Lima"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 305
+		}		
+		set_province_name = {
+			id = 8252
+			name = "Saintiago do Guayaquil"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 9128
+		}		
+		set_province_name = {
+			id = 12798
+			name = "Quito"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 279
+		}		
+		set_province_name = {
+			id = 650
+			name = "Saintiago"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 1091
+		}		
+		set_province_name = {
+			id = 12994
+			name = "Antofagasta"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 508
+		}		
+		set_province_name = {
+			id = 8216
+			name = "Tucumã"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 510
+		}		
+		set_province_name = {
+			id = 7500
+			name = "Rosário"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 6110
+		}		
+		set_province_name = {
+			id = 12942
+			name = "Córdova"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 278
+		}		
+		set_province_name = {
+			id = 12364
+			name = "Bons Ares"
+		}
+		set_province_name = {
+			id = 7621
+			name = "Mar de Prata"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 310
+		}		
+		set_province_name = {
+			id = 12885
+			name = "Caiena"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 309
+		}		
+		set_province_name = {
+			id = 10806
+			name = "Paramaribo"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 687
+		}		
+		set_province_name = {
+			id = 4982
+			name = "Cidade de Jorge"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 302
+		}		
+		set_province_name = {
+			id = 5230
+			name = "La Paz"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 301
+		}		
+		set_province_name = {
+			id = 2152
+			name = "Assunção"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 300
+		}		
+		set_province_name = {
+			id = 10362
+			name = "Montevidéu"
+		}
+	}
 
 	if = {
 		limit = {
