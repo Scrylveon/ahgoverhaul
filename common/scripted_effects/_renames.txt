@@ -101,6 +101,920 @@ do_french_renames = {
 		
 	if = {
 		limit = {
+			state = 1644
+		}		
+		set_province_name = {
+			id = 5107
+			name = "Forteresse"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 498
+		}		
+		set_province_name = {
+			id = 5168
+			name = "Récif"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 499
+		}		
+		set_province_name = {
+			id = 10946
+			name = "Saint-Sauveur"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 505
+		}		
+		set_province_name = {
+			id = 8140
+			name = "Goiânie"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 1651
+		}		
+		set_province_name = {
+			id = 8148
+			name = "Bel Horizon"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 500
+		}		
+		set_province_name = {
+			id = 10980
+			name = "Riogénaire"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 501
+		}		
+		set_province_name = {
+			id = 10513
+			name = "Saint-Paul"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 1656
+		}		
+		set_province_name = {
+			id = 13506
+			name = "Couritiba"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 503
+		}		
+		set_province_name = {
+			id = 10405
+			name = "Florianopolis"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 502
+		}		
+		set_province_name = {
+			id = 13503
+			name = "Port-Allègre"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 3375
+		}		
+		set_province_name = {
+			id = 1015
+			name = "Éilat"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 3376
+		}		
+		set_province_name = {
+			id = 14389
+			name = "Gaza"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 1207
+		}		
+		set_province_name = {
+			id = 13350
+			name = "Naplouse"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 3385
+		}		
+		set_province_name = {
+			id = 1201
+			name = "Haïfa"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 1209
+		}		
+		set_province_name = {
+			id = 1065
+			name = "Tsfat"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 300
+		}		
+		set_province_name = {
+			id = 10362
+			name = "Montévideo"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 301
+		}		
+		set_province_name = {
+			id = 2152
+			name = "Assomption"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 278
+		}		
+		set_province_name = {
+			id = 12364
+			name = "Bons Airs"
+		}
+		set_province_name = {
+			id = 7621
+			name = "Mer de l'Argent"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 510
+		}		
+		set_province_name = {
+			id = 7500
+			name = "Rosaire"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 6110
+		}		
+		set_province_name = {
+			id = 12942
+			name = "Cordue"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 508
+		}		
+		set_province_name = {
+			id = 8216
+			name = "Tucuman"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 279
+		}		
+		set_province_name = {
+			id = 650
+			name = "Saint-Jacques"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 1091
+		}		
+		set_province_name = {
+			id = 12994
+			name = "Antofagasta"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 302
+		}		
+		set_province_name = {
+			id = 5230
+			name = "La Paix"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 7558
+		}		
+		set_province_name = {
+			id = 2210
+			name = "Aréquipa"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 303
+		}		
+		set_province_name = {
+			id = 12997
+			name = "Limaque"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 305
+		}		
+		set_province_name = {
+			id = 8252
+			name = "Saint-Jacques de Guayaquil"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 9128
+		}		
+		set_province_name = {
+			id = 12798
+			name = "Quito"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 9128
+		}		
+		set_province_name = {
+			id = 12798
+			name = "Quito"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 306
+		}		
+		set_province_name = {
+			id = 10747
+			name = "Bogota"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 3719
+		}		
+		set_province_name = {
+			id = 2023
+			name = "Métalline"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 493
+		}		
+		set_province_name = {
+			id = 12790
+			name = "Carthagène"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 1694
+		}		
+		set_province_name = {
+			id = 1944
+			name = "Maracaibo"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 307
+		}		
+		set_province_name = {
+			id = 8113
+			name = "Caracas"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2056
+		}		
+		set_province_name = {
+			id = 3588
+			name = "Rédding"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2057
+		}		
+		set_province_name = {
+			id = 6745
+			name = "Sainte-Rose"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 379
+		}		
+		set_province_name = {
+			id = 4607
+			name = "Rénou"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 9685
+		}		
+		set_province_name = {
+			id = 18917
+			name = "Carsonville"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 3184
+		}		
+		set_province_name = {
+			id = 6681
+			name = "Pêtalouma"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 925
+		}		
+		set_province_name = {
+			id = 9713
+			name = "Sacrement"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2051
+		}		
+		set_province_name = {
+			id = 9671
+			name = "Saint-François"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 378
+		}		
+		set_province_name = {
+			id = 6861
+			name = "Saint-José"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2052
+		}		
+		set_province_name = {
+			id = 9814
+			name = "Les Anges"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 1920
+		}		
+		set_province_name = {
+			id = 1562
+			name = "Saint-Jacques"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 377
+		}		
+		set_province_name = {
+			id = 1793
+			name = "Prescott"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 1468
+		}		
+		set_province_name = {
+			id = 4799
+			name = "Les Vegas"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 1957
+		}		
+		set_province_name = {
+			id = 853
+			name = "Phénix"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 1398
+		}		
+		set_province_name = {
+			id = 3834
+			name = "Toucson"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 380
+		}		
+		set_province_name = {
+			id = 4865
+			name = "Salélacville"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 382
+		}		
+		set_province_name = {
+			id = 7999
+			name = "Grand-Jonction"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 1959
+		}		
+		set_province_name = {
+			id = 4975
+			name = "Albuquerque"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 1163
+		}		
+		set_province_name = {
+			id = 10867
+			name = "Sainte foi"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 923
+		}		
+		set_province_name = {
+			id = 12848
+			name = "Lubbock"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 922
+		}		
+		set_province_name = {
+			id = 10740
+			name = "Le Pas"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 924
+		}		
+		set_province_name = {
+			id = 12782
+			name = "Saint-Antoine"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 3695
+		}		
+		set_province_name = {
+			id = 1927
+			name = "Août"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 375
+		}		
+		set_province_name = {
+			id = 7981
+			name = "Fort-Worth"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 3700
+		}		
+		set_province_name = {
+			id = 3960
+			name = "Ney"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 1962
+		}		
+		set_province_name = {
+			id = 10337
+			name = "Huguesville"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 6183
+		}		
+		set_province_name = {
+			id = 6785
+			name = "Corps du Christ"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 3871
+		}		
+		set_province_name = {
+			id = 6940
+			name = "Port-Chreve"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 4697
+		}		
+		set_province_name = {
+			id = 4535
+			name = "Baton Rouge"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 3001
+		}		
+		set_province_name = {
+			id = 7552
+			name = "Nouvelle-Orléans"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 1199
+		}		
+		set_province_name = {
+			id = 4464
+			name = "Bilocci"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 1200
+		}		
+		set_province_name = {
+			id = 7480
+			name = "La Mobile"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 1198
+		}		
+		set_province_name = {
+			id = 10352
+			name = "Pensacola"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 3533
+		}		
+		set_province_name = {
+			id = 10407
+			name = "Tallahassee"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 1952
+		}		
+		set_province_name = {
+			id = 12381
+			name = "Jacquesville"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 4206
+		}		
+		set_province_name = {
+			id = 14858
+			name = "Roland"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 3532
+		}		
+		set_province_name = {
+			id = 7388
+			name = "Tampa"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 366
+		}		
+		set_province_name = {
+			id = 1843
+			name = "Miami"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 304
+		}		
+		set_province_name = {
+			id = 7630
+			name = "Ville de Panama"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 685
+		}		
+		set_province_name = {
+			id = 7617
+			name = "Colomb"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 316
+		}		
+		set_province_name = {
+			id = 13087
+			name = "Saint-José"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 317
+		}		
+		set_province_name = {
+			id = 12738
+			name = "Managua"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 312
+		}		
+		set_province_name = {
+			id = 12865
+			name = "Tégucigalpa"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 314
+		}		
+		set_province_name = {
+			id = 12823
+			name = "Saint-Sauveur"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 313
+		}		
+		set_province_name = {
+			id = 10886
+			name = "Ville de Guatémala"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 311
+		}		
+		set_province_name = {
+			id = 2077
+			name = "Ville de Bélize"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 277
+		}		
+		set_province_name = {
+			id = 1965
+			name = "Ville de Mexique"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 478
+		}		
+		set_province_name = {
+			id = 13089
+			name = "Guadalajara"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 3679
+		}		
+		set_province_name = {
+			id = 4956
+			name = "Saint-Louis Potosi"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 3682
+		}		
+		set_province_name = {
+			id = 12835
+			name = "Montroi"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 477
+		}		
+		set_province_name = {
+			id = 12810
+			name = "Héroïque Vraiecroix"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 10632
+		}		
+		set_province_name = {
+			id = 6866
+			name = "Cacéres"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2916
+		}		
+		set_province_name = {
+			id = 858
+			name = "Tolede"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2909
+		}		
+		set_province_name = {
+			id = 832
+			name = "Albacete"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2907
+		}		
+		set_province_name = {
+			id = 9812
+			name = "Teruel"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2891
+		}		
+		set_province_name = {
+			id = 6817
+			name = "Château du la Plaine"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2900
+		}		
+		set_province_name = {
+			id = 6927
+			name = "Gérone"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 11009
+		}		
+		set_province_name = {
+			id = 962
+			name = "Benidorm"
+		}
+	}
+		
+	if = {
+		limit = {
 			state = 310
 		}		
 		set_province_name = {
@@ -2479,6 +3393,76 @@ do_french_renames = {
 }
 
 do_spanish_renames = {
+		
+	if = {
+		limit = {
+			state = 2916
+		}		
+		set_province_name = {
+			id = 858
+			name = "Toledo"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2909
+		}		
+		set_province_name = {
+			id = 832
+			name = "Albacete"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2907
+		}		
+		set_province_name = {
+			id = 9812
+			name = "Teruel"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2891
+		}		
+		set_province_name = {
+			id = 6817
+			name = "Castellón de la Plana"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2900
+		}		
+		set_province_name = {
+			id = 6927
+			name = "Gerona"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 11009
+		}		
+		set_province_name = {
+			id = 962
+			name = "Benidorm"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 310
+		}		
+		set_province_name = {
+			id = 12885
+			name = "Cayena"
+		}
+	}
 		
 	if = {
 		limit = {
@@ -20439,6 +21423,16 @@ do_yugoslavian_renames = {
 	}
 }
 do_catalonian_renames = {
+		
+	if = {
+		limit = {
+			state = 2900
+		}		
+		set_province_name = {
+			id = 6927
+			name = "Girona"
+		}
+	}
 		
 	if = {
 		limit = {
