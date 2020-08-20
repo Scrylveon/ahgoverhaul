@@ -5,8 +5,9 @@ state={
 		15806 
 	}
 	history = {
-		owner = UGA
+		owner = TOR
 		add_core_of = UGA
+		add_core_of = TOR
 		add_core_of = RWE
 	}
 	manpower=1000

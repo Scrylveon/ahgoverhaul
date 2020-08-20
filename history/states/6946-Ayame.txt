@@ -5,7 +5,8 @@ state={
 		5013 
 	}
 	history={
-	    owner = FWA
+	    owner = SNW
+        add_core_of = SNW
         add_core_of = IVO
     }	
 	manpower = 1000

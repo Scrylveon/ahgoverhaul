@@ -7,8 +7,9 @@ state={
 	}
 
 	history={
+		add_core_of = INC
 		add_core_of = VIN
-	    owner = IND
+	    owner = INC
 		add_core_of = SVI
 		add_core_of = ANN
 		buildings = {

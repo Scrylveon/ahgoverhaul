@@ -3,11 +3,12 @@ state={
 	name="STATE_2735"
 	history={
 		
-	    owner = IND
+	    owner = INC
 		buildings = {
 			infrastructure = 4
 			
 		}
+		add_core_of = INC
 		add_core_of = VIN
 		add_core_of = SVI
 		add_core_of = CCH

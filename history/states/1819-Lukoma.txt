@@ -5,7 +5,7 @@ state={
 		13622 
 	}
 	history = {
-	owner = UGA
+	owner = ANK
 	add_core_of = UGA
 		add_core_of = ANK
 	}

@@ -9,7 +9,8 @@ state={
 	history={
 		owner = RJK
 		add_core_of = RJK
-		add_core_of = RAJ
+		add_core_of = RAJ 
+		add_core_of = IND
 		victory_points = {
 			9975 1 
 		}

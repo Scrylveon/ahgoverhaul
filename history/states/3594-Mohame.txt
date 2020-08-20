@@ -9,11 +9,9 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = FWA
-		add_core_of = IVO
-		buildings = {
-			infrastructure = 1
-		}
-	}
+	    owner = SNW
+        add_core_of = SNW
+        add_core_of = IVO
+    }	
 	buildings_max_level_factor=1.000
 }

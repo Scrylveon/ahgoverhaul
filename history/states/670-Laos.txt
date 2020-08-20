@@ -9,7 +9,7 @@ state={
 	}
 
 	history={
-	    owner = IND
+	    owner = INC
 		add_core_of = LAO
 		buildings = {
 			infrastructure = 2

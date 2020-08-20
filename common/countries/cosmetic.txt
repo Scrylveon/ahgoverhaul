@@ -326,7 +326,7 @@ TOG_FRA = {
 	color = rgb { 37 72 155 }
 	color_ui = rgb { 37 72 155 }
 }
-IND_FRA = {
+INC_FRA = {
 	color = rgb { 37 72 155 }
 	color_ui = rgb { 37 72 155 }
 }
@@ -335,6 +335,10 @@ DJI_FRA = {
 	color_ui = rgb { 37 72 155 }
 }
 FEA_FRA = {
+	color = rgb { 37 72 155 }
+	color_ui = rgb { 37 72 155 }
+}
+SNW_FRA = {
 	color = rgb { 37 72 155 }
 	color_ui = rgb { 37 72 155 }
 }
@@ -402,7 +406,7 @@ GNA_ENG = {
 	color = rgb { 150 26 10 }
 	color_ui = rgb { 150 26 10 }
 }
-IND_ENG = {
+INC_ENG = {
 	color = rgb { 150 26 10 }
 	color_ui = rgb { 150 26 10 }
 }
@@ -491,6 +495,18 @@ SCM_ENG = {
 	color_ui = rgb { 150 26 10 }
 }
 GHA_ENG = {
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
+}
+GCO_ENG = {
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
+}
+AHI_ENG = {
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
+}
+GNH_ENG = {
 	color = rgb { 150 26 10 }
 	color_ui = rgb { 150 26 10 }
 }
@@ -719,6 +735,26 @@ ICE_DEN = {
 	color_ui = rgb { 142 68 62 }
 }
 BZE_ENG = {
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
+}
+TOR_ENG = {
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
+}
+BNY_ENG = {
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
+}
+BSG_ENG = {
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
+}
+ANK_ENG = {
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
+}
+BUG_ENG = {
 	color = rgb { 150 26 10 }
 	color_ui = rgb { 150 26 10 }
 }
@@ -1892,7 +1928,7 @@ CAS_JAP = {
 	color = rgb { 165 69 117 }
 	color_ui = rgb { 165 69 117 }
 }
-IND_JAP = {
+INC_JAP = {
 	color = rgb { 165 69 117 }
 	color_ui = rgb { 165 69 117 }
 }
@@ -2020,7 +2056,7 @@ FIN_GER = {
 	color = rgb { 63 63 63 }
 	color_ui = rgb { 115 115 115 }
 }
-IND_GER = {
+INC_GER = {
 	color = rgb { 63 63 63 }
 	color_ui = rgb { 115 115 115 }
 }

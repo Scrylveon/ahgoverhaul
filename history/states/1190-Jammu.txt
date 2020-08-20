@@ -9,7 +9,8 @@ state={
 
 		}
 		add_claim_by = PAK
-		add_core_of = RAJ
+		add_core_of = RAJ 
+		add_core_of = IND
 		add_core_of = KAS
 
 	}

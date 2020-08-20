@@ -5,7 +5,7 @@ state={
 		13626 
 	}
 	history = {
-	owner = UGA
+	owner = BNY
 	add_core_of = UGA
 		add_core_of = BNY
 	}

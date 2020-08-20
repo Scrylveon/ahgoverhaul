@@ -15,7 +15,8 @@ state={
 		}
 		add_core_of = NSE
 		add_core_of = AND
-		add_core_of = RAJ
+		add_core_of = RAJ 
+		add_core_of = IND
 	}
 	buildings_max_level_factor=1.000
 }

@@ -9,7 +9,8 @@ state={
 	history={
 		owner = JSM
 		add_core_of = JSM
-		add_core_of = RAJ
+		add_core_of = RAJ 
+		add_core_of = IND
 		buildings = {
 			infrastructure = 3
 

@@ -7,7 +7,8 @@ state={
 	history={
 	owner = SHA
 	add_core_of = BRM
-	add_core_of = RAJ
+	add_core_of = RAJ 
+		add_core_of = IND
 	}
 	
 	manpower=1000
