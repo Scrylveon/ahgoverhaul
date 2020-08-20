@@ -4511,6 +4511,9 @@
  MCH_monarchism_DEF:0 "The Kingdom of the Great Lakes"
  MCH_monarchism_ADJ:0 "Great Laker"
  
+ GMA_anarchism_ideology:0 "Iroquois Confederacy"
+ GMA_anarchism_ideology_DEF:0 "The Iroquois Confederacy"
+ GMA_anarchism_ideology_ADJ:0 "Iroquois"
  GMA_fascism:0 "German-American Reich"
  GMA_fascism_DEF:0 "The German-American Reich"
  GMA_democratic:0 "United States of German America"
