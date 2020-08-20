@@ -58,7 +58,7 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "Tribal Leadership"
-	desc = ""
+	desc = "POLITICS_TRIBAL_LEADERSHIP_DESC"
 	picture = ""
 	expire = "1965.1.1"
 	ideology = total_anarchist
@@ -68,7 +68,7 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "Collective Leadership"
-	desc = ""
+	desc = "POLITICS_COLLECTIVE_LEADERSHIP_DESC"
 	picture = ""
 	expire = "1965.1.1"
 	ideology = ancom
@@ -259,7 +259,7 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "Company Leadership"
-	desc = ""
+	desc = "POLITICS_COMPANY_LEADERSHIP_DESC"
 	picture = ""
 	expire = "1965.1.1"
 	ideology = ancap

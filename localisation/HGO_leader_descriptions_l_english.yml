@@ -1,3 +1,5 @@
 ﻿l_english:
 ### Leaders ###
-POLITICS_TRIBAL_LEADERSHIP_DESC:0 "This area of land is not ruled over by any centralised state, and its people are very technologically backward compared to the world's Great Powers. The most powerful form of authority in this land is the chief of a small tribe."
+POLITICS_TRIBAL_LEADERSHIP_DESC:0 "This area of land is not ruled over by any centralized state, and its people are very technologically backward compared to the world's Great Powers. The most powerful form of authority in this area is the chief of a small tribe."
+POLITICS_COLLECTIVE_LEADERSHIP_DESC:0 "The centralized state that once controlled this area has collapsed. The population now govern themselves in a form of communal leadership, bartering with other communes for needed resources. The most powerful form of authority in this area is the council of a small farm or factory."
+POLITICS_COMPANY_LEADERSHIP_DESC:0 "The centralized state that once controlled this area has collapsed. The task of governing has now been taken up by large businesses, bartering with each other for needed resources. The most powerful form of authority in this area is the board of a company."
