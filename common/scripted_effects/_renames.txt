@@ -13695,6 +13695,116 @@ do_english_renames = {
 }
 
 do_latin_renames = {
+		
+	if = {
+		limit = {
+			state = 2916
+		}		
+		set_province_name = {
+			id = 858
+			name = "Toletum"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2909
+		}		
+		set_province_name = {
+			id = 832
+			name = "Alba Civitas"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2907
+		}		
+		set_province_name = {
+			id = 9812
+			name = "Terulium"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2891
+		}		
+		set_province_name = {
+			id = 6817
+			name = "Castalia"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2900
+		}		
+		set_province_name = {
+			id = 6927
+			name = "Gerunda"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 11009
+		}		
+		set_province_name = {
+			id = 962
+			name = "Benidorm"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 3375
+		}		
+		set_province_name = {
+			id = 1015
+			name = "Elath"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 3376
+		}		
+		set_province_name = {
+			id = 14389
+			name = "Gaza"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 1207
+		}		
+		set_province_name = {
+			id = 13350
+			name = "Flavia Neapolis"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 3385
+		}		
+		set_province_name = {
+			id = 1201
+			name = "Hepha"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 1209
+		}		
+		set_province_name = {
+			id = 1065
+			name = "Sepph"
+		}
+	}
 
 	if = {
 		limit = {
@@ -29411,6 +29521,56 @@ do_ethiopian_renames = {
 	}	
 }
 do_italian_renames = {
+		
+	if = {
+		limit = {
+			state = 3375
+		}		
+		set_province_name = {
+			id = 1015
+			name = "Eylat"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 3376
+		}		
+		set_province_name = {
+			id = 14389
+			name = "Gazza"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 1207
+		}		
+		set_province_name = {
+			id = 13350
+			name = "Napoli"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 3385
+		}		
+		set_province_name = {
+			id = 1201
+			name = "Caifa"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 1209
+		}		
+		set_province_name = {
+			id = 1065
+			name = "Safad"
+		}
+	}
 	
 	if = {
 		limit = {
