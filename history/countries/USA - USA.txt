@@ -48,9 +48,9 @@ set_convoys = 400
 
 set_popularities = {
 	liberal_republic
-		= 74
+		= 72
 	democratic
-		= 24
+		= 26
 	socialism_ideology
 		= 2
 }
@@ -96,12 +96,212 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Empress Cass I"
-	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
-	picture = "TES_dem.dds"
-	expire = "1960.1.1"
+	name = "Heinrich Spanknobel"
+	desc = ""
+	picture = "Portrait_Heinrich_Spanknobel.dds"
+	expire = "1965.1.1"
+	ideology = natsoc
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Queen Wallis I of Simpson"
+	desc = ""
+	picture = "Portrait_Wallis_Simpson.dds"
+	expire = "1965.1.1"
+	ideology = absolutism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Alf Landon"
+	desc = ""
+	picture = "Portrait_Alf_Landon.dds"
+	expire = "1965.1.1"
+	ideology = conservatism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Tribal Leadership"
+	desc = "POLITICS_TRIBAL_LEADERSHIP_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = total_anarchist
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Collective Leadership"
+	desc = "POLITICS_COLLECTIVE_LEADERSHIP_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = ancom
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Earle Browder"
+	desc = ""
+	picture = "Portrait_Ernst_Thalmann.dds"
+	expire = "1965.1.1"
+	ideology = totsoc
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "James Patrick Cannon"
+	desc = ""
+	picture = "Portrait_James_Cannon.dds"
+	expire = "1965.1.1"
+	ideology = marxism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Norman Mattoon Thomas"
+	desc = ""
+	picture = "Portrait_Norman_Thomas.dds"
+	expire = "1965.1.1"
+	ideology = demsoc
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "John III of Washington"
+	desc = ""
+	picture = "Portrait_John_Washington.dds"
+	expire = "1965.1.1"
 	ideology = monsoc
 	traits = {
-	
+	}
+}
+
+create_country_leader = {
+	name = "Alfred Smith"
+	desc = ""
+	picture = "Portrait_Alfred_Smith.dds"
+	expire = "1965.1.1"
+	ideology = liberal_constitutionalism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Frederick Steiwer"
+	desc = ""
+	picture = "Portrait_Frederick_Steiwer.dds"
+	expire = "1965.1.1"
+	ideology = conservative_constitutionalism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "William Frederick Lemke"
+	desc = ""
+	picture = "Portrait_William_Lemke.dds"
+	expire = "1965.1.1"
+	ideology = cenrep
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Lee I of Washington"
+	desc = ""
+	picture = "Portrait_Lee_Washington.dds"
+	expire = "1965.1.1"
+	ideology = cenmon
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "David Leigh Colvin"
+	desc = ""
+	picture = "Portrait_Leigh_Colvin.dds"
+	expire = "1965.1.1"
+	ideology = despotism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "John Joseph Pershing"
+	desc = ""
+	picture = "Portrait_John_Pershing.dds"
+	expire = "1965.1.1"
+	ideology = militarism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "John Greer Dill"
+	desc = ""
+	picture = "Portrait_John_Dill.dds"
+	expire = "1965.1.1"
+	ideology = stratmon
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Edward Frederick Lindley Wood"
+	desc = ""
+	picture = "Portrait_Edward_Wood.dds"
+	expire = "1965.1.1"
+	ideology = authmon
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Michael Joseph Curley"
+	desc = ""
+	picture = "Portrait_Michael_Curley.dds"
+	expire = "1965.1.1"
+	ideology = christian
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "George IV of Lee"
+	desc = ""
+	picture = "Portrait_George_Lee.dds"
+	expire = "1965.1.1"
+	ideology = fascism_ideology
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "William Dudley Pelley"
+	desc = ""
+	picture = "Portrait_William_Pelley.dds"
+	expire = "1965.1.1"
+	ideology = repfash
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Smedley Darlington Butler"
+	desc = ""
+	picture = "Portrait_Smedley_Butler"
+	expire = "1965.1.1"
+	ideology = ancap
+	traits = {
 	}
 }
