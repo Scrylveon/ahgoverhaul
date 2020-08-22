@@ -1,4 +1,4 @@
-﻿capital = 371 #LA
+﻿capital = 3001 #LA
 
 oob = "LOU_1936"
 
