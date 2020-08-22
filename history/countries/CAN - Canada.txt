@@ -2,7 +2,6 @@
 
 oob = "CAN_1936"
 
-set_cosmetic_tag = CAN_ENG
 set_popularities = {
 	democratic_monarchism 
 		= 98
