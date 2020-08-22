@@ -78,17 +78,3 @@ create_country_leader = {
 		#
 	}
 }
-
-create_corps_commander = {
-	name = "Samuel Odulana Odungade I"
-	portrait_path = "gfx/leaders/Africa/Samuel_Odungade.dds"
-	traits = { }
-	skill = 2
-}
-
-create_corps_commander = {
-	name = "Isaac Fadoyebo"
-	portrait_path = "gfx/leaders/Africa/Isaac_Fadoyebo.dds"
-	traits = { }
-	skill = 2
-}

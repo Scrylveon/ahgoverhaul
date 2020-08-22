@@ -63,12 +63,4 @@ create_country_leader = {
 		
 	}
 }
-
-create_corps_commander = {
-	name = "M. A. G. Osmani"
-	portrait_path = "gfx/leaders/South Asia/MAG_Osmani.dds"
-	traits = {  }
-	skill = 4
-}
-
 set_cosmetic_tag = BAN_RAJ

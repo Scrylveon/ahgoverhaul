@@ -79,10 +79,3 @@ create_country_leader = {
 		#
 	}
 }
-
-create_corps_commander = {
-	name = "David Lansana"
-	portrait_path = "gfx/leaders/Africa/David_Lansana.dds"
-	traits = { }
-	skill = 2
-}

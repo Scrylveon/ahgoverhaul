@@ -67,12 +67,3 @@ create_country_leader = {
 		#
 	}
 }
-
-create_corps_commander = {
-	name = "Georgios Andreou"
-	portrait_path = "gfx/leaders/Europe/Georgios_Grivas.dds"
-	traits = {  
-	#this one is for you, buddy ~CSM
-	}
-	skill = 3
-}

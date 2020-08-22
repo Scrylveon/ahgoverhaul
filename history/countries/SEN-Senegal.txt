@@ -70,10 +70,3 @@ create_country_leader = {
 		#
 	}
 }
-
-create_corps_commander = {
-	name = "Abdul Injai"
-	portrait_path = "gfx/leaders/Africa/Abdul_Injai.dds"
-	traits = { }
-	skill = 3
-}

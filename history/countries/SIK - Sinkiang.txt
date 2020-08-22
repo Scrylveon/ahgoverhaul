@@ -70,28 +70,3 @@ create_country_leader = {
 		#
 	}
 }
-
-
-create_field_marshal = {
-	name = "Sheng Shihtsai"
-	id = 2897
-	portrait_path = "gfx/leaders/SIK/Portrait_Sinkiang_Sheng_Shicai.dds"
-	traits = {  }
-	skill = 1
-}
-
-create_corps_commander = {
-	name = "Sheng Shichi"
-	id = 2898
-	portrait_path = "gfx/leaders/SIK/Portrait_Sheng_Shiqi.dds"
-	traits = {  }
-	skill = 2
-}
-
-create_corps_commander = {
-	name = "Hoja Niyaz"
-	id = 2889
-	portrait_path = "gfx/leaders/SIK/Portrait_Hoja_Niyaz.dds"
-	traits = {  }
-	skill = 1
-}

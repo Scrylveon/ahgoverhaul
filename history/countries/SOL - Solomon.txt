@@ -53,10 +53,3 @@ create_country_leader = {
 	}
 }
 
-
-create_corps_commander = {
-	name = "Jacob C. Vouza"
-	portrait_path = "gfx/leaders/Pacific/Jacob_Vouza.dds"
-	traits = { }
-	skill = 2
-}

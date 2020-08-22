@@ -58,17 +58,3 @@ create_country_leader = {
 		#
 	}
 }
-
-create_corps_commander = {
-	name = "Ahmad Al-Jaber of Al-Sabah"
-	portrait_path = "gfx/leaders/Middle East/Ahmad_Al-Sabah.dds"
-	traits = {  }
-	skill = 3
-}
-
-create_corps_commander = {
-	name = "Abdullah Al-Jaber of Al-Sabah"
-	portrait_path = "gfx/leaders/Middle East/Abdullah_Al-Jaber_Al-Sabah.dds"
-	traits = {  }
-	skill = 3
-}

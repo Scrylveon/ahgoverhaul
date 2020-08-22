@@ -67,11 +67,3 @@ create_country_leader = {
 		#
 	}
 }
-
-
-create_corps_commander = {
-	name = "Georgios Petrakis"
-	portrait_path = "gfx/leaders/Europe/Georgios_Petrakis.dds"
-	traits = { }
-	skill = 3
-}
