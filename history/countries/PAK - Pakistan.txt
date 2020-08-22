@@ -1,4 +1,4 @@
-﻿capital = 1185
+﻿capital = 997
 
 oob = "PAK_1936"
 
