@@ -10,7 +10,7 @@ state={
 
 		}
 		victory_points = {
-			10887 15 
+			2076 15 
 		}
 		add_core_of = PAK
 		add_core_of = RAJ 
