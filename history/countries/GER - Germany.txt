@@ -157,7 +157,7 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Victoria I von Hohenzollern"
+	name = "Viktoria I von Hohenzollern"
 	desc = ""
 	picture = "Portrait_Victoria_Hohenzollern.dds"
 	expire = "1965.1.1"

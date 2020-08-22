@@ -39,13 +39,6 @@ set_technology = {
 
 set_convoys = 400
 
-#set_popularities = {
-#	liberal_republic 
-#		= 61
-#	democratic
-#		= 38
-#}
-
 set_popularities = {
 	liberal_republic
 		= 72
