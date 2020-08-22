@@ -19,11 +19,86 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Mackenzie King"
+	name = "William Lyon Mackenzie King"
 	desc = ""
 	picture = "Portrait_Canada_Mackenzie_King.dds"
 	expire = "1965.1.1"
 	ideology = liberal_constitutionalism
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Richard Bedford Bennet"
+	desc = ""
+	picture = "Portrait_Richard_Bennet.dds"
+	expire = "1965.1.1"
+	ideology = conservative_constitutionalism
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Prince David of Windsor"
+	desc = ""
+	picture = "Portrait_Prince_David.dds"
+	expire = "1965.1.1"
+	ideology = absolutism
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "John Buchan"
+	desc = ""
+	picture = "Portrait_John_Buchan.dds"
+	expire = "1965.1.1"
+	ideology = authmon
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "John Horne Blackmore"
+	desc = ""
+	picture = "Portrait_John_Blackmore.dds"
+	expire = "1965.1.1"
+	ideology = oligarchism
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Tribal Leadership"
+	desc = "POLITICS_TRIBAL_LEADERSHIP_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = total_anarchist
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Collective Leadership"
+	desc = "POLITICS_COLLECTIVE_LEADERSHIP_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = ancom
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Tim Buck"
+	desc = ""
+	picture = "CAN_Buck.tga"
+	expire = "1965.1.1"
+	ideology = totsoc
 	traits = {
 		#
 	}
@@ -36,7 +111,116 @@ create_country_leader = {
 	expire = "1965.1.1"
 	ideology = marxism
 	traits = {
-		#
+	}
+}
+
+create_country_leader = {
+	name = "James Shaver Woodsworth"
+	desc = ""
+	picture = "Portrait_James_Woodsworth.dds"
+	expire = "1965.1.1"
+	ideology = demsoc
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "James Shaver Woodsworth"
+	desc = ""
+	picture = "Portrait_James_Woodsworth.dds"
+	expire = "1965.1.1"
+	ideology = monsoc
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "William Lyon Mackenzie King"
+	desc = ""
+	picture = "Portrait_Canada_Mackenzie_King.dds"
+	expire = "1965.1.1"
+	ideology = socdem
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Richard Bedford Bennet"
+	desc = ""
+	picture = "Portrait_Richard_Bennet.dds"
+	expire = "1965.1.1"
+	ideology = conservatism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Henry Herbert Stevens"
+	desc = ""
+	picture = "Portrait_Henry_Stevens.dds"
+	expire = "1965.1.1"
+	ideology = cenrep
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Henry Herbert Stevens"
+	desc = ""
+	picture = "Portrait_Henry_Stevens.dds"
+	expire = "1965.1.1"
+	ideology = cenmon
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Andrew George Latta McNaughton"
+	desc = ""
+	picture = "Portrait_Andrew_McNaughton.dds"
+	expire = "1965.1.1"
+	ideology = militarism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Prince Arthur of Windsor"
+	desc = ""
+	picture = "Portrait_Prince_Arthur.dds"
+	expire = "1965.1.1"
+	ideology = stratmon
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Derwyn Owen"
+	desc = ""
+	picture = "Portrait_Derwyn_Owen.dds"
+	expire = "1965.1.1"
+	ideology = christian
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "John Ross Taylor"
+	desc = ""
+	picture = "Portrait_John_Taylor.dds"
+	expire = "1965.1.1"
+	ideology = fascism_ideology
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "John Ross Taylor"
+	desc = ""
+	picture = "Portrait_John_Taylor.dds"
+	expire = "1965.1.1"
+	ideology = repfash
+	traits = {
 	}
 }
 
@@ -45,19 +229,17 @@ create_country_leader = {
 	desc = ""
 	picture = "CAN_Arcand.tga"
 	expire = "1965.1.1"
-	ideology = nazism
+	ideology = natsoc
 	traits = {
-		#
 	}
 }
 
 create_country_leader = {
-	name = "George V of Windsor"
+	name = "Patrick Ashley Cooper"
 	desc = ""
-	picture = "Portrait_Britain_George_v.dds"
+	picture = "Portrait_Patrick_Cooper.dds"
 	expire = "1965.1.1"
-	ideology = absolutism
+	ideology = ancap
 	traits = {
-		#
 	}
 }
