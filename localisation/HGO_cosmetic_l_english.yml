@@ -3788,8 +3788,8 @@
  BEL_GER_autonomy_reichskommissariat_DEF:0 "Das Reichskommissariat Belgien-Nordfrankreich"
  BEL_GER_autonomy_reichsprotectorate_DEF:0 "Das Reichsprotektorat Belgien-Nordfrankreich"
  BEL_GER_autonomy_satellite_DEF:0 "Belgien-Nordfrankreich"
- BWL_GER_DEF:0 "Reichskommissariat Belgien-Nordfrankreich"
- BWL_GER:0 "Reichskommissariat Belgien-Nordfrankreich"
+ BEL_GER_DEF:0 "Reichskommissariat Belgien-Nordfrankreich"
+ BEL_GER:0 "Reichskommissariat Belgien-Nordfrankreich"
 
  BEL_GER_autonomy_integrated_puppet:0 "Reichskommissariat Belgien-Nordfrankreich"
  BEL_GER_autonomy_puppet:0 "Reichsprotektorat Belgien-Nordfrankreich"
