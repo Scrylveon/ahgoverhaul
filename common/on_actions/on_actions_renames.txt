@@ -504,7 +504,8 @@ on_actions = {
 							              has_cosmetic_tag = KOR_JAP
 							              has_cosmetic_tag = ALA_JAP
 							              has_cosmetic_tag = CHI_PGROC
-							              has_cosmetic_tag = CHI_RNGOC}}
+							              has_cosmetic_tag = CHI_RNGOC
+							              has_cosmetic_tag = JAPAN_WHITE}}
 						}
 						do_japanese_renames = yes
 					}	

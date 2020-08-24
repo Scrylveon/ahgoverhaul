@@ -9976,6 +9976,816 @@ do_siamese_renames = {
 	}
 }
 do_japanese_renames = {
+		
+	if = {
+		limit = {
+			state = 7558
+		}		
+		set_province_name = {
+			id = 2210
+			name = "Arekipa"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 303
+		}		
+		set_province_name = {
+			id = 12997
+			name = "Rima"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 305
+		}		
+		set_province_name = {
+			id = 8252
+			name = "Santiagodeguayakiru"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 9128
+		}		
+		set_province_name = {
+			id = 12798
+			name = "Kito"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 279
+		}		
+		set_province_name = {
+			id = 650
+			name = "Santiago"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 1091
+		}		
+		set_province_name = {
+			id = 12994
+			name = "Antofagasuta"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2056
+		}		
+		set_province_name = {
+			id = 3588
+			name = "Redingu"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2057
+		}		
+		set_province_name = {
+			id = 6745
+			name = "Santarōza"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 379
+		}		
+		set_province_name = {
+			id = 4607
+			name = "Rino"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 9685
+		}		
+		set_province_name = {
+			id = 18917
+			name = "Kāsonshiti"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 3184
+		}		
+		set_province_name = {
+			id = 6681
+			name = "Petaruma"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 925
+		}		
+		set_province_name = {
+			id = 9713
+			name = "Sakuramento"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2051
+		}		
+		set_province_name = {
+			id = 9671
+			name = "Sanfuranshisuko"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 378
+		}		
+		set_province_name = {
+			id = 6861
+			name = "San'noze"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 2052
+		}		
+		set_province_name = {
+			id = 9814
+			name = "Rosanzerusu"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 1920
+		}		
+		set_province_name = {
+			id = 1562
+			name = "Sandiego"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 377
+		}		
+		set_province_name = {
+			id = 1793
+			name = "Prescott"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 1468
+		}		
+		set_province_name = {
+			id = 4799
+			name = "Rasubegasu"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3055
+		}		
+		set_province_name = {
+			id = 4380
+			name = "Sēramu"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 385
+		}		
+		set_province_name = {
+			id = 3513
+			name = "Pōtorando"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1417
+		}		
+		set_province_name = {
+			id = 1690
+			name = "Supokēn"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2997
+		}		
+		set_province_name = {
+			id = 7386
+			name = "Orinpia"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2996
+		}		
+		set_province_name = {
+			id = 7315
+			name = "Shiatoru"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4725
+		}		
+		set_province_name = {
+			id = 15536
+			name = "Bikutoria"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3044
+		}		
+		set_province_name = {
+			id = 1408
+			name = "Bankūbā"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3108
+		}		
+		set_province_name = {
+			id = 13090
+			name = "Unarasuka"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 463
+		}		
+		set_province_name = {
+			id = 13091
+			name = "Ankarejji"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1030
+		}		
+		set_province_name = {
+			id = 13203
+			name = "Junō"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 323
+		}		
+		set_province_name = {
+			id = 4987
+			name = "Katomanzu"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 324
+		}		
+		set_province_name = {
+			id = 8010
+			name = "Punaka"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1271
+		}		
+		set_province_name = {
+			id = 9665
+			name = "Reishi"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 10747
+		}		
+		set_province_name = {
+			id = 8209
+			name = "Burūmu"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 8972
+		}		
+		set_province_name = {
+			id = 18282
+			name = "Pōtoheddorando"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 8979
+		}		
+		set_province_name = {
+			id = 1540
+			name = "Jeraruton"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 8967
+		}		
+		set_province_name = {
+			id = 8228
+			name = "Manjura"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 8968
+		}		
+		set_province_name = {
+			id = 7453
+			name = "Basseruton"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 11035
+		}		
+		set_province_name = {
+			id = 20589
+			name = "Arubanī"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 905
+		}		
+		set_province_name = {
+			id = 8200
+			name = "Karugūrī"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 9003
+		}		
+		set_province_name = {
+			id = 18304
+			name = "Waiara"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 10660
+		}		
+		set_province_name = {
+			id = 8249
+			name = "Burōkunhiru"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 10701
+		}		
+		set_province_name = {
+			id = 2130
+			name = "Mirude~yura"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 9008
+		}		
+		set_province_name = {
+			id = 1773
+			name = "Mauntoganbia"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 9010
+		}		
+		set_province_name = {
+			id = 7811
+			name = "Wānanbūru"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 11032
+		}		
+		set_province_name = {
+			id = 20586
+			name = "Jīrongu"
+		}
+	}
+	
+	if = {
+		limit = {
+			state = 11033
+		}		
+		set_province_name = {
+			id = 20587
+			name = "Bararatto"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 10705
+		}		
+		set_province_name = {
+			id = 12756
+			name = "Bendigo"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 9012
+		}		
+		set_province_name = {
+			id = 1759
+			name = "Torararugon"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 10665
+		}		
+		set_province_name = {
+			id = 10665
+			name = "Bānī"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 10665
+		}		
+		set_province_name = {
+			id = 10665
+			name = "Bānī"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 10666
+		}		
+		set_province_name = {
+			id = 5181
+			name = "Rōnsesuton"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 518
+		}		
+		set_province_name = {
+			id = 5187
+			name = "Hobāto"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 10708
+		}		
+		set_province_name = {
+			id = 1667
+			name = "Ābarī"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 10709
+		}		
+		set_province_name = {
+			id = 10455
+			name = "Wagawaga"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 9018
+		}		
+		set_province_name = {
+			id = 4864
+			name = "Urongon"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 10724
+		}		
+		set_province_name = {
+			id = 12435
+			name = "Gōrubān"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 10712
+		}		
+		set_province_name = {
+			id = 1537
+			name = "Basāsuto"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 10713
+		}		
+		set_province_name = {
+			id = 4500
+			name = "Dabo"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 10714
+		}		
+		set_province_name = {
+			id = 7471
+			name = "Tamuwāsu"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 9021
+		}		
+		set_province_name = {
+			id = 7450
+			name = "Pōtomakkōrī"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 9022
+		}		
+		set_province_name = {
+			id = 1611
+			name = "Kofusuhābā"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 9811
+		}		
+		set_province_name = {
+			id = 10445
+			name = "Gōrudokōsuto"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 9813
+		}		
+		set_province_name = {
+			id = 10430
+			name = "Sanshainkōsuto"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 9812
+		}		
+		set_province_name = {
+			id = 7535
+			name = "Sanshainkōsuto"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 10655
+		}		
+		set_province_name = {
+			id = 4481
+			name = "Bandabāgu"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 10656
+		}		
+		set_province_name = {
+			id = 12308
+			name = "Guraddosutōn"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 10658
+		}		
+		set_province_name = {
+			id = 10475
+			name = "Rokkuhanputon"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 10636
+		}		
+		set_province_name = {
+			id = 10460
+			name = "Makkei"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 10648
+		}		
+		set_province_name = {
+			id = 4520
+			name = "Keanzu"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2020
+		}		
+		set_province_name = {
+			id = 5206
+			name = "Mauntoaiza"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 903
+		}		
+		set_province_name = {
+			id = 2223
+			name = "Arisusupuringusu"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 10690
+		}		
+		set_province_name = {
+			id = 1454
+			name = "Kyasarin"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 650
+		}		
+		set_province_name = {
+			id = 13057
+			name = "Attsu-jima"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 10618
+		}		
+		set_province_name = {
+			id = 12853
+			name = "Beren"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2170
+		}		
+		set_province_name = {
+			id = 4180
+			name = "Honoruru"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 631
+		}		
+		set_province_name = {
+			id = 13052
+			name = "Middou~ē"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 635
+		}		
+		set_province_name = {
+			id = 1263
+			name = "Numea"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 636
+		}		
+		set_province_name = {
+			id = 4286
+			name = "Suba"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 639
+		}		
+		set_province_name = {
+			id = 13021
+			name = "Tarawa"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 725
+		}		
+		set_province_name = {
+			id = 13038
+			name = "Nauru"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 632
+		}		
+		set_province_name = {
+			id = 13047
+			name = "Ōtorishima"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 638
+		}		
+		set_province_name = {
+			id = 12140
+			name = "Guamu"
+		}
+	}
 
 	if = {
 		limit = {
@@ -12861,6 +13671,16 @@ do_russian_renames = {
 		set_province_name = {
 			id = 9108
 			name = "Luleo"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 650
+		}		
+		set_province_name = {
+			id = 13057
+			name = "Ostrov Svyatogo Feodora"
 		}
 	}
 
@@ -33645,7 +34465,7 @@ do_portuguese_renames = {
 		}		
 		set_province_name = {
 			id = 650
-			name = "Saintiago"
+			name = "Santiago"
 		}
 	}
 		
