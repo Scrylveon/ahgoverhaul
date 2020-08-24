@@ -11,14 +11,6 @@ state={
 		add_core_of = JAP
 		add_core_of = ROJ
 		add_core_of = FKK
-		buildings = {
-			infrastructure = 7
-			air_base = 3
-			dockyard = 4
-			arms_factory = 2
-			industrial_complex = 2
-
-		}
 		victory_points = {
 			1025 10 
 		}

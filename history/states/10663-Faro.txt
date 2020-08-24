@@ -6,14 +6,6 @@ state={
 	
 	history={
 		owner = POR
-		buildings = {
-			infrastructure = 6
-			3790 = {
-				naval_base = 2
-
-			}
-
-		}
 		add_core_of = AGV
 		add_core_of = POR
 		victory_points = {
