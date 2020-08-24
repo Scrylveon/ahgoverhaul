@@ -1,9 +1,8 @@
+
 state={
 	id=7904
 	name="STATE_7904"
-	provinces={
-		1647 1933 17684 17685 
-	}
+
 	history={
 		owner = NIX
 		add_core_of = NIX
@@ -11,7 +10,11 @@ state={
 		add_core_of = PRC
 
 	}
-	manpower = 1000
-	state_category = pastoral
+
+	provinces={
+		1647 1933 17685 
+	}
+	manpower=1000
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }
