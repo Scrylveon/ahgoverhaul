@@ -182,7 +182,7 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Jean III of Orléans"
+	name = "Jean III de Orléans"
 	desc = ""
 	picture = "Portrait_Jean_III.dds"
 	expire = "1965.1.1"
@@ -202,7 +202,7 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Jean III of Orléans"
+	name = "Jean III de Orléans"
 	desc = ""
 	picture = "Portrait_Jean_III.dds"
 	expire = "1965.1.1"
@@ -212,7 +212,7 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Jean III of Orléans"
+	name = "Jean III de Orléans"
 	desc = ""
 	picture = "Portrait_Jean_III.dds"
 	expire = "1965.1.1"
@@ -232,7 +232,7 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Charles XII of Bourbon"
+	name = "Charles XII de Bourbon"
 	desc = ""
 	picture = "Portrait_Charles_XII.dds"
 	expire = "1965.1.1"
@@ -262,7 +262,7 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Napoleon VI of Bonaparte"
+	name = "Napoleon VI de Bonaparte"
 	desc = ""
 	picture = "Portrait_Napoleon_VI.dds"
 	expire = "1965.1.1"
@@ -272,7 +272,7 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Charles XII of Bourbon"
+	name = "Charles XII de Bourbon"
 	desc = ""
 	picture = "Portrait_Charles_XII.dds"
 	expire = "1965.1.1"
@@ -282,7 +282,7 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Charles XII of Bourbon"
+	name = "Charles XII & V de Bourbon"
 	desc = ""
 	picture = "Portrait_Charles_XII.dds"
 	expire = "1965.1.1"
@@ -302,7 +302,7 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Napoleon VI of Bonaparte"
+	name = "Napoleon VI de Bonaparte"
 	desc = ""
 	picture = "Portrait_Napoleon_VI.dds"
 	expire = "1965.1.1"
