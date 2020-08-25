@@ -2672,7 +2672,7 @@ do_french_renames = {
 		}		
 		set_province_name = {
 			id = 6973
-			name = "La Épice"
+			name = "l'Épice"
 		}
 	}
 		
