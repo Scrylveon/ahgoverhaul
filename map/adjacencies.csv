@@ -1,5 +1,5 @@
 From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 
 -1;-1;;-1;-1;-1;-1;-1;-1
-11792;9861;sea;;13122-1;-1;-1;-1;;test
+11792;9861;sea;;13122;-1;-1;-1;-1;;test
 -1;
