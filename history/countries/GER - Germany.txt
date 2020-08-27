@@ -48,7 +48,7 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "Hermann Drewitz"
-	desc = ""
+	desc = "POLITICS_GER_CONREP_DESC"
 	picture = "Portrait_Hermann_Drewitz.dds"
 	expire = "1965.1.1"
 	ideology = conservatism
@@ -118,7 +118,7 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "Hermann Dietrich"
-	desc = ""
+	desc = "POLITICS_GER_LIBREP_DESC"
 	picture = "Portrait_Hermann_Dietrich.dds"
 	expire = "1965.1.1"
 	ideology = socdem
@@ -127,8 +127,8 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Wilhelm III von Hohenzollern"
-	desc = ""
+	name = "Wilhelm I von Hohenzollern"
+	desc = "POLITICS_GER_LIBMON_DESC"
 	picture = "Portrait_Wilhelm3_Hohenzollern.dds"
 	expire = "1965.1.1"
 	ideology = liberal_constitutionalism
@@ -138,7 +138,7 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "Wilhelm III von Hohenzollern"
-	desc = ""
+	desc = "POLITICS_GER_CONMON_DESC"
 	picture = "Portrait_Wilhelm3_Hohenzollern.dds"
 	expire = "1965.1.1"
 	ideology = conservative_constitutionalism
@@ -148,7 +148,7 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "Ludwig Kaas"
-	desc = ""
+	desc = "POLITICS_GER_CENREP_DESC"
 	picture = "Portrait_Ludwig_Kaas.dds"
 	expire = "1965.1.1"
 	ideology = cenrep
@@ -168,7 +168,7 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "Kuno von Westarp"
-	desc = ""
+	desc = "POLITICS_GER_AUTHREP_DESC"
 	picture = "Portrait_Kuno_von_Westarp.dds"
 	expire = "1965.1.1"
 	ideology = despotism

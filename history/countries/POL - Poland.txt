@@ -198,7 +198,7 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Karl Albrecht z Habsburg"
+	name = "Karl Albrecht z Habsburg-Lothringen"
 	desc = ""
 	picture = "Portrait_Karl_Albrecht_Habsburg.dds"
 	expire = "1965.1.1"
