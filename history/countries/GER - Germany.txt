@@ -38,7 +38,7 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "Wilhelm II von Hohenzollern"
-	desc = ""
+	desc = "POLITICS_GER_ABSMON_DESC"
 	picture = "Portrait_Germany_Wilhelm_II.dds"
 	expire = "1965.1.1"
 	ideology = absolutism
@@ -78,7 +78,7 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "Ernst Thälmann"
-	desc = ""
+	desc = "POLITICS_GER_VAN_DESC"
 	picture = "Portrait_Ernst_Thalmann.dds"
 	expire = "1965.1.1"
 	ideology = totsoc
@@ -88,7 +88,7 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "Otto Rühle"
-	desc = ""
+	desc = "POLITICS_GER_COM_DESC"
 	picture = "Portrait_Otto_Ruhle.dds"
 	expire = "1965.1.1"
 	ideology = marxism
@@ -98,7 +98,7 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "Otto Wels"
-	desc = ""
+	desc = "POLITICS_GER_SOC_DESC"
 	picture = "Portrait_Otto_Wels.dds"
 	expire = "1965.1.1"
 	ideology = demsoc
@@ -108,7 +108,7 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "Viktoria I von Hohenzollern"
-	desc = ""
+	desc = "POLITICS_GER_MONSOC_DESC"
 	picture = "Portrait_Victoria_Hohenzollern.dds"
 	expire = "1965.1.1"
 	ideology = monsoc
@@ -198,7 +198,7 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "Wilhelm II von Hohenzollern"
-	desc = ""
+	desc = "POLITICS_GER_AUTHMON_DESC"
 	picture = "Portrait_Germany_Wilhelm_II.dds"
 	expire = "1965.1.1"
 	ideology = authmon
