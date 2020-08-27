@@ -27,7 +27,7 @@ activate_mission = GER_mefo_bills_mission
 
 create_country_leader = {
 	name = "Adolf Hitler"
-	desc = "POLITICS_ADOLF_HITLER_DESC"
+	desc = "POLITICS_GER_NATSOC_DESC"
 	picture = "Portrait_Germany_Adolf_Hitler.dds"
 	expire = "1965.1.1"
 	ideology = natsoc
@@ -158,7 +158,7 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "August Wilhelm I von Hohenzollern"
-	desc = ""
+	desc = "POLITICS_GER_CENMON_DESC"
 	picture = "Portrait_August_Hohenzollern.dds"
 	expire = "1965.1.1"
 	ideology = cenmon
@@ -177,8 +177,8 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Walther Karl Friedrich Ernst Emil Freiherr von Lüttwitz"
-	desc = ""
+	name = "Walther Karl Freiherr von Lüttwitz"
+	desc = "POLITICS_GER_STRAT_DESC"
 	picture = "Portrait_Walther_von_Luttwitz.dds"
 	expire = "1965.1.1"
 	ideology = militarism
@@ -187,9 +187,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Hans Oster"
-	desc = ""
-	picture = "Portrait_Hans_Oster.dds"
+	name = "Ludwig August Theodor Beck"
+	desc = "POLITICS_GER_STRATMON_DESC"
+	picture = "Portrait_Ludwig_Beck.dds"
 	expire = "1965.1.1"
 	ideology = stratmon
 	traits = {
@@ -208,7 +208,7 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "Heinrich Luitpold Himmler"
-	desc = ""
+	desc = "POLITICS_GER_THEOC_DESC"
 	picture = "Portrait_Heinrich_Himmler.dds"
 	expire = "1965.1.1"
 	ideology = christian
@@ -218,7 +218,7 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "August Wilhelm I von Hohenzollern"
-	desc = ""
+	desc = "POLITICS_GER_FASCISM_DESC"
 	picture = "Portrait_August_Hohenzollern.dds"
 	expire = "1965.1.1"
 	ideology = fascism_ideology
@@ -228,7 +228,7 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "Otto Strasser"
-	desc = ""
+	desc = "POLITICS_GER_REPFASH_DESC"
 	picture = "Portrait_Otto_Strasser.dds"
 	expire = "1965.1.1"
 	ideology = repfash
