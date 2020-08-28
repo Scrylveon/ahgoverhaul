@@ -5,9 +5,8 @@ state={
 
 	history={
 		owner = KAS
-		buildings = {
-			infrastructure = 2
-
+		victory_points = {
+			10905 5
 		}
 		add_claim_by = PAK
 		add_core_of = RAJ 

@@ -1443,6 +1443,10 @@ MZB_GER = {
 	color = rgb { 63 63 63 }
 	color_ui = rgb { 115 115 115 }
 }
+MAD_GER = {
+	color = rgb { 63 63 63 }
+	color_ui = rgb { 115 115 115 }
+}
 TOG_GER = {
 	color = rgb { 63 63 63 }
 	color_ui = rgb { 115 115 115 }

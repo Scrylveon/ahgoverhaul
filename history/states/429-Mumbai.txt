@@ -2,9 +2,6 @@
 state={
 	id=429
 	name="STATE_429"
-	resources={
-		tungsten=19.000
-	}
 
 	history={
 		owner = RAJ
@@ -12,7 +9,10 @@ state={
 		add_core_of = IND
 		add_core_of = MAH
 		victory_points = {
-			1349 10 
+			12182 5
+		}
+		victory_points = {
+			1349 30 
 		}
 
 	}
