@@ -6317,6 +6317,26 @@ do_german_renames = {
 
 	if = {
 		limit = {
+			state = 1810
+		}		
+		set_province_name = {
+			id = 13688
+			name = "Adrianopel"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1033
+		}		
+		set_province_name = {
+			id = 13294
+			name = "Kallipel"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 5363
 		}		
 		set_province_name = {
@@ -10149,6 +10169,214 @@ do_japanese_renames = {
 
 	if = {
 		limit = {
+			state = 1932
+		}		
+		set_province_name = {
+			id = 12314
+			name = "Kundo~uzu"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1053
+		}		
+		set_province_name = {
+			id = 7584
+			name = "Mazarisharifu"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1056
+		}		
+		set_province_name = {
+			id = 5064
+			name = "Kandahāru"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 441
+		}		
+		set_province_name = {
+			id = 10905
+			name = "Surinagaru"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 442
+		}		
+		set_province_name = {
+			id = 4998
+			name = "Peshāwaru"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 445
+		}		
+		set_province_name = {
+			id = 8044
+			name = "Kuetta"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1914
+		}		
+		set_province_name = {
+			id = 13633
+			name = "Guwadaru"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1005
+		}		
+		set_province_name = {
+			id = 15011
+			name = "Jaipūru"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 432
+		}		
+		set_province_name = {
+			id = 1497
+			name = "Guwāhātī"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3271
+		}		
+		set_province_name = {
+			id = 14340
+			name = "Chittagon"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 435
+		}		
+		set_province_name = {
+			id = 4516
+			name = "Patona"
+		}	
+		set_province_name = {
+			id = 10060
+			name = "Bubaneshuwāru"
+		}
+    }
+
+	if = {
+		limit = {
+			state = 3265
+		}		
+		set_province_name = {
+			id = 14326
+			name = "Bizagapatonamu"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 436
+		}		
+		set_province_name = {
+			id = 4883
+			name = "Nagupūru"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 998
+		}		
+		set_province_name = {
+			id = 11952
+			name = "Surato"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 429
+		}		
+		set_province_name = {
+			id = 1349
+			name = "Bonbei"
+		}	
+		set_province_name = {
+			id = 12182
+			name = "Pūna"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4216
+		}		
+		set_province_name = {
+			id = 10190
+			name = "Mangarōru"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3251
+		}		
+		set_province_name = {
+			id = 14317
+			name = "Karikatto"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5845
+		}		
+		set_province_name = {
+			id = 7447
+			name = "Torikūru"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3253
+		}		
+		set_province_name = {
+			id = 14318
+			name = "Kōchin"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4212
+		}		
+		set_province_name = {
+			id = 1321
+			name = "Toribandoramu"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 4006
 		}		
 		set_province_name = {
@@ -11289,10 +11517,10 @@ do_japanese_renames = {
 
 	if = {
 		limit = {
-			state = 423
+			state = 3262
 		}		
 		set_province_name = {
-			id = 10278
+			id = 14322
 			name = "Madorasu"
 		}
 	}
@@ -11389,16 +11617,6 @@ do_japanese_renames = {
 
 	if = {
 		limit = {
-			state = 429
-		}		
-		set_province_name = {
-			id = 1349
-			name = "Bonbei"
-		}
-	}
-
-	if = {
-		limit = {
 			state = 1179
 		}		
 		set_province_name = {
@@ -11444,16 +11662,6 @@ do_japanese_renames = {
 		set_province_name = {
 			id = 12137
 			name = "Rakunau"
-		}
-    }
-
-	if = {
-		limit = {
-			state = 435
-		}		
-		set_province_name = {
-			id = 4516
-			name = "Patona"
 		}
     }
 
@@ -12584,6 +12792,126 @@ do_chinese_renames = {
 }
 
 do_russian_renames = {
+
+	if = {
+		limit = {
+			state = 1139
+		}		
+		set_province_name = {
+			id = 10403
+			name = "Chorzene"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5713
+		}		
+		set_province_name = {
+			id = 11739
+			name = "Amida"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 355
+		}		
+		set_province_name = {
+			id = 9915
+			name = "Amis"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1810
+		}		
+		set_province_name = {
+			id = 13688
+			name = "Adrianopol'"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1033
+		}		
+		set_province_name = {
+			id = 13294
+			name = "Kallipol'"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1932
+		}		
+		set_province_name = {
+			id = 12314
+			name = "Kunduz"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1053
+		}		
+		set_province_name = {
+			id = 7584
+			name = "Mazari-Sharif"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1056
+		}		
+		set_province_name = {
+			id = 5064
+			name = "Kandagar"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 441
+		}		
+		set_province_name = {
+			id = 10905
+			name = "Srinagar"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 442
+		}		
+		set_province_name = {
+			id = 4998
+			name = "Peshavar"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 445
+		}		
+		set_province_name = {
+			id = 8044
+			name = "Kvetta"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1914
+		}		
+		set_province_name = {
+			id = 13633
+			name = "Gvadar"
+		}
+	}
 
 	if = {
 		limit = {
@@ -14136,6 +14464,16 @@ do_russian_renames = {
 
 	if = {
 		limit = {
+			state = 773
+		}		
+		set_province_name = {
+			id = 13223
+			name = "Zapadnyy Bralin'"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 64
 		}		
 		set_province_name = {
@@ -14320,7 +14658,7 @@ do_russian_renames = {
 		}		
 		set_province_name = {
 			id = 3583
-			name = "Ostrawa"
+			name = "Ostrava"
 		}
 	}
 	
@@ -17217,6 +17555,56 @@ do_english_renames = {
 }
 
 do_latin_renames = {
+
+	if = {
+		limit = {
+			state = 1139
+		}		
+		set_province_name = {
+			id = 10403
+			name = "Chorzene"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5713
+		}		
+		set_province_name = {
+			id = 11739
+			name = "Amida"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 355
+		}		
+		set_province_name = {
+			id = 9915
+			name = "Amisus"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1810
+		}		
+		set_province_name = {
+			id = 13688
+			name = "Adrianopolis"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1033
+		}		
+		set_province_name = {
+			id = 13294
+			name = "Callípolis"
+		}
+	}
 
 	if = {
 		limit = {
@@ -26696,6 +27084,76 @@ do_bulgarian_renames = {
 
 	if = {
 		limit = {
+			state = 8438
+		}
+		set_province_name = {
+			id = 17901
+			name = "Istok"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1233
+		}
+		set_province_name = {
+			id = 13619
+			name = "Mitrovitsa"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2339
+		}
+		set_province_name = {
+			id = 13268
+			name = "Gnilan"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5921
+		}
+		set_province_name = {
+			id = 16476
+			name = "Pech"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1215
+		}
+		set_province_name = {
+			id = 9849
+			name = "Prizren"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1810
+		}		
+		set_province_name = {
+			id = 13688
+			name = "Odrin"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1033
+		}		
+		set_province_name = {
+			id = 13294
+			name = "Kalipol"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 812
 		}		
 		set_province_name = {
@@ -27185,6 +27643,56 @@ do_bulgarian_renames = {
 	}
 }
 do_greek_renames = {	
+
+	if = {
+		limit = {
+			state = 1139
+		}		
+		set_province_name = {
+			id = 10403
+			name = "Chorziní"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5713
+		}		
+		set_province_name = {
+			id = 11739
+			name = "Ámida"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 355
+		}		
+		set_province_name = {
+			id = 9915
+			name = "Sampsúnta"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1810
+		}		
+		set_province_name = {
+			id = 13688
+			name = "Adrianoúpoli"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1033
+		}		
+		set_province_name = {
+			id = 13294
+			name = "Kallípolis"
+		}
+	}
 
 	if = {
 		limit = {
@@ -28349,6 +28857,16 @@ do_ottoman_renames = {
 
 	if = {
 		limit = {
+			state = 5713
+		}		
+		set_province_name = {
+			id = 11739
+			name = "Diyâr-ı Bekr"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 340
 		}		
 		set_province_name = {
@@ -28510,6 +29028,126 @@ do_non_ottoman_turkish_renames = {
 	}
 }
 do_turkish_renames = {
+
+	if = {
+		limit = {
+			state = 1139
+		}		
+		set_province_name = {
+			id = 10403
+			name = "Kars"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5713
+		}		
+		set_province_name = {
+			id = 11739
+			name = "Diyarbakır"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 355
+		}		
+		set_province_name = {
+			id = 9915
+			name = "Samsun"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1810
+		}		
+		set_province_name = {
+			id = 13688
+			name = "Edirne"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1033
+		}		
+		set_province_name = {
+			id = 13294
+			name = "Gelibolu"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1932
+		}		
+		set_province_name = {
+			id = 12314
+			name = "Kunduz"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1053
+		}		
+		set_province_name = {
+			id = 7584
+			name = "Mezar-ı Şerif"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1056
+		}		
+		set_province_name = {
+			id = 5064
+			name = "Kandehar"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 441
+		}		
+		set_province_name = {
+			id = 10905
+			name = "Srinagar"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 442
+		}		
+		set_province_name = {
+			id = 4998
+			name = "Peşaver"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 445
+		}		
+		set_province_name = {
+			id = 8044
+			name = "Kuetta"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1914
+		}		
+		set_province_name = {
+			id = 13633
+			name = "Gvadar"
+		}
+	}
 		
 	if = {
 		limit = {
@@ -33254,6 +33892,56 @@ do_ethiopian_renames = {
 	}	
 }
 do_italian_renames = {
+
+	if = {
+		limit = {
+			state = 1139
+		}		
+		set_province_name = {
+			id = 10403
+			name = "Chorzene"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5713
+		}		
+		set_province_name = {
+			id = 11739
+			name = "Amida"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 355
+		}		
+		set_province_name = {
+			id = 9915
+			name = "Amiso"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1810
+		}		
+		set_province_name = {
+			id = 13688
+			name = "Adrianopoli"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1033
+		}		
+		set_province_name = {
+			id = 13294
+			name = "Gallípoli"
+		}
+	}
 
 	if = {
 		limit = {
