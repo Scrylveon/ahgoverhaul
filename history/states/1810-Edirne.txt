@@ -1,26 +1,20 @@
-
 state={
 	id=1810
 	name="STATE_1810"
+	provinces={
+		13688 
+	}
 
 	history={
+		owner = TUR
 		add_core_of = GRE
 		add_core_of = THR
 		add_core_of = RUM
 		add_core_of = BYB
-		owner = TUR
-		buildings = {
-			infrastructure = 5
-			arms_factory = 1
-
-		}
 		add_core_of = TUR
-
-
-	}
-
-	provinces={
-		13688 
+		victory_points = {
+			13688 5
+		}
 	}
 	manpower=200506
 	buildings_max_level_factor=1.000
