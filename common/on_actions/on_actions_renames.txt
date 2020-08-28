@@ -348,6 +348,14 @@ on_actions = {
 						do_sorbian_renames = yes
 					}
 					
+					### FAR ###
+					if = {
+						limit = {
+							ROOT = {tag = FAR}
+						}
+						do_faroese_renames = yes
+					}
+					
 					### DEN ###
 					if = {
 						limit = {
