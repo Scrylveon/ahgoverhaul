@@ -1,6 +1,6 @@
 ﻿capital = 16
 
-oob = "FRA_1936"
+oob = "FR2_1936"
 
 #if = {
 #	limit = {
@@ -93,7 +93,7 @@ set_popularities = {
 }
 
 set_politics = { 
-	ruling_party = democratic
+	ruling_party = neutrality
 	last_election = "1932.5.1"
 	election_frequency = 48
 	elections_allowed = yes
