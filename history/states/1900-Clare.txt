@@ -6,12 +6,11 @@ state={
 	
 	history={
 		owner = IRE
-		buildings = {
-			infrastructure = 6
-		}
 		add_core_of = IRE
 		add_core_of = MUN
-
+		victory_points = {
+			1900 5
+		}
 	}
 
 	provinces={

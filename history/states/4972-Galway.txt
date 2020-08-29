@@ -6,13 +6,11 @@ state={
 	}
 	history={
 		owner = IRE
-		buildings = {
-			infrastructure = 3
-
-		}
 		add_core_of = IRE
 		add_core_of = CNG
-
+		victory_points = {
+			9303 5
+		}
 	}
 	manpower=1030
 	state_category=pastoral

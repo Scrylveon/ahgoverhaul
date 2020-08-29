@@ -6060,6 +6060,36 @@ do_celtic_renames = {
 
 	if = {
 		limit = {
+			state = 4964
+		}		
+		set_province_name = {
+			id = 11237
+			name = "Port Láirge"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1900
+		}		
+		set_province_name = {
+			id = 6303
+			name = "Luimneach"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4972
+		}		
+		set_province_name = {
+			id = 9303
+			name = "Gaillimh"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 131
 		}		
 		set_province_name = {
@@ -6314,6 +6344,36 @@ do_celtic_renames = {
 
 }
 do_german_renames = {
+
+	if = {
+		limit = {
+			state = 4964
+		}		
+		set_province_name = {
+			id = 11237
+			name = "Widderfurt"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1900
+		}		
+		set_province_name = {
+			id = 6303
+			name = "Limerick"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4972
+		}		
+		set_province_name = {
+			id = 9303
+			name = "Galwei"
+		}
+	}
 
 	if = {
 		limit = {
@@ -16961,6 +17021,36 @@ do_english_renames = {
 
 	if = {
 		limit = {
+			state = 4964
+		}		
+		set_province_name = {
+			id = 11237
+			name = "Waterford"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1900
+		}		
+		set_province_name = {
+			id = 6303
+			name = "Limerick"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4972
+		}		
+		set_province_name = {
+			id = 9303
+			name = "Galway"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 2220
 		}		
 		set_province_name = {
@@ -17555,6 +17645,36 @@ do_english_renames = {
 }
 
 do_latin_renames = {
+
+	if = {
+		limit = {
+			state = 4964
+		}		
+		set_province_name = {
+			id = 11237
+			name = "Vaterfurtum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1900
+		}		
+		set_province_name = {
+			id = 6303
+			name = "Limericum"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4972
+		}		
+		set_province_name = {
+			id = 9303
+			name = "Galvia"
+		}
+	}
 
 	if = {
 		limit = {
@@ -32012,6 +32132,36 @@ do_faroese_renames = {
 	}
 }
 do_danish_renames = {
+
+	if = {
+		limit = {
+			state = 4964
+		}		
+		set_province_name = {
+			id = 11237
+			name = "Væderfjord"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1900
+		}		
+		set_province_name = {
+			id = 6303
+			name = "Limerick"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 4972
+		}		
+		set_province_name = {
+			id = 9303
+			name = "Galwei"
+		}
+	}
 
 	if = {
 		limit = {
