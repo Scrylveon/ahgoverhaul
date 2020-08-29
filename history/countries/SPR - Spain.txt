@@ -94,7 +94,7 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Charles V & XII de Borbón"
+	name = "Carlos V & XII de Borbón"
 	desc = "POLITICS_SPR_ABSMON_DESC"
 	picture = "FRA_CharlesXII.tga"
 	expire = "1965.1.1"
