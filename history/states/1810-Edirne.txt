@@ -12,9 +12,7 @@ state={
 		add_core_of = RUM
 		add_core_of = BYB
 		add_core_of = TUR
-		victory_points = {
-			13688 5
-		}
+
 	}
 	manpower=200506
 	buildings_max_level_factor=1.000

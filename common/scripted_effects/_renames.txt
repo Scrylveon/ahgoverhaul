@@ -6380,7 +6380,7 @@ do_german_renames = {
 			state = 1810
 		}		
 		set_province_name = {
-			id = 13688
+			id = 11842
 			name = "Adrianopel"
 		}
 	}
@@ -12888,7 +12888,7 @@ do_russian_renames = {
 			state = 1810
 		}		
 		set_province_name = {
-			id = 13688
+			id = 11842
 			name = "Adrianopol'"
 		}
 	}
@@ -17711,7 +17711,7 @@ do_latin_renames = {
 			state = 1810
 		}		
 		set_province_name = {
-			id = 13688
+			id = 11842
 			name = "Adrianopolis"
 		}
 	}
@@ -27257,7 +27257,7 @@ do_bulgarian_renames = {
 			state = 1810
 		}		
 		set_province_name = {
-			id = 13688
+			id = 11842
 			name = "Odrin"
 		}
 	}
@@ -27799,7 +27799,7 @@ do_greek_renames = {
 			state = 1810
 		}		
 		set_province_name = {
-			id = 13688
+			id = 11842
 			name = "Adrianoúpoli"
 		}
 	}
@@ -29184,7 +29184,7 @@ do_turkish_renames = {
 			state = 1810
 		}		
 		set_province_name = {
-			id = 13688
+			id = 11842
 			name = "Edirne"
 		}
 	}
@@ -32149,7 +32149,7 @@ do_danish_renames = {
 		}		
 		set_province_name = {
 			id = 6313
-			name = "Limerick"
+			name = "Limerik"
 		}
 	}
 
@@ -32159,7 +32159,7 @@ do_danish_renames = {
 		}		
 		set_province_name = {
 			id = 9303
-			name = "Galwei"
+			name = "Galivej"
 		}
 	}
 
@@ -32229,7 +32229,7 @@ do_danish_renames = {
 		}		
 		set_province_name = {
 			id = 13224
-			name = "Kirkevåg"
+			name = "Kirkevaag"
 		}
 	}
 
@@ -32269,7 +32269,7 @@ do_danish_renames = {
 		}		
 		set_province_name = {
 			id = 3273
-			name = "Gråhul"
+			name = "Graahul"
 		}
 	}
 
@@ -32433,7 +32433,7 @@ do_danish_renames = {
 		}		
 		set_province_name = {
 			id = 11297
-			name = "Kongsby på Huld"
+			name = "Kongsby paa Huld"
 		}
 	}
 
@@ -32463,7 +32463,7 @@ do_danish_renames = {
 		}		
 		set_province_name = {
 			id = 351
-			name = "Nyborg på Tine"
+			name = "Nyborg paa Tine"
 		}
 	}
 
@@ -32513,7 +32513,7 @@ do_danish_renames = {
 		}		
 		set_province_name = {
 			id = 9438
-			name = "Pånevæs"
+			name = "Paanevæs"
 		}
 	}
 
@@ -32563,7 +32563,7 @@ do_danish_renames = {
 		}		
 		set_province_name = {
 			id = 6342
-			name = "Midtå"
+			name = "Midtaa"
 		}
 	}
 	
@@ -32638,7 +32638,7 @@ do_danish_renames = {
 		limit = {
 			state = 10913
 		}		
-		set_state_name = Godthåb
+		set_state_name = Godthaab
 	}
 
 	if = {
@@ -32707,7 +32707,7 @@ do_danish_renames = {
 		}		
 		set_province_name = {
 			id = 3392
-			name = "Brest på Buh"
+			name = "Brest paa Buh"
 		}
 	}
 	
@@ -32717,7 +32717,7 @@ do_danish_renames = {
 		}		
 		set_province_name = {
 			id = 3393
-			name = "Grådna"
+			name = "Graadna"
 		}
 	}
 	
@@ -32927,7 +32927,7 @@ do_danish_renames = {
 		}		
 		set_province_name = {
 			id = 16430
-			name = "Frankfort på Oder"
+			name = "Frankfort paa Oder"
 		}
 	}
 
@@ -32957,7 +32957,7 @@ do_danish_renames = {
 		}		
 		set_province_name = {
 			id = 6582
-			name = "Halle på Saale"
+			name = "Halle paa Saale"
 		}
 	}
 	
@@ -33137,7 +33137,7 @@ do_danish_renames = {
 		}		
 		set_province_name = {
 			id = 6488
-			name = "Frankfurt på Main"
+			name = "Frankfurt paa Main"
 		}
 	}
 	
@@ -33357,7 +33357,7 @@ do_danish_renames = {
 		}		
 		set_province_name = {
 			id = 9517
-			name = "Stutgård"
+			name = "Stutgaard"
 		}
 	}
 
@@ -33497,7 +33497,7 @@ do_danish_renames = {
 		}		
 		set_province_name = {
 			id = 3083
-			name = "Åbo"
+			name = "aabo"
 		}
 	}
 
@@ -34078,7 +34078,7 @@ do_italian_renames = {
 			state = 1810
 		}		
 		set_province_name = {
-			id = 13688
+			id = 11842
 			name = "Adrianopoli"
 		}
 	}

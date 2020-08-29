@@ -9,6 +9,9 @@ state={
         add_core_of = TUR
 		add_core_of = BYB
 		add_core_of = RUM
+		victory_points = {
+			11842 5
+		}
     }
 	manpower = 10000
 	state_category = rural
