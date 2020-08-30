@@ -38,7 +38,7 @@ set_convoys = 10
 			 = 30
 		}
 	set_politics = { 
- ruling_party = neutrality
+ ruling_party = authoritarian_monarchism
 	last_election = "1936.1.1"
 	election_frequency = 36
 	elections_allowed = yes
@@ -69,13 +69,12 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Peter Karadordevic"
+	name = "Petar II Karađorđevića"
 	desc = ""
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_5.dds"
+	picture = "Portrait_Peter_II.dds"
 	expire = "1965.1.1"
-	ideology = Despotism
+	ideology = authmon
 	traits = {
-		#
 	}
 }
 
@@ -87,5 +86,15 @@ create_country_leader = {
 	ideology = leninism
 	traits = {
 		#
+	}
+}
+
+create_country_leader = {
+	name = "Aleksandar I Obrenovića"
+	desc = "POLITICS_GER_ABSMON_DESC"
+	picture = "Portrait_Alexander_Obrenovic.dds"
+	expire = "1965.1.1"
+	ideology = absolutism
+	traits = {
 	}
 }

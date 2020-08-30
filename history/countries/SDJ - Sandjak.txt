@@ -28,3 +28,12 @@ set_politics = {
 	elections_allowed = no
 }
 
+create_country_leader = {
+	name = "Aleksandar I Obrenovića"
+	desc = "POLITICS_GER_ABSMON_DESC"
+	picture = "Portrait_Alexander_Obrenovic.dds"
+	expire = "1965.1.1"
+	ideology = absolutism
+	traits = {
+	}
+}
