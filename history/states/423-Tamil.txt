@@ -11,7 +11,7 @@ state={
 		add_core_of = IND
 		add_core_of = TML
 		victory_points = {
-			12447 5
+			12247 5
 		}
 
 	}

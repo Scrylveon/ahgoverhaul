@@ -10387,6 +10387,16 @@ do_japanese_renames = {
 
 	if = {
 		limit = {
+			state = 423
+		}		
+		set_province_name = {
+			id = 12247
+			name = "Mado~urai"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 4216
 		}		
 		set_province_name = {
@@ -29024,6 +29034,16 @@ do_ottoman_renames = {
 			name = "Konstantiyye"
 		}
 	}
+
+	if = {
+		limit = {
+			state = 5713
+		}		
+		set_province_name = {
+			id = 11739
+			name = "Diyâr-ı Bekr"
+		}
+	}
 	
 	if = {
 		limit = {
@@ -29062,6 +29082,16 @@ do_ottoman_renames = {
 		set_province_name = {
 			id = 9849
 			name = "Pürzerrin"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5713
+		}		
+		set_province_name = {
+			id = 11739
+			name = "Diyâr-ı Bekr"
 		}
 	}
 }
