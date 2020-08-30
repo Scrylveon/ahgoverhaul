@@ -4573,16 +4573,16 @@ color = rgb { 150 150 150 }
 color_ui = rgb { 150 150 150 }
 }
 PSC = {
-color = rgb { 150 150 150 }
-color_ui = rgb { 150 150 150 }
+color = rgb { 165 69 117 }
+color_ui = rgb { 165 69 117 }
 }
 RFC = {
-color = rgb { 150 150 150 }
-color_ui = rgb { 150 150 150 }
+color = rgb { 165 69 117 }
+color_ui = rgb { 165 69 117 }
 }
 RGC = {
-color = rgb { 150 150 150 }
-color_ui = rgb { 150 150 150 }
+color = rgb { 165 69 117 }
+color_ui = rgb { 165 69 117 }
 }
 HOA = {
 color = rgb { 150 150 150 }

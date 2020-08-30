@@ -1391,6 +1391,10 @@ TIB_JAP = {
 	color = rgb { 165 69 117 }
 	color_ui = rgb { 165 69 117 }
 }
+SBR_JAP = {
+	color = rgb { 165 69 117 }
+	color_ui = rgb { 165 69 117 }
+}
 SIK_JAP = {
 	color = rgb { 165 69 117 }
 	color_ui = rgb { 165 69 117 }

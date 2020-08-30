@@ -1253,6 +1253,18 @@
  MEN_JAP_communism_DEF:0 "Mengjiang"
  MEN_JAP_ADJ:0 "Japanese-Mongolian"
 
+ SBR_JAP:0 "Governorate of Siberia"
+ SBR_JAP_DEF:0 "Governorate of Siberia"
+ SBR_JAP_democratic:0 "Governorate of Siberia"
+ SBR_JAP_democratic_DEF:0 "Governorate of Siberia"
+ SBR_JAP_fascism:0 "Governorate of Siberia"
+ SBR_JAP_fascism_DEF:0 "Governorate of Siberia"
+ SBR_JAP_neutrality:0 "Governorate of Siberia"
+ SBR_JAP_neutrality_DEF:0 "Governorate of Siberia"
+ SBR_JAP_communism:0 "Governorate of Siberia"
+ SBR_JAP_communism_DEF:0 "Governorate of Siberia"
+ SBR_JAP_ADJ:0 "Japanese-Siberian"
+
  XSM_JAP:0 "Governorate of Xibei"
  XSM_JAP_DEF:0 "Governorate of Xibei"
  XSM_JAP_democratic:0 "Governorate of Xibei"
