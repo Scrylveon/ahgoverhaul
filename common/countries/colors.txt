@@ -5244,3 +5244,11 @@ SP2 = {
 color = rgb { 228 145 22 }
 color_ui = rgb { 228 145 22 }
 }
+AHN = {
+color = rgb { 120 85 93 }
+color_ui = rgb { 120 85 93 }
+}
+LCT = {
+color = rgb { 99 128 152 }
+color_ui = rgb { 99 128 152 }
+}

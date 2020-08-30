@@ -5,8 +5,9 @@ state={
 		19593
 	}
 	history={
-	    owner = WTR
-        add_core_of = WTR
+	    owner = TUR
+	add_core_of = TUR
+        add_core_of = LCT
     }	
 	manpower=1000
 	state_category = pastoral

@@ -10,6 +10,7 @@ state={
 		add_core_of = TRS
 		add_core_of = IST
 		add_core_of = VNC
+		add_core_of = AHN
 		victory_points = {
 			13313 5 
 		}
