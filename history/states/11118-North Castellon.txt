@@ -1,0 +1,15 @@
+state={
+	id=11118
+	name="STATE_11118"
+	provinces={
+		3873 
+	}
+	history={
+		owner = SPR
+		add_core_of = SPR
+
+	}
+	manpower = 1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

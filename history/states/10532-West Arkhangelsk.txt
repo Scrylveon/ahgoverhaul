@@ -1,9 +1,7 @@
+
 state={
 	id=10532
 	name="STATE_10532"
-	provinces={
-		3031 6034 6051 11071 
-	}
 
 	history={
 		owner = RUS
@@ -16,6 +14,9 @@ state={
 
 	}
 
+	provinces={
+		3031 6051 11071 
+	}
 	manpower=1050883
 	buildings_max_level_factor=1.000
 	state_category=town

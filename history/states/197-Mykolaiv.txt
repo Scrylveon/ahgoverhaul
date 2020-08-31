@@ -13,12 +13,11 @@ state={
 		add_core_of = SOV
 		add_core_of = NOV
 		add_core_of = UKR
-		
 
 	}
 
 	provinces={
-		409 574 3403 3755 6597 9573 11546 11683 11715 
+		574 3755 11715 
 	}
 	manpower=896311
 	buildings_max_level_factor=1.000

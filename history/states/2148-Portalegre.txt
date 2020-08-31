@@ -1,8 +1,7 @@
+
 state={
 	id=2148
 	name="STATE_2148"
-	
-	state_category=town
 
 	history={
 		owner = POR
@@ -16,8 +15,9 @@ state={
 	}
 
 	provinces={
-		3846 3886 3926 9869 
+		3886 3926 
 	}
 	manpower=100000
 	buildings_max_level_factor=1.000
+	state_category=town
 }
