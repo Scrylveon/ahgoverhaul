@@ -59,12 +59,22 @@ set_technology = {
 
 
 create_country_leader = {
-	name = "Charles Dundas"
+	name = "Sir Charles Cecil Dundas"
 	desc = ""
 	picture = "Portrait_Charles_Dundas.dds"
 	expire = "1956.4.26"
 	ideology = authmon
 	traits = {
 		#
+	}
+}
+
+create_country_leader = {
+	name = "Prince David of Windsor"
+	desc = ""
+	picture = "Portrait_Edward_VIII.dds"
+	expire = "1965.1.1"
+	ideology = absolutism
+	traits = {
 	}
 }

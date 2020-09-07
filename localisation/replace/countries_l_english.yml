@@ -6921,8 +6921,8 @@
  BAH_neutrality:0 "The Bahamas"
  BAH_neutrality_DEF:0 "The Bahamas"
  BAH_neutrality_ADJ:0 "Bahamian"
- BAH_monarchism:0 "Kingdom of the Bahamas"
- BAH_monarchism_DEF:0 "The Kingdom of the Bahamas"
+ BAH_monarchism:0 "Colony of the Bahamas"
+ BAH_monarchism_DEF:0 "The Colony of the Bahamas"
  BAH_monarchism_ADJ:0 "Bahamian"
  
  BAH_ENG_communism:0 "Bahamian Soviet"
