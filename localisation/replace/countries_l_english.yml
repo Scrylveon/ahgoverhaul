@@ -3104,6 +3104,9 @@
  BAY_monarchism:0 "Kingdom of Bavaria"
  BAY_monarchism_DEF:0 "The Kingdom of Bavaria"
  BAY_monarchism_ADJ:0 "Bavarian"
+ BAY_republican_fascism:0 "Bayerisches Reich"
+ BAY_republican_fascism_DEF:0 "das Bayerisches Reich"
+ BAY_republican_fascism_ADJ:0 "Bavarian"
  
  BRM_fascism:0 "Empire of Burma"
  BRM_fascism_DEF:0 "The Empire of Burma"

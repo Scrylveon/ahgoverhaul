@@ -44,6 +44,9 @@
  ENG_right_anarchism_party:0 "BB"
  ENG_right_anarchism_party_long:0 "British Businesses"
 
+ BAY_republican_fascism_party:0 "NSBAP"
+ BAY_republican_fascism_party_long:0 "Nationalsozialistische Bayerisch Arbeiterpartei"
+
  SPR_anarchism_ideology_party:0 "Visigoths"
  SPR_anarchism_ideology_party_long:0 "Visigothic Tribes"
  SPR_left_anarchism_party:0 "FAI"
