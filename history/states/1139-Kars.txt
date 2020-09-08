@@ -8,9 +8,7 @@ state={
 	history={
 		owner = TUR
 		add_core_of = TUR
-		victory_points = {
-			10403 5
-		}
+
 	}
 	manpower=12000
 	buildings_max_level_factor=1.000
