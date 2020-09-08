@@ -43,9 +43,18 @@ create_country_leader = {
 	desc = ""
 	picture = "BAV_Epp.tga"
 	expire = "1960.1.1"
-	ideology = nazism
+	ideology = natsoc
 	traits = {
-		#
+	}
+}
+
+create_country_leader = {
+	name = "Adolf Hitler"
+	desc = ""
+	picture = "Portrait_Hitler_Bavaria.tga"
+	expire = "1960.1.1"
+	ideology = repfash
+	traits = {
 	}
 }
 
