@@ -358,6 +358,58 @@ ERI_ITA = {
 	color = rgb { 42 107 48 }
 	color_ui = rgb { 42 107 48 }
 }
+GEO_ITA = {
+	color = rgb { 42 107 48 }
+	color_ui = rgb { 42 107 48 }
+}
+AZR_ITA = {
+	color = rgb { 42 107 48 }
+	color_ui = rgb { 42 107 48 }
+}
+ARM_ITA = {
+	color = rgb { 42 107 48 }
+	color_ui = rgb { 42 107 48 }
+}
+KRD_ITA = {
+	color = rgb { 42 107 48 }
+	color_ui = rgb { 42 107 48 }
+}
+SYR_ITA = {
+	color = rgb { 42 107 48 }
+	color_ui = rgb { 42 107 48 }
+}
+ADU_ITA = {
+	color = rgb { 42 107 48 }
+	color_ui = rgb { 42 107 48 }
+}
+POR_ITA = {
+	color = rgb { 42 107 48 }
+	color_ui = rgb { 42 107 48 }
+}
+MOR_ITA = {
+	color = rgb { 42 107 48 }
+	color_ui = rgb { 42 107 48 }
+}
+SER_ITA = {
+	color = rgb { 42 107 48 }
+	color_ui = rgb { 42 107 48 }
+}
+BUL_ITA = {
+	color = rgb { 42 107 48 }
+	color_ui = rgb { 42 107 48 }
+}
+YUG_ITA = {
+	color = rgb { 42 107 48 }
+	color_ui = rgb { 42 107 48 }
+}
+SPR_ITA = {
+	color = rgb { 42 107 48 }
+	color_ui = rgb { 42 107 48 }
+}
+FRA_ITA = {
+	color = rgb { 42 107 48 }
+	color_ui = rgb { 42 107 48 }
+}
 RUU_BEL = {
 	color = rgb { 196 141 31 }
 	color_ui = rgb { 196 141 31 }

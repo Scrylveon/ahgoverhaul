@@ -1,5 +1,18 @@
 ﻿l_english:
 
+##Cyprus
+ VICTORY_POINTS_11984:0 "North Nicosia"
+ VICTORY_POINTS_7193:0 "Nicosia"
+
+##North Africa
+ VICTORY_POINTS_12051:0 "Constantine"
+ VICTORY_POINTS_13605:0 "Tangier"
+ VICTORY_POINTS_4199:0 "Tétouan"
+ VICTORY_POINTS_12042:0 "Fès"
+ VICTORY_POINTS_11921:0 "Sfax"
+ VICTORY_POINTS_7162:0 "Sousse"
+ VICTORY_POINTS_7077:0 "Kairouan"
+ 
 ###Ireland
  VICTORY_POINTS_6313:0 "Limerick"
  VICTORY_POINTS_9303:0 "Galway"
