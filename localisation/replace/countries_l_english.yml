@@ -1992,6 +1992,9 @@
  MEN_democratic_ADJ:0 "Mengjiang"
  MEN_neutrality_ADJ:0 "Mengjiang"
  MEN_communism_ADJ:0 "Mengjiang"
+ MEN_stratocratic_monarchism:0 "East Chahar Autonomous Region"
+ MEN_stratocratic_monarchism_DEF:0 "The East Chahar Autonomous Region"
+ MEN_stratocratic_monarchism_ADJ:0 "Mongolian"
  
  KOR_fascism:0 "Independent Korean Governorate"
  KOR_fascism_DEF:0 "The Independent Korean Governorate"
@@ -2532,6 +2535,9 @@
  MAN_democratic_ADJ:0 "Manchurian"
  MAN_neutrality_ADJ:0 "Chinese"
  MAN_communism_ADJ:0 "Manchurian"
+ MAN_stratocratic_monarchism:0 "Great Empire of Manchuria"
+ MAN_stratocratic_monarchism_DEF:0 "The Great Empire of Manchuria"
+ MAN_stratocratic_monarchism_ADJ:0 "Manchurian"
  
  CRC_fascism:0 "Curaçao"
  CRC_fascism_DEF:0 "Curaçao"
