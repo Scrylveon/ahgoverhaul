@@ -12,6 +12,7 @@ state={
 			11747 25 
 		}
 		add_core_of = TUR
+		add_core_of = AIB
 
 	}
 

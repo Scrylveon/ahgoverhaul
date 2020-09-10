@@ -8,6 +8,7 @@ state={
 	history={
 		owner = TUR
 		add_core_of = TUR
+	        add_core_of = ERE
 
 	}
 	manpower=12000

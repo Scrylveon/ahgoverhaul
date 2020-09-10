@@ -10,6 +10,7 @@ state={
 			904 1 
 		}
         add_core_of = TUR
+	add_core_of = BUR
     }	
 	manpower=1000
 	state_category = pastoral

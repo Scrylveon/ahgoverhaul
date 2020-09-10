@@ -5252,3 +5252,79 @@ LCT = {
 color = rgb { 99 128 152 }
 color_ui = rgb { 99 128 152 }
 }
+KMN = {
+color = rgb { 48 241 159 }
+color_ui = rgb { 48 241 159 }
+}
+KMN = {
+color = rgb { 156 250 210 }
+color_ui = rgb { 156 250 210 }
+}
+KMN = {
+color = rgb { 156 250 210 }
+color_ui = rgb { 156 250 210 }
+}
+KRS = {
+color = rgb { 156 235 137 }
+color_ui = rgb { 156 235 137 }
+}
+AIB = {
+color = rgb { 156 235 137 }
+color_ui = rgb { 156 235 137 }
+}
+AIB = {
+color = rgb { 232 215 227 }
+color_ui = rgb { 232 215 227 }
+}
+JAN = {
+color = rgb { 243 236 150 }
+color_ui = rgb { 243 236 150 }
+}
+JAN = {
+color = rgb { 243 236 150 }
+color_ui = rgb { 243 236 150 }
+}
+GMY = {
+color = rgb { 213 216 84 }
+color_ui = rgb { 213 216 84 }
+}
+AYD = {
+color = rgb { 239 206 240 }
+color_ui = rgb { 239 206 240 }
+}
+BUR = {
+color = rgb { 191 57 38 }
+color_ui = rgb { 191 57 38 }
+}
+BUR = {
+color = rgb { 191 57 38 }
+color_ui = rgb { 191 57 38 }
+}
+SRN = {
+color = rgb { 213 238 236 }
+color_ui = rgb { 213 238 236 }
+}
+MTS = {
+color = rgb { 218 192 16 }
+color_ui = rgb { 218 192 16 }
+}
+HMD = {
+color = rgb { 245 204 107 }
+color_ui = rgb { 245 204 107 }
+}
+RMZ = {
+color = rgb { 226 44 80 }
+color_ui = rgb { 226 44 80 }
+}
+DLK = {
+color = rgb { 115 111 204 }
+color_ui = rgb { 115 111 204 }
+}
+CNK = {
+color = rgb { 183 219 210 }
+color_ui = rgb { 183 219 210 }
+}
+ERE = {
+color = rgb { 239 204 82 }
+color_ui = rgb { 239 204 82 }
+}

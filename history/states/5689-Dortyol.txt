@@ -9,6 +9,7 @@ state={
         add_core_of = SYR
         add_core_of = WTC
 		add_core_of = HTY
+        add_core_of = RMZ
     }
 	manpower = 1000
 	state_category = rural
