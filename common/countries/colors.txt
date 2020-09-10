@@ -5328,3 +5328,7 @@ ERE = {
 color = rgb { 239 204 82 }
 color_ui = rgb { 239 204 82 }
 }
+PON = {
+color = rgb { 68 44 114 }
+color_ui = rgb { 68 44 114 }
+}

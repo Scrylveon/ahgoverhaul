@@ -13,6 +13,7 @@ state={
 		}
 		add_core_of = TUR
 		add_core_of = JAN
+		add_claim_by = PON
 
 	}
 	

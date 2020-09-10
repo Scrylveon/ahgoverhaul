@@ -8,6 +8,7 @@ state={
 	    owner = TUR
         add_core_of = TUR
 	add_core_of = CNK
+	add_core_of = PON
 				victory_points = {
 			11881 10
 		}

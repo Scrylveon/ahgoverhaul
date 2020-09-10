@@ -9,6 +9,7 @@ state={
 		}
 		add_core_of = TUR
 		add_core_of = CNK
+		add_core_of = PON
 
 	}
 
