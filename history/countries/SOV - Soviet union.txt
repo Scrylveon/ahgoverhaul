@@ -46,10 +46,11 @@ add_ideas = {
 	trotskyite_plot
 	home_of_revolution
 }
+
 create_country_leader = {
-	name = "Vyacheslav Molotov"
+	name = "Mikhail Ivanovich Kalinin"
 	desc = ""
-	picture = "Portrait_Soviet_Molotov.dds"
+	picture = "gfx/leaders/Russia/Mikhail_Kalinin.dds"
 	expire = "1953.3.1"
 	ideology = totsoc
 	traits = {
@@ -58,9 +59,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Joseph Stalin"
+	name = "Joseph Vissarionovich Stalin"
 	desc = ""
-	picture = "Portrait_Soviet_Joseph_Stalin.dds"
+	picture = "gfx/leaders/Russia/Portrait_Soviet_Joseph_Stalin.dds"
 	expire = "1953.3.1"
 	ideology = marxism
 	traits = {
@@ -69,9 +70,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Leon Trotsky"
+	name = "Lev Davidovich Trotsky"
 	desc = ""
-	picture = "Portrait_Leon_Trotsky.dds"
+	picture = "gfx/leaders/Russia/Portrait_Leon_Trotsky.dds"
 	expire = "1953.3.1"
 	ideology = demsoc
 	traits = {
@@ -80,23 +81,191 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Konstantin Rodzaevsky"
-	desc = "POLITICS_KONSTANTIN_RODZAEVSKY_DESC"
-	picture = "Portrait_Soviet_Konstantin_Rodzaevsky.dds"
-	expire = "1953.3.1"
-	ideology = fascism_ideology
+	name = "Georgy Konstantinovich Zhukov"
+	desc = ""
+	picture = "gfx/leaders/Russia/Portrait_Georgy_Zhukov.tga"
+	expire = "1989.1.1"
+	ideology = stratmon
 	traits = {
-		
+	}
+}
+
+create_country_leader = {
+	name = "Nikolai Dimitrovich Avksentiev"
+	desc = ""
+	picture = "gfx/leaders/Russia/Portrait_Nikolai_Avksentiev.tga"
+	expire = "1965.1.1"
+	ideology = oligarchism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Tribal Leadership"
+	desc = "POLITICS_TRIBAL_LEADERSHIP_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = total_anarchist
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Vsevolod Mikhailovich Eikhenbaum"
+	desc = ""
+	picture = "gfx/leaders/Russia/Portrait_Vsevolod_Eikhenbaum.tga"
+	expire = "1965.1.1"
+	ideology = ancom
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Kirill I Romanovskiy"
+	desc = ""
+	picture = "gfx/leaders/Russia/Portrait_Kirill_Romanov.tga"
+	expire = "1965.1.1"
+	ideology = monsoc
+	traits = {
 	}
 }
 
 create_country_leader = {
 	name = "Alexander Fyodorovich Kerensky"
-	desc = "POLITICS_ALEXANDER_FYODOROVICH_KERENSKY_DESC"
-	picture = "SOV_Kerensky.tga"
-	expire = "1953.3.1"
+	desc = ""
+	picture = "gfx/leaders/Russia/Portrait_Alexander_Kerensky.tga"
+	expire = "1965.1.1"
 	ideology = socdem
 	traits = {
-		
+	}
+}
+
+create_country_leader = {
+	name = "Nikolai Dimitrovich Avksentiev"
+	desc = ""
+	picture = "gfx/leaders/Russia/Portrait_Nikolai_Avksentiev.tga"
+	expire = "1965.1.1"
+	ideology = conservatism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Dmitry I Romanovskiy"
+	desc = ""
+	picture = "gfx/leaders/Russia/Portrait_Dmitry_Romanov.tga"
+	expire = "1965.1.1"
+	ideology = liberal_constitutionalism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Dmitry I Romanovskiy"
+	desc = ""
+	picture = "gfx/leaders/Russia/Portrait_Dmitry_Romanov.tga"
+	expire = "1965.1.1"
+	ideology = conservative_constitutionalism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Pavel Nikolayevich Milyukov"
+	desc = ""
+	picture = "gfx/leaders/Russia/Portrait_Pavel_Milyukov.tga"
+	expire = "1965.1.1"
+	ideology = cenrep
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Vladimir IV Romanovskiy"
+	desc = ""
+	picture = "gfx/leaders/Russia/Portrait_Vladimir_Romanov.tga"
+	expire = "1965.1.1"
+	ideology = cenmon
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Mikhail Nikolayevich Tukhachevsky"
+	desc = ""
+	picture = "gfx/leaders/Russia/Portrait_Mikhail_Tukhachevsky.tga"
+	expire = "1965.1.1"
+	ideology = militarism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Vladimir IV Romanovskiy"
+	desc = ""
+	picture = "gfx/leaders/Russia/Portrait_Vladimir_Romanov.tga"
+	expire = "1965.1.1"
+	ideology = authmon
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Kirill I Romanovskiy"
+	desc = ""
+	picture = "gfx/leaders/Russia/Portrait_Kirill_Romanov.tga"
+	expire = "1965.1.1"
+	ideology = absolutism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Pyotr Fyodorovich Polyansky"
+	desc = ""
+	picture = "gfx/leaders/Russia/Portrait_Pyotr_Polyansky.tga"
+	expire = "1965.1.1"
+	ideology = christian
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Kirill I Romanovskiy"
+	desc = ""
+	picture = "gfx/leaders/Russia/Portrait_Kirill_Romanov.tga"
+	expire = "1965.1.1"
+	ideology = fascism_ideology
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Anastasy Andreyevich Vonsyatsky"
+	desc = ""
+	picture = "gfx/leaders/Russia/Portrait_Anastasy_Vonsyatsky.tga"
+	expire = "1965.1.1"
+	ideology = repfash
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Konstantin Vladimirovich Rodzaevsky"
+	desc = ""
+	picture = "gfx/leaders/Russia/Portrait_Konstantin_Rodzaevsky.tga"
+	expire = "1965.1.1"
+	ideology = natsoc
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Company Leadership"
+	desc = "POLITICS_COMPANY_LEADERSHIP_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = ancap
+	traits = {
 	}
 }
