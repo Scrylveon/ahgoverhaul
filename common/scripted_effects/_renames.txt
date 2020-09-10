@@ -454,7 +454,7 @@ do_french_renames = {
 		}		
 		set_province_name = {
 			id = 3544
-			name = "Varovie"
+			name = "Varsovie"
 		}
 	}
 
@@ -12155,6 +12155,50 @@ do_japanese_renames = {
 
 	if = {
 		limit = {
+			state = 634
+		}		
+		set_province_name = {
+			id = 1269
+			name = "Gadarukanaru"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 409
+		}		
+		set_province_name = {
+			id = 12189
+			name = "Bori"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 716
+		}		
+		set_province_name = {
+			id = 11771
+			name = "Hōten"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 328
+		}		
+		set_province_name = {
+			id = 4572
+			name = "Shinkingu"
+		}
+		set_province_name = {
+			id = 10433
+			name = "Harubin"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 527
 		}		
 		set_province_name = {
@@ -13396,7 +13440,7 @@ do_japanese_renames = {
 			state = 3160
 		}		
 		set_province_name = {
-			id = 2097
+			id = 2197
 			name = "Kuraisutochāchi"
 		}
 	}
