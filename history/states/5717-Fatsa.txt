@@ -8,6 +8,7 @@ state={
 	    owner = TUR
         add_core_of = TUR
 	add_core_of = CNK
+	add_core_of = PON
     }
 	manpower = 1000
 	state_category = small_town
