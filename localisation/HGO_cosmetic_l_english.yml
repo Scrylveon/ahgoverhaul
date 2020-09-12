@@ -6129,11 +6129,31 @@
  ARM_ROME:0 "Armenia"
  ARM_ROME_DEF:0 "Armenia"
  ARM_ROME_ADJ:0 "Armenian"
-
+##
  KUR_ROME:0 "Cappadocia"
  KUR_ROME_DEF:0 "Cappadocia"
  KUR_ROME_ADJ:0 "Cappadocian"
 
+ RMZ_ROME:0 "Cilicia"
+ RMZ_ROME_DEF:0 "Cilicia"
+ RMZ_ROME_ADJ:0 "Cilician"
+
+ TEK_ROME:0 "Lycia Et Pamphylia"
+ TEK_ROME_DEF:0 "Lycia Et Pamphylia"
+ TEK_ROME_ADJ:0 "Pamphylian"
+
+ TUR_ROME:0 "Asia"
+ TUR_ROME_DEF:0 "Asia"
+ TUR_ROME_ADJ:0 "Asian"
+
+ BUR_ROME:0 "Bithynia et Pontus"
+ BUR_ROME_DEF:0 "Bithynia et Pontus"
+ BUR_ROME_ADJ:0 "Bithynian"
+
+ AIB_ROME:0 "Galatia"
+ AIB_ROME_DEF:0 "Galatia"
+ AIB_ROME_ADJ:0 "Galatian"
+###
  THR_ROME:0 "Thracia"
  THR_ROME_DEF:0 "Thracia"
  THR_ROME_ADJ:0 "Thracian"
