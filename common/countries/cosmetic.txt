@@ -1,3 +1,23 @@
+AIB_ROME = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
+BUR_ROME = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
+TUR_ROME = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
+TEK_ROME = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
+RMZ_ROME = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
 EMC_TUR = {
 	color = rgb { 168 37 25 }
 	color_ui = rgb { 168 37 25 }
