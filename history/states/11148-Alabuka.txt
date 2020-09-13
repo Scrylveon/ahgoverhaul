@@ -1,0 +1,16 @@
+state={
+	id=11148
+	name="STATE_11148"
+	
+	history = {
+		owner = KYR
+		add_core_of = KYR
+		add_core_of = SOV
+	}
+	manpower = 1000
+	state_category = pastoral
+	provinces={
+		20622
+	}
+	buildings_max_level_factor=1.000
+}

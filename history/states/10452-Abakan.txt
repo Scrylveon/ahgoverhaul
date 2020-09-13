@@ -2,9 +2,7 @@
 state={
 	id=10452
 	name="STATE_10452"
-	provinces={
-		1702 1816 10580 10649 19776 19778 19788 19805 19972 
-	}
+
 	history={
 		owner = RUS
 		buildings = {
@@ -16,7 +14,11 @@ state={
 		add_core_of = KKS
 
 	}
-	manpower = 1000
-	state_category = pastoral
+
+	provinces={
+		1816 10580 10649 19778 19788 19805 
+	}
+	manpower=1000
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

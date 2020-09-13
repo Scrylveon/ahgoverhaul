@@ -1,7 +1,8 @@
+
 state={
 	id=2257
 	name="STATE_2257"
-	
+
 	history={
 		owner = MAN
 		add_core_of = CHI
@@ -14,11 +15,11 @@ state={
 		}
 
 	}
-	
+
 	provinces={
-		1776 4852 7697 10541 12537 
+		1776 4852 7697 
 	}
 	manpower=1
-	state_category=rural
 	buildings_max_level_factor=1.000
+	state_category=rural
 }
