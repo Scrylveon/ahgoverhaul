@@ -80,34 +80,212 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Chang Kuotao"
-	desc = "POLITICS_ZHANG_GUOTAO_DESC"
-	picture = "gfx/leaders/Asia/Portrait_Asia_Generic_land_4.dds"
+	name = "Wang Chao-ming"
+	desc = ""
+	picture = "Portrait_Wang_Chao-ming.tga"
 	expire = "1965.1.1"
-	ideology = leninism
+	ideology = natsoc
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Hsuant'ung Emperor"
+	desc = ""
+	picture = "Portrait_China_Puyi.dds"
+	expire = "1965.1.1"
+	ideology = absolutism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Li Huang"
+	desc = ""
+	picture = "Portrait_Li_Huang.tga"
+	expire = "1965.1.1"
+	ideology = conservatism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Tribal Leadership"
+	desc = ""
+	picture = ""
+	expire = "1965.1.1"
+	ideology = total_anarchist
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Collective Leadership"
+	desc = ""
+	picture = ""
+	expire = "1965.1.1"
+	ideology = ancom
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Mao Tse-tung"
+	desc = ""
+	picture = "Portrait_China_Mao.dds"
+	expire = "1965.1.1"
+	ideology = totsoc
 	traits = {
 		cornered_fox
 	}
 }
 
 create_country_leader = {
-	name = "Wang Chingwei"
-	desc = "POLITICS_WANG_JINGWEI_DESC"
-	picture = "GFX_portrait_chi_wang_jingwei"
+	name = "Ch'en Tu-hsiu"
+	desc = ""
+	picture = "Portrait_Chen_Tu-hsiu.tga"
 	expire = "1965.1.1"
-	ideology = fascism_ideology
+	ideology = marxism
 	traits = {
-		#
 	}
 }
 
 create_country_leader = {
-	name = "Weng Wenhao" 
-	desc = "POLITICS_ZHANG_LAN_DESC"
-	picture = "gfx/leaders/Asia/Portrait_Asia_Generic_land_3.dds"
+	name = "Chang Chun-mai"
+	desc = ""
+	picture = "Portrait_Chang_Chun-mai.tga"
 	expire = "1965.1.1"
 	ideology = demsoc
 	traits = {
-		#
+	}
+}
+
+create_country_leader = {
+	name = "Puyi"
+	desc = ""
+	picture = "Portrait_China_Puyi.dds"
+	expire = "1965.1.1"
+	ideology = monsoc
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Wang Chao-ming"
+	desc = ""
+	picture = "Portrait_Wang_Chao-ming.tga"
+	expire = "1965.1.1"
+	ideology = socdem
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Aihsin Chuehlo de Puyi"
+	desc = ""
+	picture = "Portrait_China_Puyi.dds"
+	expire = "1965.1.1"
+	ideology = liberal_constitutionalism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Puyi"
+	desc = ""
+	picture = "Portrait_China_Puyi.dds"
+	expire = "1965.1.1"
+	ideology = conservative_constitutionalism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Chiang Chung-cheng"
+	desc = ""
+	picture = "Portrait_Chiang_Kai_Shek.dds"
+	expire = "1965.1.1"
+	ideology = cenrep
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Chiang Chung-cheng"
+	desc = ""
+	picture = "Portrait_Chiang_Kai_Shek.dds"
+	expire = "1965.1.1"
+	ideology = cenmon
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Chiang Chung-cheng"
+	desc = ""
+	picture = "Portrait_Chiang_Kai_Shek.dds"
+	expire = "1965.1.1"
+	ideology = militarism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Yuan K'eiting"
+	desc = ""
+	picture = "Portrait_Yuan_Keiting.tga"
+	expire = "1965.1.1"
+	ideology = stratmon
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Puyi"
+	desc = ""
+	picture = "Portrait_China_Puyi.dds"
+	expire = "1965.1.1"
+	ideology = authmon
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "K'ung Te-ch'eng"
+	desc = ""
+	picture = "Portrait_Kung_Te-cheng.tga"
+	expire = "1965.1.1"
+	ideology = christian
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Puyi"
+	desc = ""
+	picture = "Portrait_China_Puyi.dds"
+	expire = "1965.1.1"
+	ideology = fascism_ideology
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Wang Chao-ming"
+	desc = ""
+	picture = "Portrait_Wang_Chao-ming.tga"
+	expire = "1965.1.1"
+	ideology = repfash
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Norman Lockhart Smith "
+	desc = ""
+	picture = "Portrait_Norman_Smith.tga"
+	expire = "1965.1.1"
+	ideology = ancap
+	traits = {
 	}
 }
