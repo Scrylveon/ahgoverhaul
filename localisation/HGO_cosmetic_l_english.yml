@@ -51,6 +51,10 @@
  MMB_ENG_neutrality_ADJ:0 "Kenyan"
  MMB_ENG_democratic_ADJ:0 "Kenyan"
 
+ BAH_ENG_authoritarian_monarchism:0 "Crown Colony of the Bahama Islands"
+ BAH_ENG_authoritarian_monarchism_DEF:0 "The Crown Colony of the Bahama Islands"
+ BAH_ENG_authoritarian_monarchism_ADJ:0 "Bahamanian"
+
  BOT_ENG_fascism:2 "Bechuanaland Protectorate"
  BOT_ENG_fascism_DEF:2 "The Bechuanaland Protectorate"
  BOT_ENG_democratic:0 "Bechuanaland Protectorate"
