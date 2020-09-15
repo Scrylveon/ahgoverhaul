@@ -10,6 +10,6 @@ state={
 		add_core_of = TIB
 	}
 	provinces={
-		20615 
+		20655 
 	}
 }
