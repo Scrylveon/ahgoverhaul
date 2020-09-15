@@ -2,7 +2,7 @@ This is a folder with all the programmes I recommend for working on HGO. If you 
 
 - DropIt (used for automatically moving files from Paradox\HOI4\History\States to Paradox\HOI4\Mods\ahgoverhaul\history\states) [Optional, ASK CASS IF YOU NEED HELP]
 
-- Github Desktop (used to keep HGO files the same across all developers, and also provide a convenient way to allow fans to download the mod) [REQUIRED]
+- Github Desktop (used to keep HGO files the same across all developers, and also provide a convenient way to allow fans to download the mod) [REQUIRED, LOCATED IN .RAR FILE]
 
 - ImageMagick (used to make the bat files for resizing flags functional) [Recommended, ASK CASS IF YOU NEED HELP]
 
@@ -12,6 +12,7 @@ This is a folder with all the programmes I recommend for working on HGO. If you 
 
 - SageThumbs (program that allows you to see .tga and .dds files as thumbnails in Windows Explorer) [REQUIRED]
 
+- WinRAR (probably the best compressed file opener ever.) [NEEDED TO OPEN GITHUBDESKTOPSETUP.RAR]
 
 If you have any questions, contact me on Discord at Cass#6058
 
