@@ -4,11 +4,13 @@ state={
 	name="STATE_585"
 
 	history={
-		owner = KAZ
+		owner = KPK
 		buildings = {
 			infrastructure = 3
 
 		}
+		add_core_of = KPK
+		add_core_of = KAZ
 		add_core_of = SOV
 		add_core_of = UZB
 		add_core_of = KOK

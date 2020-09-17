@@ -8,6 +8,7 @@ state={
 		owner = TMS
 		add_core_of = SOV
 		add_core_of = TMS
+		add_core_of = KAZ
 
 	}
 	manpower=1
