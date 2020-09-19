@@ -13044,6 +13044,46 @@ do_pinyin_renames = {
 }
 
 do_japanese_renames = {
+
+	if = {
+		limit = {
+			state = 976
+		}		
+		set_province_name = {
+			id = 4126
+			name = "Shigeru Shu"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 9724
+		}		
+		set_province_name = {
+			id = 4086
+			name = "Taikyū"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 9718
+		}		
+		set_province_name = {
+			id = 7204
+			name = "Ōta"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 979
+		}		
+		set_province_name = {
+			id = 7021
+			name = "Kōmisasagishi"
+		}
+	}
 		
 	if = {
 		limit = {
@@ -40826,6 +40866,46 @@ do_esperanto_renames = {
 	}
 }
 do_korean_renames = {
+
+	if = {
+		limit = {
+			state = 976
+		}		
+		set_province_name = {
+			id = 4126
+			name = "Muju"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 9724
+		}		
+		set_province_name = {
+			id = 4086
+			name = "Daegu"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 9718
+		}		
+		set_province_name = {
+			id = 7204
+			name = "Daejeon"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 979
+		}		
+		set_province_name = {
+			id = 7021
+			name = "Gangneung"
+		}
+	}
 
 	if = {
 		limit = {
