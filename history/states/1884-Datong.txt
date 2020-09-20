@@ -1,8 +1,7 @@
+
 state={
 	id=1884
 	name="STATE_1884"
-	
-	state_category=town
 
 	history={
 		owner = SHX
@@ -29,8 +28,9 @@ state={
 	}
 
 	provinces={
-		10507 12432 
+		10507 
 	}
 	manpower=1
 	buildings_max_level_factor=1.000
+	state_category=town
 }
