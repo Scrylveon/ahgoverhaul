@@ -1789,7 +1789,7 @@ do_french_renames = {
 
 	if = {
 		limit = {
-			state = 7155
+			state = 7159
 		}		
 		set_province_name = {
 			id = 904
@@ -12151,7 +12151,1089 @@ do_siamese_renames = {
 		}
 	}
 }
+
+do_pinyin_renames = {
+
+	if = {
+		limit = {
+			state = 1003
+		}		
+		set_province_name = {
+			id = 12338
+			name = "Xīlǐgǔlǐ"
+		}
+    }
+
+	if = {
+		limit = {
+			state = 323
+		}		
+		set_province_name = {
+			id = 4987
+			name = "Jiādémǎndū"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 324
+		}		
+		set_province_name = {
+			id = 8010
+			name = "Pǔnàkǎ"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1271
+		}		
+		set_province_name = {
+			id = 9665
+			name = "Língzhī"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3089
+		}		
+		set_province_name = {
+			id = 10737
+			name = "Kābù'ěr"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 441
+		}		
+		set_province_name = {
+			id = 10905
+			name = "Sīlìnàjiā"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1932
+		}		
+		set_province_name = {
+			id = 12314
+			name = "Kūndōu"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 407
+		}		
+		set_province_name = {
+			id = 3538
+			name = "Wūlā'ěr"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 953
+		}		
+		set_province_name = {
+			id = 3618
+			name = "Ātèláo"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3090
+		}		
+		set_province_name = {
+			id = 1591
+			name = "Ā'ěrmǎde"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 590
+		}		
+		set_province_name = {
+			id = 4333
+			name = "Ākèmòlā"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3319
+		}		
+		set_province_name = {
+			id = 12583
+			name = "Bǐshénkǎikè"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 405	
+		}		
+		set_province_name = {
+			id = 1459
+			name = "Tǎshéngàn"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 742		
+		}		
+		set_province_name = {
+			id = 12250
+			name = "Dùshàngbié"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1365
+		}		
+		set_province_name = {
+			id = 12333
+			name = "Āshénhǎbādé"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 645
+		}		
+		set_province_name = {
+			id = 13025
+			name = "Liúhuáng"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 6354
+		}		
+		set_province_name = {
+			id = 12446
+			name = "Lǐyuán"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 536
+		}		
+		set_province_name = {
+			id = 10444
+			name = "Zháhuǎng"
+		}
+		set_province_name = {
+			id = 12421
+			name = "Xùchuān"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 9766
+		}		
+		set_province_name = {
+			id = 6994
+			name = "Qīngsēn"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 533
+		}		
+		set_province_name = {
+			id = 7169
+			name = "Xiāntái"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 534
+		}		
+		set_province_name = {
+			id = 1117
+			name = "Xīnxì"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2192
+		}		
+		set_province_name = {
+			id = 1182
+			name = "Dōngjīng"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 9754
+		}		
+		set_province_name = {
+			id = 7087
+			name = "Jìnggāng"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 535
+		}		
+		set_province_name = {
+			id = 10032
+			name = "Jīnzé"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 532
+		}		
+		set_province_name = {
+			id = 10125
+			name = "Mínggǔwū"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2193
+		}		
+		set_province_name = {
+			id = 7072
+			name = "Dàbǎn"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 530
+		}		
+		set_province_name = {
+			id = 7197
+			name = "Gāozhī"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 9730
+		}		
+		set_province_name = {
+			id = 1025
+			name = "Xiǎocāng"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 529
+		}		
+		set_province_name = {
+			id = 1092
+			name = "Guǎngdǎo"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 9732
+		}		
+		set_province_name = {
+			id = 4102
+			name = "Lù'érdǎo"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1475
+		}		
+		set_province_name = {
+			id = 9950
+			name = "Chángqí"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3139
+		}		
+		set_province_name = {
+			id = 11932
+			name = "Nàbà"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 329
+		}		
+		set_province_name = {
+			id = 10627
+			name = "Kèzīlēi"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 9721
+		}		
+		set_province_name = {
+			id = 4056
+			name = "Fǔshān"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 976
+		}		
+		set_province_name = {
+			id = 4126
+			name = "Màozhū"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 9724
+		}		
+		set_province_name = {
+			id = 4086
+			name = "Dàqiū"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 9718
+		}		
+		set_province_name = {
+			id = 7204
+			name = "Dàtián"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 979
+		}		
+		set_province_name = {
+			id = 7021
+			name = "Jiānglíng"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 527
+		}		
+		set_province_name = {
+			id = 4052
+			name = "Píngrǎng"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 980
+		}		
+		set_province_name = {
+			id = 12040
+			name = "Kāichéng"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 525
+		}		
+		set_province_name = {
+			id = 7125
+			name = "Hànchéng"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 716
+		}		
+		set_province_name = {
+			id = 11771
+			name = "Shěnyáng"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 11203
+		}		
+		set_province_name = {
+			id = 10433
+			name = "Hā'ěrbīn"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 328
+		}		
+		set_province_name = {
+			id = 4572
+			name = "Chángchūn"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1271
+		}		
+		set_province_name = {
+			id = 9665
+			name = "Língzhī"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 10832
+		}		
+		set_province_name = {
+			id = 20186
+			name = "Chéngguā"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 330
+		}		
+		set_province_name = {
+			id = 4801
+			name = "Wūlánbātuō"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 972
+		}		
+		set_province_name = {
+			id = 7799
+			name = "Wūlǐyǎsūtái"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 617
+		}		
+		set_province_name = {
+			id = 4709
+			name = "Wūlǔmùqí"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1881
+		}		
+		set_province_name = {
+			id = 12732
+			name = "Lánzhōu"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 755
+		}		
+		set_province_name = {
+			id = 7940
+			name = "Gé'ěrmù"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 524
+		}		
+		set_province_name = {
+			id = 7186
+			name = "Táiběi"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5865
+		}		
+		set_province_name = {
+			id = 12068
+			name = "Gāoxióng"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 745
+		}		
+		set_province_name = {
+			id = 1150
+			name = "Dàlián"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 10617
+		}		
+		set_province_name = {
+			id = 1070
+			name = "Hǎikǒu"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 747
+		}		
+		set_province_name = {
+			id = 7965
+			name = "Dàlǐ"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 325
+		}		
+		set_province_name = {
+			id = 1319
+			name = "Kūnmíng"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 753
+		}		
+		set_province_name = {
+			id = 2045
+			name = "Tiānshuǐ"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 605
+		}		
+		set_province_name = {
+			id = 6999
+			name = "Chóngqìng"
+		}	
+		set_province_name = {
+			id = 4925
+			name = "Chéngdū"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3285
+		}		
+		set_province_name = {
+			id = 7418
+			name = "Xī'ān"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 594
+		}		
+		set_province_name = {
+			id = 7137
+			name = "Nánníng"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1875
+		}		
+		set_province_name = {
+			id = 10404
+			name = "Guìlín"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 592
+		}		
+		set_province_name = {
+			id = 1047
+			name = "Guǎngzhōu"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 729
+		}		
+		set_province_name = {
+			id = 4189
+			name = "Àomén"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 326
+		}		
+		set_province_name = {
+			id = 10062
+			name = "Xiānggǎng"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 603
+		}		
+		set_province_name = {
+			id = 4504
+			name = "Guìyáng"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1872
+		}		
+		set_province_name = {
+			id = 7097
+			name = "Chángshā"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1868
+		}		
+		set_province_name = {
+			id = 4619
+			name = "Wǔhàn"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 750
+		}		
+		set_province_name = {
+			id = 7101
+			name = "Chángdé"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 607
+		}		
+		set_province_name = {
+			id = 9958
+			name = "Zhèngzhōu"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1471
+		}		
+		set_province_name = {
+			id = 7071
+			name = "Xiàmén"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1472
+		}		
+		set_province_name = {
+			id = 4196
+			name = "Fúzhōu"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 600
+		}		
+		set_province_name = {
+			id = 3992
+			name = "Nánchāng"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1473
+		}		
+		set_province_name = {
+			id = 9974
+			name = "Níngbō"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1867
+		}		
+		set_province_name = {
+			id = 7191
+			name = "Hángzhōu"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1474
+		}		
+		set_province_name = {
+			id = 7014
+			name = "Shànghǎi"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1866
+		}		
+		set_province_name = {
+			id = 11913
+			name = "Nánjīng"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 606
+		}		
+		set_province_name = {
+			id = 7222
+			name = "Héféi"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 622
+		}		
+		set_province_name = {
+			id = 8049
+			name = "Yán'ān"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 615
+		}		
+		set_province_name = {
+			id = 1519
+			name = "Tàiyuán"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 743
+		}		
+		set_province_name = {
+			id = 10000
+			name = "Qīngdǎo"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 597
+		}		
+		set_province_name = {
+			id = 1069
+			name = "Jǐnán"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 956
+		}		
+		set_province_name = {
+			id = 13282
+			name = "Wēihǎiwèi"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3535
+		}		
+		set_province_name = {
+			id = 11752
+			name = "Bǎilíngmiào"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 608
+		}		
+		set_province_name = {
+			id = 9843
+			name = "Běijīng"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1192
+		}		
+		set_province_name = {
+			id = 10068
+			name = "Tiānjīn"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2191
+		}		
+		set_province_name = {
+			id = 957
+			name = "Hǎishēnwǎi"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 409
+		}		
+		set_province_name = {
+			id = 12189
+			name = "Bólì"
+		}
+	}
+}
+
 do_japanese_renames = {
+
+	if = {
+		limit = {
+			state = 976
+		}		
+		set_province_name = {
+			id = 4126
+			name = "Shigeru Shu"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 9724
+		}		
+		set_province_name = {
+			id = 4086
+			name = "Taikyū"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 9718
+		}		
+		set_province_name = {
+			id = 7204
+			name = "Ōta"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 979
+		}		
+		set_province_name = {
+			id = 7021
+			name = "Kōmisasagishi"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 645
+		}		
+		set_province_name = {
+			id = 13025
+			name = "Iwo Jima"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 9766
+		}		
+		set_province_name = {
+			id = 6994
+			name = "Aomori"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 533
+		}		
+		set_province_name = {
+			id = 7169
+			name = "Sendai"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 534
+		}		
+		set_province_name = {
+			id = 1117
+			name = "Nīgata"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2192
+		}		
+		set_province_name = {
+			id = 1182
+			name = "Tōkyō"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 9754
+		}		
+		set_province_name = {
+			id = 7087
+			name = "Shizouka"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 535
+		}		
+		set_province_name = {
+			id = 10032
+			name = "Kanazawa"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 532
+		}		
+		set_province_name = {
+			id = 10125
+			name = "Nagoya"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2193
+		}		
+		set_province_name = {
+			id = 7072
+			name = "Ōsaka"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 530
+		}		
+		set_province_name = {
+			id = 7197
+			name = "Kōchi"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 9730
+		}		
+		set_province_name = {
+			id = 1025
+			name = "Kokura"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 529
+		}		
+		set_province_name = {
+			id = 1092
+			name = "Hiroshima"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 9732
+		}		
+		set_province_name = {
+			id = 4102
+			name = "Kagoshima"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1475
+		}		
+		set_province_name = {
+			id = 9950
+			name = "Nagaaki"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3139
+		}		
+		set_province_name = {
+			id = 11932
+			name = "Naha"
+		}
+	}
 
 	if = {
 		limit = {
@@ -12190,6 +13272,12 @@ do_japanese_renames = {
 		set_province_name = {
 			id = 4572
 			name = "Shinkingu"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 11203
 		}
 		set_province_name = {
 			id = 10433
@@ -14189,7 +15277,7 @@ do_japanese_renames = {
 
 	if = {
 		limit = {
-			state = 3485
+			state = 3285
 		}		
 		set_province_name = {
 			id = 7418
@@ -14282,8 +15370,8 @@ do_japanese_renames = {
 			state = 750
 		}		
 		set_province_name = {
-			id = 7701
-			name = "Changde"
+			id = 7101
+			name = "Jōtoku"
 		}
 	}
 
@@ -14528,6 +15616,26 @@ do_chinese_renames = {
 
 	if = {
 		limit = {
+			state = 1881
+		}		
+		set_province_name = {
+			id = 12732
+			name = "Lanchow"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 755
+		}		
+		set_province_name = {
+			id = 7940
+			name = "Golmud"
+		}
+	}
+
+	if = {
+		limit = {
 			state = 524
 		}		
 		set_province_name = {
@@ -14602,7 +15710,7 @@ do_chinese_renames = {
 		}		
 		set_province_name = {
 			id = 6999
-			name = "Chongqing"
+			name = "Chungking"
 		}	
 		set_province_name = {
 			id = 4925
@@ -14612,7 +15720,7 @@ do_chinese_renames = {
 
 	if = {
 		limit = {
-			state = 3485
+			state = 3285
 		}		
 		set_province_name = {
 			id = 7418
@@ -14636,7 +15744,7 @@ do_chinese_renames = {
 		}		
 		set_province_name = {
 			id = 10404
-			name = "Kewilin"
+			name = "Kweilin"
 		}
 	}
 
@@ -14705,8 +15813,8 @@ do_chinese_renames = {
 			state = 750
 		}		
 		set_province_name = {
-			id = 7701
-			name = "Jōtoku"
+			id = 7101
+			name = "Changde"
 		}
 	}
 
@@ -15355,6 +16463,12 @@ do_russian_renames = {
 			id = 4572
 			name = "Chanchun'"
 		}
+	}
+
+	if = {
+		limit = {
+			state = 11203
+		}
 		set_province_name = {
 			id = 10433
 			name = "Kharbin"
@@ -15634,7 +16748,7 @@ do_russian_renames = {
 
 	if = {
 		limit = {
-			state = 7155
+			state = 7159
 		}		
 		set_province_name = {
 			id = 904
@@ -22844,7 +23958,7 @@ do_latin_renames = {
 
 	if = {
 		limit = {
-			state = 7155
+			state = 7159
 		}		
 		set_province_name = {
 			id = 904
@@ -31023,7 +32137,7 @@ do_greek_renames = {
 	}
 	if = {
 		limit = {
-			state = 7155
+			state = 7159
 		}		
 		set_province_name = {
 			id = 904
@@ -34156,7 +35270,7 @@ do_turkish_renames = {
 
 	if = {
 		limit = {
-			state = 7155
+			state = 7159
 		}		
 		set_province_name = {
 			id = 904
@@ -36989,7 +38103,7 @@ do_italian_renames = {
 
 	if = {
 		limit = {
-			state = 7155
+			state = 7159
 		}		
 		set_province_name = {
 			id = 904
@@ -39752,6 +40866,654 @@ do_esperanto_renames = {
 	}
 }
 do_korean_renames = {
+
+	if = {
+		limit = {
+			state = 976
+		}		
+		set_province_name = {
+			id = 4126
+			name = "Muju"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 9724
+		}		
+		set_province_name = {
+			id = 4086
+			name = "Daegu"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 9718
+		}		
+		set_province_name = {
+			id = 7204
+			name = "Daejeon"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 979
+		}		
+		set_province_name = {
+			id = 7021
+			name = "Gangneung"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 536
+		}		
+		set_province_name = {
+			id = 10444
+			name = "Chalhwang"
+		}
+		set_province_name = {
+			id = 12421
+			name = "Ugcheon"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 6354
+		}		
+		set_province_name = {
+			id = 12446
+			name = "Pungwon"
+		}
+	}
+		
+	if = {
+		limit = {
+			state = 645
+		}		
+		set_province_name = {
+			id = 13025
+			name = "Lyunolangdo"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 9766
+		}		
+		set_province_name = {
+			id = 6994
+			name = Chologsam"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 533
+		}		
+		set_province_name = {
+			id = 7169
+			name = "Seontae"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 534
+		}		
+		set_province_name = {
+			id = 1117
+			name = "Sinseog"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2192
+		}		
+		set_province_name = {
+			id = 1182
+			name = "Donggyeong"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 9754
+		}		
+		set_province_name = {
+			id = 7087
+			name = "Sijeuoka"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 535
+		}		
+		set_province_name = {
+			id = 10032
+			name = "Geumsawa"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 532
+		}		
+		set_province_name = {
+			id = 10125
+			name = "Myeonggoog"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2193
+		}		
+		set_province_name = {
+			id = 7072
+			name = "Daepan"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 530
+		}		
+		set_province_name = {
+			id = 7197
+			name = "Goji"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 9730
+		}		
+		set_province_name = {
+			id = 1025
+			name = "Sochang"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 529
+		}		
+		set_province_name = {
+			id = 1092
+			name = "Keugigo"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 9732
+		}		
+		set_province_name = {
+			id = 4102
+			name = "Nogerdo"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1475
+		}		
+		set_province_name = {
+			id = 9950
+			name = "Janggi"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3139
+		}		
+		set_province_name = {
+			id = 11932
+			name = "Napae"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1881
+		}		
+		set_province_name = {
+			id = 12732
+			name = "Nanju"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 755
+		}		
+		set_province_name = {
+			id = 7940
+			name = "Gyeogi"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 524
+		}		
+		set_province_name = {
+			id = 7186
+			name = "Daebae"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 5865
+		}		
+		set_province_name = {
+			id = 12068
+			name = "Goung"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 745
+		}		
+		set_province_name = {
+			id = 1150
+			name = "Daelyeon"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 10617
+		}		
+		set_province_name = {
+			id = 1070
+			name = "Haegu"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 747
+		}		
+		set_province_name = {
+			id = 7965
+			name = "Daeli"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 325
+		}		
+		set_province_name = {
+			id = 1319
+			name = "Gonmyeong"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 753
+		}		
+		set_province_name = {
+			id = 2045
+			name = "Cheonsu"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 605
+		}		
+		set_province_name = {
+			id = 6999
+			name = "Junggyeong"
+		}	
+		set_province_name = {
+			id = 4925
+			name = "Seongdo"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3285
+		}		
+		set_province_name = {
+			id = 7418
+			name = "Seoan"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 594
+		}		
+		set_province_name = {
+			id = 7137
+			name = "Namnyeong"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1875
+		}		
+		set_province_name = {
+			id = 10404
+			name = "Gyelin"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 592
+		}		
+		set_province_name = {
+			id = 1047
+			name = "Gwangju"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 729
+		}		
+		set_province_name = {
+			id = 4189
+			name = "Omun"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 326
+		}		
+		set_province_name = {
+			id = 10062
+			name = "Hyanghang"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 603
+		}		
+		set_province_name = {
+			id = 4504
+			name = "Gwiyang"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1872
+		}		
+		set_province_name = {
+			id = 7097
+			name = "Jangsa"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1868
+		}		
+		set_province_name = {
+			id = 4619
+			name = "Muhan"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 750
+		}		
+		set_province_name = {
+			id = 7101
+			name = "Sangdeog"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 607
+		}		
+		set_province_name = {
+			id = 9958
+			name = "Jeongju"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1471
+		}		
+		set_province_name = {
+			id = 7071
+			name = "Hamun"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1472
+		}		
+		set_province_name = {
+			id = 4196
+			name = "Bogju"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 600
+		}		
+		set_province_name = {
+			id = 3992
+			name = "Namjang"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1473
+		}		
+		set_province_name = {
+			id = 9974
+			name = "Nyeongpa"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1867
+		}		
+		set_province_name = {
+			id = 7191
+			name = "Jeondang"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1474
+		}		
+		set_province_name = {
+			id = 7014
+			name = "Sanghae"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1866
+		}		
+		set_province_name = {
+			id = 11913
+			name = "Namgyeong"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 606
+		}		
+		set_province_name = {
+			id = 7222
+			name = "Habbi"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 622
+		}		
+		set_province_name = {
+			id = 8049
+			name = "Yeonan"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 615
+		}		
+		set_province_name = {
+			id = 1519
+			name = "Taewon"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 743
+		}		
+		set_province_name = {
+			id = 10000
+			name = "Chologdo"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 597
+		}		
+		set_province_name = {
+			id = 1069
+			name = "Jenam"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 956
+		}		
+		set_province_name = {
+			id = 13282
+			name = "Wihaewi"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 11203
+		}
+		set_province_name = {
+			id = 10433
+			name = "Habibin"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 3535
+		}		
+		set_province_name = {
+			id = 11752
+			name = "Baeglyeongmyo"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 608
+		}		
+		set_province_name = {
+			id = 9843
+			name = "Baegyeong"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 1192
+		}		
+		set_province_name = {
+			id = 10068
+			name = "Cheonjin"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 2191
+		}		
+		set_province_name = {
+			id = 957
+			name = "Haesamoe"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 409
+		}		
+		set_province_name = {
+			id = 12189
+			name = "Baeglyeog"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 328
+		}		
+		set_province_name = {
+			id = 4572
+			name = "Jangchun"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 716
+		}		
+		set_province_name = {
+			id = 11771
+			name = "Simyang"
+		}
+	}
+
+	if = {
+		limit = {
+			state = 745
+		}		
+		set_province_name = {
+			id = 1150
+			name = "Daelyeon"
+		}
+	}
 
 	if = {
 		limit = {

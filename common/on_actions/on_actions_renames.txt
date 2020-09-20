@@ -5,7 +5,15 @@ on_actions = {
 	#ROOT is new controller #FROM is old controller #FROM.FROM is state ID
 	on_state_control_changed = {
 		effect = {
-			FROM.FROM = {
+			FROM.FROM = {	
+
+					### PRC ###
+					if = {
+						limit = {
+							ROOT = {tag = PRC}
+						}
+						do_pinyin_renames = yes
+					}
 
 					### GER ###
 					if = {
@@ -452,7 +460,7 @@ on_actions = {
 							              has_cosmetic_tag = SBR_GER}}
 						}
 						do_german_renames = yes
-					}	
+					}
 
 					### ITA ###
 					if = {
