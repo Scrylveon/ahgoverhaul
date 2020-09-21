@@ -197,9 +197,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Jean III de Orléans"
+	name = "Napoleon VI de Bonaparte"
 	desc = ""
-	picture = "FRA_JeanIII.tga"
+	picture = "FRA_NapoleonVI.tga"
 	expire = "1965.1.1"
 	ideology = conservative_constitutionalism
 	traits = {
@@ -217,7 +217,7 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Charles XII de Bourbon"
+	name = "Charles XII & V de Bourbon"
 	desc = ""
 	picture = "FRA_CharlesXII.tga"
 	expire = "1965.1.1"
@@ -257,7 +257,7 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Charles XII de Bourbon"
+	name = "Charles XII & V de Bourbon"
 	desc = ""
 	picture = "FRA_CharlesXII.tga"
 	expire = "1965.1.1"
