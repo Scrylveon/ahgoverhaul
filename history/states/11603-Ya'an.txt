@@ -4,6 +4,13 @@ state={
 	provinces={
 		10841 
 	}
-	manpower=0
+	history = {
+		owner = XIG
+		add_core_of = XIG
+		add_core_of = CHI
+		add_core_of = PRC
+	}
+	manpower = 1000
+	state_category = pastoral
 	buildings_max_level_factor=1.000
 }
