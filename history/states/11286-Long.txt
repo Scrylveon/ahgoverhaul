@@ -3,10 +3,10 @@ state={
 	name="STATE_11286"
 	
 	history = {
-		owner = PRC
+		owner = KNM
 		add_core_of = PRC
 		add_core_of = CHI
-		add_core_of = PRC
+		add_core_of = KNM
 	}
 	manpower = 1000
 	state_category = pastoral

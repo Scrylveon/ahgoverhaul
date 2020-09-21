@@ -4,7 +4,7 @@ state={
 	name="STATE_603"
 
 	history={
-		owner = CHI
+		owner = KWC
 		add_core_of = CHI
 		add_core_of = PRC
 		add_core_of = KWC
@@ -21,7 +21,7 @@ state={
 	}
 
 	provinces={
-		4504 10335 
+		4504 
 	}
 	manpower=7543200
 	buildings_max_level_factor=1.000

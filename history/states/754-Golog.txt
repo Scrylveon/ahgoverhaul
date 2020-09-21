@@ -4,8 +4,8 @@ state={
 	name="STATE_754"
 
 	history={
-		owner = XSM
-		add_core_of = XSM
+		owner = YSH
+		add_core_of = YSH
 		add_core_of = CHI
 		add_core_of = PRC
 		victory_points = {
@@ -15,23 +15,6 @@ state={
 			infrastructure = 1
 			industrial_complex = 1
 			arms_factory = 1
-
-		}
-		1938.10.25 = {
-			if = {
-				limit = {
-					NOT = {
-						has_dlc = Waking the Tiger
-
-					}
-
-				}
-				CHI = {
-					transfer_state = PREV
-
-				}
-
-			}
 
 		}
 

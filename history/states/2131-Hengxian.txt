@@ -4,7 +4,8 @@ state={
 	name="STATE_2131"
 
 	history={
-		owner = CHI
+		owner = SHG
+		add_core_of = SHG
 		add_core_of = HOA
 		add_core_of = CHI
 		add_core_of = RFC

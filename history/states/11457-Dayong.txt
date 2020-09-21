@@ -3,9 +3,9 @@ state={
 	name="STATE_11457"
 	
 	history = {
-		owner = CHI
+		owner = HNN
 		add_core_of = CHI
-		add_core_of = HPH
+		add_core_of = HNN
 		add_core_of = PRC
 	}
 	manpower = 1000

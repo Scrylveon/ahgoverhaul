@@ -6,7 +6,8 @@ state={
 	state_category=pastoral
 	
 	history={
-		owner = TIB
+		owner = NGH
+		add_core_of = NGH
 		add_core_of = TIB
 	}
 	provinces={

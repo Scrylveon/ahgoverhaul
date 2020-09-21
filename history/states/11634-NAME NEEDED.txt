@@ -5,10 +5,10 @@ state={
 		5193 
 	}
 	history = {
-		owner = SHC
+		owner = SUO
 		add_core_of = CHI
 		add_core_of = PRC
-		add_core_of = SHC
+		add_core_of = SUO
 	}
 	manpower = 1000
 	state_category = pastoral

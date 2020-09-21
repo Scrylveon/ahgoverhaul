@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = CHI
+		owner = HNN
 		add_core_of = CHI
 		add_core_of = PRC
 		add_core_of = HNN
@@ -23,7 +23,7 @@ state={
 	}
 
 	provinces={
-		12017 
+		12017 10335
 	}
 	manpower=20293700
 	buildings_max_level_factor=1.000

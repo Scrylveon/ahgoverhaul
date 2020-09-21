@@ -5332,3 +5332,63 @@ PON = {
 color = rgb { 68 44 114 }
 color_ui = rgb { 68 44 114 }
 }
+CCG = {
+color = rgb { 98 0 49 }
+color_ui = rgb { 98 0 49 }
+}
+KGN = {
+color = rgb { 157 79 0 }
+color_ui = rgb { 157 79 0 }
+}
+CTU = {
+color = rgb { 136 68 0 }
+color_ui = rgb { 136 68 0 }
+}
+STI = {
+color = rgb { 187 94 0 }
+color_ui = rgb { 187 94 0 }
+}
+KNM = {
+color = rgb { 130 130 0 }
+color_ui = rgb { 130 130 0 }
+}
+LBG = {
+color = rgb { 174 135 81 }
+color_ui = rgb { 174 135 81 }
+}
+SKK = {
+color = rgb { 153 141 102 }
+color_ui = rgb { 153 141 102 }
+}
+NWA = {
+color = rgb { 214 171 41 }
+color_ui = rgb { 214 171 41 }
+}
+TGN = {
+color = rgb { 224 196 31 }
+color_ui = rgb { 224 196 31 }
+}
+TRR = {
+color = rgb { 224 196 31 }
+color_ui = rgb { 224 196 31 }
+}
+TLG = {
+color = rgb { 224 196 31 }
+color_ui = rgb { 224 196 31 }
+}
+LMU = {
+color = rgb { 224 196 31 }
+color_ui = rgb { 224 196 31 }
+}
+SGY = {
+color = rgb { 0 83 0 }
+color_ui = rgb { 0 83 0 }
+}
+CIH = {
+color = rgb { 177 163 78 }
+color_ui = rgb { 177 163 78 }
+}
+YLN = {
+color = rgb { 177 163 78 }
+color_ui = rgb { 177 163 78 }
+}
