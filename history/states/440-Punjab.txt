@@ -9,7 +9,7 @@ state={
 		add_core_of = RAJ 
 		add_core_of = KHL
 		victory_points = {
-			2076 30 
+			12822 30 
 		}
 	}
 
