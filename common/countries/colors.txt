@@ -150,8 +150,8 @@ CAN = {
 	color_ui = rgb { 117 56 56 }
 }
 CHI = {
-	color = rgb { 245 210 55 } 
-	color_ui = rgb { 245 210 55 }
+	color = rgb { 103 101 140 } 
+	color_ui = rgb { 103 101 140 }
 }
 CHL = {
 	color = rgb { 155 101 107 }
@@ -4609,7 +4609,7 @@ color = rgb { 150 150 150 }
 color_ui = rgb { 150 150 150 }
 }
 KWC = {
-color = rgb { 150 150 150 }
+color = rgb { 103 101 140}
 color_ui = rgb { 150 150 150 }
 }
 CIL = {
@@ -4633,7 +4633,7 @@ color = rgb { 150 150 150 }
 color_ui = rgb { 150 150 150 }
 }
 HNN = {
-color = rgb { 150 150 150 }
+color = rgb {227 166 52}
 color_ui = rgb { 150 150 150 }
 }
 PKG = {
@@ -5001,7 +5001,7 @@ color = rgb { 150 150 150 }
 color_ui = rgb { 150 150 150 }
 }
 KNS = {
-color = rgb { 150 150 150 }
+color = rgb { 230 187 48 }
 color_ui = rgb { 150 150 150 }
 }
 DEE = {
@@ -5009,67 +5009,67 @@ color = rgb { 150 150 150 }
 color_ui = rgb { 150 150 150 }
 }
 LNT = {
-color = rgb { 150 150 150 }
+color = rgb { 200 140 25 }
 color_ui = rgb { 150 150 150 }
 }
 NGH = {
-color = rgb { 150 150 150 }
+color = rgb { 230 187 48 }
 color_ui = rgb { 150 150 150 }
 }
 MAZ = {
-color = rgb { 150 150 150 }
+color = rgb { 230 187 48 }
 color_ui = rgb { 150 150 150 }
 }
 DNG = {
-color = rgb { 150 150 150 }
+color = rgb { 230 187 48 }
 color_ui = rgb { 150 150 150 }
 }
 CBR = {
-color = rgb { 150 150 150 }
+color = rgb { 230 187 48 }
 color_ui = rgb { 150 150 150 }
 }
 TRH = {
-color = rgb { 150 150 150 }
+color = rgb { 230 187 48 }
 color_ui = rgb { 150 150 150 }
 }
 GKS = {
-color = rgb { 150 150 150 }
+color = rgb {255 255 255}
 color_ui = rgb { 150 150 150 }
 }
 YSH = {
-color = rgb { 150 150 150 }
+color = rgb {255 255 255}
 color_ui = rgb { 150 150 150 }
 }
 NGW = {
-color = rgb { 150 150 150 }
+color = rgb { 230 187 48 }
 color_ui = rgb { 150 150 150 }
 }
 SUO = {
-color = rgb { 150 150 150 }
+color = rgb { 230 187 48 }
 color_ui = rgb { 150 150 150 }
 }
 SMD = {
-color = rgb { 150 150 150 }
+color = rgb { 219 175 92 }
 color_ui = rgb { 150 150 150 }
 }
 DGB = {
-color = rgb { 150 150 150 }
+color = rgb { 230 187 48 }
 color_ui = rgb { 150 150 150 }
 }
 ZHJ = {
-color = rgb { 150 150 150 }
+color = rgb { 230 187 48 }
 color_ui = rgb { 150 150 150 }
 }
 SGG = {
-color = rgb { 150 150 150 }
+color = rgb { 230 187 48 }
 color_ui = rgb { 150 150 150 }
 }
 CHS = {
-color = rgb { 150 150 150 }
+color = rgb { 230 187 48 }
 color_ui = rgb { 150 150 150 }
 }
 NGG = {
-color = rgb { 150 150 150 }
+color = rgb { 230 187 48 }
 color_ui = rgb { 150 150 150 }
 }
 CKL = {
@@ -5077,7 +5077,7 @@ color = rgb { 150 150 150 }
 color_ui = rgb { 150 150 150 }
 }
 CHN = {
-color = rgb { 150 150 150 }
+color = rgb { 103 101 140 }
 color_ui = rgb { 150 150 150 }
 }
 LKE = {
@@ -5333,31 +5333,31 @@ color = rgb { 68 44 114 }
 color_ui = rgb { 68 44 114 }
 }
 CCG = {
-color = rgb { 98 0 49 }
-color_ui = rgb { 98 0 49 }
+color = rgb { 219 175 92 }
+color_ui = rgb { 219 189 132 }
 }
 KGN = {
-color = rgb { 157 79 0 }
+color = rgb { 219 175 92 }
 color_ui = rgb { 157 79 0 }
 }
 CTU = {
-color = rgb { 136 68 0 }
-color_ui = rgb { 136 68 0 }
+color = rgb { 219 175 92 }
+color_ui = rgb {219 189 132}
 }
 STI = {
-color = rgb { 187 94 0 }
+color = rgb { 219 175 92 }
 color_ui = rgb { 187 94 0 }
 }
 KNM = {
-color = rgb { 130 130 0 }
+color = rgb {204 168 90}
 color_ui = rgb { 130 130 0 }
 }
 LBG = {
-color = rgb { 174 135 81 }
+color = rgb { 103 101 140 }
 color_ui = rgb { 174 135 81 }
 }
 SKK = {
-color = rgb { 153 141 102 }
+color = rgb { 230 187 48 }
 color_ui = rgb { 153 141 102 }
 }
 NWA = {
@@ -5365,30 +5365,30 @@ color = rgb { 214 171 41 }
 color_ui = rgb { 214 171 41 }
 }
 TGN = {
-color = rgb { 224 196 31 }
+color = rgb { 230 187 48 
 color_ui = rgb { 224 196 31 }
 }
 TRR = {
-color = rgb { 224 196 31 }
-color_ui = rgb { 224 196 31 }
+color = rgb { 230 187 48 }
+color_ui = rgb { 230 187 48 }
 }
 TLG = {
-color = rgb { 224 196 31 }
-color_ui = rgb { 224 196 31 }
+color = rgb { 230 187 48 }
+color_ui = rgb { 230 187 48 }
 }
 LMU = {
-color = rgb { 224 196 31 }
+color = rgb { 230 187 48 }
 color_ui = rgb { 224 196 31 }
 }
 SGY = {
-color = rgb { 0 83 0 }
-color_ui = rgb { 0 83 0 }
+color = rgb {230 187 48}
+color_ui = rgb {230 187 48}
 }
 CIH = {
-color = rgb { 177 163 78 }
-color_ui = rgb { 177 163 78 }
+color = rgb { 230 187 48 }
+color_ui = rgb { 230 187 48 }
 }
 YLN = {
-color = rgb { 177 163 78 }
+color = rgb {204 185 71}
 color_ui = rgb { 177 163 78 }
 }
