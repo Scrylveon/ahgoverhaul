@@ -217,7 +217,7 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Charles XII & V de Bourbon"
+	name = "Charles XII de Bourbon"
 	desc = ""
 	picture = "FRA_CharlesXII.tga"
 	expire = "1965.1.1"
