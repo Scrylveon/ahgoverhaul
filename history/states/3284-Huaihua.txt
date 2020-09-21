@@ -1,12 +1,7 @@
+
 state={
 	id=3284
 	name="STATE_3284"
-	provinces={
-		4041 10304 10822 
-	}
-	manpower = 1000
-	
-	state_category = pastoral
 
 	history={
 		owner = SHC
@@ -15,7 +10,15 @@ state={
 		add_core_of = CHI
 		buildings = {
 			infrastructure = 1
+
 		}
+
 	}
+
+	provinces={
+		10822 
+	}
+	manpower=1000
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

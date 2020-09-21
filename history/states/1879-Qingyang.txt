@@ -2,9 +2,7 @@
 state={
 	id=1879
 	name="STATE_1879"
-	
-	state_category = pastoral
-	
+
 	history={
 		owner = NIX
 		add_core_of = NIX
@@ -18,7 +16,8 @@ state={
 			if = {
 				limit = {
 					NOT = {
-						has_dlc = "Waking the Tiger"
+						has_dlc = Waking the Tiger
+
 					}
 
 				}
@@ -32,10 +31,11 @@ state={
 		}
 
 	}
-	
+
 	provinces={
-		556 1985 3742 3745 5025 6638 8081 
+		6638 
 	}
 	manpower=1
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

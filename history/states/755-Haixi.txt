@@ -1,3 +1,4 @@
+
 state={
 	id=755
 	name="STATE_755"
@@ -8,11 +9,10 @@ state={
 		add_core_of = CHI
 		add_core_of = PRC
 
-		}
-
+	}
 
 	provinces={
-		2053 2099 7940 7997 8018 10750 10796 10834 12846 
+		10796 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

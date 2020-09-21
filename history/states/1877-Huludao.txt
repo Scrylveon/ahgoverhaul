@@ -1,3 +1,4 @@
+
 state={
 	id=1877
 	name="STATE_1877"
@@ -16,11 +17,13 @@ state={
 				naval_base = 2
 
 			}
+
 		}
 
 	}
+
 	provinces={
-		3830 3900 
+		3830 
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

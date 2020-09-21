@@ -16,7 +16,7 @@ state={
 			if = {
 				limit = {
 					NOT = {
-						has_dlc = "Waking the Tiger"
+						has_dlc = Waking the Tiger
 
 					}
 
@@ -33,7 +33,7 @@ state={
 	}
 
 	provinces={
-		1778 2028 5076 5100 7971 12327 12596 12820 
+		7971 
 	}
 	manpower=1100000
 	buildings_max_level_factor=1.000
