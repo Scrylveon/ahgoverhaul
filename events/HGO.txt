@@ -80,6 +80,152 @@ country_event = { #Hehe Russia
 	}
 }
 
+country_event = { #Unite China
+	id = hgo.4
+	title = "Reunification of China"
+	desc = "This event allows you to put the tragic warlord era in China to end. A single question remains, however - who shall unite China under its banner?"
+	fire_only_once = yes
+	is_triggered_only = yes
+	immediate = {
+	hidden_effect = {
+			every_state = {
+				limit = {
+					is_owned_by = MUL
+				}
+				add_core_of = PRC
+				add_core_of = CHI				
+			}
+			every_state = {
+				limit = {
+					is_owned_by = NGH
+				}
+				add_core_of = PRC
+				add_core_of = CHI				
+			}
+			every_state = {
+				limit = {
+					is_owned_by = SGY
+				}
+				add_core_of = PRC
+				add_core_of = CHI				
+			}
+			3172 = {
+		    set_demilitarized_zone = no
+		}		
+}			
+	}	
+	
+	option = { #Blue China
+		name = "Kuomintang shall unite China!" 
+		ai_chance = {
+			factor = 0
+		}
+				hidden_effect = {
+        every_country = {
+		release = CHI
+		}
+		CHI = {
+			annex_country = {
+				target = TIB
+				transfer_troops = yes
+			}
+			annex_country = {
+				target = TUG
+				transfer_troops = yes
+			}
+			annex_country = {
+				target = MON
+				transfer_troops = yes
+			}	
+}
+			every_state = {
+				limit = {
+					is_owned_by = CHI
+				}
+				add_core_of = PRC
+				add_core_of = CHI				
+			}			
+}
+		}
+	option = { #Blue China + TAG
+		name = "Kuomintang shall unite China and get a blue colour!" 
+		ai_chance = {
+			factor = 0
+		}
+				hidden_effect = {
+        every_country = {
+		release = CHI
+		}
+			CHI = {
+		set_cosmetic_tag = CHI_FOXITE
+			annex_country = {
+				target = TIB
+				transfer_troops = yes
+			}
+			annex_country = {
+				target = TUG
+				transfer_troops = yes
+			}
+			annex_country = {
+				target = MON
+				transfer_troops = yes
+			}			
+		}
+			every_state = {
+				limit = {
+					is_owned_by = CHI
+				}
+				add_core_of = PRC
+				add_core_of = CHI				
+			}		
+}
+		}	
+	option = { #Red China
+		name = "The Communist Party shall unite China!" 
+		ai_chance = {
+			factor = 0
+		}
+				hidden_effect = {
+        every_country = {
+		release = PRC
+		}
+		every_state = {
+		remove_core_of = TUG
+		}
+		PRC = {
+			annex_country = {
+				target = TIB
+				transfer_troops = yes
+			}
+			annex_country = {
+				target = TUG
+				transfer_troops = yes
+			}
+			annex_country = {
+				target = MON
+				transfer_troops = yes
+			}
+		set_cosmetic_tag = PRC_FOXITE			
+            set_capital = 608		
+}
+			every_state = {
+				limit = {
+					is_owned_by = PRC
+				}
+				add_core_of = PRC
+				add_core_of = CHI				
+			}		
+}
+		}
+	option = { #Reject
+		name = "I've changed my mind!"
+		ai_chance = {
+			factor = 100
+		}
+
+	}		
+}
+
 country_event = { #Yeet the princely states
 	id = hgo.1
 	title = hgo.1.t
@@ -335,6 +481,15 @@ country_event = { #Decolonise Arabia
 		}
 		
     hidden_effect = {
+	    ENG = {
+		release = EGY
+		}		
+		EGY = {
+		drop_cosmetic_tag = yes
+			set_politics = {
+	        ruling_party = democratic
+              }
+}	
 		UAE = {
 			annex_country = { target = FUJ }
 			annex_country = { target = SHJ }
@@ -409,8 +564,6 @@ country_event = { #Decolonise Arabia
 		    set_state_controller = 2870
 		    set_state_owner = 2866
 		    set_state_controller = 2866
-		    set_state_owner = 2861
-		    set_state_controller = 2861
 		    set_state_owner = 2863
 		    set_state_controller = 2863
 		    set_state_owner = 2864
@@ -482,6 +635,7 @@ country_event = { #Decolonise Arabia
 	        ruling_party = democratic
               }
 			drop_cosmetic_tag = yes
+			set_capital = 3377			
 		}
 		SAU = {
 		    set_state_owner = 6650
@@ -496,6 +650,10 @@ country_event = { #Decolonise Arabia
 		    set_state_controller = 3353
 		    set_state_owner = 5884
 		    set_state_controller = 5884
+		    set_state_owner = 4795
+		    set_state_controller = 4795
+		    set_state_owner = 4794
+		    set_state_controller = 4794			
 		}
 		TUR = {
 		    set_state_owner = 5699
@@ -522,7 +680,61 @@ country_event = { #Decolonise Arabia
 		    set_state_owner = 6796
 		    set_state_controller = 6796
 			set_capital = 3382
+		    set_state_owner = 3381
+		    set_state_controller = 3381
+		    set_state_owner = 3386
+		    set_state_controller = 3386
+		    set_state_owner = 2305
+		    set_state_controller = 2305
+		    set_state_owner = 3378
+		    set_state_controller = 3378
+		    set_state_owner = 3379
+		    set_state_controller = 3379
+		    set_state_controller = 9584
+		    set_state_owner = 9584
+		    set_state_controller = 1208
+		    set_state_owner = 1208				
+			every_state = {
+				limit = {
+					is_owned_by = ISR
+				}
+				add_core_of = ISR
+                remove_core_of = PAL				
+			}			
 		}
+        KUW = {
+		    set_state_controller = 1174
+		    set_state_owner = 1174
+		    set_state_controller = 9095
+		    set_state_owner = 9095
+		    set_state_controller = 3357
+		    set_state_owner = 3357
+}
+			every_state = {
+				limit = {
+					is_owned_by = KUW
+				}
+				add_core_of = KUW
+                remove_core_of = SAU				
+			}
+			every_state = {
+				limit = {
+					is_owned_by = SAU
+				}
+				add_core_of = SAU
+                remove_core_of = EGY
+                remove_core_of = JOR
+                remove_core_of = YEM
+                remove_core_of = OMA				
+			}
+			every_state = {
+				limit = {
+				NOT = {
+					is_owned_by = SAU
+					}
+				}
+                remove_core_of = SAU			
+			}			
 		1104 = {
 		    set_demilitarized_zone = no
 		}

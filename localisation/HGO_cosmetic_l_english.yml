@@ -1224,6 +1224,14 @@
  EHC_PGROC_DEF:0 "The Provisional Government of the Republic of China"
  EHC_PGROC_ADJ:0 "Chinese"
 
+ CHI_FOXITE:0 "Republic of China"
+ CHI_FOXITE_DEF:0 "The Republic of China"
+ CHI_FOXITE_ADJ:0 "Chinese"
+
+ PRC_FOXITE:0 "People's Republic of China"
+ PRC_FOXITE_DEF:0 "The People's Republic of China"
+ PRC_FOXITE_ADJ:0 "Chinese" 
+
  CHI_JAP_democratic:0 "Reformed Government of the Republic of China"
  CHI_JAP_democratic_DEF:0 "The Reformed Government of the Republic of China"
  CHI_JAP_fascism:0 "Reformed Government of the Republic of China"
