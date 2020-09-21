@@ -388,6 +388,9 @@
  SP2_right_anarchism_party:0 "EE"
  SP2_right_anarchism_party_long:0 "Empresas Españolas"
 
+ 2RA_vanguardism_party:0 "2RA"
+ 2RA_vanguardism_party_long:0 "Hung Erh Fangmien Chun"
+
  FRA_anarchism_ideology_party:0 "Gauls"
  FRA_anarchism_ideology_party_long:0 "Gaulic Tribes"
  FRA_left_anarchism_party:0 "UA"

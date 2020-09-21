@@ -8,6 +8,10 @@
  ATC_DEF:0 "Antarctica"
  ATC_ADJ:0 "Antarctica"
 
+ 2RA:0 "Second Red Army"
+ 2RA_DEF:0 "The Territory of the Second Red Army"
+ 2RA_ADJ:0 "Chinese"
+
  DLH:0 "Delhi"
  DLH_DEF:0 "Delhi"
  DLH_ADJ:0 "Delhiite"
