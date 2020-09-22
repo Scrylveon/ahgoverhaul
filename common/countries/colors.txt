@@ -4173,8 +4173,8 @@ ANC = {
 	color_ui = rgb { 163 97 109 }
 }
 TRB = {
-	color = rgb { 0 127 14 }
-	color_ui = rgb { 0 127 14 }
+	color = rgb { 92 68 10 }
+	color_ui = rgb { 92 68 10 }
 }
 WST = {
 	color = rgb { 158 130 83 }
@@ -5033,8 +5033,8 @@ TRH = {
 	color_ui = rgb { 150 150 150 }
 }
 GKS = {
-	color = rgb {255 255 255}
-	color_ui = rgb { 150 150 150 }
+	color = rgb { 92 68 10 }
+	color_ui = rgb { 92 68 10 }
 }
 YSH = {
 	color = rgb {92  68  10}
