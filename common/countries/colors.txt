@@ -5349,7 +5349,7 @@ STI = {
 	color_ui = rgb { 187 94 0 }
 }
 KNM = {
-	color = rgb {204 168 90}
+	color = rgb {204 168 90 }
 	color_ui = rgb { 130 130 0 }
 }
 LBG = {
@@ -5365,7 +5365,7 @@ NWA = {
 	color_ui = rgb { 214 171 41 }
 }
 TGN = {
-	color = rgb { 230 187 48 
+	color = rgb { 230 187 48 }
 	color_ui = rgb { 224 196 31 }
 }
 TRR = {
