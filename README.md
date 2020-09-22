@@ -13,9 +13,9 @@ Extra notes:
 - don't expect every version to not be a buggy mess. as OCD-pleasing the mod may be, it's not bug-pleasing.
 ---------------
 Credits:
-The HGO team: Skylar129, Faaz Noushad, Ainsley, Luminisenc, scrylveon, birdirdirbirb/ReiFly/GardenGnostic, and Kels.
+The HGO team: Skylar129, Faaz Noushad, Ainsley, Luminisenc, birdirdirbirb/ReiFly/GardenGnostic, and Kels.
 
-Former Devs: MihalRacovita, TrueSoviet, Holy Doggo, Generalis, JoshyFlip, crasher925, SamFan2, blue69982, Gindisi, and K0rhan.
+Former Devs: scryl, MihalRacovita, TrueSoviet, Holy Doggo, Generalis, JoshyFlip, crasher925, SamFan2, blue69982, Gindisi, and K0rhan.
 
 Special Thanks to:
 - gerrade, for letting us build off of his mod, Beautiful States.
