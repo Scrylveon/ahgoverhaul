@@ -1088,8 +1088,8 @@ LOU = {
 }
 #Chinese Warlords
 TUG = {
-	color = rgb { 226 130 113 }
-	color_ui = rgb { 226 130 113 }
+	color = rgb { 196 86 66 }
+	color_ui = rgb { 196 86 66 }
 }
 XIG = {
 	color = rgb { 240 190 60 }
