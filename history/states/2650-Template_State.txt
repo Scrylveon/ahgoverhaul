@@ -4,7 +4,7 @@ state={
 	history={
 			owner = FAL
 			add_core_of = FAL
-			add_core_of = ARG
+			add_claim_by = ARG
 		buildings = {
 			infrastructure = 4
 			

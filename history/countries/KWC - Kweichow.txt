@@ -19,3 +19,12 @@ set_politics = {
 	elections_allowed = no
 }
 
+create_country_leader = {
+	name = "Wu Chunghsin"
+	desc = ""
+	picture = "Portrait_Wu_Zhongxin.tga"
+	expire = "1965.1.1"
+	ideology = despotism
+	traits = {
+	}
+}

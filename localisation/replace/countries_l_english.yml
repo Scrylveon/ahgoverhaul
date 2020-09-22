@@ -21521,8 +21521,8 @@
  RGC_fascism_DEF:0 "Hannic Empire"
  RGC_fascism_ADJ:0 "Chinese"
 
- HNN_neutrality:0 "Hunan Clique"
- HNN_neutrality_DEF:0 "Hunan Clique"
+ HNN_neutrality:0 "Hunan Province"
+ HNN_neutrality_DEF:0 "Hunan Province"
  HNN_neutrality_ADJ:0 "Hunan"
  HNN_monarchism:0 "Kingdom of Hunan"
  HNN_monarchism_DEF:0 "Kingdom of Hunan"
@@ -21536,6 +21536,9 @@
  HNN_fascism:0 "Hunan State"
  HNN_fascism_DEF:0 "Hunan State"
  HNN_fascism_ADJ:0 "Hunan"
+ HNN_stratocratic:0 "Hunan Clique"
+ HNN_stratocratic_DEF:0 "Hunan Clique"
+ HNN_stratocratic_ADJ:0 "Hunan"
 
  FUK_neutrality:0 "Fukien Clique"
  FUK_neutrality_DEF:0 "Fukien Clique"
@@ -21617,8 +21620,8 @@
  ANW_fascism_DEF:0 "Anhwei State"
  ANW_fascism_ADJ:0 "Anhwei"
 
- KWC_neutrality:0 "Kweichow Clique"
- KWC_neutrality_DEF:0 "Kweichow Clique"
+ KWC_neutrality:0 "Kweichow Province"
+ KWC_neutrality_DEF:0 "Kweichow Province"
  KWC_neutrality_ADJ:0 "Kweichow"
  KWC_monarchism:0 "Kingdom of Kweichow"
  KWC_monarchism_DEF:0 "Kingdom of Kweichow"
@@ -21632,6 +21635,9 @@
  KWC_fascism:0 "Kweichow State"
  KWC_fascism_DEF:0 "Kweichow State"
  KWC_fascism_ADJ:0 "Kweichow"
+ KWC_stratocratic:0 "Kweichow Clique"
+ KWC_stratocratic_DEF:0 "Kweichow Clique"
+ KWC_stratocratic_ADJ:0 "Kweichow"
 
  CIL_neutrality:0 "Chihli Clique"
  CIL_neutrality_DEF:0 "Chihli Clique"

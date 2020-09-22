@@ -5389,8 +5389,8 @@ CIH = {
 	color_ui = rgb { 230 187 48 }
 }
 YLN = {
-	color = rgb { 230 187 48 }
-	color_ui = rgb { 230 187 48 }
+	color = rgb { 77 90 112 }
+	color_ui = rgb { 77 90 112 }
 }
 2RA = {
 	color = rgb { 245 12 55 }
@@ -5401,6 +5401,6 @@ NWR = {
 	color_ui = rgb { 0 11 112 }
 }
 XJK = {
-	color = rgb { 183 16 7 }
-	color_ui = rgb { 183 16 7 }
+	color = rgb { 134 0 0 }
+	color_ui = rgb { 134 0 0 }
 }

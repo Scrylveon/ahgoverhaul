@@ -14,7 +14,7 @@ state= {
 			}
 		}
 		add_core_of = FAL
-		add_core_of = ARG
+		add_claim_by = ARG
 	}
 	provinces= { 12960 }
 }
