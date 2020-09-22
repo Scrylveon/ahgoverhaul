@@ -588,7 +588,7 @@ on_actions = {
 							ROOT = {tag = KOR}
 						}
 						do_korean_renames = yes
-					}			
+					}	
 			}
 		}
 	}
