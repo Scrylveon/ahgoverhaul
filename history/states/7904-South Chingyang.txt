@@ -4,9 +4,10 @@ state={
 	name="STATE_7904"
 
 	history = {
-		owner = CHI
+		owner = NWR
 		add_core_of = CHI
 		add_core_of = PRC
+		add_core_of = NWR
 	}
 
 	provinces={

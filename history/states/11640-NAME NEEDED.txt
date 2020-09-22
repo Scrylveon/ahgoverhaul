@@ -5,9 +5,10 @@ state={
 		4295 
 	}
 	history = {
-		owner = CHI
+		owner = NWR
 		add_core_of = CHI
 		add_core_of = PRC
+		add_core_of = NWR
 	}
 	manpower = 1000
 	state_category = pastoral

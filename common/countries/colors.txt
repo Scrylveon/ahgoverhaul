@@ -5396,3 +5396,7 @@ YLN = {
 	color = rgb { 245 12 55 }
 	color_ui = rgb { 245 12 55 }
 }
+NWR = {
+	color = rgb { 16 25 114 }
+	color_ui = rgb { 16 25 114 }
+}

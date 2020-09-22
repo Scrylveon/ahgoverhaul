@@ -12,6 +12,10 @@
  2RA_DEF:0 "The Territory of the Second Red Army"
  2RA_ADJ:0 "Chinese"
 
+ NWR:0 "Northwestern Army"
+ NWR_DEF:0 "The Territory of the Northwestern Army"
+ NWR_ADJ:0 "Chinese"
+
  DLH:0 "Delhi"
  DLH_DEF:0 "Delhi"
  DLH_ADJ:0 "Delhiite"
