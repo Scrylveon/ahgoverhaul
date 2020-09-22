@@ -327,7 +327,7 @@ GXC = {
 }
 
 SHX = {
-	color = rgb { 77 90 112 }
+	color = rgb { 32 51 145 }
 	color_ui = rgb { 77 90 112 }
 }
 XSM = {
@@ -4609,7 +4609,7 @@ ANW = {
 	color_ui = rgb { 150 150 150 }
 }
 KWC = {
-	color = rgb { 103 101 140}
+	color = rgb { 0 11 112 }
 	color_ui = rgb { 150 150 150 }
 }
 CIL = {
@@ -5077,7 +5077,7 @@ CKL = {
 	color_ui = rgb { 150 150 150 }
 }
 CHN = {
-	color = rgb { 103 101 140 }
+	color = rgb { 0 11 112 }
 	color_ui = rgb { 150 150 150 }
 }
 LKE = {
@@ -5353,7 +5353,7 @@ KNM = {
 	color_ui = rgb { 130 130 0 }
 }
 LBG = {
-	color = rgb { 103 101 140 }
+	color = rgb { 0 11 112 }
 	color_ui = rgb { 174 135 81 }
 }
 SKK = {
