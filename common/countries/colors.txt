@@ -5353,8 +5353,8 @@ KNM = {
 	color_ui = rgb { 130 130 0 }
 }
 LBG = {
-	color = rgb { 0 11 112 }
-	color_ui = rgb { 174 135 81 }
+	color = rgb { 28 178 151 }
+	color_ui = rgb { 28 178 151 }
 }
 SKK = {
 	color = rgb { 230 187 48 }
