@@ -327,7 +327,7 @@ GXC = {
 }
 
 SHX = {
-	color = rgb { 77 90 112 }
+	color = rgb { 32 51 145 }
 	color_ui = rgb { 77 90 112 }
 }
 XSM = {
@@ -1088,16 +1088,16 @@ LOU = {
 }
 #Chinese Warlords
 TUG = {
-	color = rgb { 196 86 66 }
-	color_ui = rgb { 196 86 66 }
+	color = rgb { 205 160 25 }
+	color_ui = rgb { 205 160 25 }
 }
 XIG = {
 	color = rgb { 240 190 60 }
 	color_ui = rgb { 240 190 60 }
 }
 HMI = {
-	color = rgb { 226 150 36 }
-	color_ui = rgb { 226 150 36 }
+	color = rgb { 210 160 35 }
+	color_ui = rgb { 210 160 35 }
 }
 
 NIX = {
@@ -1113,8 +1113,8 @@ GND = {
 	color_ui = rgb { 63 91 168 }
 }
 PIL = {
-	color = rgb { 121 110 183 }
-	color_ui = rgb { 121 110 183 }
+	color = rgb { 72 53 112 }
+	color_ui = rgb { 72 53 112 }
 }
 SHG = {
 	color = rgb { 16 25 114 }
@@ -4609,8 +4609,8 @@ ANW = {
 	color_ui = rgb { 150 150 150 }
 }
 KWC = {
-	color = rgb { 16 25 114 }
-	color_ui = rgb { 16 25 114 }
+	color = rgb { 0 11 112 }
+	color_ui = rgb { 150 150 150 }
 }
 CIL = {
 	color = rgb { 150 150 150 }
@@ -4633,8 +4633,8 @@ CKG = {
 	color_ui = rgb { 150 150 150 }
 }
 HNN = {
-	color = rgb { 16 25 114 }
-	color_ui = rgb { 16 25 114 }
+	color = rgb {227 166 52}
+	color_ui = rgb { 150 150 150 }
 }
 PKG = {
 	color = rgb { 150 150 150 }
@@ -5077,7 +5077,7 @@ CKL = {
 	color_ui = rgb { 150 150 150 }
 }
 CHN = {
-	color = rgb { 103 101 140 }
+	color = rgb { 0 11 112 }
 	color_ui = rgb { 150 150 150 }
 }
 LKE = {
@@ -5353,7 +5353,7 @@ KNM = {
 	color_ui = rgb { 130 130 0 }
 }
 LBG = {
-	color = rgb { 103 101 140 }
+	color = rgb { 0 11 112 }
 	color_ui = rgb { 174 135 81 }
 }
 SKK = {
@@ -5389,8 +5389,8 @@ CIH = {
 	color_ui = rgb { 230 187 48 }
 }
 YLN = {
-	color = rgb { 77 90 112 }
-	color_ui = rgb { 77 90 112 }
+	color = rgb { 230 187 48 }
+	color_ui = rgb { 230 187 48 }
 }
 2RA = {
 	color = rgb { 245 12 55 }
@@ -5403,4 +5403,3 @@ NWR = {
 XJK = {
 	color = rgb { 154 0 0 }
 	color_ui = rgb { 154 0 0 }
-}
