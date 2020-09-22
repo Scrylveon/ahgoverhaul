@@ -322,8 +322,8 @@ PRC = {
 }
 
 GXC = {
-	color = rgb { 255 170 50 }
-	color_ui = rgb { 255 170 50 }
+	color = rgb { 37 124 168 }
+	color_ui = rgb { 37 124 168 }
 }
 
 SHX = {
@@ -1109,8 +1109,8 @@ SHC = {
 	color_ui = rgb { 240 175 55 }
 }
 GND = {
-	color = rgb { 225 175 40 }
-	color_ui = rgb { 225 175 40 }
+	color = rgb { 63 91 168 }
+	color_ui = rgb { 63 91 168 }
 }
 PIL = {
 	color = rgb { 121 110 183 }
@@ -5401,6 +5401,6 @@ NWR = {
 	color_ui = rgb { 0 11 112 }
 }
 XJK = {
-	color = rgb { 134 0 0 }
-	color_ui = rgb { 134 0 0 }
+	color = rgb { 154 0 0 }
+	color_ui = rgb { 154 0 0 }
 }
