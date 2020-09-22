@@ -5,7 +5,6 @@ SG1 = "countries/South Greenland.txt"
 ERL = "countries/Norwegian Greenland.txt"
 UCL = "countries/Unclaimed Land.txt"
 ATC = "countries/Antarctica.txt"
-
 OST = "countries/Österland.txt"
 NOL = "countries/Norrland.txt"
 SVE = "countries/Svealand.txt"
