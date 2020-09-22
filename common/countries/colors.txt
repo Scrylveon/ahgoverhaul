@@ -150,8 +150,8 @@ CAN = {
 	color_ui = rgb { 117 56 56 }
 }
 CHI = {
-	color = rgb { 16 25 114 } 
-	color_ui = rgb { 16 25 114 }
+	color = rgb { 0 11 112 } 
+	color_ui = rgb { 0 11 112 }
 }
 CHL = {
 	color = rgb { 155 101 107 }
@@ -327,20 +327,20 @@ GXC = {
 }
 
 SHX = {
-	color = rgb { 210 160 30 }
-	color_ui = rgb { 210 160 30 }
+	color = rgb { 77 90 112 }
+	color_ui = rgb { 77 90 112 }
 }
 XSM = {
 	color = rgb { 200 140 25 }
 	color_ui = rgb { 200 140 25 }
 }
 NEA = {
-	color = rgb { 16 25 114 }
-	color_ui = rgb { 16 25 114 }
+	color = rgb { 0 11 112 }
+	color_ui = rgb { 0 11 112 }
 }
 HPC = {
-	color = rgb { 250 175 50 }
-	color_ui = rgb { 250 175 50 }
+	color = rgb { 47 53 109 }
+	color_ui = rgb { 47 53 109 }
 }
 LBA = {
 	color = rgb { 200 180 90 }
@@ -1113,12 +1113,12 @@ GND = {
 	color_ui = rgb { 225 175 40 }
 }
 PIL = {
-	color = rgb { 255 195 60 }
-	color_ui = rgb { 255 195 60 }
+	color = rgb { 72 53 112 }
+	color_ui = rgb { 72 53 112 }
 }
 SHG = {
-	color = rgb { 220 170 40 }
-	color_ui = rgb { 220 170 40 }
+	color = rgb { 16 25 114 }
+	color_ui = rgb { 16 25 114 }
 }
 EHC = {
 	color = rgb { 219 244 105 }
@@ -5397,6 +5397,6 @@ YLN = {
 	color_ui = rgb { 245 12 55 }
 }
 NWR = {
-	color = rgb { 16 25 114 }
-	color_ui = rgb { 16 25 114 }
+	color = rgb { 0 11 112 }
+	color_ui = rgb { 0 11 112 }
 }
