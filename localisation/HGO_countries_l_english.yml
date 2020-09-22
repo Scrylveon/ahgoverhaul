@@ -16,6 +16,10 @@
  NWR_DEF:0 "The Territory of the Northwestern Army"
  NWR_ADJ:0 "Chinese"
 
+ XJK:0 "Kashgar National Assembly"
+ XJK_DEF:0 "The Kashgar National Assembly"
+ XJK_ADJ:0 "Kashgari"
+
  DLH:0 "Delhi"
  DLH_DEF:0 "Delhi"
  DLH_ADJ:0 "Delhiite"
