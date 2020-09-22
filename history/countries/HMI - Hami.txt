@@ -17,13 +17,14 @@ set_technology = {
 			 = 0
 		communism
 			 = 0
-			
 		authoritarian_monarchism
-			 = 100
+			 = 45
+		stratocratic
+			 = 55
 		
 	}
 	set_politics = { 
- ruling_party = authoritarian_monarchism
+ ruling_party = stratocratic
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -44,7 +45,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_Yulbars_Khan.dds"
 	expire = "1975.7.1"
-	ideology = authmon
+	ideology = militarism
 	traits = {
 		#
 	}

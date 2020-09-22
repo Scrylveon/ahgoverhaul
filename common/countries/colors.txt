@@ -1088,16 +1088,16 @@ LOU = {
 }
 #Chinese Warlords
 TUG = {
-	color = rgb { 205 160 25 }
-	color_ui = rgb { 205 160 25 }
+	color = rgb { 226 130 113 }
+	color_ui = rgb { 226 130 113 }
 }
 XIG = {
 	color = rgb { 240 190 60 }
 	color_ui = rgb { 240 190 60 }
 }
 HMI = {
-	color = rgb { 210 160 35 }
-	color_ui = rgb { 210 160 35 }
+	color = rgb { 226 150 36 }
+	color_ui = rgb { 226 150 36 }
 }
 
 NIX = {
@@ -4609,8 +4609,8 @@ ANW = {
 	color_ui = rgb { 150 150 150 }
 }
 KWC = {
-	color = rgb { 103 101 140}
-	color_ui = rgb { 150 150 150 }
+	color = rgb { 16 25 114 }
+	color_ui = rgb { 16 25 114 }
 }
 CIL = {
 	color = rgb { 150 150 150 }
@@ -4633,8 +4633,8 @@ CKG = {
 	color_ui = rgb { 150 150 150 }
 }
 HNN = {
-	color = rgb {227 166 52}
-	color_ui = rgb { 150 150 150 }
+	color = rgb { 16 25 114 }
+	color_ui = rgb { 16 25 114 }
 }
 PKG = {
 	color = rgb { 150 150 150 }

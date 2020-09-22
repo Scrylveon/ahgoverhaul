@@ -5834,6 +5834,9 @@
  TUG_monarchism:0 "Kingdom of Tunganistan"
  TUG_monarchism_DEF:0 "The Kingdom of Tunganistan"
  TUG_monarchism_ADJ:0 "Tungan"
+ TUG_stratocratic:0 "Tunganistan"
+ TUG_stratocratic_DEF:0 "Tunganistan"
+ TUG_stratocratic_ADJ:0 "Tungan"
  
  QNX_fascism:0 "Tsinghai Military Clique"
  QNX_fascism_DEF:0 "The Tsinghai Military Clique"
@@ -5982,6 +5985,9 @@
  HMI_monarchism:0 "Kumul Khanate"
  HMI_monarchism_DEF:0 "The Kumul Khanate"
  HMI_monarchism_ADJ:0 "Kumul"
+ HMI_stratocratic:0 "Kumul Clique"
+ HMI_stratocratic_DEF:0 "The Kumul Clique"
+ HMI_stratocratic_ADJ:0 "Kumul"
  
  NEA_fascism:1 "Nationalist Fengtian Clique"
  NEA_democratic:1 "Fengtian Republic"
